@@ -1,0 +1,18 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,SVO,"Order of Subject, Object and Verb",Sukuma,,,Batibo 1985
+1,82A,SV,Order of Subject and Verb,Sukuma,,,Batibo 1985
+2,83A,VO,Order of Object and Verb,Sukuma,,,Batibo 1985
+3,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sukuma,,,Batibo 1985
+4,112A,Double negation,Negative Morphemes,Sukuma,,,Batibo 1985
+5,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Sukuma,,,Batibo 1985
+6,143B,[Neg-V-Neg],Obligatory Double Negation,Sukuma,,,Batibo 1985
+7,143E,[Neg-V],Preverbal Negative Morphemes,Sukuma,,,Batibo 1985
+8,143F,[V-Neg],Postverbal Negative Morphemes,Sukuma,,,Batibo 1985
+9,143G,None,Minor morphological means of signaling negation,Sukuma,,,Batibo 1985
+10,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sukuma,,,Batibo 1985
+11,144D,ObligNeg,The Position of Negative Morphemes in SVO Languages,Sukuma,,,Batibo 1985
+12,144F,S[Neg-V-Neg]O,Obligatory Double Negation in SVO languages,Sukuma,,,Batibo 1985
+13,144H,No NegSVO,NegSVO Order,Sukuma,,,Batibo 1985
+14,144I,Prefix&OnlyWithAnotherNeg,SNegVO Order,Sukuma,,,Batibo 1985
+15,144J,Suffix&OnlyWithAnotherNeg,SVNegO Order,Sukuma,,,Batibo 1985
+16,144K,No SVONeg,SVONeg Order,Sukuma,,,Batibo 1985

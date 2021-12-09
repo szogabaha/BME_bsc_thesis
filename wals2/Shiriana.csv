@@ -1,0 +1,48 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Shiriana,,,Migliazza and Grimes 1961
+1,2A,Average (5-6),Vowel Quality Inventories,Shiriana,,,Migliazza and Grimes 1961
+2,3A,Moderately low,Consonant-Vowel Ratio,Shiriana,,,Migliazza and Grimes 1961
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Shiriana,,,Migliazza and Grimes 1961
+4,5A,Other,Voicing and Gaps in Plosive Systems,Shiriana,,,Migliazza and Grimes 1961
+5,6A,None,Uvular Consonants,Shiriana,,,Migliazza and Grimes 1961
+6,7A,No glottalized consonants,Glottalized Consonants,Shiriana,,,Migliazza and Grimes 1961
+7,8A,No laterals,Lateral Consonants,Shiriana,,,Migliazza and Grimes 1961
+8,11A,None,Front Rounded Vowels,Shiriana,,,Migliazza and Grimes 1961
+9,12A,Moderately complex,Syllable Structure,Shiriana,,,Migliazza and Grimes 1961
+10,13A,No tones,Tone,Shiriana,,,Migliazza and Grimes 1961
+11,14A,Ultimate,Fixed Stress Locations,Shiriana,,,Migliazza and Grimes 1961
+12,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Shiriana,,,Migliazza and Grimes 1961
+13,16A,Prominence,Weight Factors in Weight-Sensitive Stress Systems,Shiriana,,,Migliazza and Grimes 1961
+14,17A,Iambic,Rhythm Types,Shiriana,,,Migliazza and Grimes 1961
+15,18A,All present,Absence of Common Consonants,Shiriana,,,Migliazza and Grimes 1961
+16,19A,None,Presence of Uncommon Consonants,Shiriana,,,Migliazza and Grimes 1961
+17,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Shiriana,,,Borgman and Cue 1963
+18,33A,Plural word,Coding of Nominal Plurality,Shiriana,,,Gómez 1990
+19,51A,Case suffixes,Position of Case Affixes,Shiriana,,,Gómez 1990
+20,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Shiriana,,,Gómez 1990
+21,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Shiriana,,,Gómez 1990
+22,81A,SOV,"Order of Subject, Object and Verb",Shiriana,,,Gómez 1990
+23,82A,SV,Order of Subject and Verb,Shiriana,,,Gómez 1990
+24,83A,OV,Order of Object and Verb,Shiriana,,,Borgman and Cue 1963
+25,85A,Postpositions,Order of Adposition and Noun Phrase,Shiriana,,,Borgman and Cue 1963
+26,86A,Genitive-Noun,Order of Genitive and Noun,Shiriana,,,Gómez 1990
+27,87A,Noun-Adjective,Order of Adjective and Noun,Shiriana,,,Borgman and Cue 1963
+28,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Shiriana,,,Gómez 1990
+29,89A,Numeral-Noun,Order of Numeral and Noun,Shiriana,,,Gómez 1990
+30,92A,Final,Position of Polar Question Particles,Shiriana,,,Gómez 1990
+31,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Shiriana,,,Gómez 1990
+32,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Shiriana,,,Gómez 1990
+33,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Shiriana,,,
+34,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Shiriana,,,
+35,116A,Question particle,Polar Questions,Shiriana,,,Gómez 1990
+36,143A,VNeg,Order of Negative Morpheme and Verb,Shiriana,,,Gómez 1990
+37,143E,None,Preverbal Negative Morphemes,Shiriana,,,Gómez 1990
+38,143F,VNeg,Postverbal Negative Morphemes,Shiriana,,,Gómez 1990
+39,143G,None,Minor morphological means of signaling negation,Shiriana,,,Gómez 1990
+40,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Shiriana,,,Gómez 1990
+41,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Shiriana,,,Gómez 1990
+42,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Shiriana,,,Gómez 1990
+43,144P,No NegSOV,NegSOV Order,Shiriana,,,Gómez 1990
+44,144Q,No SNegOV,SNegOV Order,Shiriana,,,Gómez 1990
+45,144R,No SONegV,SONegV Order,Shiriana,,,Gómez 1990
+46,144S,Word&NoDoubleNeg,SOVNeg Order,Shiriana,,,Gómez 1990

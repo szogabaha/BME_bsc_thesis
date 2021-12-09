@@ -1,0 +1,13 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,82A,VS,Order of Subject and Verb,Tatana',,,Pekkanen 1988
+1,83A,VO,Order of Object and Verb,Tatana',,,Pekkanen 1988
+2,86A,Noun-Genitive,Order of Genitive and Noun,Tatana',,,Dunn and Peck 1988
+3,87A,Noun-Adjective,Order of Adjective and Noun,Tatana',,,Dunn and Peck 1988
+4,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tatana',,,Pekkanen 1988
+5,89A,Numeral-Noun,Order of Numeral and Noun,Tatana',,,Dunn and Peck 1988
+6,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tatana',,,Dunn and Peck 1988
+7,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tatana',,,Dunn and Peck 1988
+8,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tatana',,,Dunn and Peck 1988
+9,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tatana',,,
+10,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tatana',,,
+11,116A,Question particle,Polar Questions,Tatana',,,Pekkanen 1988

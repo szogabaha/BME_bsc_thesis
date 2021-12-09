@@ -1,0 +1,22 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Initial,Fixed Stress Locations,Timucua,,,Granberry 1956
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Timucua,,,Granberry 1956
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Timucua,,,Granberry 1956
+3,17A,Trochaic,Rhythm Types,Timucua,,,Granberry 1956
+4,23A,Head marking,Locus of Marking in the Clause,Timucua,,,Gatschet 1877
+5,24A,No marking,Locus of Marking in Possessive Noun Phrases,Timucua,,,Gatschet 1877
+6,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Timucua,,,Gatschet 1877
+7,25B,Non-zero marking,Zero Marking of A and P Arguments,Timucua,,,Gatschet 1877
+8,33A,Plural suffix,Coding of Nominal Plurality,Timucua,,,Granberry 1993
+9,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Timucua,,,Granberry 1993
+10,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Timucua,,,Granberry 1993
+11,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Timucua,,,Granberry 1993
+12,78A,No grammatical evidentials,Coding of Evidentiality,Timucua,,,Granberry 1993
+13,81A,SOV,"Order of Subject, Object and Verb",Timucua,,,Granberry 1993
+14,82A,SV,Order of Subject and Verb,Timucua,,,Granberry 1993
+15,83A,OV,Order of Object and Verb,Timucua,,,Granberry 1993
+16,101A,Subject affixes on verb,Expression of Pronominal Subjects,Timucua,,,Granberry 1993
+17,136A,No M-T pronouns,M-T Pronouns,Timucua,,,Gatschet 1877
+18,136B,No m in first person singular,M in First Person Singular,Timucua,,,Gatschet 1877
+19,137A,No N-M pronouns,N-M Pronouns,Timucua,,,Gatschet 1877
+20,137B,No m in second person singular,M in Second Person Singular,Timucua,,,Gatschet 1877

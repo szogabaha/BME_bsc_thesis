@@ -1,0 +1,13 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Wu,,,Chao 1970
+1,2A,Large (7-14),Vowel Quality Inventories,Wu,,,Chao 1970
+2,3A,Average,Consonant-Vowel Ratio,Wu,,,Chao 1970
+3,4A,In fricatives alone,Voicing in Plosives and Fricatives,Wu,,,Chao 1970
+4,5A,Other,Voicing and Gaps in Plosive Systems,Wu,,,Chao 1970
+5,6A,None,Uvular Consonants,Wu,,,Chao 1970
+6,7A,No glottalized consonants,Glottalized Consonants,Wu,,,Chao 1970
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Wu,,,Chao 1970
+8,11A,High only,Front Rounded Vowels,Wu,,,Chao 1970
+9,13A,Complex tone system,Tone,Wu,,,Chao 1970
+10,18A,All present,Absence of Common Consonants,Wu,,,Chao 1970
+11,19A,None,Presence of Uncommon Consonants,Wu,,,Chao 1970

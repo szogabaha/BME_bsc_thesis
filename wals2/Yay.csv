@@ -1,0 +1,26 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Yay,,,Gedney 1965
+1,2A,Average (5-6),Vowel Quality Inventories,Yay,,,Gedney 1965
+2,3A,Average,Consonant-Vowel Ratio,Yay,,,Gedney 1965
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Yay,,,Gedney 1965
+4,5A,Missing /g/,Voicing and Gaps in Plosive Systems,Yay,,,Gedney 1965
+5,6A,None,Uvular Consonants,Yay,,,Gedney 1965
+6,7A,No glottalized consonants,Glottalized Consonants,Yay,,,Gedney 1965
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yay,,,Gedney 1965
+8,11A,None,Front Rounded Vowels,Yay,,,Gedney 1965
+9,12A,Moderately complex,Syllable Structure,Yay,,,Gedney 1965
+10,13A,Complex tone system,Tone,Yay,,,Gedney 1965
+11,18A,All present,Absence of Common Consonants,Yay,,,Gedney 1965
+12,19A,'Th' sounds,Presence of Uncommon Consonants,Yay,,,Gedney 1965
+13,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Yay,,,Hudak 1991
+14,81A,SVO,"Order of Subject, Object and Verb",Yay,,,Hudak 1991
+15,82A,SV,Order of Subject and Verb,Yay,,,Hudak 1991
+16,83A,VO,Order of Object and Verb,Yay,,,Hudak 1991
+17,86A,Noun-Genitive,Order of Genitive and Noun,Yay,,,Hudak 1991
+18,87A,Noun-Adjective,Order of Adjective and Noun,Yay,,,Hudak 1991
+19,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Yay,,,Hudak 1991
+20,89A,Numeral-Noun,Order of Numeral and Noun,Yay,,,Hudak 1991
+21,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Yay,,,Hudak 1991
+22,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yay,,,
+23,110A,Sequential but no purposive,Periphrastic Causative Constructions,Yay,,,Hudak 1991
+24,111A,Neither,Nonperiphrastic Causative Constructions,Yay,,,Hudak 1991

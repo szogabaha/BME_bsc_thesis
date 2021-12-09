@@ -1,0 +1,33 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Yupik (Siberian),,,Krauss 1975
+1,2A,Small (2-4),Vowel Quality Inventories,Yupik (Siberian),,,Krauss 1975
+2,3A,High,Consonant-Vowel Ratio,Yupik (Siberian),,,Krauss 1975
+3,4A,In fricatives alone,Voicing in Plosives and Fricatives,Yupik (Siberian),,,Krauss 1975
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yupik (Siberian),,,Krauss 1975
+5,6A,Uvular stops and continuants,Uvular Consonants,Yupik (Siberian),,,Krauss 1975
+6,7A,No glottalized consonants,Glottalized Consonants,Yupik (Siberian),,,Krauss 1975
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yupik (Siberian),,,Krauss 1975
+8,11A,None,Front Rounded Vowels,Yupik (Siberian),,,Krauss 1975
+9,12A,Moderately complex,Syllable Structure,Yupik (Siberian),,,Krauss 1975
+10,13A,No tones,Tone,Yupik (Siberian),,,Krauss 1975
+11,18A,All present,Absence of Common Consonants,Yupik (Siberian),,,Krauss 1975
+12,19A,None,Presence of Uncommon Consonants,Yupik (Siberian),,,Krauss 1975
+13,41A,Two-way contrast,Distance Contrasts in Demonstratives,Yupik (Siberian),,,Jacobson 1990
+14,42A,Identical,Pronominal and Adnominal Demonstratives,Yupik (Siberian),,,Jacobson 1990
+15,70A,Second singular and second plural,The Morphological Imperative,Yupik (Siberian),,,Vaxtin 2001
+16,71A,Special imperative + special negative,The Prohibitive,Yupik (Siberian),,,Vaxtin 2001
+17,81A,No dominant order,"Order of Subject, Object and Verb",Yupik (Siberian),,,de Reuse 1988
+18,82A,SV,Order of Subject and Verb,Yupik (Siberian),,,de Reuse 1988
+19,83A,OV,Order of Object and Verb,Yupik (Siberian),,,de Reuse 1988
+20,84A,OVX,"Order of Object, Oblique, and Verb",Yupik (Siberian),,,de Reuse 1988
+21,86A,Genitive-Noun,Order of Genitive and Noun,Yupik (Siberian),,,de Reuse 1988
+22,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Yupik (Siberian),,,de Reuse 1988
+23,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Yupik (Siberian),,,Reuse 1994
+24,113A,Both,Symmetric and Asymmetric Standard Negation,Yupik (Siberian),,,Jacobson 1990
+25,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Yupik (Siberian),,,Jacobson 1990
+26,129A,Different,Hand and Arm,Yupik (Siberian),,,Badten et al. 1987
+27,130A,Different,Finger and Hand,Yupik (Siberian),,,Badten et al. 1987
+28,132A,5,Number of Non-Derived Basic Colour Categories,Yupik (Siberian),,,
+29,133A,6-6.5,Number of Basic Colour Categories,Yupik (Siberian),,,
+30,134A,Green/blue,Green and Blue,Yupik (Siberian),,,
+31,135A,Red vs. yellow,Red and Yellow,Yupik (Siberian),,,

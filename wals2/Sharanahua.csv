@@ -1,0 +1,23 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,51A,Case suffixes,Position of Case Affixes,Sharanahua,,,Scott and Frantz 1974
+1,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Sharanahua,,,Scott and Frantz 1974
+2,81A,SOV,"Order of Subject, Object and Verb",Sharanahua,,,Scott and Frantz 1974
+3,82A,SV,Order of Subject and Verb,Sharanahua,,,Scott and Frantz 1974
+4,83A,OV,Order of Object and Verb,Sharanahua,,,Scott and Frantz 1974
+5,85A,Postpositions,Order of Adposition and Noun Phrase,Sharanahua,,,Scott and Frantz 1974
+6,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Sharanahua,,,Scott and Frantz 1974
+7,92A,Final,Position of Polar Question Particles,Sharanahua,,,Scott and Frantz 1974
+8,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sharanahua,,,Scott and Frantz 1974
+9,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sharanahua,,,
+10,112A,Negative affix,Negative Morphemes,Sharanahua,,,Scott and Frantz 1974
+11,116A,Question particle,Polar Questions,Sharanahua,,,Scott and Frantz 1974
+12,143A,[V-Neg],Order of Negative Morpheme and Verb,Sharanahua,,,Scott and Frantz 1974
+13,143E,None,Preverbal Negative Morphemes,Sharanahua,,,Scott and Frantz 1974
+14,143F,[V-Neg],Postverbal Negative Morphemes,Sharanahua,,,Scott and Frantz 1974
+15,143G,None,Minor morphological means of signaling negation,Sharanahua,,,Scott and Frantz 1974
+16,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sharanahua,,,Scott and Frantz 1974
+17,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Sharanahua,,,Scott and Frantz 1974
+18,144P,No NegSOV,NegSOV Order,Sharanahua,,,Scott and Frantz 1974
+19,144Q,No SNegOV,SNegOV Order,Sharanahua,,,Scott and Frantz 1974
+20,144R,No SONegV,SONegV Order,Sharanahua,,,Scott and Frantz 1974
+21,144S,Suffix&NoDoubleNeg,SOVNeg Order,Sharanahua,,,Scott and Frantz 1974

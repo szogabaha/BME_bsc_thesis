@@ -1,0 +1,27 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Shasta,,,Silver 1964
+1,2A,Small (2-4),Vowel Quality Inventories,Shasta,,,Silver 1964
+2,3A,Average,Consonant-Vowel Ratio,Shasta,,,Silver 1964
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Shasta,,,Silver 1964
+4,5A,Other,Voicing and Gaps in Plosive Systems,Shasta,,,Silver 1964
+5,6A,None,Uvular Consonants,Shasta,,,Silver 1964
+6,7A,Ejectives only,Glottalized Consonants,Shasta,,,Silver 1964
+7,8A,No laterals,Lateral Consonants,Shasta,,,Silver 1964
+8,11A,None,Front Rounded Vowels,Shasta,,,Silver 1964
+9,12A,Moderately complex,Syllable Structure,Shasta,,,Silver 1964
+10,13A,Simple tone system,Tone,Shasta,,,Silver 1964
+11,18A,All present,Absence of Common Consonants,Shasta,,,Silver 1964
+12,19A,None,Presence of Uncommon Consonants,Shasta,,,Silver 1964
+13,55A,Absent,Numeral Classifiers,Shasta,,,Nichols 1992
+14,69A,Mixed type,Position of Tense-Aspect Affixes,Shasta,,,Silver and Wicks 1977
+15,81A,No dominant order,"Order of Subject, Object and Verb",Shasta,,,Silver and Wicks 1977
+16,82A,No dominant order,Order of Subject and Verb,Shasta,,,Silver and Wicks 1977
+17,83A,VO,Order of Object and Verb,Shasta,,,Silver and Wicks 1977
+18,84A,No dominant order,"Order of Object, Oblique, and Verb",Shasta,,,Silver and Wicks 1977
+19,129A,Different,Hand and Arm,Shasta,,,Powell 1877
+20,130A,Identical,Finger and Hand,Shasta,,,Powell 1877
+21,130B,Hunter-gatherers,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',Shasta,,,
+22,136A,No M-T pronouns,M-T Pronouns,Shasta,,,Silver 1966
+23,136B,No m in first person singular,M in First Person Singular,Shasta,,,Silver 1966
+24,137A,No N-M pronouns,N-M Pronouns,Shasta,,,Silver 1966
+25,137B,m in second person singular,M in Second Person Singular,Shasta,,,Silver 1966

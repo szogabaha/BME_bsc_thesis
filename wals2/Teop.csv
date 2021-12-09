@@ -1,0 +1,39 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Teop,,,Mosel and Spriggs 1992
+1,33A,Plural word,Coding of Nominal Plurality,Teop,,,Mosel and Spriggs 1992
+2,51A,No case affixes or adpositional clitics,Position of Case Affixes,Teop,,,Mosel and Spriggs 1992
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Teop,,,Mosel and Spriggs 1992
+4,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Teop,,,Mosel and Spriggs 1992
+5,71A,Special imperative + special negative,The Prohibitive,Teop,,,Mosel and Spriggs 1999
+6,75A,Other,Epistemic Possibility,Teop,,,Reinig 2000
+7,76A,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Teop,,,Reinig 2000
+8,81A,SVO,"Order of Subject, Object and Verb",Teop,,,Mosel and Spriggs 1992
+9,82A,SV,Order of Subject and Verb,Teop,,,Mosel and Spriggs 1992
+10,83A,VO,Order of Object and Verb,Teop,,,Mosel and Spriggs 1992
+11,85A,Prepositions,Order of Adposition and Noun Phrase,Teop,,,Mosel and Spriggs 1992
+12,86A,Noun-Genitive,Order of Genitive and Noun,Teop,,,Mosel and Spriggs 1992
+13,87A,Noun-Adjective,Order of Adjective and Noun,Teop,,,Mosel and Spriggs 1992
+14,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Teop,,,Mosel and Spriggs 1992
+15,89A,Numeral-Noun,Order of Numeral and Noun,Teop,,,Mosel and Spriggs 1992
+16,90A,Noun-Relative clause,Order of Relative Clause and Noun,Teop,,,Mosel and Spriggs 1992
+17,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Teop,,,Mosel and Spriggs 1992
+18,92A,No question particle,Position of Polar Question Particles,Teop,,,Mosel and Spriggs 1992
+19,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Teop,,,Mosel and Spriggs 1992
+20,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Teop,,,
+21,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Teop,,,
+22,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Teop,,,
+23,112A,Double negation,Negative Morphemes,Teop,,,Mosel and Spriggs 1992
+24,115A,Negative existential construction,Negative Indefinite Pronouns and Predicate Negation,Teop,,,Mosel and Spriggs 1999
+25,116A,Interrogative intonation only,Polar Questions,Teop,,,Mosel and Spriggs 1992
+26,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Teop,,,Mosel and Spriggs 1992
+27,143B,NegVNeg,Obligatory Double Negation,Teop,,,Mosel and Spriggs 1992
+28,143E,NegV,Preverbal Negative Morphemes,Teop,,,Mosel and Spriggs 1992
+29,143F,VNeg,Postverbal Negative Morphemes,Teop,,,Mosel and Spriggs 1992
+30,143G,None,Minor morphological means of signaling negation,Teop,,,Mosel and Spriggs 1992
+31,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Teop,,,Mosel and Spriggs 1992
+32,144D,ObligNeg,The Position of Negative Morphemes in SVO Languages,Teop,,,Mosel and Spriggs 1992
+33,144F,SNegVNegO,Obligatory Double Negation in SVO languages,Teop,,,Mosel and Spriggs 1992
+34,144H,No NegSVO,NegSVO Order,Teop,,,Mosel and Spriggs 1992
+35,144I,Word&OnlyWithAnotherNeg,SNegVO Order,Teop,,,Mosel and Spriggs 1992
+36,144J,Word&OnlyWithAnotherNeg,SVNegO Order,Teop,,,Mosel and Spriggs 1992
+37,144K,No SVONeg,SVONeg Order,Teop,,,Mosel and Spriggs 1992

@@ -1,0 +1,38 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tepehua (Tlachichilco),,,Watters 1988
+1,33A,Plural suffix,Coding of Nominal Plurality,Tepehua (Tlachichilco),,,Watters 1988
+2,37A,Definite word distinct from demonstrative,Definite Articles,Tepehua (Tlachichilco),,,Watters 1988
+3,38A,Indefinite word same as 'one',Indefinite Articles,Tepehua (Tlachichilco),,,Watters 1988
+4,51A,Case prefixes,Position of Case Affixes,Tepehua (Tlachichilco),,,Watters 1988
+5,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tepehua (Tlachichilco),,,Watters 1988
+6,62A,Restricted,Action Nominal Constructions,Tepehua (Tlachichilco),,,Watters 1996
+7,69A,Mixed type,Position of Tense-Aspect Affixes,Tepehua (Tlachichilco),,,Watters 1988
+8,81A,SVO,"Order of Subject, Object and Verb",Tepehua (Tlachichilco),,,Watters 1988
+9,82A,VS,Order of Subject and Verb,Tepehua (Tlachichilco),,,Watters 1988
+10,83A,VO,Order of Object and Verb,Tepehua (Tlachichilco),,,Watters 1988
+11,85A,Prepositions,Order of Adposition and Noun Phrase,Tepehua (Tlachichilco),,,Watters 1988
+12,86A,Noun-Genitive,Order of Genitive and Noun,Tepehua (Tlachichilco),,,Watters 1988
+13,87A,Adjective-Noun,Order of Adjective and Noun,Tepehua (Tlachichilco),,,Watters 1988
+14,89A,Numeral-Noun,Order of Numeral and Noun,Tepehua (Tlachichilco),,,Watters 1988
+15,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tepehua (Tlachichilco),,,Watters 1988
+16,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tepehua (Tlachichilco),,,Watters 1988
+17,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tepehua (Tlachichilco),,,Watters 1988
+18,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tepehua (Tlachichilco),,,Watters 1988
+19,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tepehua (Tlachichilco),,,
+20,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tepehua (Tlachichilco),,,
+21,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tepehua (Tlachichilco),,,
+22,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tepehua (Tlachichilco),,,Watters 1988
+23,109A,Benefactive and other; both bases,Applicative Constructions,Tepehua (Tlachichilco),,,Watters 1988
+24,109B,Instrument,Other Roles of Applied Objects,Tepehua (Tlachichilco),,,
+25,112A,Negative particle,Negative Morphemes,Tepehua (Tlachichilco),,,Watters 1988
+26,118A,Mixed,Predicative Adjectives,Tepehua (Tlachichilco),,,Watters 1988
+27,119A,Different,Nominal and Locational Predication,Tepehua (Tlachichilco),,,Watters 1988
+28,120A,Impossible,Zero Copula for Predicate Nominals,Tepehua (Tlachichilco),,,Watters 1988
+29,143A,NegV,Order of Negative Morpheme and Verb,Tepehua (Tlachichilco),,,Watters 1988
+30,143E,NegV,Preverbal Negative Morphemes,Tepehua (Tlachichilco),,,Watters 1988
+31,143F,None,Postverbal Negative Morphemes,Tepehua (Tlachichilco),,,Watters 1988
+32,143G,None,Minor morphological means of signaling negation,Tepehua (Tlachichilco),,,Watters 1988
+33,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Tepehua (Tlachichilco),,,Watters 1988
+34,144D,Other NegV,The Position of Negative Morphemes in SVO Languages,Tepehua (Tlachichilco),,,Watters 1988
+35,144J,No SVNegO,SVNegO Order,Tepehua (Tlachichilco),,,Watters 1988
+36,144K,No SVONeg,SVONeg Order,Tepehua (Tlachichilco),,,Watters 1988

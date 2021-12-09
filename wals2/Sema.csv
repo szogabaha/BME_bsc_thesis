@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Sema,,,Subbarao and Murthy 2000
+1,33A,Plural clitic,Coding of Nominal Plurality,Sema,,,Sreedhar 1980
+2,44A,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Sema,,,Sreedhar 1980
+3,48A,No person marking,Person Marking on Adpositions,Sema,,,Sreedhar 1980
+4,51A,Postpositional clitics,Position of Case Affixes,Sema,,,Sreedhar 1980
+5,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Sema,,,Sreedhar 1980
+6,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Sema,,,Sreedhar 1980
+7,70A,Second person number-neutral,The Morphological Imperative,Sema,,,Sreedhar 1980
+8,71A,Normal imperative + special negative,The Prohibitive,Sema,,,Sreedhar 1980
+9,82A,SV,Order of Subject and Verb,Sema,,,Sreedhar 1980
+10,83A,OV,Order of Object and Verb,Sema,,,Sreedhar 1980
+11,84A,XOV,"Order of Object, Oblique, and Verb",Sema,,,Sreedhar 1980
+12,85A,Postpositions,Order of Adposition and Noun Phrase,Sema,,,Sreedhar 1980
+13,86A,Genitive-Noun,Order of Genitive and Noun,Sema,,,Sreedhar 1980
+14,87A,Noun-Adjective,Order of Adjective and Noun,Sema,,,Sreedhar 1980
+15,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sema,,,Sreedhar 1980
+16,89A,Noun-Numeral,Order of Numeral and Noun,Sema,,,Sreedhar 1980
+17,91A,No dominant order,Order of Degree Word and Adjective,Sema,,,Sreedhar 1980
+18,92A,Final,Position of Polar Question Particles,Sema,,,Sreedhar 1980
+19,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sema,,,Sreedhar 1980
+20,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Sema,,,Sreedhar 1980
+21,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sema,,,
+22,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sema,,,
+23,100A,Accusative,Alignment of Verbal Person Marking,Sema,,,Sreedhar 1980
+24,102A,Only the P argument,Verbal Person Marking,Sema,,,Sreedhar 1980
+25,103A,No person marking,Third Person Zero of Verbal Person Marking,Sema,,,Sreedhar 1980
+26,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Sema,,,Sreedhar 1980
+27,107A,Absent,Passive Constructions,Sema,,,Sreedhar 1980
+28,112A,Negative affix,Negative Morphemes,Sema,,,Sreedhar 1980
+29,116A,Question particle,Polar Questions,Sema,,,Sreedhar 1980
+30,143A,[V-Neg],Order of Negative Morpheme and Verb,Sema,,,Sreedhar 1980
+31,143E,None,Preverbal Negative Morphemes,Sema,,,Sreedhar 1980
+32,143F,[V-Neg],Postverbal Negative Morphemes,Sema,,,Sreedhar 1980
+33,143G,None,Minor morphological means of signaling negation,Sema,,,Sreedhar 1980
+34,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sema,,,Sreedhar 1980
+35,144L,SV&OV&[V-Neg],The Position of Negative Morphemes in SOV Languages,Sema,,,Sreedhar 1980

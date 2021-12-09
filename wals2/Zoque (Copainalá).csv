@@ -1,0 +1,111 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Zoque (Copainalá),,,Wonderly 1951a
+1,2A,Average (5-6),Vowel Quality Inventories,Zoque (Copainalá),,,Wonderly 1951a
+2,3A,Moderately low,Consonant-Vowel Ratio,Zoque (Copainalá),,,Wonderly 1951a
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Zoque (Copainalá),,,Wonderly 1951a
+4,5A,Other,Voicing and Gaps in Plosive Systems,Zoque (Copainalá),,,Wonderly 1951a
+5,6A,None,Uvular Consonants,Zoque (Copainalá),,,Wonderly 1951a
+6,7A,No glottalized consonants,Glottalized Consonants,Zoque (Copainalá),,,Wonderly 1951a
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Zoque (Copainalá),,,Wonderly 1951a
+8,9A,No initial velar nasal,The Velar Nasal,Zoque (Copainalá),,,Wonderly 1951a
+9,11A,None,Front Rounded Vowels,Zoque (Copainalá),,,Wonderly 1951a
+10,12A,Complex,Syllable Structure,Zoque (Copainalá),,,Wonderly 1951a
+11,13A,No tones,Tone,Zoque (Copainalá),,,Wonderly 1951a
+12,14A,Penultimate,Fixed Stress Locations,Zoque (Copainalá),,,Wonderly 1951a
+13,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Zoque (Copainalá),,,Wonderly 1951a
+14,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Zoque (Copainalá),,,Wonderly 1951a
+15,17A,Trochaic,Rhythm Types,Zoque (Copainalá),,,Wonderly 1951a
+16,18A,All present,Absence of Common Consonants,Zoque (Copainalá),,,Wonderly 1951a
+17,19A,None,Presence of Uncommon Consonants,Zoque (Copainalá),,,Wonderly 1951a
+18,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Zoque (Copainalá),,,Harrison et al. 1981
+19,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Zoque (Copainalá),,,Harrison et al. 1981
+20,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Zoque (Copainalá),,,Harrison et al. 1981
+21,22A,6-7 categories per word,Inflectional Synthesis of the Verb,Zoque (Copainalá),,,Harrison et al. 1981
+22,23A,Double marking,Locus of Marking in the Clause,Zoque (Copainalá),,,Harrison et al. 1981
+23,24A,Double marking,Locus of Marking in Possessive Noun Phrases,Zoque (Copainalá),,,Harrison et al. 1981
+24,25A,Double-marking,Locus of Marking: Whole-language Typology,Zoque (Copainalá),,,Harrison et al. 1981
+25,25B,Non-zero marking,Zero Marking of A and P Arguments,Zoque (Copainalá),,,Harrison et al. 1981
+26,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Zoque (Copainalá),,,Harrison et al. 1981
+27,28A,No syncretism,Case Syncretism,Zoque (Copainalá),,,Harrison et al. 1981
+28,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Zoque (Copainalá),,,Harrison et al. 1981
+29,30A,None,Number of Genders,Zoque (Copainalá),,,Harrison et al. 1981
+30,31A,No gender,Sex-based and Non-sex-based Gender Systems,Zoque (Copainalá),,,Harrison et al. 1981
+31,32A,No gender,Systems of Gender Assignment,Zoque (Copainalá),,,Harrison et al. 1981
+32,33A,Plural suffix,Coding of Nominal Plurality,Zoque (Copainalá),,,Harrison et al. 1981
+33,35A,Person-number stem,Plurality in Independent Personal Pronouns,Zoque (Copainalá),,,Harrison et al. 1981
+34,37A,Definite word distinct from demonstrative,Definite Articles,Zoque (Copainalá),,,Harrison et al. 1981
+35,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Zoque (Copainalá),,,Harrison et al. 1981
+36,40A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Zoque (Copainalá),,,Harrison et al. 1981
+37,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Zoque (Copainalá),,,Harrison et al. 1981
+38,45A,No politeness distinction,Politeness Distinctions in Pronouns,Zoque (Copainalá),,,Harrison et al. 1981
+39,47A,Differentiated,Intensifiers and Reflexive Pronouns,Zoque (Copainalá),,,Wonderly 1947
+40,48A,No adpositions,Person Marking on Adpositions,Zoque (Copainalá),,,Harrison et al. 1981
+41,49A,2 cases,Number of Cases,Zoque (Copainalá),,,Harrison et al. 1981
+42,50A,Symmetrical,Asymmetrical Case-Marking,Zoque (Copainalá),,,Harrison et al. 1981
+43,51A,Case suffixes,Position of Case Affixes,Zoque (Copainalá),,,Harrison et al. 1981
+44,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Zoque (Copainalá),,,Harrison et al. 1981
+45,58A,Absent,Obligatory Possessive Inflection,Zoque (Copainalá),,,Harrison et al. 1981
+46,58B,None reported,Number of Possessive Nouns,Zoque (Copainalá),,,Harrison et al. 1981
+47,59A,No possessive classification,Possessive Classification,Zoque (Copainalá),,,Harrison et al. 1981
+48,63A,'And' different from 'with',Noun Phrase Conjunction,Zoque (Copainalá),,,Wonderly 1951b
+49,65A,Grammatical marking,Perfective/Imperfective Aspect,Zoque (Copainalá),,,Harrison et al. 1981
+50,66A,"Present, no remoteness distinctions",The Past Tense,Zoque (Copainalá),,,Harrison et al. 1981
+51,67A,No inflectional future,The Future Tense,Zoque (Copainalá),,,Harrison et al. 1981
+52,68A,Other perfect,The Perfect,Zoque (Copainalá),,,Harrison et al. 1981
+53,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Zoque (Copainalá),,,Harrison et al. 1981
+54,70A,Second singular and second plural,The Morphological Imperative,Zoque (Copainalá),,,Harrison et al. 1981
+55,71A,Special imperative + special negative,The Prohibitive,Zoque (Copainalá),,,Harrison et al. 1981
+56,72A,Neither type of system,Imperative-Hortative Systems,Zoque (Copainalá),,,Harrison et al. 1981
+57,74A,Verbal constructions,Situational Possibility,Zoque (Copainalá),,,Harrison et al. 1981
+58,75A,Affixes on verbs,Epistemic Possibility,Zoque (Copainalá),,,Harrison et al. 1981
+59,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Zoque (Copainalá),,,
+60,77A,Indirect only,Semantic Distinctions of Evidentiality,Zoque (Copainalá),,,Wonderly 1951b
+61,78A,Verbal affix or clitic,Coding of Evidentiality,Zoque (Copainalá),,,Wonderly 1951b
+62,81A,VOS,"Order of Subject, Object and Verb",Zoque (Copainalá),,,Harrison et al. 1981
+63,82A,VS,Order of Subject and Verb,Zoque (Copainalá),,,Harrison et al. 1981
+64,83A,VO,Order of Object and Verb,Zoque (Copainalá),,,Harrison et al. 1981
+65,85A,No adpositions,Order of Adposition and Noun Phrase,Zoque (Copainalá),,,Harrison et al. 1981
+66,86A,Genitive-Noun,Order of Genitive and Noun,Zoque (Copainalá),,,Harrison et al. 1981
+67,87A,Adjective-Noun,Order of Adjective and Noun,Zoque (Copainalá),,,Harrison et al. 1981
+68,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Zoque (Copainalá),,,Harrison et al. 1981
+69,91A,Degree word-Adjective,Order of Degree Word and Adjective,Zoque (Copainalá),,,Harrison et al. 1981
+70,92A,No question particle,Position of Polar Question Particles,Zoque (Copainalá),,,Harrison et al. 1981
+71,94A,Mixed,Order of Adverbial Subordinator and Clause,Zoque (Copainalá),,,Harrison et al. 1981
+72,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Zoque (Copainalá),,,
+73,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Zoque (Copainalá),,,Harrison et al. 1981
+74,99A,Ergative - absolutive,Alignment of Case Marking of Pronouns,Zoque (Copainalá),,,Harrison et al. 1981
+75,100A,Accusative,Alignment of Verbal Person Marking,Zoque (Copainalá),,,Harrison et al. 1981
+76,101A,Subject affixes on verb,Expression of Pronominal Subjects,Zoque (Copainalá),,,Harrison et al. 1981
+77,102A,Both the A and P arguments,Verbal Person Marking,Zoque (Copainalá),,,Harrison et al. 1981
+78,103A,No zero realization,Third Person Zero of Verbal Person Marking,Zoque (Copainalá),,,Harrison et al. 1981
+79,104A,A and P are fused,Order of Person Markers on the Verb,Zoque (Copainalá),,,Harrison et al. 1981
+80,107A,Absent,Passive Constructions,Zoque (Copainalá),,,Harrison et al. 1981
+81,108A,Implicit patient,Antipassive Constructions,Zoque (Copainalá),,,
+82,108B,partially productive,Productivity of the Antipassive Construction,Zoque (Copainalá),,,
+83,109A,Benefactive object; both bases,Applicative Constructions,Zoque (Copainalá),,,Wonderly 1951a
+84,109B,No other roles (= Only benefactive),Other Roles of Applied Objects,Zoque (Copainalá),,,
+85,112A,Negative auxiliary verb,Negative Morphemes,Zoque (Copainalá),,,Harrison et al. 1981
+86,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Zoque (Copainalá),,,Harrison et al. 1981
+87,114A,A/Fin and A/NonReal,Subtypes of Asymmetric Standard Negation,Zoque (Copainalá),,,Harrison et al. 1981
+88,116A,Interrogative verb morphology,Polar Questions,Zoque (Copainalá),,,Harrison et al. 1981
+89,117A,Conjunctional,Predicative Possession,Zoque (Copainalá),,,Wonderly 1951b
+90,118A,Verbal encoding,Predicative Adjectives,Zoque (Copainalá),,,Wonderly 1951b
+91,119A,Different,Nominal and Locational Predication,Zoque (Copainalá),,,Wonderly 1951b
+92,120A,Impossible,Zero Copula for Predicate Nominals,Zoque (Copainalá),,,Wonderly 1951b
+93,130A,Different,Finger and Hand,Zoque (Copainalá),,,Harrison et al. 1981
+94,131A,Pure vigesimal,Numeral Bases,Zoque (Copainalá),,,Harrison et al. 1981
+95,136A,No M-T pronouns,M-T Pronouns,Zoque (Copainalá),,,Harrison et al. 1981
+96,136B,No m in first person singular,M in First Person Singular,Zoque (Copainalá),,,Harrison et al. 1981
+97,137A,No N-M pronouns,N-M Pronouns,Zoque (Copainalá),,,Harrison et al. 1981
+98,137B,m in second person singular,M in Second Person Singular,Zoque (Copainalá),,,Harrison et al. 1981
+99,138A,Others,Tea,Zoque (Copainalá),,,Harrison et al. 1981
+100,143A,Type 1 / Type 3,Order of Negative Morpheme and Verb,Zoque (Copainalá),,,Harrison et al. 1981
+101,143E,NegV&[Neg-V],Preverbal Negative Morphemes,Zoque (Copainalá),,,Harrison et al. 1981
+102,143F,None,Postverbal Negative Morphemes,Zoque (Copainalá),,,Harrison et al. 1981
+103,143G,None,Minor morphological means of signaling negation,Zoque (Copainalá),,,Harrison et al. 1981
+104,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Zoque (Copainalá),,,Harrison et al. 1981
+105,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Zoque (Copainalá),,,Harrison et al. 1981
+106,144T,NegVOS/[Neg-V]OS,The Position of Negative Morphemes in Verb-Initial Languages,Zoque (Copainalá),,,Harrison et al. 1981
+107,144V,Type 1 / Type 2,Verb-Initial with Preverbal Negative,Zoque (Copainalá),,,Harrison et al. 1981
+108,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Zoque (Copainalá),,,Harrison et al. 1981
+109,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Zoque (Copainalá),,,Harrison et al. 1981

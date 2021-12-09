@@ -1,0 +1,38 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Sarcee,,,Cook 1984
+1,33A,Plural suffix,Coding of Nominal Plurality,Sarcee,,,Cook 1984
+2,37A,No definite or indefinite article,Definite Articles,Sarcee,,,Cook 1984
+3,38A,No definite or indefinite article,Indefinite Articles,Sarcee,,,Cook 1984
+4,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sarcee,,,Cook 1984
+5,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Sarcee,,,Cook 1984
+6,69A,Mixed type,Position of Tense-Aspect Affixes,Sarcee,,,Cook 1984
+7,77A,Indirect only,Semantic Distinctions of Evidentiality,Sarcee,,,Cook 1984
+8,78A,Verbal affix or clitic,Coding of Evidentiality,Sarcee,,,Cook 1984
+9,81A,SOV,"Order of Subject, Object and Verb",Sarcee,,,Cook 1984
+10,82A,SV,Order of Subject and Verb,Sarcee,,,Cook 1984
+11,83A,OV,Order of Object and Verb,Sarcee,,,Cook 1984
+12,85A,Postpositions,Order of Adposition and Noun Phrase,Sarcee,,,Cook 1984
+13,86A,Genitive-Noun,Order of Genitive and Noun,Sarcee,,,Cook 1984
+14,87A,Noun-Adjective,Order of Adjective and Noun,Sarcee,,,Cook 1984
+15,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Sarcee,,,Cook 1984
+16,89A,Numeral-Noun,Order of Numeral and Noun,Sarcee,,,Cook 1984
+17,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sarcee,,,Cook 1984
+18,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sarcee,,,Cook 1984
+19,92A,No question particle,Position of Polar Question Particles,Sarcee,,,Cook 1984
+20,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sarcee,,,Cook 1984
+21,94A,Mixed,Order of Adverbial Subordinator and Clause,Sarcee,,,Cook 1984
+22,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sarcee,,,
+23,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sarcee,,,
+24,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sarcee,,,
+25,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sarcee,,,Cook 1984
+26,110A,Purposive but no sequential,Periphrastic Causative Constructions,Sarcee,,,Cook 1984
+27,111A,Neither,Nonperiphrastic Causative Constructions,Sarcee,,,Cook 1984
+28,112A,Negative particle,Negative Morphemes,Sarcee,,,Cook 1984
+29,116A,Interrogative verb morphology,Polar Questions,Sarcee,,,Cook 1984
+30,143A,NegV,Order of Negative Morpheme and Verb,Sarcee,,,Cook 1984
+31,143E,NegV,Preverbal Negative Morphemes,Sarcee,,,Cook 1984
+32,143F,None,Postverbal Negative Morphemes,Sarcee,,,Cook 1984
+33,143G,None,Minor morphological means of signaling negation,Sarcee,,,Cook 1984
+34,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Sarcee,,,Cook 1984
+35,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Sarcee,,,Cook 1984
+36,144S,NoSOVNeg,SOVNeg Order,Sarcee,,,Cook 1984

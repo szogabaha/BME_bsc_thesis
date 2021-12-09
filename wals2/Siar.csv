@@ -1,0 +1,30 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Siar,,,Ross 2002f
+1,37A,Definite word distinct from demonstrative,Definite Articles,Siar,,,Ross 2002f
+2,38A,Indefinite word distinct from 'one',Indefinite Articles,Siar,,,Ross 2002f
+3,64A,Identity,Nominal and Verbal Conjunction,Siar,,,Ross 2002f
+4,81A,SVO,"Order of Subject, Object and Verb",Siar,,,Ross 2002f
+5,82A,SV,Order of Subject and Verb,Siar,,,Ross 2002f
+6,83A,VO,Order of Object and Verb,Siar,,,Ross 2002f
+7,85A,Prepositions,Order of Adposition and Noun Phrase,Siar,,,Ross 2002f
+8,86A,Noun-Genitive,Order of Genitive and Noun,Siar,,,Ross 2002f
+9,87A,Adjective-Noun,Order of Adjective and Noun,Siar,,,Ross 2002f
+10,88A,Mixed,Order of Demonstrative and Noun,Siar,,,Ross 2002f
+11,89A,Numeral-Noun,Order of Numeral and Noun,Siar,,,Ross 2002f
+12,90A,Noun-Relative clause,Order of Relative Clause and Noun,Siar,,,Ross 2002f
+13,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Siar,,,Ross 2002f
+14,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Siar,,,
+15,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Siar,,,
+16,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Siar,,,
+17,124A,Subject is expressed overtly,'Want' Complement Subjects,Siar,,,Ross 2002f
+18,143A,NegV,Order of Negative Morpheme and Verb,Siar,,,Ross 2002f
+19,143E,NegV,Preverbal Negative Morphemes,Siar,,,Ross 2002f
+20,143F,None,Postverbal Negative Morphemes,Siar,,,Ross 2002f
+21,143G,None,Minor morphological means of signaling negation,Siar,,,Ross 2002f
+22,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Siar,,,Ross 2002f
+23,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Siar,,,Ross 2002f
+24,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Siar,,,Ross 2002f
+25,144H,No NegSVO,NegSVO Order,Siar,,,Ross 2002f
+26,144I,Word&NoDoubleNeg,SNegVO Order,Siar,,,Ross 2002f
+27,144J,No SVNegO,SVNegO Order,Siar,,,Ross 2002f
+28,144K,No SVONeg,SVONeg Order,Siar,,,Ross 2002f

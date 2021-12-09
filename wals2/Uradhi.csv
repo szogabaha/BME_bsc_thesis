@@ -1,0 +1,51 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Second,Fixed Stress Locations,Uradhi,,,Crowley 1983
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Uradhi,,,Crowley 1983
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Uradhi,,,Crowley 1983
+3,23A,Dependent marking,Locus of Marking in the Clause,Uradhi,,,Crowley 1983
+4,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Uradhi,,,Crowley 1983
+5,25A,Dependent-marking,Locus of Marking: Whole-language Typology,Uradhi,,,Crowley 1983
+6,25B,Non-zero marking,Zero Marking of A and P Arguments,Uradhi,,,Crowley 1983
+7,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Uradhi,,,Crowley 1983
+8,27A,Productive full and partial reduplication,Reduplication,Uradhi,,,Crowley 1983
+9,30A,None,Number of Genders,Uradhi,,,Crowley 1983
+10,31A,No gender,Sex-based and Non-sex-based Gender Systems,Uradhi,,,Crowley 1983
+11,32A,No gender,Systems of Gender Assignment,Uradhi,,,Crowley 1983
+12,35A,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Uradhi,,,Crowley 1983
+13,39B,Inclusive and exclusive differentiated,Inclusive/Exclusive Forms in Pama-Nyungan,Uradhi,,,
+14,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Uradhi,,,Crowley 1983
+15,48A,No adpositions,Person Marking on Adpositions,Uradhi,,,Crowley 1983
+16,51A,Case suffixes,Position of Case Affixes,Uradhi,,,Crowley 1983
+17,52A,Differentiation,Comitatives and Instrumentals,Uradhi,,,Crowley 1983
+18,55A,Absent,Numeral Classifiers,Uradhi,,,Nichols 1992
+19,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Uradhi,,,Crowley 1983
+20,58A,Absent,Obligatory Possessive Inflection,Uradhi,,,Crowley 1983
+21,58B,None reported,Number of Possessive Nouns,Uradhi,,,Crowley 1983
+22,59A,Two classes,Possessive Classification,Uradhi,,,Crowley 1983
+23,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Uradhi,,,Crowley 1983
+24,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Uradhi,,,Crowley 1983
+25,78A,No grammatical evidentials,Coding of Evidentiality,Uradhi,,,Crowley 1983
+26,81A,SOV,"Order of Subject, Object and Verb",Uradhi,,,Crowley 1983
+27,82A,SV,Order of Subject and Verb,Uradhi,,,Crowley 1983
+28,83A,OV,Order of Object and Verb,Uradhi,,,Crowley 1983
+29,86A,Genitive-Noun,Order of Genitive and Noun,Uradhi,,,Crowley 1983
+30,87A,Noun-Adjective,Order of Adjective and Noun,Uradhi,,,Crowley 1983
+31,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Uradhi,,,Crowley 1983
+32,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Uradhi,,,Crowley 1983
+33,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Uradhi,,,
+34,100A,Neutral,Alignment of Verbal Person Marking,Uradhi,,,Crowley 1983
+35,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Uradhi,,,Crowley 1983
+36,102A,No person marking,Verbal Person Marking,Uradhi,,,Crowley 1983
+37,103A,No person marking,Third Person Zero of Verbal Person Marking,Uradhi,,,Crowley 1983
+38,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Uradhi,,,Crowley 1983
+39,107A,Absent,Passive Constructions,Uradhi,,,Crowley 1983
+40,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Uradhi,,,Crowley 1983
+41,118A,Nonverbal encoding,Predicative Adjectives,Uradhi,,,Crowley 1983
+42,119A,Different,Nominal and Locational Predication,Uradhi,,,Crowley 1983
+43,120A,Possible,Zero Copula for Predicate Nominals,Uradhi,,,Crowley 1983
+44,129A,Different,Hand and Arm,Uradhi,,,Crowley 1983
+45,130A,Different,Finger and Hand,Uradhi,,,Crowley 1983
+46,136A,No M-T pronouns,M-T Pronouns,Uradhi,,,Crowley 1983
+47,136B,No m in first person singular,M in First Person Singular,Uradhi,,,Crowley 1983
+48,137A,No N-M pronouns,N-M Pronouns,Uradhi,,,Crowley 1983
+49,137B,No m in second person singular,M in Second Person Singular,Uradhi,,,Crowley 1983

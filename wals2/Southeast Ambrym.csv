@@ -1,0 +1,21 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Southeast Ambrym,,,Parker 1968
+1,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Southeast Ambrym,,,Parker 1968
+2,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Southeast Ambrym,,,Parker 1968
+3,17A,No rhythmic stress,Rhythm Types,Southeast Ambrym,,,Parker 1968
+4,33A,Plural word,Coding of Nominal Plurality,Southeast Ambrym,,,Crowley 2002b
+5,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Southeast Ambrym,,,Crowley 2002b
+6,64A,Differentiation,Nominal and Verbal Conjunction,Southeast Ambrym,,,Crowley 2002b
+7,81A,SVO,"Order of Subject, Object and Verb",Southeast Ambrym,,,Crowley 2002b
+8,82A,SV,Order of Subject and Verb,Southeast Ambrym,,,Crowley 2002b
+9,83A,VO,Order of Object and Verb,Southeast Ambrym,,,Crowley 2002b
+10,87A,Noun-Adjective,Order of Adjective and Noun,Southeast Ambrym,,,Crowley 2002b
+11,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Southeast Ambrym,,,Crowley 2002b
+12,90A,Noun-Relative clause,Order of Relative Clause and Noun,Southeast Ambrym,,,Crowley 2002b
+13,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Southeast Ambrym,,,Crowley 2002b
+14,92A,No question particle,Position of Polar Question Particles,Southeast Ambrym,,,Crowley 2002b
+15,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Southeast Ambrym,,,
+16,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Southeast Ambrym,,,
+17,116A,Interrogative intonation only,Polar Questions,Southeast Ambrym,,,Crowley 2002b
+18,129A,Different,Hand and Arm,Southeast Ambrym,,,Parker 1970
+19,130A,Different,Finger and Hand,Southeast Ambrym,,,Parker 1970

@@ -1,0 +1,87 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Wambaya,,,Nordlinger 1998
+1,2A,Small (2-4),Vowel Quality Inventories,Wambaya,,,Nordlinger 1998
+2,3A,Moderately high,Consonant-Vowel Ratio,Wambaya,,,Nordlinger 1998
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Wambaya,,,Nordlinger 1998
+4,5A,Other,Voicing and Gaps in Plosive Systems,Wambaya,,,Nordlinger 1998
+5,6A,None,Uvular Consonants,Wambaya,,,Nordlinger 1998
+6,7A,No glottalized consonants,Glottalized Consonants,Wambaya,,,Nordlinger 1998
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Wambaya,,,Nordlinger 1998
+8,9A,Initial velar nasal,The Velar Nasal,Wambaya,,,Nordlinger 1998
+9,10A,Contrast absent,Vowel Nasalization,Wambaya,,,Nordlinger 1998
+10,11A,None,Front Rounded Vowels,Wambaya,,,Nordlinger 1998
+11,12A,Moderately complex,Syllable Structure,Wambaya,,,Nordlinger 1998
+12,13A,No tones,Tone,Wambaya,,,Nordlinger 1998
+13,14A,No fixed stress,Fixed Stress Locations,Wambaya,,,Nordlinger 1998
+14,15A,Left-edge: First or second,Weight-Sensitive Stress,Wambaya,,,Nordlinger 1998
+15,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Wambaya,,,Nordlinger 1998
+16,17A,Trochaic,Rhythm Types,Wambaya,,,Nordlinger 1998
+17,18A,No fricatives,Absence of Common Consonants,Wambaya,,,Nordlinger 1998
+18,19A,None,Presence of Uncommon Consonants,Wambaya,,,Nordlinger 1998
+19,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wambaya,,,Nordlinger 1993
+20,28A,Core cases only,Case Syncretism,Wambaya,,,Nordlinger 1998
+21,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Wambaya,,,Nordlinger 1998
+22,30A,Four,Number of Genders,Wambaya,,,Nordlinger 1998
+23,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Wambaya,,,Nordlinger 1998
+24,32A,Semantic,Systems of Gender Assignment,Wambaya,,,Nordlinger 1998
+25,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Wambaya,,,Nordlinger 1998
+26,35A,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Wambaya,,,Nordlinger 1998
+27,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Wambaya,,,Nordlinger 1998
+28,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Wambaya,,,Nordlinger 1998
+29,41A,Two-way contrast,Distance Contrasts in Demonstratives,Wambaya,,,Nordlinger 1998
+30,42A,Identical,Pronominal and Adnominal Demonstratives,Wambaya,,,Nordlinger 1998
+31,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Wambaya,,,Nordlinger 1998
+32,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Wambaya,,,Nordlinger 1998
+33,45A,No politeness distinction,Politeness Distinctions in Pronouns,Wambaya,,,Nordlinger 1998
+34,46A,Interrogative-based,Indefinite Pronouns,Wambaya,,,Nordlinger 1998
+35,47A,Differentiated,Intensifiers and Reflexive Pronouns,Wambaya,,,
+36,48A,No adpositions,Person Marking on Adpositions,Wambaya,,,Nordlinger 1998
+37,49A,8-9 cases,Number of Cases,Wambaya,,,Nordlinger 1998
+38,50A,Qualitatively asymmetrical,Asymmetrical Case-Marking,Wambaya,,,Nordlinger 1998
+39,51A,Case suffixes,Position of Case Affixes,Wambaya,,,Nordlinger 1993
+40,62A,No action nominals,Action Nominal Constructions,Wambaya,,,
+41,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Wambaya,,,Nordlinger 1993
+42,70A,No second-person imperatives,The Morphological Imperative,Wambaya,,,Nordlinger 1998
+43,73A,Inflectional optative absent,The Optative,Wambaya,,,Nordlinger 1998
+44,74A,Other kinds of markers,Situational Possibility,Wambaya,,,
+45,75A,Affixes on verbs,Epistemic Possibility,Wambaya,,,Nordlinger 1998
+46,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Wambaya,,,Nordlinger 1998
+47,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Wambaya,,,Nordlinger 1998
+48,78A,No grammatical evidentials,Coding of Evidentiality,Wambaya,,,Nordlinger 1998
+49,81A,No dominant order,"Order of Subject, Object and Verb",Wambaya,,,Nordlinger 1993
+50,82A,No dominant order,Order of Subject and Verb,Wambaya,,,Nordlinger 1993
+51,83A,VO,Order of Object and Verb,Wambaya,,,Nordlinger 1993
+52,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wambaya,,,Nordlinger 1993
+53,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Wambaya,,,Nordlinger 1998
+54,99A,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Wambaya,,,Nordlinger 1998
+55,100A,Split,Alignment of Verbal Person Marking,Wambaya,,,Nordlinger 1998
+56,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Wambaya,,,Nordlinger 1993
+57,102A,Both the A and P arguments,Verbal Person Marking,Wambaya,,,Nordlinger 1998
+58,103A,No zero realization,Third Person Zero of Verbal Person Marking,Wambaya,,,Nordlinger 1998
+59,104A,A precedes P,Order of Person Markers on the Verb,Wambaya,,,Nordlinger 1998
+60,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Wambaya,,,Nordlinger 1998
+61,106A,Identical to reflexive,Reciprocal Constructions,Wambaya,,,Nordlinger 1998
+62,107A,Absent,Passive Constructions,Wambaya,,,Nordlinger 1998
+63,108A,No antipassive,Antipassive Constructions,Wambaya,,,Nordlinger 1998
+64,108B,no antipassive,Productivity of the Antipassive Construction,Wambaya,,,Nordlinger 1998
+65,109A,Non-benefactive object; only intransitive,Applicative Constructions,Wambaya,,,Nordlinger 1998
+66,109B,Locative,Other Roles of Applied Objects,Wambaya,,,
+67,110A,Purposive but no sequential,Periphrastic Causative Constructions,Wambaya,,,Nordlinger 1998
+68,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Wambaya,,,Nordlinger 1998
+69,112A,Negative particle,Negative Morphemes,Wambaya,,,Nordlinger 1993
+70,113A,Both,Symmetric and Asymmetric Standard Negation,Wambaya,,,Nordlinger 1998
+71,114A,A/NonReal,Subtypes of Asymmetric Standard Negation,Wambaya,,,Nordlinger 1998
+72,124A,Subject is left implicit,'Want' Complement Subjects,Wambaya,,,Nordlinger 1998
+73,125A,Deranked,Purpose Clauses,Wambaya,,,Nordlinger 1998
+74,126A,Balanced,'When' Clauses,Wambaya,,,Nordlinger 1998
+75,127A,Balanced,Reason Clauses,Wambaya,,,Nordlinger 1998
+76,129A,Different,Hand and Arm,Wambaya,,,Nordlinger 1998
+77,130A,Identical,Finger and Hand,Wambaya,,,Nordlinger 1998
+78,130B,Hunter-gatherers,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',Wambaya,,,
+79,138A,Others,Tea,Wambaya,,,Nordlinger 1998
+80,143A,NegV,Order of Negative Morpheme and Verb,Wambaya,,,Nordlinger 1993
+81,143E,NegV,Preverbal Negative Morphemes,Wambaya,,,Nordlinger 1993
+82,143F,None,Postverbal Negative Morphemes,Wambaya,,,Nordlinger 1993
+83,143G,None,Minor morphological means of signaling negation,Wambaya,,,Nordlinger 1993
+84,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Wambaya,,,Nordlinger 1993
+85,144B,"Beginning, not immed preverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wambaya,,,Nordlinger 1993

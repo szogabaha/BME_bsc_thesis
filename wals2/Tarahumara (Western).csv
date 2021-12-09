@@ -1,0 +1,41 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tarahumara (Western),,,Burgess 1984
+1,33A,Plural stem change,Coding of Nominal Plurality,Tarahumara (Western),,,Burgess 1984
+2,37A,Demonstrative word used as definite article,Definite Articles,Tarahumara (Western),,,Burgess 1984
+3,38A,Indefinite word same as 'one',Indefinite Articles,Tarahumara (Western),,,Burgess 1984
+4,51A,Case suffixes,Position of Case Affixes,Tarahumara (Western),,,Burgess 1984
+5,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tarahumara (Western),,,Burgess 1984
+6,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tarahumara (Western),,,Burgess 1984
+7,77A,Direct and indirect,Semantic Distinctions of Evidentiality,Tarahumara (Western),,,Burgess 1984
+8,78A,Verbal affix or clitic,Coding of Evidentiality,Tarahumara (Western),,,Burgess 1984
+9,81A,SOV,"Order of Subject, Object and Verb",Tarahumara (Western),,,Burgess 1984
+10,82A,SV,Order of Subject and Verb,Tarahumara (Western),,,Burgess 1984
+11,83A,OV,Order of Object and Verb,Tarahumara (Western),,,Burgess 1984
+12,84A,No dominant order,"Order of Object, Oblique, and Verb",Tarahumara (Western),,,Burgess 1984
+13,85A,No dominant order,Order of Adposition and Noun Phrase,Tarahumara (Western),,,Burgess 1984
+14,86A,Genitive-Noun,Order of Genitive and Noun,Tarahumara (Western),,,Burgess 1984
+15,87A,Adjective-Noun,Order of Adjective and Noun,Tarahumara (Western),,,Burgess 1984
+16,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tarahumara (Western),,,Burgess 1984
+17,89A,Numeral-Noun,Order of Numeral and Noun,Tarahumara (Western),,,Burgess 1984
+18,90A,Mixed,Order of Relative Clause and Noun,Tarahumara (Western),,,Burgess 1984
+19,90B,RelN or NRel,Prenominal relative clauses,Tarahumara (Western),,,Burgess 1984
+20,90C,NRel or RelN,Postnominal relative clauses,Tarahumara (Western),,,Burgess 1984
+21,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tarahumara (Western),,,Burgess 1984
+22,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tarahumara (Western),,,Burgess 1984
+23,94A,Mixed,Order of Adverbial Subordinator and Clause,Tarahumara (Western),,,Burgess 1984
+24,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tarahumara (Western),,,
+25,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tarahumara (Western),,,
+26,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tarahumara (Western),,,
+27,116A,Question particle,Polar Questions,Tarahumara (Western),,,Burgess 1984
+28,131A,Decimal,Numeral Bases,Tarahumara (Western),,,Yasugi 1995
+29,132A,5,Number of Non-Derived Basic Colour Categories,Tarahumara (Western),,,
+30,133A,6-6.5,Number of Basic Colour Categories,Tarahumara (Western),,,
+31,134A,Green/blue,Green and Blue,Tarahumara (Western),,,
+32,135A,Red vs. yellow,Red and Yellow,Tarahumara (Western),,,
+33,143A,NegV,Order of Negative Morpheme and Verb,Tarahumara (Western),,,Burgess 1984
+34,143E,NegV,Preverbal Negative Morphemes,Tarahumara (Western),,,Burgess 1984
+35,143F,None,Postverbal Negative Morphemes,Tarahumara (Western),,,Burgess 1984
+36,143G,None,Minor morphological means of signaling negation,Tarahumara (Western),,,Burgess 1984
+37,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Tarahumara (Western),,,Burgess 1984
+38,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Tarahumara (Western),,,Burgess 1984
+39,144S,NoSOVNeg,SOVNeg Order,Tarahumara (Western),,,Burgess 1984

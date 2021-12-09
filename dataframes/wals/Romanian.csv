@@ -1,0 +1,83 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-rom,Average,Consonant Inventories,Romanian,,,Ruhlen 1973;Tataru 1978;Agard 1958
+2A-rom,Large (7-14),Vowel Quality Inventories,Romanian,,,Agard 1958;Tataru 1978;Ruhlen 1973
+3A-rom,Average,Consonant-Vowel Ratio,Romanian,,,Ruhlen 1973;Tataru 1978;Agard 1958
+4A-rom,In both plosives and fricatives,Voicing in Plosives and Fricatives,Romanian,,,Ruhlen 1973;Agard 1958;Tataru 1978
+5A-rom,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Romanian,,,Ruhlen 1973;Tataru 1978;Agard 1958
+6A-rom,None,Uvular Consonants,Romanian,,,Tataru 1978;Ruhlen 1973;Agard 1958
+7A-rom,No glottalized consonants,Glottalized Consonants,Romanian,,,Tataru 1978;Agard 1958;Ruhlen 1973
+8A-rom,"/l/, no obstruent laterals",Lateral Consonants,Romanian,,,Tataru 1978;Agard 1958;Ruhlen 1973
+11A-rom,None,Front Rounded Vowels,Romanian,,,Tataru 1978;Ruhlen 1973;Agard 1958
+13A-rom,No tones,Tone,Romanian,,,Ruhlen 1973;Agard 1958;Tataru 1978
+14A-rom,No fixed stress,Fixed Stress Locations,Romanian,,,Ulivi 1977;Roca 1999;Lombard 1935;Graur and Rosetti 1938;Avram 1978;Augerot 1974;Ulivi 1985;Steriade 1984
+15A-rom,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Romanian,,,Augerot 1974;Avram 1978;Graur and Rosetti 1938;Lombard 1935;Roca 1999;Steriade 1984;Ulivi 1977;Ulivi 1985
+16A-rom,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Romanian,,,Ulivi 1985;Augerot 1974;Avram 1978;Graur and Rosetti 1938;Lombard 1935;Roca 1999;Steriade 1984;Ulivi 1977
+18A-rom,All present,Absence of Common Consonants,Romanian,,,Agard 1958;Tataru 1978;Ruhlen 1973
+19A-rom,None,Presence of Uncommon Consonants,Romanian,,,Agard 1958;Tataru 1978;Ruhlen 1973
+26A-rom,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Romanian,,,Mallinson 1986
+33A-rom,Plural suffix,Coding of Nominal Plurality,Romanian,,,Mallinson 1986
+34A-rom,"All nouns, always obligatory",Occurrence of Nominal Plurality,Romanian,,,Mallinson 1986
+37A-rom,Definite affix,Definite Articles,Romanian,,,Mallinson 1986
+38A-rom,Indefinite word same as 'one',Indefinite Articles,Romanian,,,Mallinson 1986
+45A-rom,Multiple politeness distinctions,Politeness Distinctions in Pronouns,Romanian,,,Braun 1984
+46A-rom,Interrogative-based,Indefinite Pronouns,Romanian,,,Haspelmath 1997
+47A-rom,Differentiated,Intensifiers and Reflexive Pronouns,Romanian,,,Mallinson 1986
+49A-rom,2 cases,Number of Cases,Romanian,,,Beyrer et al. 1987
+50A-rom,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Romanian,,,Beyrer et al. 1987
+51A-rom,Case suffixes,Position of Case Affixes,Romanian,,,Mallinson 1986
+52A-rom,Identity,Comitatives and Instrumentals,Romanian,,,Lausberg 1972
+53A-rom,"First, two-th, three-th",Ordinal Numerals,Romanian,,,Lausberg 1972
+54A-rom,Marked by preceding word,Distributive Numerals,Romanian,,,
+57A-rom,No possessive affixes,Position of Pronominal Possessive Affixes,Romanian,,,Mallinson 1986
+63A-rom,'And' different from 'with',Noun Phrase Conjunction,Romanian,,,Mallinson 1986
+65A-rom,Grammatical marking,Perfective/Imperfective Aspect,Romanian,,,Dahl 1985
+66A-rom,"Present, no remoteness distinctions",The Past Tense,Romanian,,,Dahl 1985
+67A-rom,No inflectional future,The Future Tense,Romanian,,,Dahl 1985
+68A-rom,No perfect,The Perfect,Romanian,,,Dahl 1985
+69A-rom,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Romanian,,,Mallinson 1986
+70A-rom,Second singular,The Morphological Imperative,Romanian,,,Mallinson 1988
+71A-rom,Special imperative + normal negative,The Prohibitive,Romanian,,,Mallinson 1988
+72A-rom,Maximal system,Imperative-Hortative Systems,Romanian,,,Mallinson 1986
+74A-rom,Verbal constructions,Situational Possibility,Romanian,,,Mallinson 1986
+75A-rom,Verbal constructions,Epistemic Possibility,Romanian,,,Mallinson 1986
+76A-rom,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Romanian,,,Coteanu et al. 1998
+77A-rom,No grammatical evidentials,Semantic Distinctions of Evidentiality,Romanian,,,Mallinson 1986
+78A-rom,No grammatical evidentials,Coding of Evidentiality,Romanian,,,Mallinson 1986
+81A-rom,SVO,"Order of Subject, Object and Verb",Romanian,,,Mallinson 1986
+82A-rom,SV,Order of Subject and Verb,Romanian,,,Mallinson 1986
+83A-rom,VO,Order of Object and Verb,Romanian,,,Mallinson 1986
+85A-rom,Prepositions,Order of Adposition and Noun Phrase,Romanian,,,Mallinson 1986
+86A-rom,Noun-Genitive,Order of Genitive and Noun,Romanian,,,Mallinson 1986
+87A-rom,Noun-Adjective,Order of Adjective and Noun,Romanian,,,Mallinson 1986
+88A-rom,Mixed,Order of Demonstrative and Noun,Romanian,,,Mallinson 1986
+89A-rom,Numeral-Noun,Order of Numeral and Noun,Romanian,,,Mallinson 1986
+90A-rom,Noun-Relative clause,Order of Relative Clause and Noun,Romanian,,,Mallinson 1986
+90C-rom,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Romanian,,,Mallinson 1986
+91A-rom,Degree word-Adjective,Order of Degree Word and Adjective,Romanian,,,Mallinson 1986
+92A-rom,No question particle,Position of Polar Question Particles,Romanian,,,Mallinson 1986
+93A-rom,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Romanian,,,Mallinson 1986
+94A-rom,Initial subordinator word,Order of Adverbial Subordinator and Clause,Romanian,,,Mallinson 1986
+95A-rom,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Romanian,,,
+96A-rom,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Romanian,,,
+97A-rom,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Romanian,,,
+112A-rom,Negative particle,Negative Morphemes,Romanian,,,Mallinson 1986
+115A-rom,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Romanian,,,Haspelmath 1997
+116A-rom,Interrogative intonation only,Polar Questions,Romanian,,,Mallinson 1986
+117A-rom,'Have',Predicative Possession,Romanian,,,Cazacu et al. 1967
+118A-rom,Nonverbal encoding,Predicative Adjectives,Romanian,,,Mallinson 1986
+119A-rom,Identical,Nominal and Locational Predication,Romanian,,,Mallinson 1986
+120A-rom,Impossible,Zero Copula for Predicate Nominals,Romanian,,,Mallinson 1986
+124A-rom,Subject is expressed overtly,'Want' Complement Subjects,Romanian,,,
+129A-rom,Different,Hand and Arm,Romanian,,,Bergman 1968
+130A-rom,Different,Finger and Hand,Romanian,,,Bergman 1968
+143A-rom,NegV,Order of Negative Morpheme and Verb,Romanian,,,Mallinson 1986
+143E-rom,NegV,Preverbal Negative Morphemes,Romanian,,,Mallinson 1986
+143F-rom,None,Postverbal Negative Morphemes,Romanian,,,Mallinson 1986
+143G-rom,None,Minor morphological means of signaling negation,Romanian,,,Mallinson 1986
+144A-rom,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Romanian,,,Mallinson 1986
+144B-rom,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Romanian,,,Mallinson 1986
+144D-rom,SNegVO,The Position of Negative Morphemes in SVO Languages,Romanian,,,Mallinson 1986
+144H-rom,No NegSVO,NegSVO Order,Romanian,,,Mallinson 1986
+144I-rom,Word&NoDoubleNeg,SNegVO Order,Romanian,,,Mallinson 1986
+144J-rom,No SVNegO,SVNegO Order,Romanian,,,Mallinson 1986
+144K-rom,No SVONeg,SVONeg Order,Romanian,,,Mallinson 1986

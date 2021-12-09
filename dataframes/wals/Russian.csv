@@ -1,0 +1,157 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-rus,Moderately large,Consonant Inventories,Russian,,,Halle 1959;Jones and Ward 1969
+2A-rus,Average (5-6),Vowel Quality Inventories,Russian,,,Jones and Ward 1969;Halle 1959
+3A-rus,High,Consonant-Vowel Ratio,Russian,,,Halle 1959;Jones and Ward 1969
+4A-rus,In both plosives and fricatives,Voicing in Plosives and Fricatives,Russian,,,Halle 1959;Jones and Ward 1969
+5A-rus,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Russian,,,Jones and Ward 1969;Halle 1959
+6A-rus,None,Uvular Consonants,Russian,,,Halle 1959;Jones and Ward 1969
+7A-rus,No glottalized consonants,Glottalized Consonants,Russian,,,Jones and Ward 1969;Halle 1959
+8A-rus,"/l/, no obstruent laterals",Lateral Consonants,Russian,,,Halle 1959;Jones and Ward 1969
+9A-rus,No velar nasal,The Velar Nasal,Russian,,,Wade 1992
+10A-rus,Contrast absent,Vowel Nasalization,Russian,,,Boyanus 1955
+11A-rus,None,Front Rounded Vowels,Russian,,,Halle 1959;Jones and Ward 1969
+12A-rus,Complex,Syllable Structure,Russian,,,Jones and Ward 1969;Halle 1959
+13A-rus,No tones,Tone,Russian,,,Jones and Ward 1969;Halle 1959
+14A-rus,No fixed stress,Fixed Stress Locations,Russian,,,Unbegaun 1957;Hamilton 1980;Kodzasov 1999b
+15A-rus,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Russian,,,Hamilton 1980;Kodzasov 1999b;Unbegaun 1957
+16A-rus,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Russian,,,Hamilton 1980;Kodzasov 1999b;Unbegaun 1957
+17A-rus,No rhythmic stress,Rhythm Types,Russian,,,Unbegaun 1957;Hamilton 1980;Kodzasov 1999b
+18A-rus,All present,Absence of Common Consonants,Russian,,,Jones and Ward 1969;Halle 1959
+19A-rus,None,Presence of Uncommon Consonants,Russian,,,Jones and Ward 1969;Halle 1959
+20A-rus,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Russian,,,Wade 1992
+21A-rus,Case + number,Exponence of Selected Inflectional Formatives,Russian,,,Wade 1992
+21B-rus,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Russian,,,Wade 1992
+22A-rus,4-5 categories per word,Inflectional Synthesis of the Verb,Russian,,,Wade 1992
+23A-rus,Dependent marking,Locus of Marking in the Clause,Russian,,,
+24A-rus,Dependent marking,Locus of Marking in Possessive Noun Phrases,Russian,,,
+25A-rus,Dependent-marking,Locus of Marking: Whole-language Typology,Russian,,,
+25B-rus,Non-zero marking,Zero Marking of A and P Arguments,Russian,,,
+26A-rus,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Russian,,,Launer 1974;Krylova and Khavronina 1976;Borras and Christian 1959;Bivon 1971;Wade 1992;Stilman and Harkins 1964
+27A-rus,No productive reduplication,Reduplication,Russian,,,Beyer 2001
+28A-rus,Core and non-core,Case Syncretism,Russian,,,
+29A-rus,Not syncretic,Syncretism in Verbal Person/Number Marking,Russian,,,
+30A-rus,Three,Number of Genders,Russian,,,Corbett 1991;Fraser and Corbett 1995
+31A-rus,Sex-based,Sex-based and Non-sex-based Gender Systems,Russian,,,Fraser and Corbett 1995;Corbett 1991
+32A-rus,Semantic and formal,Systems of Gender Assignment,Russian,,,Fraser and Corbett 1995;Corbett 1991
+33A-rus,Plural suffix,Coding of Nominal Plurality,Russian,,,Stilman and Harkins 1964
+34A-rus,"All nouns, always obligatory",Occurrence of Nominal Plurality,Russian,,,
+35A-rus,Person-number stem + nominal plural affix,Plurality in Independent Personal Pronouns,Russian,,,
+36A-rus,No associative plural,The Associative Plural,Russian,,,
+37A-rus,No definite or indefinite article,Definite Articles,Russian,,,Stilman and Harkins 1964
+38A-rus,No definite or indefinite article,Indefinite Articles,Russian,,,Stilman and Harkins 1964
+39A-rus,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Russian,,,Tauscher and Kirschbaum 1963
+40A-rus,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Russian,,,Tauscher and Kirschbaum 1963
+41A-rus,Two-way contrast,Distance Contrasts in Demonstratives,Russian,,,Wade 1992
+42A-rus,Identical,Pronominal and Adnominal Demonstratives,Russian,,,Wade 1992
+44A-rus,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Russian,,,Wade 1992
+45A-rus,Binary politeness distinction,Politeness Distinctions in Pronouns,Russian,,,Wade 1992
+46A-rus,Interrogative-based,Indefinite Pronouns,Russian,,,
+47A-rus,Differentiated,Intensifiers and Reflexive Pronouns,Russian,,,Wade 1992
+48A-rus,No person marking,Person Marking on Adpositions,Russian,,,Wade 1992
+49A-rus,6-7 cases,Number of Cases,Russian,,,Wade 1992
+50A-rus,Syncretism in relevant NP-types,Asymmetrical Case-Marking,Russian,,,Wade 1992
+51A-rus,Case suffixes,Position of Case Affixes,Russian,,,Stilman and Harkins 1964
+52A-rus,Mixed,Comitatives and Instrumentals,Russian,,,Berneker and Vasmer 1971
+53A-rus,"First, second, three-th",Ordinal Numerals,Russian,,,Berneker and Vasmer 1971
+54A-rus,Marked by preceding word,Distributive Numerals,Russian,,,
+55A-rus,Absent,Numeral Classifiers,Russian,,,
+57A-rus,No possessive affixes,Position of Pronominal Possessive Affixes,Russian,,,Bivon 1971
+58A-rus,Absent,Obligatory Possessive Inflection,Russian,,,
+58B-rus,None reported,Number of Possessive Nouns,Russian,,,
+59A-rus,No possessive classification,Possessive Classification,Russian,,,
+60A-rus,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Russian,,,
+61A-rus,Without marking,Adjectives without Nouns,Russian,,,
+62A-rus,Ergative-Possessive,Action Nominal Constructions,Russian,,,
+63A-rus,'And' different from 'with',Noun Phrase Conjunction,Russian,,,Pulkina 1978
+64A-rus,Identity,Nominal and Verbal Conjunction,Russian,,,
+65A-rus,Grammatical marking,Perfective/Imperfective Aspect,Russian,,,Dahl 1985
+66A-rus,"Present, no remoteness distinctions",The Past Tense,Russian,,,Dahl 1985
+67A-rus,No inflectional future,The Future Tense,Russian,,,Dahl 1985
+68A-rus,No perfect,The Perfect,Russian,,,Dahl 1985
+69A-rus,Mixed type,Position of Tense-Aspect Affixes,Russian,,,Bivon 1971
+70A-rus,Second singular and second plural,The Morphological Imperative,Russian,,,
+71A-rus,Normal imperative + normal negative,The Prohibitive,Russian,,,
+72A-rus,Neither type of system,Imperative-Hortative Systems,Russian,,,
+73A-rus,Inflectional optative absent,The Optative,Russian,,,
+74A-rus,Verbal constructions,Situational Possibility,Russian,,,Wade 1992
+75A-rus,Verbal constructions,Epistemic Possibility,Russian,,,Wade 1992
+76A-rus,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Russian,,,Wade 1992
+77A-rus,No grammatical evidentials,Semantic Distinctions of Evidentiality,Russian,,,
+78A-rus,No grammatical evidentials,Coding of Evidentiality,Russian,,,
+79A-rus,Tense and aspect,Suppletion According to Tense and Aspect,Russian,,,
+79B-rus,Imperative,Suppletion in Imperatives and Hortatives,Russian,,,
+80A-rus,None,Verbal Number and Suppletion,Russian,,,
+81A-rus,SVO,"Order of Subject, Object and Verb",Russian,,,Bivon 1971
+82A-rus,SV,Order of Subject and Verb,Russian,,,Bivon 1971
+83A-rus,VO,Order of Object and Verb,Russian,,,Bivon 1971
+85A-rus,Prepositions,Order of Adposition and Noun Phrase,Russian,,,Borras and Christian 1959
+86A-rus,Noun-Genitive,Order of Genitive and Noun,Russian,,,Bivon 1971
+87A-rus,Adjective-Noun,Order of Adjective and Noun,Russian,,,Borras and Christian 1959;Bivon 1971;Krylova and Khavronina 1976;Launer 1974
+88A-rus,Demonstrative-Noun,Order of Demonstrative and Noun,Russian,,,Bivon 1971;Krylova and Khavronina 1976
+89A-rus,Numeral-Noun,Order of Numeral and Noun,Russian,,,Bivon 1971
+90A-rus,Noun-Relative clause,Order of Relative Clause and Noun,Russian,,,Bivon 1971
+90C-rus,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Russian,,,Bivon 1971
+91A-rus,Degree word-Adjective,Order of Degree Word and Adjective,Russian,,,Krylova and Khavronina 1976
+92A-rus,Second position,Position of Polar Question Particles,Russian,,,Launer 1974
+93A-rus,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Russian,,,Launer 1974
+94A-rus,Initial subordinator word,Order of Adverbial Subordinator and Clause,Russian,,,Bivon 1971
+95A-rus,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Russian,,,
+96A-rus,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Russian,,,
+97A-rus,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Russian,,,
+98A-rus,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Russian,,,
+99A-rus,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Russian,,,
+100A-rus,Accusative,Alignment of Verbal Person Marking,Russian,,,Wade 1992
+101A-rus,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Russian,,,Stilman and Harkins 1964
+102A-rus,Only the A argument,Verbal Person Marking,Russian,,,Wade 1992
+103A-rus,No zero realization,Third Person Zero of Verbal Person Marking,Russian,,,Wade 1992
+104A-rus,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Russian,,,Wade 1992
+105A-rus,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Russian,,,
+106A-rus,Mixed,Reciprocal Constructions,Russian,,,
+107A-rus,Present,Passive Constructions,Russian,,,Wade 1992
+108A-rus,No antipassive,Antipassive Constructions,Russian,,,
+108B-rus,no antipassive,Productivity of the Antipassive Construction,Russian,,,
+109A-rus,No applicative construction,Applicative Constructions,Russian,,,
+109B-rus,No applicative construction,Other Roles of Applied Objects,Russian,,,
+110A-rus,Purposive but no sequential,Periphrastic Causative Constructions,Russian,,,Wade 1992;Comrie 1989
+111A-rus,Morphological but no compound,Nonperiphrastic Causative Constructions,Russian,,,Wade 1992;Comrie 1989
+112A-rus,Negative particle,Negative Morphemes,Russian,,,Launer 1974
+113A-rus,Symmetric,Symmetric and Asymmetric Standard Negation,Russian,,,Wade 1992
+114A-rus,Non-assignable,Subtypes of Asymmetric Standard Negation,Russian,,,Wade 1992
+115A-rus,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Russian,,,Haspelmath 1997
+116A-rus,Question particle,Polar Questions,Russian,,,Launer 1974
+117A-rus,Locational,Predicative Possession,Russian,,,Pulkina and Zakhava-Nekrasova 1974
+118A-rus,Nonverbal encoding,Predicative Adjectives,Russian,,,
+119A-rus,Identical,Nominal and Locational Predication,Russian,,,
+120A-rus,Possible,Zero Copula for Predicate Nominals,Russian,,,
+121A-rus,Particle,Comparative Constructions,Russian,,,Pulkina and Zakhava-Nekrasova 1974
+122A-rus,Relative pronoun,Relativization on Subjects,Russian,,,
+123A-rus,Relative pronoun,Relativization on Obliques,Russian,,,
+124A-rus,Subject is left implicit,'Want' Complement Subjects,Russian,,,
+125A-rus,Balanced/deranked,Purpose Clauses,Russian,,,Wade 1992
+126A-rus,Balanced/deranked,'When' Clauses,Russian,,,Wade 1992
+127A-rus,Balanced/deranked,Reason Clauses,Russian,,,Wade 1992
+128A-rus,Balanced,Utterance Complement Clauses,Russian,,,Wade 1992
+129A-rus,Identical,Hand and Arm,Russian,,,Wedel and Romanov 1964
+130A-rus,Different,Finger and Hand,Russian,,,Wedel and Romanov 1964
+131A-rus,Decimal,Numeral Bases,Russian,,,
+132A-rus,6,Number of Non-Derived Basic Colour Categories,Russian,,,
+133A-rus,11,Number of Basic Colour Categories,Russian,,,
+134A-rus,Green vs. blue,Green and Blue,Russian,,,
+135A-rus,Red vs. yellow,Red and Yellow,Russian,,,
+136A-rus,"M-T pronouns, paradigmatic",M-T Pronouns,Russian,,,
+136B-rus,m in first person singular,M in First Person Singular,Russian,,,
+137A-rus,No N-M pronouns,N-M Pronouns,Russian,,,
+137B-rus,No m in second person singular,M in Second Person Singular,Russian,,,
+138A-rus,Words derived from Sinitic cha,Tea,Russian,,,
+142A-rus,Affective meanings,Para-Linguistic Usages of Clicks,Russian,,,
+143A-rus,NegV,Order of Negative Morpheme and Verb,Russian,,,Launer 1974
+143E-rus,NegV,Preverbal Negative Morphemes,Russian,,,Launer 1974
+143F-rus,None,Postverbal Negative Morphemes,Russian,,,Launer 1974
+143G-rus,None,Minor morphological means of signaling negation,Russian,,,Launer 1974
+144A-rus,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Russian,,,Launer 1974
+144B-rus,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Russian,,,Launer 1974
+144D-rus,SNegVO,The Position of Negative Morphemes in SVO Languages,Russian,,,Launer 1974
+144H-rus,No NegSVO,NegSVO Order,Russian,,,Launer 1974
+144I-rus,Word&NoDoubleNeg,SNegVO Order,Russian,,,Launer 1974
+144J-rus,No SVNegO,SVNegO Order,Russian,,,Launer 1974
+144K-rus,No SVONeg,SVONeg Order,Russian,,,Launer 1974

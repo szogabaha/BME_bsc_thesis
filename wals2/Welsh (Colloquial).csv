@@ -1,0 +1,15 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,VSO,"Order of Subject, Object and Verb",Welsh (Colloquial),,,Watkins 1993
+1,82A,VS,Order of Subject and Verb,Welsh (Colloquial),,,Watkins 1993
+2,83A,VO,Order of Object and Verb,Welsh (Colloquial),,,Watkins 1993
+3,112A,Negative particle,Negative Morphemes,Welsh (Colloquial),,,Watkins 1993
+4,143A,VNeg,Order of Negative Morpheme and Verb,Welsh (Colloquial),,,Watkins 1993
+5,143E,None,Preverbal Negative Morphemes,Welsh (Colloquial),,,Watkins 1993
+6,143F,VNeg,Postverbal Negative Morphemes,Welsh (Colloquial),,,Watkins 1993
+7,143G,None,Minor morphological means of signaling negation,Welsh (Colloquial),,,Watkins 1993
+8,144A,VSNegO,"Position of Negative Word With Respect to Subject, Object, and Verb",Welsh (Colloquial),,,Watkins 1993
+9,144B,"Postverbal, not immed or end",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Welsh (Colloquial),,,Watkins 1993
+10,144T,VSNegO,The Position of Negative Morphemes in Verb-Initial Languages,Welsh (Colloquial),,,Watkins 1993
+11,144V,No preverbal neg,Verb-Initial with Preverbal Negative,Welsh (Colloquial),,,Watkins 1993
+12,144W,WordBetweenSAndO,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Welsh (Colloquial),,,Watkins 1993
+13,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Welsh (Colloquial),,,Watkins 1993

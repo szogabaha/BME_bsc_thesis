@@ -1,0 +1,25 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,27A,Productive full and partial reduplication,Reduplication,Swati,,,Kiyomi 1992
+1,41A,Three-way contrast,Distance Contrasts in Demonstratives,Swati,,,Ziervogel 1952
+2,55A,Absent,Numeral Classifiers,Swati,,,Taljaard et al. 1991
+3,81A,No dominant order,"Order of Subject, Object and Verb",Swati,,,Ziervogel 1952
+4,82A,No dominant order,Order of Subject and Verb,Swati,,,Ziervogel 1952
+5,83A,VO,Order of Object and Verb,Swati,,,Ziervogel 1952
+6,86A,Noun-Genitive,Order of Genitive and Noun,Swati,,,Ziervogel 1952
+7,87A,No dominant order,Order of Adjective and Noun,Swati,,,Ziervogel 1952
+8,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Swati,,,Ziervogel 1952
+9,89A,No dominant order,Order of Numeral and Noun,Swati,,,Ziervogel 1952
+10,90A,Noun-Relative clause,Order of Relative Clause and Noun,Swati,,,Ziervogel 1952
+11,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Swati,,,Ziervogel 1952
+12,92A,Final,Position of Polar Question Particles,Swati,,,Ziervogel 1952
+13,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Swati,,,Ziervogel 1952
+14,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Swati,,,
+15,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Swati,,,
+16,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Swati,,,Ziervogel 1952
+17,112A,Double negation,Negative Morphemes,Swati,,,Ziervogel 1952
+18,116A,Question particle,Polar Questions,Swati,,,Ziervogel 1952
+19,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Swati,,,Ziervogel 1952
+20,143B,[Neg-V-Neg],Obligatory Double Negation,Swati,,,Ziervogel 1952
+21,143E,[Neg-V],Preverbal Negative Morphemes,Swati,,,Ziervogel 1952
+22,143F,[V-Neg],Postverbal Negative Morphemes,Swati,,,Ziervogel 1952
+23,143G,None,Minor morphological means of signaling negation,Swati,,,Ziervogel 1952

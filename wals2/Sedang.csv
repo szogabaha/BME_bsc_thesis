@@ -1,0 +1,63 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Sedang,,,Smith 1968
+1,2A,Large (7-14),Vowel Quality Inventories,Sedang,,,Smith 1968
+2,3A,Moderately high,Consonant-Vowel Ratio,Sedang,,,Smith 1968
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Sedang,,,Smith 1968
+4,5A,Other,Voicing and Gaps in Plosive Systems,Sedang,,,Smith 1968
+5,6A,None,Uvular Consonants,Sedang,,,Smith 1968
+6,7A,Implosives and glottalized resonants,Glottalized Consonants,Sedang,,,Smith 1968
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Sedang,,,Smith 1968
+8,9A,Initial velar nasal,The Velar Nasal,Sedang,,,Smith 1967b
+9,11A,None,Front Rounded Vowels,Sedang,,,Smith 1968
+10,12A,Moderately complex,Syllable Structure,Sedang,,,Smith 1968
+11,13A,No tones,Tone,Sedang,,,Smith 1968
+12,14A,Ultimate,Fixed Stress Locations,Sedang,,,Smith 1979
+13,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Sedang,,,Smith 1979
+14,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Sedang,,,Smith 1979
+15,17A,No rhythmic stress,Rhythm Types,Sedang,,,Smith 1979
+16,18A,All present,Absence of Common Consonants,Sedang,,,Smith 1968
+17,19A,None,Presence of Uncommon Consonants,Sedang,,,Smith 1968
+18,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Sedang,,,Smith 1979
+19,27A,Productive full and partial reduplication,Reduplication,Sedang,,,Smith 1979
+20,33A,Plural word,Coding of Nominal Plurality,Sedang,,,Smith 1979
+21,34A,"Only human nouns, obligatory",Occurrence of Nominal Plurality,Sedang,,,Smith 1979
+22,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sedang,,,Smith 1979
+23,63A,'And' identical to 'with',Noun Phrase Conjunction,Sedang,,,Smith 1975b
+24,81A,SVO,"Order of Subject, Object and Verb",Sedang,,,Smith 1979
+25,82A,SV,Order of Subject and Verb,Sedang,,,Smith 1979
+26,83A,VO,Order of Object and Verb,Sedang,,,Smith 1979
+27,84A,VOX,"Order of Object, Oblique, and Verb",Sedang,,,Smith 1979
+28,85A,Prepositions,Order of Adposition and Noun Phrase,Sedang,,,Smith 1979
+29,86A,Noun-Genitive,Order of Genitive and Noun,Sedang,,,Smith 1979
+30,87A,Noun-Adjective,Order of Adjective and Noun,Sedang,,,Smith 1979
+31,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sedang,,,Smith 1979
+32,89A,Numeral-Noun,Order of Numeral and Noun,Sedang,,,Smith 1979
+33,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sedang,,,Smith 1979
+34,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sedang,,,Smith 1979
+35,91A,Adjective-Degree word,Order of Degree Word and Adjective,Sedang,,,Smith 1979
+36,92A,Other position,Position of Polar Question Particles,Sedang,,,Smith 1979
+37,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sedang,,,Smith 1979
+38,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sedang,,,
+39,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sedang,,,
+40,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sedang,,,
+41,105A,Mixed,Ditransitive Constructions: The Verb 'Give',Sedang,,,Smith 1979
+42,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Sedang,,,Smith 1979
+43,116A,Question particle,Polar Questions,Sedang,,,Smith 1979
+44,117A,Topic,Predicative Possession,Sedang,,,Smith 1975b
+45,118A,Verbal encoding,Predicative Adjectives,Sedang,,,Smith 1975b
+46,119A,Different,Nominal and Locational Predication,Sedang,,,Smith 1975b
+47,120A,Possible,Zero Copula for Predicate Nominals,Sedang,,,Smith 1975b
+48,124A,Subject is left implicit,'Want' Complement Subjects,Sedang,,,Smith 1979
+49,129A,Identical,Hand and Arm,Sedang,,,Smith 1967b
+50,130A,Different,Finger and Hand,Sedang,,,Smith 1967b
+51,143A,NegV,Order of Negative Morpheme and Verb,Sedang,,,Smith 1979
+52,143E,NegV,Preverbal Negative Morphemes,Sedang,,,Smith 1979
+53,143F,None,Postverbal Negative Morphemes,Sedang,,,Smith 1979
+54,143G,None,Minor morphological means of signaling negation,Sedang,,,Smith 1979
+55,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Sedang,,,Smith 1979
+56,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sedang,,,Smith 1979
+57,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Sedang,,,Smith 1979
+58,144H,No NegSVO,NegSVO Order,Sedang,,,Smith 1979
+59,144I,Word&NoDoubleNeg,SNegVO Order,Sedang,,,Smith 1979
+60,144J,No SVNegO,SVNegO Order,Sedang,,,Smith 1979
+61,144K,No SVONeg,SVONeg Order,Sedang,,,Smith 1979

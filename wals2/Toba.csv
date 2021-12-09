@@ -1,0 +1,40 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Toba,,,Klein 1973
+1,33A,Plural suffix,Coding of Nominal Plurality,Toba,,,Klein 1973
+2,51A,No case affixes or adpositional clitics,Position of Case Affixes,Toba,,,Klein 1973
+3,55A,Absent,Numeral Classifiers,Toba,,,Derbyshire and Payne 1990
+4,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Toba,,,Klein 1973
+5,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Toba,,,Klein 1973
+6,81A,No dominant order,"Order of Subject, Object and Verb",Toba,,,Klein 1973
+7,81B,SVO or VOS,"Languages with two Dominant Orders of Subject, Object, and Verb",Toba,,,Klein 1973
+8,82A,No dominant order,Order of Subject and Verb,Toba,,,Klein 1973
+9,83A,VO,Order of Object and Verb,Toba,,,Klein 1973
+10,86A,Noun-Genitive,Order of Genitive and Noun,Toba,,,Messineo 2003
+11,87A,Adjective-Noun,Order of Adjective and Noun,Toba,,,Klein 2001
+12,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Toba,,,Klein 2001
+13,89A,Numeral-Noun,Order of Numeral and Noun,Toba,,,Klein 2001
+14,92A,No question particle,Position of Polar Question Particles,Toba,,,Klein 2001
+15,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Toba,,,Messineo 2003
+16,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Toba,,,Klein 2001
+17,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Toba,,,
+18,101A,Subject affixes on verb,Expression of Pronominal Subjects,Toba,,,Klein 1973
+19,112A,Negative affix,Negative Morphemes,Toba,,,Klein 1973
+20,116A,Interrogative intonation only,Polar Questions,Toba,,,Klein 2001
+21,124A,Desiderative verbal affix,'Want' Complement Subjects,Toba,,,Klein 2001
+22,129A,Different,Hand and Arm,Toba,,,Buckwalter 1980
+23,130A,Different,Finger and Hand,Toba,,,Buckwalter 1980
+24,143A,[Neg-V],Order of Negative Morpheme and Verb,Toba,,,Klein 1973
+25,143E,[Neg-V],Preverbal Negative Morphemes,Toba,,,Klein 1973
+26,143F,None,Postverbal Negative Morphemes,Toba,,,Klein 1973
+27,143G,None,Minor morphological means of signaling negation,Toba,,,Klein 1973
+28,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Toba,,,Klein 1973
+29,144D,More than one construction,The Position of Negative Morphemes in SVO Languages,Toba,,,Klein 1973
+30,144E,S[Neg-V]O/[Neg-V]OS,Multiple Negative Constructions in SVO Languages,Toba,,,Klein 1973
+31,144H,No NegSVO,NegSVO Order,Toba,,,Klein 1973
+32,144I,Prefix&NoDoubleNeg,SNegVO Order,Toba,,,Klein 1973
+33,144J,No SVNegO,SVNegO Order,Toba,,,Klein 1973
+34,144K,No SVONeg,SVONeg Order,Toba,,,Klein 1973
+35,144T,[Neg-V]OS/S[Neg-V]O,The Position of Negative Morphemes in Verb-Initial Languages,Toba,,,Klein 1973
+36,144V,"Prefix, no double negation  Prefix&NoDoubleNeg",Verb-Initial with Preverbal Negative,Toba,,,Klein 1973
+37,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Toba,,,Klein 1973
+38,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Toba,,,Klein 1973

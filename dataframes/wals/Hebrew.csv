@@ -1,0 +1,142 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+9A-heb,No velar nasal,The Velar Nasal,Hebrew (Modern),,,Bolozky 1997
+10A-heb,Contrast absent,Vowel Nasalization,Hebrew (Modern),,,Chayen 1973;Glinert 1989
+14A-heb,Ultimate,Fixed Stress Locations,Hebrew (Modern),,,Glinert 1989;Bolozky 1982
+15A-heb,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Hebrew (Modern),,,Glinert 1989;Bolozky 1982
+16A-heb,No weight,Weight Factors in Weight-Sensitive Stress Systems,Hebrew (Modern),,,Bolozky 1982;Glinert 1989
+17A-heb,Trochaic,Rhythm Types,Hebrew (Modern),,,Glinert 1989;Bolozky 1982
+20A-heb,Ablaut/concatenative,Fusion of Selected Inflectional Formatives,Hebrew (Modern),,,Aikhenvald 1990
+21A-heb,No case,Exponence of Selected Inflectional Formatives,Hebrew (Modern),,,Aikhenvald 1990
+21B-heb,TAM+agreement+diathesis,Exponence of Tense-Aspect-Mood Inflection,Hebrew (Modern),,,Aikhenvald 1990
+22A-heb,4-5 categories per word,Inflectional Synthesis of the Verb,Hebrew (Modern),,,Aikhenvald 1990
+23A-heb,Dependent marking,Locus of Marking in the Clause,Hebrew (Modern),,,Aikhenvald 1990
+24A-heb,Dependent marking,Locus of Marking in Possessive Noun Phrases,Hebrew (Modern),,,Aikhenvald 1990
+25A-heb,Inconsistent or other,Locus of Marking: Whole-language Typology,Hebrew (Modern),,,Aikhenvald 1990
+25B-heb,Non-zero marking,Zero Marking of A and P Arguments,Hebrew (Modern),,,Aikhenvald 1990
+26A-heb,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Hebrew (Modern),,,Glinert 1989
+27A-heb,Productive full and partial reduplication,Reduplication,Hebrew (Modern),,,Devens 2001b
+28A-heb,No case marking,Case Syncretism,Hebrew (Modern),,,Berman 1997
+29A-heb,Syncretic,Syncretism in Verbal Person/Number Marking,Hebrew (Modern),,,Berman 1997
+30A-heb,Two,Number of Genders,Hebrew (Modern),,,Glinert 1994
+31A-heb,Sex-based,Sex-based and Non-sex-based Gender Systems,Hebrew (Modern),,,Glinert 1994
+32A-heb,Semantic and formal,Systems of Gender Assignment,Hebrew (Modern),,,Glinert 1994
+33A-heb,Plural suffix,Coding of Nominal Plurality,Hebrew (Modern),,,Glinert 1989
+34A-heb,"All nouns, always obligatory",Occurrence of Nominal Plurality,Hebrew (Modern),,,
+35A-heb,Person-number stem,Plurality in Independent Personal Pronouns,Hebrew (Modern),,,Aikhenvald 1990
+36A-heb,No associative plural,The Associative Plural,Hebrew (Modern),,,
+37A-heb,Definite affix,Definite Articles,Hebrew (Modern),,,Glinert 1989
+38A-heb,Indefinite word same as 'one',Indefinite Articles,Hebrew (Modern),,,Glinert 1989
+39A-heb,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Hebrew (Modern),,,Glinert 1991
+40A-heb,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Hebrew (Modern),,,Glinert 1991
+41A-heb,Two-way contrast,Distance Contrasts in Demonstratives,Hebrew (Modern),,,Glinert 1989
+42A-heb,Identical,Pronominal and Adnominal Demonstratives,Hebrew (Modern),,,Glinert 1989
+43A-heb,Related for all demonstratives,Third Person Pronouns and Demonstratives,Hebrew (Modern),,,Glinert 1989
+44A-heb,In 3rd person + 1st and/or 2nd person,Gender Distinctions in Independent Personal Pronouns,Hebrew (Modern),,,Glinert 1989
+45A-heb,No politeness distinction,Politeness Distinctions in Pronouns,Hebrew (Modern),,,Glinert 1989
+46A-heb,Interrogative-based,Indefinite Pronouns,Hebrew (Modern),,,
+47A-heb,Identical,Intensifiers and Reflexive Pronouns,Hebrew (Modern),,,Glinert 1989
+48A-heb,Pronouns only,Person Marking on Adpositions,Hebrew (Modern),,,Glinert 1989
+49A-heb,No morphological case-marking,Number of Cases,Hebrew (Modern),,,Glinert 1989
+50A-heb,No case-marking,Asymmetrical Case-Marking,Hebrew (Modern),,,Glinert 1989
+51A-heb,Prepositional clitics,Position of Case Affixes,Hebrew (Modern),,,Glinert 1989
+52A-heb,Identity,Comitatives and Instrumentals,Hebrew (Modern),,,Simon 1979
+53A-heb,"First, two-th, three-th",Ordinal Numerals,Hebrew (Modern),,,Simon 1979
+54A-heb,No distributive numerals,Distributive Numerals,Hebrew (Modern),,,
+55A-heb,Absent,Numeral Classifiers,Hebrew (Modern),,,
+56A-heb,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Hebrew (Modern),,,
+57A-heb,Possessive suffixes,Position of Pronominal Possessive Affixes,Hebrew (Modern),,,Glinert 1989
+58A-heb,Absent,Obligatory Possessive Inflection,Hebrew (Modern),,,Aikhenvald 1990
+58B-heb,None reported,Number of Possessive Nouns,Hebrew (Modern),,,Aikhenvald 1990
+59A-heb,No possessive classification,Possessive Classification,Hebrew (Modern),,,Aikhenvald 1990
+60A-heb,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Hebrew (Modern),,,
+61A-heb,Without marking,Adjectives without Nouns,Hebrew (Modern),,,
+62A-heb,Mixed,Action Nominal Constructions,Hebrew (Modern),,,Berman 1976
+63A-heb,'And' different from 'with',Noun Phrase Conjunction,Hebrew (Modern),,,
+64A-heb,Identity,Nominal and Verbal Conjunction,Hebrew (Modern),,,
+65A-heb,No grammatical marking,Perfective/Imperfective Aspect,Hebrew (Modern),,,Dahl 1985
+66A-heb,"Present, no remoteness distinctions",The Past Tense,Hebrew (Modern),,,Dahl 1985
+67A-heb,Inflectional future exists,The Future Tense,Hebrew (Modern),,,Dahl 1985
+68A-heb,No perfect,The Perfect,Hebrew (Modern),,,Dahl 1985
+69A-heb,Mixed type,Position of Tense-Aspect Affixes,Hebrew (Modern),,,Glinert 1989
+70A-heb,Second singular and second plural,The Morphological Imperative,Hebrew (Modern),,,Rosén 1979;Schwarzwald 2001;Malygina 2001
+71A-heb,Special imperative + special negative,The Prohibitive,Hebrew (Modern),,,Berman 1997;Glinert 1989;Malygina 2001
+72A-heb,Maximal system,Imperative-Hortative Systems,Hebrew (Modern),,,Malygina 2001
+73A-heb,Inflectional optative absent,The Optative,Hebrew (Modern),,,Glinert 1989
+74A-heb,Verbal constructions,Situational Possibility,Hebrew (Modern),,,Glinert 1994;Kopelovich 1982
+75A-heb,Verbal constructions,Epistemic Possibility,Hebrew (Modern),,,Kopelovich 1982
+76A-heb,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Hebrew (Modern),,,Kopelovich 1982
+77A-heb,No grammatical evidentials,Semantic Distinctions of Evidentiality,Hebrew (Modern),,,Glinert 1989
+78A-heb,No grammatical evidentials,Coding of Evidentiality,Hebrew (Modern),,,Glinert 1989
+79A-heb,Tense,Suppletion According to Tense and Aspect,Hebrew (Modern),,,Glinert 1989
+79B-heb,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Hebrew (Modern),,,
+80A-heb,None,Verbal Number and Suppletion,Hebrew (Modern),,,Glinert 1989
+81A-heb,SVO,"Order of Subject, Object and Verb",Hebrew (Modern),,,Glinert 1989
+82A-heb,SV,Order of Subject and Verb,Hebrew (Modern),,,Glinert 1989
+83A-heb,VO,Order of Object and Verb,Hebrew (Modern),,,Glinert 1989
+85A-heb,Prepositions,Order of Adposition and Noun Phrase,Hebrew (Modern),,,Glinert 1989
+86A-heb,Noun-Genitive,Order of Genitive and Noun,Hebrew (Modern),,,Glinert 1989
+87A-heb,Noun-Adjective,Order of Adjective and Noun,Hebrew (Modern),,,Glinert 1989
+88A-heb,Noun-Demonstrative,Order of Demonstrative and Noun,Hebrew (Modern),,,Glinert 1989
+89A-heb,Numeral-Noun,Order of Numeral and Noun,Hebrew (Modern),,,Glinert 1989
+90A-heb,Noun-Relative clause,Order of Relative Clause and Noun,Hebrew (Modern),,,Glinert 1989
+90C-heb,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Hebrew (Modern),,,Glinert 1989
+91A-heb,No dominant order,Order of Degree Word and Adjective,Hebrew (Modern),,,Glinert 1989
+92A-heb,Initial,Position of Polar Question Particles,Hebrew (Modern),,,Glinert 1989
+93A-heb,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Hebrew (Modern),,,Glinert 1989
+94A-heb,Initial subordinator word,Order of Adverbial Subordinator and Clause,Hebrew (Modern),,,Glinert 1989
+95A-heb,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Hebrew (Modern),,,
+96A-heb,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Hebrew (Modern),,,
+97A-heb,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Hebrew (Modern),,,
+98A-heb,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Hebrew (Modern),,,
+99A-heb,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Hebrew (Modern),,,
+100A-heb,Accusative,Alignment of Verbal Person Marking,Hebrew (Modern),,,Glinert 1989
+101A-heb,Mixed,Expression of Pronominal Subjects,Hebrew (Modern),,,Glinert 1989
+102A-heb,Only the A argument,Verbal Person Marking,Hebrew (Modern),,,Glinert 1989
+103A-heb,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Hebrew (Modern),,,Glinert 1989
+104A-heb,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Hebrew (Modern),,,Glinert 1989
+105A-heb,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Hebrew (Modern),,,
+106A-heb,Mixed,Reciprocal Constructions,Hebrew (Modern),,,Aikhenvald 1990
+107A-heb,Present,Passive Constructions,Hebrew (Modern),,,Berman 1997
+108A-heb,No antipassive,Antipassive Constructions,Hebrew (Modern),,,Glinert 1994
+108B-heb,no antipassive,Productivity of the Antipassive Construction,Hebrew (Modern),,,Glinert 1994
+109A-heb,No applicative construction,Applicative Constructions,Hebrew (Modern),,,Glinert 1994
+109B-heb,No applicative construction,Other Roles of Applied Objects,Hebrew (Modern),,,
+110A-heb,Purposive but no sequential,Periphrastic Causative Constructions,Hebrew (Modern),,,Glinert 1989;Berman 1978
+111A-heb,Morphological but no compound,Nonperiphrastic Causative Constructions,Hebrew (Modern),,,Glinert 1989;Berman 1978
+112A-heb,Negative particle,Negative Morphemes,Hebrew (Modern),,,Glinert 1989
+113A-heb,Both,Symmetric and Asymmetric Standard Negation,Hebrew (Modern),,,Glinert 1989
+114A-heb,A/Fin,Subtypes of Asymmetric Standard Negation,Hebrew (Modern),,,Glinert 1989
+115A-heb,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Hebrew (Modern),,,
+116A-heb,Question particle,Polar Questions,Hebrew (Modern),,,Glinert 1989
+117A-heb,Locational,Predicative Possession,Hebrew (Modern),,,Rosén 1962
+118A-heb,Nonverbal encoding,Predicative Adjectives,Hebrew (Modern),,,
+119A-heb,Identical,Nominal and Locational Predication,Hebrew (Modern),,,
+120A-heb,Possible,Zero Copula for Predicate Nominals,Hebrew (Modern),,,
+121A-heb,Locational,Comparative Constructions,Hebrew (Modern),,,
+122A-heb,Gap,Relativization on Subjects,Hebrew (Modern),,,Glinert 1989
+123A-heb,Pronoun-retention,Relativization on Obliques,Hebrew (Modern),,,Glinert 1989
+124A-heb,Subject is left implicit,'Want' Complement Subjects,Hebrew (Modern),,,
+125A-heb,Balanced/deranked,Purpose Clauses,Hebrew (Modern),,,Glinert 1989
+126A-heb,Balanced,'When' Clauses,Hebrew (Modern),,,Glinert 1989
+127A-heb,Balanced,Reason Clauses,Hebrew (Modern),,,Glinert 1989
+128A-heb,Balanced,Utterance Complement Clauses,Hebrew (Modern),,,Glinert 1989
+129A-heb,Different,Hand and Arm,Hebrew (Modern),,,Bergman 1968
+130A-heb,Different,Finger and Hand,Hebrew (Modern),,,Bergman 1968
+131A-heb,Decimal,Numeral Bases,Hebrew (Modern),,,Glinert 1989
+136A-heb,No M-T pronouns,M-T Pronouns,Hebrew (Modern),,,Glinert 1989
+136B-heb,No m in first person singular,M in First Person Singular,Hebrew (Modern),,,Glinert 1989
+137A-heb,No N-M pronouns,N-M Pronouns,Hebrew (Modern),,,Glinert 1989
+137B-heb,No m in second person singular,M in Second Person Singular,Hebrew (Modern),,,Glinert 1989
+138A-heb,Words derived from Min Nan Chinese te,Tea,Hebrew (Modern),,,Malherbe and Rosenberg 1996
+142A-heb,Logical meanings,Para-Linguistic Usages of Clicks,Hebrew (Modern),,,
+143A-heb,NegV,Order of Negative Morpheme and Verb,Hebrew (Modern),,,Glinert 1989
+143E-heb,NegV,Preverbal Negative Morphemes,Hebrew (Modern),,,Glinert 1989
+143F-heb,None,Postverbal Negative Morphemes,Hebrew (Modern),,,Glinert 1989
+143G-heb,None,Minor morphological means of signaling negation,Hebrew (Modern),,,Glinert 1989
+144A-heb,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Hebrew (Modern),,,Glinert 1989
+144B-heb,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Hebrew (Modern),,,Glinert 1989
+144D-heb,SNegVO,The Position of Negative Morphemes in SVO Languages,Hebrew (Modern),,,Glinert 1989
+144H-heb,No NegSVO,NegSVO Order,Hebrew (Modern),,,Glinert 1989
+144I-heb,Word&NoDoubleNeg,SNegVO Order,Hebrew (Modern),,,Glinert 1989
+144J-heb,No SVNegO,SVNegO Order,Hebrew (Modern),,,Glinert 1989
+144K-heb,No SVONeg,SVONeg Order,Hebrew (Modern),,,Glinert 1989

@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tamashek,,,Heath 2005
+1,33A,Mixed morphological plural,Coding of Nominal Plurality,Tamashek,,,Heath 2005
+2,51A,Case prefixes,Position of Case Affixes,Tamashek,,,Heath 2005
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tamashek,,,Heath 2005
+4,81A,VSO,"Order of Subject, Object and Verb",Tamashek,,,Heath 2005
+5,82A,VS,Order of Subject and Verb,Tamashek,,,Heath 2005
+6,83A,VO,Order of Object and Verb,Tamashek,,,Heath 2005
+7,84A,VOX,"Order of Object, Oblique, and Verb",Tamashek,,,Heath 2005
+8,85A,Prepositions,Order of Adposition and Noun Phrase,Tamashek,,,Heath 2005
+9,86A,Noun-Genitive,Order of Genitive and Noun,Tamashek,,,Heath 2005
+10,87A,Noun-Adjective,Order of Adjective and Noun,Tamashek,,,Heath 2005
+11,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tamashek,,,Heath 2005
+12,89A,Numeral-Noun,Order of Numeral and Noun,Tamashek,,,Heath 2005
+13,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tamashek,,,Heath 2005
+14,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tamashek,,,Heath 2005
+15,92A,Initial,Position of Polar Question Particles,Tamashek,,,Heath 2005
+16,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tamashek,,,Heath 2005
+17,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tamashek,,,Heath 2005
+18,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tamashek,,,
+19,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tamashek,,,
+20,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tamashek,,,
+21,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tamashek,,,Heath 2005
+22,112A,Negative particle,Negative Morphemes,Tamashek,,,Heath 2005
+23,116A,Question particle,Polar Questions,Tamashek,,,Heath 2005
+24,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Tamashek,,,Heath 2005
+25,143C,NegV&OptChangeVerbStem,Optional Double Negation,Tamashek,,,Heath 2005
+26,143E,NegV,Preverbal Negative Morphemes,Tamashek,,,Heath 2005
+27,143F,None,Postverbal Negative Morphemes,Tamashek,,,Heath 2005
+28,143G,NegStemChange,Minor morphological means of signaling negation,Tamashek,,,Heath 2005
+29,144A,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tamashek,,,Heath 2005
+30,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tamashek,,,Heath 2005
+31,144T,OptDoubleNeg,The Position of Negative Morphemes in Verb-Initial Languages,Tamashek,,,Heath 2005
+32,144U,NegVSO&OptStemChange,Double negation in verb-initial languages,Tamashek,,,Heath 2005
+33,144V,Word&Opt,Verb-Initial with Preverbal Negative,Tamashek,,,Heath 2005
+34,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tamashek,,,Heath 2005
+35,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tamashek,,,Heath 2005

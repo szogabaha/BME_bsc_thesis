@@ -1,0 +1,74 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,23A,Double marking,Locus of Marking in the Clause,Tauya,,,MacDonald 1990
+1,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Tauya,,,MacDonald 1990
+2,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Tauya,,,MacDonald 1990
+3,25B,Non-zero marking,Zero Marking of A and P Arguments,Tauya,,,MacDonald 1990
+4,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tauya,,,MacDonald 1990
+5,33A,No plural,Coding of Nominal Plurality,Tauya,,,MacDonald 1990
+6,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Tauya,,,MacDonald 1990
+7,37A,"No definite, but indefinite article",Definite Articles,Tauya,,,MacDonald 1990
+8,38A,Indefinite word distinct from 'one',Indefinite Articles,Tauya,,,MacDonald 1990
+9,41A,Two-way contrast,Distance Contrasts in Demonstratives,Tauya,,,MacDonald 1990
+10,42A,Different inflection,Pronominal and Adnominal Demonstratives,Tauya,,,MacDonald 1990
+11,43A,Unrelated,Third Person Pronouns and Demonstratives,Tauya,,,MacDonald 1990
+12,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tauya,,,MacDonald 1990
+13,48A,No adpositions,Person Marking on Adpositions,Tauya,,,MacDonald 1990
+14,51A,Postpositional clitics,Position of Case Affixes,Tauya,,,MacDonald 1990
+15,52A,Differentiation,Comitatives and Instrumentals,Tauya,,,MacDonald 1990
+16,53A,None,Ordinal Numerals,Tauya,,,MacDonald 1990
+17,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tauya,,,MacDonald 1990
+18,58A,Absent,Obligatory Possessive Inflection,Tauya,,,MacDonald 1990
+19,58B,None reported,Number of Possessive Nouns,Tauya,,,MacDonald 1990
+20,59A,Two classes,Possessive Classification,Tauya,,,MacDonald 1990
+21,64A,Differentiation,Nominal and Verbal Conjunction,Tauya,,,MacDonald 1990
+22,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tauya,,,MacDonald 1990
+23,70A,Second singular and second plural,The Morphological Imperative,Tauya,,,MacDonald 1990
+24,71A,Normal imperative + special negative,The Prohibitive,Tauya,,,MacDonald 1990
+25,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Tauya,,,MacDonald 1990
+26,78A,No grammatical evidentials,Coding of Evidentiality,Tauya,,,MacDonald 1990
+27,81A,SOV,"Order of Subject, Object and Verb",Tauya,,,MacDonald 1990
+28,82A,SV,Order of Subject and Verb,Tauya,,,MacDonald 1990
+29,83A,OV,Order of Object and Verb,Tauya,,,MacDonald 1990
+30,85A,Postpositions,Order of Adposition and Noun Phrase,Tauya,,,MacDonald 1990
+31,86A,Genitive-Noun,Order of Genitive and Noun,Tauya,,,MacDonald 1990
+32,87A,Noun-Adjective,Order of Adjective and Noun,Tauya,,,MacDonald 1990
+33,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tauya,,,MacDonald 1990
+34,89A,Noun-Numeral,Order of Numeral and Noun,Tauya,,,MacDonald 1990
+35,90A,Mixed,Order of Relative Clause and Noun,Tauya,,,MacDonald 1990
+36,90B,RelN or NRel,Prenominal relative clauses,Tauya,,,MacDonald 1990
+37,90C,NRel or RelN,Postnominal relative clauses,Tauya,,,MacDonald 1990
+38,92A,Final,Position of Polar Question Particles,Tauya,,,MacDonald 1990
+39,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tauya,,,MacDonald 1990
+40,94A,Mixed,Order of Adverbial Subordinator and Clause,Tauya,,,MacDonald 1990
+41,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tauya,,,
+42,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tauya,,,
+43,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tauya,,,
+44,100A,Accusative,Alignment of Verbal Person Marking,Tauya,,,MacDonald 1990
+45,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tauya,,,MacDonald 1990
+46,102A,Both the A and P arguments,Verbal Person Marking,Tauya,,,MacDonald 1990
+47,103A,No zero realization,Third Person Zero of Verbal Person Marking,Tauya,,,MacDonald 1990
+48,104A,P precedes A,Order of Person Markers on the Verb,Tauya,,,MacDonald 1990
+49,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Tauya,,,MacDonald 1990
+50,107A,Absent,Passive Constructions,Tauya,,,MacDonald 1990
+51,108A,No antipassive,Antipassive Constructions,Tauya,,,MacDonald 1990
+52,108B,no antipassive,Productivity of the Antipassive Construction,Tauya,,,MacDonald 1990
+53,112A,Negative particle,Negative Morphemes,Tauya,,,MacDonald 1990
+54,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Tauya,,,MacDonald 1990
+55,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Tauya,,,MacDonald 1990
+56,116A,Question particle,Polar Questions,Tauya,,,MacDonald 1990
+57,124A,Subject is left implicit,'Want' Complement Subjects,Tauya,,,MacDonald 1990
+58,136A,No M-T pronouns,M-T Pronouns,Tauya,,,MacDonald 1990
+59,136B,No m in first person singular,M in First Person Singular,Tauya,,,MacDonald 1990
+60,137A,No N-M pronouns,N-M Pronouns,Tauya,,,MacDonald 1990
+61,137B,No m in second person singular,M in Second Person Singular,Tauya,,,MacDonald 1990
+62,143A,NegV,Order of Negative Morpheme and Verb,Tauya,,,MacDonald 1990
+63,143E,NegV,Preverbal Negative Morphemes,Tauya,,,MacDonald 1990
+64,143F,None,Postverbal Negative Morphemes,Tauya,,,MacDonald 1990
+65,143G,None,Minor morphological means of signaling negation,Tauya,,,MacDonald 1990
+66,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Tauya,,,MacDonald 1990
+67,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tauya,,,MacDonald 1990
+68,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Tauya,,,MacDonald 1990
+69,144P,No NegSOV,NegSOV Order,Tauya,,,MacDonald 1990
+70,144Q,No SNegOV,SNegOV Order,Tauya,,,MacDonald 1990
+71,144R,Word&NoDoubleNeg,SONegV Order,Tauya,,,MacDonald 1990
+72,144S,NoSOVNeg,SOVNeg Order,Tauya,,,MacDonald 1990

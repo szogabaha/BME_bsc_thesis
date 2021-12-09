@@ -1,0 +1,41 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Urak Lawoi',,,Hogan 1988
+1,33A,No plural,Coding of Nominal Plurality,Urak Lawoi',,,Hogan 1988
+2,37A,Definite word distinct from demonstrative,Definite Articles,Urak Lawoi',,,Hogan 1988
+3,38A,"No indefinite, but definite article",Indefinite Articles,Urak Lawoi',,,Hogan 1988
+4,51A,No case affixes or adpositional clitics,Position of Case Affixes,Urak Lawoi',,,Hogan 1988
+5,52A,Identity,Comitatives and Instrumentals,Urak Lawoi',,,Hogan 1988
+6,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Urak Lawoi',,,Hogan 1988
+7,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Urak Lawoi',,,Hogan 1988
+8,70A,No second-person imperatives,The Morphological Imperative,Urak Lawoi',,,
+9,71A,Normal imperative + special negative,The Prohibitive,Urak Lawoi',,,
+10,72A,Neither type of system,Imperative-Hortative Systems,Urak Lawoi',,,
+11,81A,SVO,"Order of Subject, Object and Verb",Urak Lawoi',,,Hogan 1988
+12,82A,SV,Order of Subject and Verb,Urak Lawoi',,,Hogan 1988
+13,83A,VO,Order of Object and Verb,Urak Lawoi',,,Hogan 1988
+14,85A,Prepositions,Order of Adposition and Noun Phrase,Urak Lawoi',,,Hogan 1988
+15,86A,Noun-Genitive,Order of Genitive and Noun,Urak Lawoi',,,Hogan 1988
+16,87A,Noun-Adjective,Order of Adjective and Noun,Urak Lawoi',,,Hogan 1988
+17,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Urak Lawoi',,,Hogan 1988
+18,89A,No dominant order,Order of Numeral and Noun,Urak Lawoi',,,Hogan 1988
+19,90A,Noun-Relative clause,Order of Relative Clause and Noun,Urak Lawoi',,,Hogan 1988
+20,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Urak Lawoi',,,Hogan 1988
+21,91A,Adjective-Degree word,Order of Degree Word and Adjective,Urak Lawoi',,,Hogan 1988
+22,92A,Final,Position of Polar Question Particles,Urak Lawoi',,,Hogan 1988
+23,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Urak Lawoi',,,
+24,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Urak Lawoi',,,
+25,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Urak Lawoi',,,
+26,101A,Optional pronouns in subject position,Expression of Pronominal Subjects,Urak Lawoi',,,Hogan 1988
+27,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Urak Lawoi',,,Hogan 1988
+28,116A,Question particle,Polar Questions,Urak Lawoi',,,Hogan 1988
+29,143A,NegV,Order of Negative Morpheme and Verb,Urak Lawoi',,,Hogan 1988
+30,143E,NegV,Preverbal Negative Morphemes,Urak Lawoi',,,Hogan 1988
+31,143F,None,Postverbal Negative Morphemes,Urak Lawoi',,,Hogan 1988
+32,143G,None,Minor morphological means of signaling negation,Urak Lawoi',,,Hogan 1988
+33,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Urak Lawoi',,,Hogan 1988
+34,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Urak Lawoi',,,Hogan 1988
+35,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Urak Lawoi',,,Hogan 1988
+36,144H,No NegSVO,NegSVO Order,Urak Lawoi',,,Hogan 1988
+37,144I,Word&NoDoubleNeg,SNegVO Order,Urak Lawoi',,,Hogan 1988
+38,144J,No SVNegO,SVNegO Order,Urak Lawoi',,,Hogan 1988
+39,144K,No SVONeg,SVONeg Order,Urak Lawoi',,,Hogan 1988

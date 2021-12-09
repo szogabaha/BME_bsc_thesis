@@ -1,0 +1,105 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Semelai,,,Kruspe 1999
+1,2A,Large (7-14),Vowel Quality Inventories,Semelai,,,Kruspe 1999
+2,3A,Average,Consonant-Vowel Ratio,Semelai,,,Kruspe 1999
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Semelai,,,Kruspe 1999
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Semelai,,,Kruspe 1999
+5,6A,None,Uvular Consonants,Semelai,,,Kruspe 1999
+6,7A,Glottalized resonants only,Glottalized Consonants,Semelai,,,Kruspe 1999
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Semelai,,,Kruspe 1999
+8,9A,Initial velar nasal,The Velar Nasal,Semelai,,,
+9,10A,Contrast present,Vowel Nasalization,Semelai,,,Kruspe 1999
+10,11A,None,Front Rounded Vowels,Semelai,,,Kruspe 1999
+11,12A,Moderately complex,Syllable Structure,Semelai,,,Kruspe 1999
+12,13A,No tones,Tone,Semelai,,,Kruspe 1999
+13,14A,Ultimate,Fixed Stress Locations,Semelai,,,Kruspe 1999
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Semelai,,,Kruspe 1999
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Semelai,,,Kruspe 1999
+16,17A,No rhythmic stress,Rhythm Types,Semelai,,,Kruspe 1999
+17,18A,All present,Absence of Common Consonants,Semelai,,,Kruspe 1999
+18,19A,None,Presence of Uncommon Consonants,Semelai,,,Kruspe 1999
+19,23A,Dependent marking,Locus of Marking in the Clause,Semelai,,,Kruspe 1999
+20,24A,No marking,Locus of Marking in Possessive Noun Phrases,Semelai,,,Kruspe 1999
+21,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Semelai,,,Kruspe 1999
+22,25B,Non-zero marking,Zero Marking of A and P Arguments,Semelai,,,Kruspe 1999
+23,27A,Productive full and partial reduplication,Reduplication,Semelai,,,
+24,30A,None,Number of Genders,Semelai,,,Kruspe 1999
+25,31A,No gender,Sex-based and Non-sex-based Gender Systems,Semelai,,,Kruspe 1999
+26,32A,No gender,Systems of Gender Assignment,Semelai,,,Kruspe 1999
+27,35A,Person stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Semelai,,,Kruspe 1999
+28,39A,Only inclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Semelai,,,Kruspe 1999
+29,40A,Only inclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Semelai,,,Kruspe 1999
+30,41A,Two-way contrast,Distance Contrasts in Demonstratives,Semelai,,,Kruspe 1999
+31,42A,Identical,Pronominal and Adnominal Demonstratives,Semelai,,,Kruspe 1999
+32,43A,Unrelated,Third Person Pronouns and Demonstratives,Semelai,,,Kruspe 1999
+33,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Semelai,,,Kruspe 2004
+34,46A,Mixed,Indefinite Pronouns,Semelai,,,Kruspe 1999
+35,48A,No person marking,Person Marking on Adpositions,Semelai,,,Kruspe 2004
+36,49A,3 cases,Number of Cases,Semelai,,,Kruspe 1999
+37,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Semelai,,,Kruspe 1999
+38,51A,No case affixes or adpositional clitics,Position of Case Affixes,Semelai,,,Kruspe 1999
+39,54A,No distributive numerals,Distributive Numerals,Semelai,,,
+40,55A,Obligatory,Numeral Classifiers,Semelai,,,
+41,56A,Formally different,Conjunctions and Universal Quantifiers,Semelai,,,
+42,60A,Weakly differentiated,"Genitives, Adjectives and Relative Clauses",Semelai,,,
+43,61A,Marked by prefix,Adjectives without Nouns,Semelai,,,
+44,65A,No grammatical marking,Perfective/Imperfective Aspect,Semelai,,,Kruspe 2004
+45,66A,No past tense,The Past Tense,Semelai,,,Kruspe 2004
+46,67A,No inflectional future,The Future Tense,Semelai,,,Kruspe 2004
+47,68A,"From 'finish', 'already'",The Perfect,Semelai,,,Kruspe 2004
+48,70A,No second-person imperatives,The Morphological Imperative,Semelai,,,Kruspe 1999
+49,71A,Normal imperative + special negative,The Prohibitive,Semelai,,,Kruspe 1999
+50,72A,Neither type of system,Imperative-Hortative Systems,Semelai,,,Kruspe 1999
+51,73A,Inflectional optative absent,The Optative,Semelai,,,Kruspe 1999
+52,74A,Verbal constructions,Situational Possibility,Semelai,,,Kruspe 1999
+53,75A,Affixes on verbs,Epistemic Possibility,Semelai,,,Kruspe 1999
+54,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Semelai,,,Kruspe 1999
+55,79A,None,Suppletion According to Tense and Aspect,Semelai,,,Kruspe 1999
+56,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Semelai,,,
+57,80A,None,Verbal Number and Suppletion,Semelai,,,Kruspe 1999
+58,81A,No dominant order,"Order of Subject, Object and Verb",Semelai,,,Kruspe 1999
+59,81B,VSO or VOS,"Languages with two Dominant Orders of Subject, Object, and Verb",Semelai,,,Kruspe 1999
+60,82A,No dominant order,Order of Subject and Verb,Semelai,,,Kruspe 1999
+61,83A,VO,Order of Object and Verb,Semelai,,,Kruspe 1999
+62,84A,VOX,"Order of Object, Oblique, and Verb",Semelai,,,Kruspe 1999
+63,85A,Prepositions,Order of Adposition and Noun Phrase,Semelai,,,Kruspe 1999
+64,86A,Noun-Genitive,Order of Genitive and Noun,Semelai,,,Kruspe 1999
+65,87A,Noun-Adjective,Order of Adjective and Noun,Semelai,,,Kruspe 1999
+66,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Semelai,,,Kruspe 1999
+67,89A,Numeral-Noun,Order of Numeral and Noun,Semelai,,,Kruspe 1999
+68,90A,Noun-Relative clause,Order of Relative Clause and Noun,Semelai,,,Kruspe 1999
+69,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Semelai,,,Kruspe 1999
+70,92A,No question particle,Position of Polar Question Particles,Semelai,,,Kruspe 1999
+71,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Semelai,,,Kruspe 1999
+72,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Semelai,,,
+73,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Semelai,,,
+74,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Semelai,,,
+75,98A,Tripartite,Alignment of Case Marking of Full Noun Phrases,Semelai,,,Kruspe 2004
+76,99A,Tripartite,Alignment of Case Marking of Pronouns,Semelai,,,Kruspe 2004
+77,100A,Split,Alignment of Verbal Person Marking,Semelai,,,Kruspe 2004
+78,101A,Subject affixes on verb,Expression of Pronominal Subjects,Semelai,,,Kruspe 1999
+79,102A,Only the A argument,Verbal Person Marking,Semelai,,,Kruspe 2004
+80,103A,No zero realization,Third Person Zero of Verbal Person Marking,Semelai,,,Kruspe 2004
+81,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Semelai,,,Kruspe 2004
+82,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Semelai,,,Kruspe 1999
+83,107A,Present,Passive Constructions,Semelai,,,Kruspe 2004
+84,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Semelai,,,
+85,112A,Negative particle,Negative Morphemes,Semelai,,,Kruspe 1999
+86,113A,Both,Symmetric and Asymmetric Standard Negation,Semelai,,,Kruspe 1999
+87,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Semelai,,,Kruspe 1999
+88,116A,Interrogative intonation only,Polar Questions,Semelai,,,Kruspe 1999
+89,125A,Balanced,Purpose Clauses,Semelai,,,Kruspe 1999
+90,126A,Balanced,'When' Clauses,Semelai,,,Kruspe 1999
+91,127A,Balanced,Reason Clauses,Semelai,,,Kruspe 1999
+92,128A,Balanced,Utterance Complement Clauses,Semelai,,,Kruspe 1999
+93,142A,Other or none,Para-Linguistic Usages of Clicks,Semelai,,,
+94,143A,NegV,Order of Negative Morpheme and Verb,Semelai,,,Kruspe 1999
+95,143E,NegV,Preverbal Negative Morphemes,Semelai,,,Kruspe 1999
+96,143F,None,Postverbal Negative Morphemes,Semelai,,,Kruspe 1999
+97,143G,None,Minor morphological means of signaling negation,Semelai,,,Kruspe 1999
+98,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Semelai,,,Kruspe 1999
+99,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Semelai,,,Kruspe 1999
+100,144T,NegVSO/NegVOS,The Position of Negative Morphemes in Verb-Initial Languages,Semelai,,,Kruspe 1999
+101,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Semelai,,,Kruspe 1999
+102,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Semelai,,,Kruspe 1999
+103,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Semelai,,,Kruspe 1999

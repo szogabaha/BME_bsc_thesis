@@ -1,0 +1,156 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-spa,Average,Consonant Inventories,Spanish,,,Saporta and Contreras 1962;Harris 1969a;Navarro 1961
+2A-spa,Average (5-6),Vowel Quality Inventories,Spanish,,,Saporta and Contreras 1962;Harris 1969a;Navarro 1961
+3A-spa,Average,Consonant-Vowel Ratio,Spanish,,,Saporta and Contreras 1962;Harris 1969a;Navarro 1961
+4A-spa,In fricatives alone,Voicing in Plosives and Fricatives,Spanish,,,Navarro 1961;Saporta and Contreras 1962;Harris 1969a
+5A-spa,Other,Voicing and Gaps in Plosive Systems,Spanish,,,Saporta and Contreras 1962;Harris 1969a;Navarro 1961
+6A-spa,None,Uvular Consonants,Spanish,,,Saporta and Contreras 1962;Navarro 1961;Harris 1969a
+7A-spa,No glottalized consonants,Glottalized Consonants,Spanish,,,Saporta and Contreras 1962;Harris 1969a;Navarro 1961
+8A-spa,"/l/, no obstruent laterals",Lateral Consonants,Spanish,,,Navarro 1961;Saporta and Contreras 1962;Harris 1969a
+9A-spa,No velar nasal,The Velar Nasal,Spanish,,,
+10A-spa,Contrast absent,Vowel Nasalization,Spanish,,,Green 1988
+11A-spa,None,Front Rounded Vowels,Spanish,,,Harris 1969a;Navarro 1961;Saporta and Contreras 1962
+12A-spa,Moderately complex,Syllable Structure,Spanish,,,Navarro 1961;Harris 1969a;Saporta and Contreras 1962
+13A-spa,No tones,Tone,Spanish,,,Navarro 1961;Saporta and Contreras 1962;Harris 1969a
+14A-spa,No fixed stress,Fixed Stress Locations,Spanish,,,Harris 1983;Roca 1991;Roca 1999;Green 1988;Harris 1969a;Alarcos Llorach 1965;Navarro 1965
+15A-spa,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Spanish,,,Navarro 1965;Harris 1983;Alarcos Llorach 1965;Green 1988;Harris 1969a;Roca 1999;Roca 1991
+16A-spa,Combined,Weight Factors in Weight-Sensitive Stress Systems,Spanish,,,Green 1988;Harris 1969a;Alarcos Llorach 1965;Harris 1983;Navarro 1965;Roca 1991;Roca 1999
+17A-spa,Trochaic,Rhythm Types,Spanish,,,Green 1988;Roca 1999;Roca 1991;Navarro 1965;Harris 1983;Alarcos Llorach 1965;Harris 1969a
+18A-spa,All present,Absence of Common Consonants,Spanish,,,Harris 1969a;Saporta and Contreras 1962;Navarro 1961
+19A-spa,'Th' sounds,Presence of Uncommon Consonants,Spanish,,,Harris 1969a;Saporta and Contreras 1962;Navarro 1961
+20A-spa,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Spanish,,,Butt and Benjamin 2000
+21A-spa,Monoexponential case,Exponence of Selected Inflectional Formatives,Spanish,,,Butt and Benjamin 2000
+21B-spa,TAM+agreement,Exponence of Tense-Aspect-Mood Inflection,Spanish,,,Butt and Benjamin 2000
+22A-spa,4-5 categories per word,Inflectional Synthesis of the Verb,Spanish,,,Butt and Benjamin 2000
+23A-spa,Double marking,Locus of Marking in the Clause,Spanish,,,
+24A-spa,Dependent marking,Locus of Marking in Possessive Noun Phrases,Spanish,,,
+25A-spa,Inconsistent or other,Locus of Marking: Whole-language Typology,Spanish,,,
+25B-spa,Non-zero marking,Zero Marking of A and P Arguments,Spanish,,,
+26A-spa,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Spanish,,,Green 1988;Butt and Benjamin 2000
+27A-spa,No productive reduplication,Reduplication,Spanish,,,Lopez 2001
+28A-spa,Core and non-core,Case Syncretism,Spanish,,,Butt and Benjamin 2000
+29A-spa,Syncretic,Syncretism in Verbal Person/Number Marking,Spanish,,,Butt and Benjamin 2000
+30A-spa,Two,Number of Genders,Spanish,,,
+31A-spa,Sex-based,Sex-based and Non-sex-based Gender Systems,Spanish,,,
+32A-spa,Semantic and formal,Systems of Gender Assignment,Spanish,,,
+33A-spa,Plural suffix,Coding of Nominal Plurality,Spanish,,,
+34A-spa,"All nouns, always obligatory",Occurrence of Nominal Plurality,Spanish,,,
+35A-spa,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Spanish,,,
+36A-spa,No associative plural,The Associative Plural,Spanish,,,
+37A-spa,Definite word distinct from demonstrative,Definite Articles,Spanish,,,Green 1988
+38A-spa,Indefinite word same as 'one',Indefinite Articles,Spanish,,,Green 1988
+39A-spa,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Spanish,,,
+40A-spa,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Spanish,,,
+41A-spa,Three-way contrast,Distance Contrasts in Demonstratives,Spanish,,,
+42A-spa,Identical,Pronominal and Adnominal Demonstratives,Spanish,,,
+43A-spa,Unrelated,Third Person Pronouns and Demonstratives,Spanish,,,Green 1988
+44A-spa,In 3rd person + 1st and/or 2nd person,Gender Distinctions in Independent Personal Pronouns,Spanish,,,Green 1988
+45A-spa,Binary politeness distinction,Politeness Distinctions in Pronouns,Spanish,,,Berschin et.al. 1995
+46A-spa,Special,Indefinite Pronouns,Spanish,,,
+47A-spa,Differentiated,Intensifiers and Reflexive Pronouns,Spanish,,,Otero 1999
+48A-spa,No person marking,Person Marking on Adpositions,Spanish,,,Green 1988
+49A-spa,No morphological case-marking,Number of Cases,Spanish,,,Butt and Benjamin 2000
+50A-spa,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Spanish,,,Butt and Benjamin 2000
+51A-spa,No case affixes or adpositional clitics,Position of Case Affixes,Spanish,,,
+53A-spa,"First, second, three-th",Ordinal Numerals,Spanish,,,
+54A-spa,No distributive numerals,Distributive Numerals,Spanish,,,
+57A-spa,No possessive affixes,Position of Pronominal Possessive Affixes,Spanish,,,
+58A-spa,Absent,Obligatory Possessive Inflection,Spanish,,,
+58B-spa,None reported,Number of Possessive Nouns,Spanish,,,
+59A-spa,No possessive classification,Possessive Classification,Spanish,,,
+61A-spa,Without marking,Adjectives without Nouns,Spanish,,,
+62A-spa,Ergative-Possessive,Action Nominal Constructions,Spanish,,,
+63A-spa,'And' different from 'with',Noun Phrase Conjunction,Spanish,,,Ashcom and Goodell 1955
+64A-spa,Identity,Nominal and Verbal Conjunction,Spanish,,,
+65A-spa,Grammatical marking,Perfective/Imperfective Aspect,Spanish,,,Dahl 1985
+66A-spa,"Present, no remoteness distinctions",The Past Tense,Spanish,,,Dahl 1985
+67A-spa,Inflectional future exists,The Future Tense,Spanish,,,Dahl 1985
+68A-spa,From possessive,The Perfect,Spanish,,,Dahl 1985
+69A-spa,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Spanish,,,
+70A-spa,Second singular and second plural,The Morphological Imperative,Spanish,,,
+71A-spa,Special imperative + normal negative,The Prohibitive,Spanish,,,
+72A-spa,Neither type of system,Imperative-Hortative Systems,Spanish,,,
+73A-spa,Inflectional optative absent,The Optative,Spanish,,,Butt and Benjamin 1994
+74A-spa,Verbal constructions,Situational Possibility,Spanish,,,Butt and Benjamin 1988
+75A-spa,Verbal constructions,Epistemic Possibility,Spanish,,,Butt and Benjamin 1988
+76A-spa,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Spanish,,,Butt and Benjamin 1988
+77A-spa,No grammatical evidentials,Semantic Distinctions of Evidentiality,Spanish,,,Butt and Benjamin 2000
+78A-spa,No grammatical evidentials,Coding of Evidentiality,Spanish,,,Butt and Benjamin 2000
+79A-spa,Tense and aspect,Suppletion According to Tense and Aspect,Spanish,,,
+79B-spa,Imperative,Suppletion in Imperatives and Hortatives,Spanish,,,
+80A-spa,None,Verbal Number and Suppletion,Spanish,,,
+81A-spa,SVO,"Order of Subject, Object and Verb",Spanish,,,Green 1988
+82A-spa,No dominant order,Order of Subject and Verb,Spanish,,,
+83A-spa,VO,Order of Object and Verb,Spanish,,,Green 1988
+84A-spa,VOX,"Order of Object, Oblique, and Verb",Spanish,,,
+85A-spa,Prepositions,Order of Adposition and Noun Phrase,Spanish,,,Green 1988
+86A-spa,Noun-Genitive,Order of Genitive and Noun,Spanish,,,Green 1988
+87A-spa,Noun-Adjective,Order of Adjective and Noun,Spanish,,,Green 1988
+88A-spa,Demonstrative-Noun,Order of Demonstrative and Noun,Spanish,,,Green 1988
+89A-spa,Numeral-Noun,Order of Numeral and Noun,Spanish,,,Green 1988
+90A-spa,Noun-Relative clause,Order of Relative Clause and Noun,Spanish,,,Green 1988
+90C-spa,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Spanish,,,Green 1988
+91A-spa,Degree word-Adjective,Order of Degree Word and Adjective,Spanish,,,
+92A-spa,No question particle,Position of Polar Question Particles,Spanish,,,Butt and Benjamin 2000
+93A-spa,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Spanish,,,Green 1988
+94A-spa,Initial subordinator word,Order of Adverbial Subordinator and Clause,Spanish,,,
+95A-spa,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Spanish,,,
+96A-spa,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Spanish,,,
+97A-spa,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Spanish,,,
+98A-spa,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Spanish,,,
+99A-spa,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Spanish,,,
+100A-spa,Accusative,Alignment of Verbal Person Marking,Spanish,,,Green 1988
+101A-spa,Subject affixes on verb,Expression of Pronominal Subjects,Spanish,,,
+102A-spa,Both the A and P arguments,Verbal Person Marking,Spanish,,,Green 1988
+103A-spa,No zero realization,Third Person Zero of Verbal Person Marking,Spanish,,,Green 1988
+104A-spa,P precedes A,Order of Person Markers on the Verb,Spanish,,,Green 1988
+105A-spa,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Spanish,,,
+106A-spa,Mixed,Reciprocal Constructions,Spanish,,,Green 1988
+107A-spa,Present,Passive Constructions,Spanish,,,Green 1988
+108A-spa,No antipassive,Antipassive Constructions,Spanish,,,
+108B-spa,no antipassive,Productivity of the Antipassive Construction,Spanish,,,
+109A-spa,No applicative construction,Applicative Constructions,Spanish,,,
+109B-spa,No applicative construction,Other Roles of Applied Objects,Spanish,,,
+110A-spa,Both,Periphrastic Causative Constructions,Spanish,,,
+111A-spa,Both,Nonperiphrastic Causative Constructions,Spanish,,,
+112A-spa,Negative particle,Negative Morphemes,Spanish,,,
+113A-spa,Symmetric,Symmetric and Asymmetric Standard Negation,Spanish,,,
+114A-spa,Non-assignable,Subtypes of Asymmetric Standard Negation,Spanish,,,
+115A-spa,Mixed behaviour,Negative Indefinite Pronouns and Predicate Negation,Spanish,,,
+116A-spa,Interrogative word order,Polar Questions,Spanish,,,Butt and Benjamin 2000
+117A-spa,'Have',Predicative Possession,Spanish,,,Jarvis et al. 1981
+118A-spa,Nonverbal encoding,Predicative Adjectives,Spanish,,,
+119A-spa,Different,Nominal and Locational Predication,Spanish,,,
+120A-spa,Impossible,Zero Copula for Predicate Nominals,Spanish,,,
+121A-spa,Particle,Comparative Constructions,Spanish,,,
+122A-spa,Gap,Relativization on Subjects,Spanish,,,
+123A-spa,Relative pronoun,Relativization on Obliques,Spanish,,,
+124A-spa,Subject is left implicit,'Want' Complement Subjects,Spanish,,,
+125A-spa,Deranked,Purpose Clauses,Spanish,,,Butt and Benjamin 2000
+126A-spa,Balanced/deranked,'When' Clauses,Spanish,,,Butt and Benjamin 2000
+127A-spa,Balanced/deranked,Reason Clauses,Spanish,,,Butt and Benjamin 2000
+128A-spa,Balanced/deranked,Utterance Complement Clauses,Spanish,,,Butt and Benjamin 2000
+129A-spa,Different,Hand and Arm,Spanish,,,Cuyás 1972
+130A-spa,Different,Finger and Hand,Spanish,,,Cuyás 1972
+131A-spa,Decimal,Numeral Bases,Spanish,,,
+132A-spa,6,Number of Non-Derived Basic Colour Categories,Spanish,,,
+133A-spa,11,Number of Basic Colour Categories,Spanish,,,
+134A-spa,Green vs. blue,Green and Blue,Spanish,,,
+135A-spa,Red vs. yellow,Red and Yellow,Spanish,,,
+136A-spa,"M-T pronouns, paradigmatic",M-T Pronouns,Spanish,,,
+136B-spa,m in first person singular,M in First Person Singular,Spanish,,,
+137A-spa,No N-M pronouns,N-M Pronouns,Spanish,,,
+137B-spa,No m in second person singular,M in Second Person Singular,Spanish,,,
+138A-spa,Words derived from Min Nan Chinese te,Tea,Spanish,,,
+142A-spa,Affective meanings,Para-Linguistic Usages of Clicks,Spanish,,,
+143A-spa,NegV,Order of Negative Morpheme and Verb,Spanish,,,Green 1988
+143E-spa,NegV,Preverbal Negative Morphemes,Spanish,,,Green 1988
+143F-spa,None,Postverbal Negative Morphemes,Spanish,,,Green 1988
+143G-spa,None,Minor morphological means of signaling negation,Spanish,,,Green 1988
+144A-spa,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Spanish,,,
+144B-spa,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Spanish,,,
+144D-spa,SNegVO,The Position of Negative Morphemes in SVO Languages,Spanish,,,
+144H-spa,No NegSVO,NegSVO Order,Spanish,,,
+144I-spa,Word&NoDoubleNeg,SNegVO Order,Spanish,,,
+144J-spa,No SVNegO,SVNegO Order,Spanish,,,
+144K-spa,No SVONeg,SVONeg Order,Spanish,,,

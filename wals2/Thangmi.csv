@@ -1,0 +1,26 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Thangmi,,,Turin 2000
+1,33A,Plural suffix,Coding of Nominal Plurality,Thangmi,,,Turin 2000
+2,51A,Case suffixes,Position of Case Affixes,Thangmi,,,Turin 2000
+3,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Thangmi,,,Turin 2000
+4,81A,SOV,"Order of Subject, Object and Verb",Thangmi,,,Turin 2000
+5,82A,SV,Order of Subject and Verb,Thangmi,,,Turin 2000
+6,83A,OV,Order of Object and Verb,Thangmi,,,Turin 2000
+7,85A,Postpositions,Order of Adposition and Noun Phrase,Thangmi,,,Turin 2000
+8,86A,Genitive-Noun,Order of Genitive and Noun,Thangmi,,,Turin 2000
+9,87A,Adjective-Noun,Order of Adjective and Noun,Thangmi,,,Turin 2000
+10,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Thangmi,,,Turin 2000
+11,89A,Numeral-Noun,Order of Numeral and Noun,Thangmi,,,Turin 2000
+12,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Thangmi,,,
+13,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Thangmi,,,
+14,112A,Negative affix,Negative Morphemes,Thangmi,,,Turin 2000
+15,143A,[Neg-V],Order of Negative Morpheme and Verb,Thangmi,,,Turin 2000
+16,143E,[Neg-V],Preverbal Negative Morphemes,Thangmi,,,Turin 2000
+17,143F,None,Postverbal Negative Morphemes,Thangmi,,,Turin 2000
+18,143G,None,Minor morphological means of signaling negation,Thangmi,,,Turin 2000
+19,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Thangmi,,,Turin 2000
+20,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Thangmi,,,Turin 2000
+21,144P,No NegSOV,NegSOV Order,Thangmi,,,Turin 2000
+22,144Q,No SNegOV,SNegOV Order,Thangmi,,,Turin 2000
+23,144R,Prefix&NoDoubleNeg,SONegV Order,Thangmi,,,Turin 2000
+24,144S,NoSOVNeg,SOVNeg Order,Thangmi,,,Turin 2000

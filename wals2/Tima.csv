@@ -1,0 +1,10 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural prefix,Coding of Nominal Plurality,Tima,,,Tucker and Bryan 1966
+1,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tima,,,Tucker and Bryan 1966
+2,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tima,,,Tucker and Bryan 1966
+3,81A,SVO,"Order of Subject, Object and Verb",Tima,,,Tucker and Bryan 1966
+4,82A,SV,Order of Subject and Verb,Tima,,,Tucker and Bryan 1966
+5,83A,VO,Order of Object and Verb,Tima,,,Tucker and Bryan 1966
+6,86A,Noun-Genitive,Order of Genitive and Noun,Tima,,,Tucker and Bryan 1966
+7,87A,Noun-Adjective,Order of Adjective and Noun,Tima,,,Tucker and Bryan 1966
+8,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tima,,,

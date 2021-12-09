@@ -1,0 +1,29 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tanacross,,,Holton 2000
+1,27A,No productive reduplication,Reduplication,Tanacross,,,
+2,33A,Plural suffix,Coding of Nominal Plurality,Tanacross,,,Holton 2000
+3,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tanacross,,,Holton 2000
+4,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tanacross,,,Holton 2000
+5,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tanacross,,,Holton 2000
+6,70A,Second singular and second plural,The Morphological Imperative,Tanacross,,,Holton 2000
+7,72A,Maximal system,Imperative-Hortative Systems,Tanacross,,,Holton 2000
+8,82A,SV,Order of Subject and Verb,Tanacross,,,Holton 2000
+9,83A,OV,Order of Object and Verb,Tanacross,,,Holton 2000
+10,85A,Postpositions,Order of Adposition and Noun Phrase,Tanacross,,,Holton 2000
+11,86A,Genitive-Noun,Order of Genitive and Noun,Tanacross,,,Holton 2000
+12,87A,Noun-Adjective,Order of Adjective and Noun,Tanacross,,,Holton 2000
+13,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tanacross,,,Holton 2000
+14,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tanacross,,,Holton 2000
+15,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Tanacross,,,Holton 2000
+16,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tanacross,,,
+17,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tanacross,,,
+18,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tanacross,,,Holton 2000
+19,112A,Double negation,Negative Morphemes,Tanacross,,,Holton 2000
+20,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Tanacross,,,Holton 2000
+21,143B,Neg[V-Neg],Obligatory Double Negation,Tanacross,,,Holton 2000
+22,143E,NegV,Preverbal Negative Morphemes,Tanacross,,,Holton 2000
+23,143F,[V-Neg],Postverbal Negative Morphemes,Tanacross,,,Holton 2000
+24,143G,None,Minor morphological means of signaling negation,Tanacross,,,Holton 2000
+25,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tanacross,,,Holton 2000
+26,144L,ObligDoubleNeg,The Position of Negative Morphemes in SOV Languages,Tanacross,,,Holton 2000
+27,144N,SV & OV & Neg[V-Neg],Obligatory Double Negation in SOV languages,Tanacross,,,Holton 2000

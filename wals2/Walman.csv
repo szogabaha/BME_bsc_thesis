@@ -1,0 +1,42 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Walman,,,Schmidt and Vormann 1900
+1,33A,Plural suffix,Coding of Nominal Plurality,Walman,,,
+2,37A,"No definite, but indefinite article",Definite Articles,Walman,,,
+3,38A,Indefinite word same as 'one',Indefinite Articles,Walman,,,
+4,51A,No case affixes or adpositional clitics,Position of Case Affixes,Walman,,,
+5,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Walman,,,
+6,64A,Identity,Nominal and Verbal Conjunction,Walman,,,
+7,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Walman,,,
+8,81A,SVO,"Order of Subject, Object and Verb",Walman,,,Schmidt and Vormann 1900
+9,82A,SV,Order of Subject and Verb,Walman,,,Schmidt and Vormann 1900
+10,83A,VO,Order of Object and Verb,Walman,,,Schmidt and Vormann 1900
+11,84A,VOX,"Order of Object, Oblique, and Verb",Walman,,,
+12,85A,Postpositions,Order of Adposition and Noun Phrase,Walman,,,
+13,86A,No dominant order,Order of Genitive and Noun,Walman,,,
+14,87A,Noun-Adjective,Order of Adjective and Noun,Walman,,,Schmidt and Vormann 1900
+15,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Walman,,,
+16,89A,Noun-Numeral,Order of Numeral and Noun,Walman,,,
+17,90A,Noun-Relative clause,Order of Relative Clause and Noun,Walman,,,
+18,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Walman,,,
+19,91A,Adjective-Degree word,Order of Degree Word and Adjective,Walman,,,
+20,92A,Final,Position of Polar Question Particles,Walman,,,
+21,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Walman,,,
+22,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Walman,,,Schmidt and Vormann 1900
+23,95A,VO and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Walman,,,
+24,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Walman,,,
+25,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Walman,,,
+26,101A,Subject affixes on verb,Expression of Pronominal Subjects,Walman,,,
+27,112A,Negative particle,Negative Morphemes,Walman,,,
+28,116A,Question particle,Polar Questions,Walman,,,
+29,124A,Subject is expressed overtly,'Want' Complement Subjects,Walman,,,
+30,143A,NegV,Order of Negative Morpheme and Verb,Walman,,,
+31,143E,NegV,Preverbal Negative Morphemes,Walman,,,
+32,143F,None,Postverbal Negative Morphemes,Walman,,,
+33,143G,None,Minor morphological means of signaling negation,Walman,,,
+34,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Walman,,,
+35,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Walman,,,
+36,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Walman,,,
+37,144H,No NegSVO,NegSVO Order,Walman,,,
+38,144I,Word&NoDoubleNeg,SNegVO Order,Walman,,,
+39,144J,No SVNegO,SVNegO Order,Walman,,,
+40,144K,No SVONeg,SVONeg Order,Walman,,,

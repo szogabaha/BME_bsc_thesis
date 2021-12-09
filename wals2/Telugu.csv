@@ -1,0 +1,65 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Telugu,,,Kostic et al. 1977
+1,2A,Average (5-6),Vowel Quality Inventories,Telugu,,,Kelley 1963
+2,3A,Moderately high,Consonant-Vowel Ratio,Telugu,,,Kelley 1963
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Telugu,,,Kelley 1963
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Telugu,,,Kelley 1963
+5,6A,None,Uvular Consonants,Telugu,,,Kelley 1963
+6,7A,No glottalized consonants,Glottalized Consonants,Telugu,,,Kelley 1963
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Telugu,,,Kelley 1963
+8,11A,None,Front Rounded Vowels,Telugu,,,Kelley 1963
+9,12A,Moderately complex,Syllable Structure,Telugu,,,Kelley 1963
+10,13A,No tones,Tone,Telugu,,,Kelley 1963
+11,18A,All present,Absence of Common Consonants,Telugu,,,Kelley 1963
+12,19A,None,Presence of Uncommon Consonants,Telugu,,,Kostic et al. 1977
+13,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Telugu,,,Lisker 1963
+14,33A,Plural suffix,Coding of Nominal Plurality,Telugu,,,Lisker 1963
+15,35A,Person-number stem,Plurality in Independent Personal Pronouns,Telugu,,,Petrunicheva 1960
+16,47A,Identical,Intensifiers and Reflexive Pronouns,Telugu,,,Subbarao and Murthy 2000
+17,51A,Case suffixes,Position of Case Affixes,Telugu,,,Lisker 1963
+18,52A,Differentiation,Comitatives and Instrumentals,Telugu,,,Stolz 1996
+19,56A,"Formally similar, with interrogative",Conjunctions and Universal Quantifiers,Telugu,,,Emeneau 1980
+20,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Telugu,,,Lisker 1963
+21,70A,Second singular and second plural,The Morphological Imperative,Telugu,,,Krishnamurti and Gwynn 1985
+22,71A,Normal imperative + special negative,The Prohibitive,Telugu,,,Krishnamurti and Gwynn 1985
+23,73A,Inflectional optative absent,The Optative,Telugu,,,Petrunicheva 1960
+24,74A,Verbal constructions,Situational Possibility,Telugu,,,Subrahmanyam 1974
+25,75A,Verbal constructions,Epistemic Possibility,Telugu,,,Subrahmanyam 1974
+26,76A,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Telugu,,,Subrahmanyam 1974
+27,81A,SOV,"Order of Subject, Object and Verb",Telugu,,,Lisker 1963
+28,82A,SV,Order of Subject and Verb,Telugu,,,Lisker 1963
+29,83A,OV,Order of Object and Verb,Telugu,,,Lisker 1963
+30,85A,Postpositions,Order of Adposition and Noun Phrase,Telugu,,,Lisker 1963
+31,86A,Genitive-Noun,Order of Genitive and Noun,Telugu,,,Lisker 1963
+32,87A,Adjective-Noun,Order of Adjective and Noun,Telugu,,,Lisker 1963
+33,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Telugu,,,Lisker 1963
+34,89A,Numeral-Noun,Order of Numeral and Noun,Telugu,,,Lisker 1963
+35,90A,Relative clause-Noun,Order of Relative Clause and Noun,Telugu,,,Lisker 1963
+36,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Telugu,,,Lisker 1963
+37,91A,Degree word-Adjective,Order of Degree Word and Adjective,Telugu,,,Lisker 1963
+38,92A,No question particle,Position of Polar Question Particles,Telugu,,,Lisker 1963
+39,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Telugu,,,Lisker 1963
+40,94A,Mixed,Order of Adverbial Subordinator and Clause,Telugu,,,Lisker 1963
+41,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Telugu,,,
+42,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Telugu,,,
+43,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Telugu,,,
+44,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Telugu,,,Krishnamurti and Sarma 1968
+45,112A,Negative affix,Negative Morphemes,Telugu,,,Lisker 1963
+46,116A,Interrogative verb morphology,Polar Questions,Telugu,,,Lisker 1963
+47,118A,Nonverbal encoding,Predicative Adjectives,Telugu,,,Bhaskararao 1972
+48,119A,Identical,Nominal and Locational Predication,Telugu,,,Bhaskararao 1972
+49,120A,Possible,Zero Copula for Predicate Nominals,Telugu,,,Bhaskararao 1972
+50,121A,Locational,Comparative Constructions,Telugu,,,Grierson 1906
+51,131A,Decimal,Numeral Bases,Telugu,,,Krishnamurti and Gwynn 1985
+52,138A,Words derived from Min Nan Chinese te,Tea,Telugu,,,Malherbe and Rosenberg 1996
+53,142A,Logical meanings,Para-Linguistic Usages of Clicks,Telugu,,,
+54,143A,[V-Neg],Order of Negative Morpheme and Verb,Telugu,,,Lisker 1963
+55,143E,None,Preverbal Negative Morphemes,Telugu,,,Lisker 1963
+56,143F,[V-Neg],Postverbal Negative Morphemes,Telugu,,,Lisker 1963
+57,143G,None,Minor morphological means of signaling negation,Telugu,,,Lisker 1963
+58,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Telugu,,,Lisker 1963
+59,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Telugu,,,Lisker 1963
+60,144P,No NegSOV,NegSOV Order,Telugu,,,Lisker 1963
+61,144Q,No SNegOV,SNegOV Order,Telugu,,,Lisker 1963
+62,144R,No SONegV,SONegV Order,Telugu,,,Lisker 1963
+63,144S,Suffix&NoDoubleNeg,SOVNeg Order,Telugu,,,Lisker 1963

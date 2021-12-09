@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Tondano,,,Sneddon 1975
+1,15A,Right-oriented: One of the last three,Weight-Sensitive Stress,Tondano,,,Sneddon 1975
+2,16A,Combined,Weight Factors in Weight-Sensitive Stress Systems,Tondano,,,Sneddon 1975
+3,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tondano,,,Sneddon 1975
+4,33A,Plural word,Coding of Nominal Plurality,Tondano,,,Sneddon 1975
+5,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tondano,,,Sneddon 1975
+6,63A,'And' identical to 'with',Noun Phrase Conjunction,Tondano,,,Sneddon 1975
+7,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tondano,,,Sneddon 1975
+8,70A,No second-person imperatives,The Morphological Imperative,Tondano,,,Sneddon 1975
+9,71A,Normal imperative + special negative,The Prohibitive,Tondano,,,Sneddon 1975
+10,81A,No dominant order,"Order of Subject, Object and Verb",Tondano,,,Sneddon 1975
+11,82A,No dominant order,Order of Subject and Verb,Tondano,,,Sneddon 1975
+12,83A,VO,Order of Object and Verb,Tondano,,,Sneddon 1975
+13,85A,Prepositions,Order of Adposition and Noun Phrase,Tondano,,,Sneddon 1975
+14,86A,Noun-Genitive,Order of Genitive and Noun,Tondano,,,Sneddon 1975
+15,87A,Noun-Adjective,Order of Adjective and Noun,Tondano,,,Sneddon 1975
+16,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tondano,,,Sneddon 1975
+17,89A,No dominant order,Order of Numeral and Noun,Tondano,,,Sneddon 1975
+18,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tondano,,,Sneddon 1975
+19,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tondano,,,Sneddon 1975
+20,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tondano,,,Sneddon 1975
+21,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tondano,,,Sneddon 1975
+22,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tondano,,,Sneddon 1975
+23,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tondano,,,
+24,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tondano,,,
+25,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tondano,,,
+26,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tondano,,,Sneddon 1975
+27,112A,Negative particle,Negative Morphemes,Tondano,,,Sneddon 1975
+28,117A,Topic,Predicative Possession,Tondano,,,Sneddon 1975
+29,118A,Verbal encoding,Predicative Adjectives,Tondano,,,Sneddon 1975
+30,119A,Different,Nominal and Locational Predication,Tondano,,,Sneddon 1975
+31,120A,Impossible,Zero Copula for Predicate Nominals,Tondano,,,Sneddon 1975
+32,143A,NegV,Order of Negative Morpheme and Verb,Tondano,,,Sneddon 1975
+33,143E,NegV,Preverbal Negative Morphemes,Tondano,,,Sneddon 1975
+34,143F,None,Postverbal Negative Morphemes,Tondano,,,Sneddon 1975
+35,143G,None,Minor morphological means of signaling negation,Tondano,,,Sneddon 1975

@@ -1,0 +1,14 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,82A,SV,Order of Subject and Verb,Yamphu,,,Rutgers 1998
+1,83A,OV,Order of Object and Verb,Yamphu,,,Rutgers 1998
+2,86A,Genitive-Noun,Order of Genitive and Noun,Yamphu,,,Rutgers 1998
+3,87A,Adjective-Noun,Order of Adjective and Noun,Yamphu,,,Rutgers 1998
+4,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yamphu,,,Rutgers 1998
+5,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yamphu,,,
+6,112A,Negative affix,Negative Morphemes,Yamphu,,,Rutgers 1998
+7,143A,[Neg-V],Order of Negative Morpheme and Verb,Yamphu,,,Rutgers 1998
+8,143E,[Neg-V],Preverbal Negative Morphemes,Yamphu,,,Rutgers 1998
+9,143F,None,Postverbal Negative Morphemes,Yamphu,,,Rutgers 1998
+10,143G,None,Minor morphological means of signaling negation,Yamphu,,,Rutgers 1998
+11,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Yamphu,,,Rutgers 1998
+12,144L,SV&OV&[Neg-V],The Position of Negative Morphemes in SOV Languages,Yamphu,,,Rutgers 1998

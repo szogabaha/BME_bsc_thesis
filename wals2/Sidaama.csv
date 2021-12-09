@@ -1,0 +1,36 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Sidaama,,,Kawachi 2007
+1,33A,Plural suffix,Coding of Nominal Plurality,Sidaama,,,Kawachi 2007
+2,37A,No definite or indefinite article,Definite Articles,Sidaama,,,Kawachi 2007
+3,38A,No definite or indefinite article,Indefinite Articles,Sidaama,,,Kawachi 2007
+4,51A,Mixed morphological case,Position of Case Affixes,Sidaama,,,Kawachi 2007
+5,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Sidaama,,,Kawachi 2007
+6,81A,SOV,"Order of Subject, Object and Verb",Sidaama,,,Kawachi 2007
+7,82A,SV,Order of Subject and Verb,Sidaama,,,Kawachi 2007
+8,83A,OV,Order of Object and Verb,Sidaama,,,Kawachi 2007
+9,85A,Postpositions,Order of Adposition and Noun Phrase,Sidaama,,,Kawachi 2007
+10,86A,Genitive-Noun,Order of Genitive and Noun,Sidaama,,,Kawachi 2007
+11,87A,Adjective-Noun,Order of Adjective and Noun,Sidaama,,,Kawachi 2007
+12,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Sidaama,,,Kawachi 2007
+13,89A,Numeral-Noun,Order of Numeral and Noun,Sidaama,,,Kawachi 2007
+14,90A,Relative clause-Noun,Order of Relative Clause and Noun,Sidaama,,,Kawachi 2007
+15,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Sidaama,,,Kawachi 2007
+16,92A,No question particle,Position of Polar Question Particles,Sidaama,,,Kawachi 2007
+17,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sidaama,,,Kawachi 2007
+18,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sidaama,,,
+19,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sidaama,,,
+20,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sidaama,,,
+21,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sidaama,,,Kawachi 2007
+22,112A,Negative particle,Negative Morphemes,Sidaama,,,Kawachi 2007
+23,116A,Interrogative intonation only,Polar Questions,Sidaama,,,Kawachi 2007
+24,143A,NegV,Order of Negative Morpheme and Verb,Sidaama,,,Kawachi 2007
+25,143E,NegV,Preverbal Negative Morphemes,Sidaama,,,Kawachi 2007
+26,143F,None,Postverbal Negative Morphemes,Sidaama,,,Kawachi 2007
+27,143G,None,Minor morphological means of signaling negation,Sidaama,,,Kawachi 2007
+28,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Sidaama,,,Kawachi 2007
+29,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sidaama,,,Kawachi 2007
+30,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Sidaama,,,Kawachi 2007
+31,144P,No NegSOV,NegSOV Order,Sidaama,,,Kawachi 2007
+32,144Q,No SNegOV,SNegOV Order,Sidaama,,,Kawachi 2007
+33,144R,Word&NoDoubleNeg,SONegV Order,Sidaama,,,Kawachi 2007
+34,144S,NoSOVNeg,SOVNeg Order,Sidaama,,,Kawachi 2007

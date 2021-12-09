@@ -1,0 +1,17 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural word,Coding of Nominal Plurality,Tetun Dili,,,Williams van Klinken et al. 2002
+1,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tetun Dili,,,Williams van Klinken et al. 2002
+2,81A,SVO,"Order of Subject, Object and Verb",Tetun Dili,,,Williams van Klinken et al. 2002
+3,82A,SV,Order of Subject and Verb,Tetun Dili,,,Williams van Klinken et al. 2002
+4,83A,VO,Order of Object and Verb,Tetun Dili,,,Williams van Klinken et al. 2002
+5,85A,Prepositions,Order of Adposition and Noun Phrase,Tetun Dili,,,Williams van Klinken et al. 2002
+6,86A,Genitive-Noun,Order of Genitive and Noun,Tetun Dili,,,Williams van Klinken et al. 2002
+7,87A,Noun-Adjective,Order of Adjective and Noun,Tetun Dili,,,Williams van Klinken et al. 2002
+8,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tetun Dili,,,Williams van Klinken et al. 2002
+9,89A,Noun-Numeral,Order of Numeral and Noun,Tetun Dili,,,Williams van Klinken et al. 2002
+10,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tetun Dili,,,Williams van Klinken et al. 2002
+11,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tetun Dili,,,Williams van Klinken et al. 2002
+12,91A,Adjective-Degree word,Order of Degree Word and Adjective,Tetun Dili,,,Williams van Klinken et al. 2002
+13,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tetun Dili,,,
+14,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tetun Dili,,,
+15,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tetun Dili,,,

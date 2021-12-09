@@ -1,0 +1,94 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Suena,,,Wilson 1969
+1,2A,Average (5-6),Vowel Quality Inventories,Suena,,,Wilson 1969
+2,3A,Moderately low,Consonant-Vowel Ratio,Suena,,,Wilson 1969
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Suena,,,Wilson 1969
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Suena,,,Wilson 1969
+5,6A,None,Uvular Consonants,Suena,,,Wilson 1969
+6,7A,No glottalized consonants,Glottalized Consonants,Suena,,,Wilson 1969
+7,8A,No laterals,Lateral Consonants,Suena,,,Wilson 1969
+8,9A,No velar nasal,The Velar Nasal,Suena,,,Wilson 1974
+9,10A,Contrast absent,Vowel Nasalization,Suena,,,Wilson 1969
+10,11A,None,Front Rounded Vowels,Suena,,,Wilson 1969
+11,12A,Simple,Syllable Structure,Suena,,,Wilson 1969
+12,13A,Simple tone system,Tone,Suena,,,Wilson 1969
+13,18A,All present,Absence of Common Consonants,Suena,,,Wilson 1969
+14,19A,None,Presence of Uncommon Consonants,Suena,,,Wilson 1969
+15,23A,No marking,Locus of Marking in the Clause,Suena,,,Wilson 1974
+16,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Suena,,,Wilson 1974
+17,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Suena,,,Wilson 1974
+18,25B,Non-zero marking,Zero Marking of A and P Arguments,Suena,,,Wilson 1974
+19,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Suena,,,Wilson 1974
+20,28A,Core cases only,Case Syncretism,Suena,,,Wilson 1974
+21,29A,Syncretic,Syncretism in Verbal Person/Number Marking,Suena,,,Wilson 1974
+22,30A,None,Number of Genders,Suena,,,Wilson 1974
+23,31A,No gender,Sex-based and Non-sex-based Gender Systems,Suena,,,Wilson 1974
+24,32A,No gender,Systems of Gender Assignment,Suena,,,Wilson 1974
+25,34A,"Only human nouns, optional",Occurrence of Nominal Plurality,Suena,,,Wilson 1974
+26,35A,Person stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Suena,,,Wilson 1974
+27,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Suena,,,Wilson 1974
+28,40A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Suena,,,Wilson 1974
+29,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Suena,,,Wilson 1974
+30,45A,Binary politeness distinction,Politeness Distinctions in Pronouns,Suena,,,Wilson 1974
+31,47A,Identical,Intensifiers and Reflexive Pronouns,Suena,,,Wilson 1974
+32,48A,No person marking,Person Marking on Adpositions,Suena,,,Wilson 1974
+33,49A,4 cases,Number of Cases,Suena,,,Wilson 1974
+34,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Suena,,,Wilson 1974
+35,51A,Case suffixes,Position of Case Affixes,Suena,,,Wilson 1974
+36,55A,Absent,Numeral Classifiers,Suena,,,Nichols 1992
+37,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Suena,,,Wilson 1974
+38,58A,Absent,Obligatory Possessive Inflection,Suena,,,Wilson 1974
+39,58B,None reported,Number of Possessive Nouns,Suena,,,Wilson 1974
+40,59A,No possessive classification,Possessive Classification,Suena,,,Wilson 1974
+41,64A,Identity,Nominal and Verbal Conjunction,Suena,,,Wilson 1974
+42,65A,No grammatical marking,Perfective/Imperfective Aspect,Suena,,,Wilson 1974
+43,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Suena,,,Wilson 1974
+44,67A,Inflectional future exists,The Future Tense,Suena,,,Wilson 1974
+45,68A,No perfect,The Perfect,Suena,,,Wilson 1974
+46,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Suena,,,Wilson 1974
+47,70A,Second singular and second plural,The Morphological Imperative,Suena,,,Wilson 1974
+48,72A,Neither type of system,Imperative-Hortative Systems,Suena,,,Wilson 1974
+49,73A,Inflectional optative absent,The Optative,Suena,,,Wilson 1974
+50,74A,Verbal constructions,Situational Possibility,Suena,,,Wilson 1974
+51,77A,Indirect only,Semantic Distinctions of Evidentiality,Suena,,,Wilson 1974
+52,78A,Separate particle,Coding of Evidentiality,Suena,,,Wilson 1974
+53,79A,Tense,Suppletion According to Tense and Aspect,Suena,,,Wilson 1974
+54,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Suena,,,
+55,80A,None,Verbal Number and Suppletion,Suena,,,Wilson 1974
+56,81A,SOV,"Order of Subject, Object and Verb",Suena,,,Wilson 1974
+57,82A,SV,Order of Subject and Verb,Suena,,,Wilson 1974
+58,83A,OV,Order of Object and Verb,Suena,,,Wilson 1974
+59,85A,Postpositions,Order of Adposition and Noun Phrase,Suena,,,Wilson 1974
+60,86A,Genitive-Noun,Order of Genitive and Noun,Suena,,,Wilson 1974
+61,87A,Noun-Adjective,Order of Adjective and Noun,Suena,,,Wilson 1974
+62,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Suena,,,Wilson 1974
+63,89A,Noun-Numeral,Order of Numeral and Noun,Suena,,,Wilson 1974
+64,92A,No question particle,Position of Polar Question Particles,Suena,,,Wilson 1974
+65,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Suena,,,Wilson 1974
+66,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Suena,,,Wilson 1974
+67,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Suena,,,
+68,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Suena,,,
+69,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Suena,,,Wilson 1974
+70,99A,Neutral,Alignment of Case Marking of Pronouns,Suena,,,Wilson 1974
+71,100A,Accusative,Alignment of Verbal Person Marking,Suena,,,Wilson 1974
+72,101A,Optional pronouns in subject position,Expression of Pronominal Subjects,Suena,,,Wilson 1974
+73,102A,Only the A argument,Verbal Person Marking,Suena,,,Wilson 1974
+74,103A,No zero realization,Third Person Zero of Verbal Person Marking,Suena,,,Wilson 1974
+75,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Suena,,,Wilson 1974
+76,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Suena,,,Wilson 1974
+77,107A,Absent,Passive Constructions,Suena,,,Wilson 1974
+78,108A,No antipassive,Antipassive Constructions,Suena,,,Wilson 1974
+79,108B,no antipassive,Productivity of the Antipassive Construction,Suena,,,Wilson 1974
+80,109A,No applicative construction,Applicative Constructions,Suena,,,Wilson 1974
+81,109B,No applicative construction,Other Roles of Applied Objects,Suena,,,
+82,113A,Both,Symmetric and Asymmetric Standard Negation,Suena,,,Wilson 1974
+83,114A,A/Fin,Subtypes of Asymmetric Standard Negation,Suena,,,Wilson 1974
+84,116A,Interrogative verb morphology,Polar Questions,Suena,,,Wilson 1974
+85,124A,Subject is left implicit,'Want' Complement Subjects,Suena,,,Wilson 1974
+86,143A,NegV,Order of Negative Morpheme and Verb,Suena,,,Wilson 1974
+87,143E,NegV,Preverbal Negative Morphemes,Suena,,,Wilson 1974
+88,143F,None,Postverbal Negative Morphemes,Suena,,,Wilson 1974
+89,143G,None,Minor morphological means of signaling negation,Suena,,,Wilson 1974
+90,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Suena,,,Wilson 1974
+91,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Suena,,,Wilson 1974
+92,144S,NoSOVNeg,SOVNeg Order,Suena,,,Wilson 1974

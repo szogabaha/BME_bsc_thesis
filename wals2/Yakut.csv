@@ -1,0 +1,65 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Yakut,,,Bohtlingk 1964
+1,2A,Large (7-14),Vowel Quality Inventories,Yakut,,,Bohtlingk 1964
+2,3A,Moderately low,Consonant-Vowel Ratio,Yakut,,,Bohtlingk 1964
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Yakut,,,Bohtlingk 1964
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Yakut,,,Bohtlingk 1964
+5,6A,None,Uvular Consonants,Yakut,,,Bohtlingk 1964
+6,7A,No glottalized consonants,Glottalized Consonants,Yakut,,,Bohtlingk 1964
+7,8A,"Laterals, but no /l/, no obstruent laterals",Lateral Consonants,Yakut,,,Bohtlingk 1964
+8,9A,No initial velar nasal,The Velar Nasal,Yakut,,,Antonov 1997
+9,11A,High and mid,Front Rounded Vowels,Yakut,,,Bohtlingk 1964
+10,12A,Complex,Syllable Structure,Yakut,,,Bohtlingk 1964
+11,13A,No tones,Tone,Yakut,,,Bohtlingk 1964
+12,18A,All present,Absence of Common Consonants,Yakut,,,Bohtlingk 1964
+13,19A,None,Presence of Uncommon Consonants,Yakut,,,Bohtlingk 1964
+14,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yakut,,,Krueger 1962
+15,30A,None,Number of Genders,Yakut,,,Stachowski and Menz 1998
+16,31A,No gender,Sex-based and Non-sex-based Gender Systems,Yakut,,,Stachowski and Menz 1998
+17,32A,No gender,Systems of Gender Assignment,Yakut,,,Stachowski and Menz 1998
+18,33A,Plural suffix,Coding of Nominal Plurality,Yakut,,,Krueger 1962
+19,35A,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Yakut,,,Antonov 1997
+20,46A,Interrogative-based,Indefinite Pronouns,Yakut,,,Haspelmath 1997
+21,51A,Case suffixes,Position of Case Affixes,Yakut,,,Krueger 1962
+22,52A,Differentiation,Comitatives and Instrumentals,Yakut,,,Stachowski and Menz 1998
+23,53A,"First, two-th, three-th",Ordinal Numerals,Yakut,,,Stachowski and Menz 1998
+24,54A,Marked by suffix,Distributive Numerals,Yakut,,,Krueger 1962
+25,56A,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Yakut,,,Krueger 1962
+26,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Yakut,,,Krueger 1962
+27,63A,'And' identical to 'with',Noun Phrase Conjunction,Yakut,,,Krueger 1962
+28,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yakut,,,Krueger 1962
+29,73A,Inflectional optative absent,The Optative,Yakut,,,Korkina 1970
+30,77A,Direct and indirect,Semantic Distinctions of Evidentiality,Yakut,,,Buder 1989
+31,78A,Part of the tense system,Coding of Evidentiality,Yakut,,,Buder 1989
+32,81A,SOV,"Order of Subject, Object and Verb",Yakut,,,Stachowski and Menz 1998
+33,82A,SV,Order of Subject and Verb,Yakut,,,Krueger 1962
+34,83A,OV,Order of Object and Verb,Yakut,,,Krueger 1962
+35,85A,Postpositions,Order of Adposition and Noun Phrase,Yakut,,,Krueger 1962
+36,86A,Genitive-Noun,Order of Genitive and Noun,Yakut,,,Krueger 1962
+37,87A,Adjective-Noun,Order of Adjective and Noun,Yakut,,,Krueger 1962
+38,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yakut,,,Stachowski and Menz 1998
+39,90A,Relative clause-Noun,Order of Relative Clause and Noun,Yakut,,,Stachowski and Menz 1998
+40,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Yakut,,,Stachowski and Menz 1998
+41,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yakut,,,
+42,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yakut,,,
+43,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yakut,,,
+44,106A,Distinct from reflexive,Reciprocal Constructions,Yakut,,,Nedjalkov and Nedjalkov 2007b
+45,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Yakut,,,Krueger 1962
+46,112A,Negative affix,Negative Morphemes,Yakut,,,Krueger 1962
+47,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Yakut,,,Haspelmath 1997
+48,117A,Locational,Predicative Possession,Yakut,,,Krueger 1962
+49,118A,Nonverbal encoding,Predicative Adjectives,Yakut,,,Boehtlingk 1964
+50,119A,Identical,Nominal and Locational Predication,Yakut,,,Boehtlingk 1964
+51,120A,Impossible,Zero Copula for Predicate Nominals,Yakut,,,Boehtlingk 1964
+52,131A,Decimal,Numeral Bases,Yakut,,,Krueger 1962
+53,138A,Words derived from Sinitic cha,Tea,Yakut,,,Malherbe and Rosenberg 1996
+54,143A,[V-Neg],Order of Negative Morpheme and Verb,Yakut,,,Krueger 1962
+55,143E,None,Preverbal Negative Morphemes,Yakut,,,Krueger 1962
+56,143F,[V-Neg],Postverbal Negative Morphemes,Yakut,,,Krueger 1962
+57,143G,None,Minor morphological means of signaling negation,Yakut,,,Krueger 1962
+58,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Yakut,,,Krueger 1962
+59,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Yakut,,,Krueger 1962
+60,144P,No NegSOV,NegSOV Order,Yakut,,,Krueger 1962
+61,144Q,No SNegOV,SNegOV Order,Yakut,,,Krueger 1962
+62,144R,No SONegV,SONegV Order,Yakut,,,Krueger 1962
+63,144S,Suffix&NoDoubleNeg,SOVNeg Order,Yakut,,,Krueger 1962

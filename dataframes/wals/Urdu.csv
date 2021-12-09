@@ -1,0 +1,43 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+26A-urd,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Urdu,,,Schmidt 1999;Bender 1967
+33A-urd,Plural suffix,Coding of Nominal Plurality,Urdu,,,Bender 1967
+37A-urd,No definite or indefinite article,Definite Articles,Urdu,,,Bender 1967
+38A-urd,No definite or indefinite article,Indefinite Articles,Urdu,,,Bender 1967
+41A-urd,Two-way contrast,Distance Contrasts in Demonstratives,Urdu,,,Schmidt 1999
+42A-urd,Identical,Pronominal and Adnominal Demonstratives,Urdu,,,Schmidt 1999
+45A-urd,Multiple politeness distinctions,Politeness Distinctions in Pronouns,Urdu,,,Schmidt 1999
+49A-urd,2 cases,Number of Cases,Urdu,,,Schmidt 1999
+50A-urd,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Urdu,,,Schmidt 1999
+51A-urd,No case affixes or adpositional clitics,Position of Case Affixes,Urdu,,,Bender 1967
+52A-urd,Differentiation,Comitatives and Instrumentals,Urdu,,,Stolz 1996
+69A-urd,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Urdu,,,Bender 1967
+73A-urd,Inflectional optative absent,The Optative,Urdu,,,Dymshic 2001
+81A-urd,SOV,"Order of Subject, Object and Verb",Urdu,,,
+82A-urd,SV,Order of Subject and Verb,Urdu,,,
+83A-urd,OV,Order of Object and Verb,Urdu,,,
+85A-urd,Postpositions,Order of Adposition and Noun Phrase,Urdu,,,Bender 1967
+86A-urd,Genitive-Noun,Order of Genitive and Noun,Urdu,,,Bender 1967
+87A-urd,Adjective-Noun,Order of Adjective and Noun,Urdu,,,Bender 1967
+88A-urd,Demonstrative-Noun,Order of Demonstrative and Noun,Urdu,,,Bender 1967
+89A-urd,Numeral-Noun,Order of Numeral and Noun,Urdu,,,Bender 1967
+90A-urd,Correlative,Order of Relative Clause and Noun,Urdu,,,Bender 1967
+90E-urd,Correlative relative clause dominant,Correlative relative clauses,Urdu,,,Bender 1967
+91A-urd,Degree word-Adjective,Order of Degree Word and Adjective,Urdu,,,
+92A-urd,Initial,Position of Polar Question Particles,Urdu,,,Bender 1967
+93A-urd,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Urdu,,,Bender 1967
+94A-urd,Initial subordinator word,Order of Adverbial Subordinator and Clause,Urdu,,,Bender 1967
+95A-urd,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Urdu,,,
+96A-urd,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Urdu,,,
+97A-urd,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Urdu,,,
+116A-urd,Question particle,Polar Questions,Urdu,,,Bender 1967
+143A-urd,NegV,Order of Negative Morpheme and Verb,Urdu,,,Bender 1967;Schmidt 1999
+143E-urd,NegV,Preverbal Negative Morphemes,Urdu,,,Schmidt 1999;Bender 1967
+143F-urd,None,Postverbal Negative Morphemes,Urdu,,,Schmidt 1999;Bender 1967
+143G-urd,None,Minor morphological means of signaling negation,Urdu,,,Schmidt 1999;Bender 1967
+144A-urd,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Urdu,,,Schmidt 1999;Bender 1967
+144B-urd,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Urdu,,,Bender 1967;Schmidt 1999
+144L-urd,SONegV,The Position of Negative Morphemes in SOV Languages,Urdu,,,Bender 1967;Schmidt 1999
+144P-urd,No NegSOV,NegSOV Order,Urdu,,,Schmidt 1999;Bender 1967
+144Q-urd,No SNegOV,SNegOV Order,Urdu,,,Bender 1967;Schmidt 1999
+144R-urd,Word&NoDoubleNeg,SONegV Order,Urdu,,,Bender 1967;Schmidt 1999
+144S-urd,NoSOVNeg,SOVNeg Order,Urdu,,,Schmidt 1999;Bender 1967

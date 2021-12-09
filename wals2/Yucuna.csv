@@ -1,0 +1,32 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Yucuna,,,Schauer and Schauer 1967
+1,2A,Average (5-6),Vowel Quality Inventories,Yucuna,,,Schauer and Schauer 1967
+2,3A,Average,Consonant-Vowel Ratio,Yucuna,,,Schauer and Schauer 1967
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Yucuna,,,Schauer and Schauer 1967
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yucuna,,,Schauer and Schauer 1967
+5,6A,None,Uvular Consonants,Yucuna,,,Schauer and Schauer 1967
+6,7A,No glottalized consonants,Glottalized Consonants,Yucuna,,,Schauer and Schauer 1967
+7,8A,"Laterals, but no /l/, no obstruent laterals",Lateral Consonants,Yucuna,,,Schauer and Schauer 1967
+8,11A,None,Front Rounded Vowels,Yucuna,,,Schauer and Schauer 1967
+9,12A,Moderately complex,Syllable Structure,Yucuna,,,Schauer and Schauer 1967
+10,13A,No tones,Tone,Yucuna,,,Schauer and Schauer 1967
+11,18A,All present,Absence of Common Consonants,Yucuna,,,Schauer and Schauer 1967
+12,19A,None,Presence of Uncommon Consonants,Yucuna,,,Schauer and Schauer 1967
+13,33A,Plural suffix,Coding of Nominal Plurality,Yucuna,,,Schauer and Schauer 1978
+14,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yucuna,,,Schauer and Schauer 1978
+15,81A,SVO,"Order of Subject, Object and Verb",Yucuna,,,Schauer and Schauer 1978
+16,82A,SV,Order of Subject and Verb,Yucuna,,,Schauer and Schauer 1978
+17,83A,VO,Order of Object and Verb,Yucuna,,,Schauer and Schauer 1978
+18,85A,Postpositions,Order of Adposition and Noun Phrase,Yucuna,,,Schauer and Schauer 1978
+19,86A,Genitive-Noun,Order of Genitive and Noun,Yucuna,,,Schauer and Schauer 1978
+20,87A,Adjective-Noun,Order of Adjective and Noun,Yucuna,,,Schauer and Schauer 1978
+21,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yucuna,,,Schauer and Schauer 1978
+22,91A,Adjective-Degree word,Order of Degree Word and Adjective,Yucuna,,,Schauer and Schauer 1978
+23,95A,VO and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yucuna,,,
+24,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yucuna,,,
+25,129A,Different,Hand and Arm,Yucuna,,,Huber and Reed 1992
+26,130A,Different,Finger and Hand,Yucuna,,,Huber and Reed 1992
+27,132A,5,Number of Non-Derived Basic Colour Categories,Yucuna,,,
+28,133A,6-6.5,Number of Basic Colour Categories,Yucuna,,,
+29,134A,Green/blue,Green and Blue,Yucuna,,,
+30,135A,Red vs. yellow,Red and Yellow,Yucuna,,,

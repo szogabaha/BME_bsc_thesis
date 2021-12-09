@@ -1,0 +1,31 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+26A-ams,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Arabic (Modern Standard),,,Haywood and Nahmad 1965;Cowan 1958
+37A-ams,Definite affix,Definite Articles,Arabic (Modern Standard),,,Cowan 1958
+51A-ams,Case suffixes,Position of Case Affixes,Arabic (Modern Standard),,,Cowan 1958
+57A-ams,Possessive suffixes,Position of Pronominal Possessive Affixes,Arabic (Modern Standard),,,Cowan 1958
+81A-ams,VSO,"Order of Subject, Object and Verb",Arabic (Modern Standard),,,Cowan 1958
+82A-ams,VS,Order of Subject and Verb,Arabic (Modern Standard),,,Cowan 1958
+83A-ams,VO,Order of Object and Verb,Arabic (Modern Standard),,,Cowan 1958
+84A-ams,VOX,"Order of Object, Oblique, and Verb",Arabic (Modern Standard),,,Cowan 1958
+85A-ams,Prepositions,Order of Adposition and Noun Phrase,Arabic (Modern Standard),,,Cowan 1958
+86A-ams,Noun-Genitive,Order of Genitive and Noun,Arabic (Modern Standard),,,Cowan 1958
+87A-ams,Noun-Adjective,Order of Adjective and Noun,Arabic (Modern Standard),,,Cowan 1958
+88A-ams,Demonstrative-Noun,Order of Demonstrative and Noun,Arabic (Modern Standard),,,Haywood and Nahmad 1965;Cowan 1958
+89A-ams,Numeral-Noun,Order of Numeral and Noun,Arabic (Modern Standard),,,Cowan 1958
+91A-ams,Adjective-Degree word,Order of Degree Word and Adjective,Arabic (Modern Standard),,,Cowan 1958
+92A-ams,Initial,Position of Polar Question Particles,Arabic (Modern Standard),,,Cowan 1958
+94A-ams,Initial subordinator word,Order of Adverbial Subordinator and Clause,Arabic (Modern Standard),,,Cowan 1958
+95A-ams,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Arabic (Modern Standard),,,
+97A-ams,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Arabic (Modern Standard),,,
+116A-ams,Question particle,Polar Questions,Arabic (Modern Standard),,,Cowan 1958
+121A-ams,Locational,Comparative Constructions,Arabic (Modern Standard),,,Nasr 1967
+143A-ams,NegV,Order of Negative Morpheme and Verb,Arabic (Modern Standard),,,Cowan 1958
+143E-ams,NegV,Preverbal Negative Morphemes,Arabic (Modern Standard),,,Cowan 1958
+143F-ams,None,Postverbal Negative Morphemes,Arabic (Modern Standard),,,Cowan 1958
+143G-ams,None,Minor morphological means of signaling negation,Arabic (Modern Standard),,,Cowan 1958
+144A-ams,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Arabic (Modern Standard),,,Cowan 1958
+144B-ams,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Arabic (Modern Standard),,,Cowan 1958
+144T-ams,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Arabic (Modern Standard),,,Cowan 1958
+144V-ams,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Arabic (Modern Standard),,,Cowan 1958
+144W-ams,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Arabic (Modern Standard),,,Cowan 1958
+144X-ams,No clause-final neg,Verb-Initial with Clause-Final Negative,Arabic (Modern Standard),,,Cowan 1958

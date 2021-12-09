@@ -1,0 +1,30 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Usarufa,,,Bee 1973
+1,33A,Plural suffix,Coding of Nominal Plurality,Usarufa,,,Bee 1973
+2,51A,Case suffixes,Position of Case Affixes,Usarufa,,,Bee 1973
+3,52A,Differentiation,Comitatives and Instrumentals,Usarufa,,,Bee 1973
+4,57A,Prefixes and suffixes,Position of Pronominal Possessive Affixes,Usarufa,,,Bee 1973
+5,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Usarufa,,,Bee 1973
+6,81A,SOV,"Order of Subject, Object and Verb",Usarufa,,,Bee 1973
+7,82A,SV,Order of Subject and Verb,Usarufa,,,Bee 1973
+8,83A,OV,Order of Object and Verb,Usarufa,,,Bee 1973
+9,86A,Genitive-Noun,Order of Genitive and Noun,Usarufa,,,Bee 1973
+10,87A,Adjective-Noun,Order of Adjective and Noun,Usarufa,,,Bee 1973
+11,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Usarufa,,,Bee 1973
+12,89A,Numeral-Noun,Order of Numeral and Noun,Usarufa,,,Bee 1973
+13,91A,Degree word-Adjective,Order of Degree Word and Adjective,Usarufa,,,Bee 1973
+14,92A,No question particle,Position of Polar Question Particles,Usarufa,,,Bee 1973
+15,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Usarufa,,,
+16,101A,Subject affixes on verb,Expression of Pronominal Subjects,Usarufa,,,Bee 1973
+17,112A,Negative affix,Negative Morphemes,Usarufa,,,Bee 1973
+18,116A,Interrogative verb morphology,Polar Questions,Usarufa,,,Bee 1973
+19,143A,[Neg-V],Order of Negative Morpheme and Verb,Usarufa,,,Bee 1973
+20,143E,[Neg-V],Preverbal Negative Morphemes,Usarufa,,,Bee 1973
+21,143F,None,Postverbal Negative Morphemes,Usarufa,,,Bee 1973
+22,143G,None,Minor morphological means of signaling negation,Usarufa,,,Bee 1973
+23,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Usarufa,,,Bee 1973
+24,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Usarufa,,,Bee 1973
+25,144P,No NegSOV,NegSOV Order,Usarufa,,,Bee 1973
+26,144Q,No SNegOV,SNegOV Order,Usarufa,,,Bee 1973
+27,144R,Prefix&NoDoubleNeg,SONegV Order,Usarufa,,,Bee 1973
+28,144S,NoSOVNeg,SOVNeg Order,Usarufa,,,Bee 1973

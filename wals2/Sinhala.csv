@@ -1,0 +1,46 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Sinhala,,,Coates and da Silva 1960
+1,2A,Large (7-14),Vowel Quality Inventories,Sinhala,,,Coates and da Silva 1960
+2,3A,Average,Consonant-Vowel Ratio,Sinhala,,,Coates and da Silva 1960
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Sinhala,,,Coates and da Silva 1960
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Sinhala,,,Coates and da Silva 1960
+5,6A,None,Uvular Consonants,Sinhala,,,Coates and da Silva 1960
+6,7A,No glottalized consonants,Glottalized Consonants,Sinhala,,,Coates and da Silva 1960
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Sinhala,,,Coates and da Silva 1960
+8,11A,None,Front Rounded Vowels,Sinhala,,,Coates and da Silva 1960
+9,13A,No tones,Tone,Sinhala,,,Coates and da Silva 1960
+10,18A,All present,Absence of Common Consonants,Sinhala,,,Coates and da Silva 1960
+11,19A,None,Presence of Uncommon Consonants,Sinhala,,,Coates and da Silva 1960
+12,36A,Associative same as additive plural,The Associative Plural,Sinhala,,,
+13,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Sinhala,,,Gair and Paolillo 1997
+14,45A,Multiple politeness distinctions,Politeness Distinctions in Pronouns,Sinhala,,,Matzel 1966
+15,47A,Identical,Intensifiers and Reflexive Pronouns,Sinhala,,,Gair and Karunatillake 2000
+16,49A,5 cases,Number of Cases,Sinhala,,,Gair and Paolillo 1997
+17,50A,Symmetrical,Asymmetrical Case-Marking,Sinhala,,,Gair and Paolillo 1997
+18,51A,Case suffixes,Position of Case Affixes,Sinhala,,,Geiger 1938
+19,53A,"First, two-th, three-th",Ordinal Numerals,Sinhala,,,Gair and Paolillo 1997
+20,55A,Absent,Numeral Classifiers,Sinhala,,,Gair 1970
+21,63A,'And' different from 'with',Noun Phrase Conjunction,Sinhala,,,Gair 1970
+22,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Sinhala,,,Geiger 1938
+23,72A,Neither type of system,Imperative-Hortative Systems,Sinhala,,,Gair 1998
+24,81A,SOV,"Order of Subject, Object and Verb",Sinhala,,,Reynolds 1980
+25,82A,SV,Order of Subject and Verb,Sinhala,,,Reynolds 1980
+26,83A,OV,Order of Object and Verb,Sinhala,,,Reynolds 1980
+27,85A,Postpositions,Order of Adposition and Noun Phrase,Sinhala,,,Geiger 1938
+28,87A,Adjective-Noun,Order of Adjective and Noun,Sinhala,,,Geiger 1938
+29,89A,No dominant order,Order of Numeral and Noun,Sinhala,,,Geiger 1938
+30,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sinhala,,,Gair 1970
+31,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sinhala,,,Gair 1970
+32,91A,Degree word-Adjective,Order of Degree Word and Adjective,Sinhala,,,Geiger 1938
+33,94A,Mixed,Order of Adverbial Subordinator and Clause,Sinhala,,,Geiger 1938
+34,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sinhala,,,
+35,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sinhala,,,
+36,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sinhala,,,
+37,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Sinhala,,,Reynolds 1980
+38,117A,Locational,Predicative Possession,Sinhala,,,Gair 1970
+39,118A,Nonverbal encoding,Predicative Adjectives,Sinhala,,,Gair 1970
+40,119A,Different,Nominal and Locational Predication,Sinhala,,,Gair 1970
+41,120A,Possible,Zero Copula for Predicate Nominals,Sinhala,,,Gair 1970
+42,129A,Identical,Hand and Arm,Sinhala,,,Reynolds 1995
+43,130A,Different,Finger and Hand,Sinhala,,,Reynolds 1995
+44,138A,Words derived from Min Nan Chinese te,Tea,Sinhala,,,Malherbe and Rosenberg 1996

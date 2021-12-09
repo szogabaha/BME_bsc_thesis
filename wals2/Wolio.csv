@@ -1,0 +1,30 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Wolio,,,Anceaux 1952
+1,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Wolio,,,Anceaux 1952
+2,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Wolio,,,Anceaux 1952
+3,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wolio,,,Anceaux 1952
+4,33A,Plural word,Coding of Nominal Plurality,Wolio,,,Anceaux 1952
+5,51A,No case affixes or adpositional clitics,Position of Case Affixes,Wolio,,,Anceaux 1952
+6,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Wolio,,,Anceaux 1952
+7,70A,Second person number-neutral,The Morphological Imperative,Wolio,,,Anceaux 1952
+8,71A,Normal imperative + special negative,The Prohibitive,Wolio,,,Anceaux 1952
+9,72A,Neither type of system,Imperative-Hortative Systems,Wolio,,,Anceaux 1952
+10,81A,VSO,"Order of Subject, Object and Verb",Wolio,,,Anceaux 1952
+11,82A,VS,Order of Subject and Verb,Wolio,,,Anceaux 1952
+12,83A,VO,Order of Object and Verb,Wolio,,,Anceaux 1952
+13,85A,Prepositions,Order of Adposition and Noun Phrase,Wolio,,,Anceaux 1952
+14,86A,Noun-Genitive,Order of Genitive and Noun,Wolio,,,Anceaux 1952
+15,87A,Noun-Adjective,Order of Adjective and Noun,Wolio,,,Anceaux 1952
+16,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wolio,,,Anceaux 1952
+17,89A,Numeral-Noun,Order of Numeral and Noun,Wolio,,,Anceaux 1952
+18,90A,Noun-Relative clause,Order of Relative Clause and Noun,Wolio,,,Anceaux 1952
+19,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Wolio,,,Anceaux 1952
+20,91A,Adjective-Degree word,Order of Degree Word and Adjective,Wolio,,,Anceaux 1952
+21,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Wolio,,,Anceaux 1952
+22,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wolio,,,
+23,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wolio,,,
+24,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wolio,,,
+25,118A,Verbal encoding,Predicative Adjectives,Wolio,,,Anceaux 1952
+26,119A,Different,Nominal and Locational Predication,Wolio,,,Anceaux 1952
+27,120A,Possible,Zero Copula for Predicate Nominals,Wolio,,,Anceaux 1952
+28,138A,Words derived from Min Nan Chinese te,Tea,Wolio,,,Husen et al. 1985

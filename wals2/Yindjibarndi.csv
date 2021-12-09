@@ -1,0 +1,43 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Yindjibarndi,,,Kager 1992
+1,15A,Left-edge: First or second,Weight-Sensitive Stress,Yindjibarndi,,,Kager 1992
+2,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Yindjibarndi,,,Kager 1992
+3,17A,Trochaic,Rhythm Types,Yindjibarndi,,,Kager 1992
+4,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yindjibarndi,,,Wordick 1982
+5,27A,Productive full and partial reduplication,Reduplication,Yindjibarndi,,,Fabricius 1998
+6,33A,Plural suffix,Coding of Nominal Plurality,Yindjibarndi,,,Wordick 1982
+7,37A,Definite affix,Definite Articles,Yindjibarndi,,,Wordick 1982
+8,39B,Inclusive and exclusive differentiated,Inclusive/Exclusive Forms in Pama-Nyungan,Yindjibarndi,,,
+9,45A,No politeness distinction,Politeness Distinctions in Pronouns,Yindjibarndi,,,Wordick 1982
+10,46A,Interrogative-based,Indefinite Pronouns,Yindjibarndi,,,Mushin 1995
+11,51A,Case suffixes,Position of Case Affixes,Yindjibarndi,,,Wordick 1982
+12,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yindjibarndi,,,Wordick 1982
+13,81A,SVO,"Order of Subject, Object and Verb",Yindjibarndi,,,Wordick 1982
+14,82A,SV,Order of Subject and Verb,Yindjibarndi,,,Wordick 1982
+15,83A,VO,Order of Object and Verb,Yindjibarndi,,,Wordick 1982
+16,84A,No dominant order,"Order of Object, Oblique, and Verb",Yindjibarndi,,,Wordick 1982
+17,85A,No dominant order,Order of Adposition and Noun Phrase,Yindjibarndi,,,Wordick 1982
+18,86A,Genitive-Noun,Order of Genitive and Noun,Yindjibarndi,,,Wordick 1982
+19,87A,No dominant order,Order of Adjective and Noun,Yindjibarndi,,,Wordick 1982
+20,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yindjibarndi,,,Wordick 1982
+21,89A,Numeral-Noun,Order of Numeral and Noun,Yindjibarndi,,,Wordick 1982
+22,92A,Final,Position of Polar Question Particles,Yindjibarndi,,,Wordick 1982
+23,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yindjibarndi,,,Wordick 1982
+24,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Yindjibarndi,,,Wordick 1982
+25,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yindjibarndi,,,
+26,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yindjibarndi,,,
+27,101A,Optional pronouns in subject position,Expression of Pronominal Subjects,Yindjibarndi,,,Wordick 1982
+28,112A,Negative particle,Negative Morphemes,Yindjibarndi,,,Wordick 1982
+29,116A,Question particle,Polar Questions,Yindjibarndi,,,Wordick 1982
+30,121A,Conjoined,Comparative Constructions,Yindjibarndi,,,Wordick 1982
+31,143A,NegV,Order of Negative Morpheme and Verb,Yindjibarndi,,,Wordick 1982
+32,143E,NegV,Preverbal Negative Morphemes,Yindjibarndi,,,Wordick 1982
+33,143F,None,Postverbal Negative Morphemes,Yindjibarndi,,,Wordick 1982
+34,143G,None,Minor morphological means of signaling negation,Yindjibarndi,,,Wordick 1982
+35,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Yindjibarndi,,,Wordick 1982
+36,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yindjibarndi,,,Wordick 1982
+37,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Yindjibarndi,,,Wordick 1982
+38,144H,No NegSVO,NegSVO Order,Yindjibarndi,,,Wordick 1982
+39,144I,Word&NoDoubleNeg,SNegVO Order,Yindjibarndi,,,Wordick 1982
+40,144J,No SVNegO,SVNegO Order,Yindjibarndi,,,Wordick 1982
+41,144K,No SVONeg,SVONeg Order,Yindjibarndi,,,Wordick 1982

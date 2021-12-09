@@ -1,0 +1,45 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Yelî Dnye,,,
+1,2A,Large (7-14),Vowel Quality Inventories,Yelî Dnye,,,
+2,3A,Moderately high,Consonant-Vowel Ratio,Yelî Dnye,,,
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Yelî Dnye,,,
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yelî Dnye,,,
+5,6A,None,Uvular Consonants,Yelî Dnye,,,
+6,7A,No glottalized consonants,Glottalized Consonants,Yelî Dnye,,,
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yelî Dnye,,,
+8,11A,None,Front Rounded Vowels,Yelî Dnye,,,
+9,12A,Simple,Syllable Structure,Yelî Dnye,,,
+10,13A,No tones,Tone,Yelî Dnye,,,
+11,14A,Initial,Fixed Stress Locations,Yelî Dnye,,,Henderson 1975
+12,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Yelî Dnye,,,Henderson 1975
+13,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Yelî Dnye,,,Henderson 1975
+14,17A,Trochaic,Rhythm Types,Yelî Dnye,,,Henderson 1975
+15,18A,No fricatives,Absence of Common Consonants,Yelî Dnye,,,
+16,19A,Labial-velars,Presence of Uncommon Consonants,Yelî Dnye,,,
+17,30A,None,Number of Genders,Yelî Dnye,,,Henderson 1995
+18,31A,No gender,Sex-based and Non-sex-based Gender Systems,Yelî Dnye,,,Henderson 1995
+19,32A,No gender,Systems of Gender Assignment,Yelî Dnye,,,Henderson 1995
+20,33A,Plural word,Coding of Nominal Plurality,Yelî Dnye,,,Henderson 1995
+21,35A,Person-number stem,Plurality in Independent Personal Pronouns,Yelî Dnye,,,Henderson 1995
+22,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yelî Dnye,,,Henderson 1995
+23,48A,Pronouns and nouns,Person Marking on Adpositions,Yelî Dnye,,,Henderson 1995
+24,52A,Differentiation,Comitatives and Instrumentals,Yelî Dnye,,,Henderson 1995
+25,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Yelî Dnye,,,Henderson 1975
+26,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Yelî Dnye,,,Henderson 1975
+27,81A,SOV,"Order of Subject, Object and Verb",Yelî Dnye,,,Henderson 1975
+28,82A,SV,Order of Subject and Verb,Yelî Dnye,,,Henderson 1975
+29,83A,OV,Order of Object and Verb,Yelî Dnye,,,Henderson 1975
+30,85A,Postpositions,Order of Adposition and Noun Phrase,Yelî Dnye,,,Henderson 1995
+31,86A,Genitive-Noun,Order of Genitive and Noun,Yelî Dnye,,,Henderson 1975
+32,87A,Noun-Adjective,Order of Adjective and Noun,Yelî Dnye,,,Henderson 1975
+33,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Yelî Dnye,,,Henderson 1995
+34,89A,Noun-Numeral,Order of Numeral and Noun,Yelî Dnye,,,Henderson 1975
+35,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yelî Dnye,,,
+36,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yelî Dnye,,,
+37,100A,Split,Alignment of Verbal Person Marking,Yelî Dnye,,,Henderson 1995
+38,101A,Subject affixes on verb,Expression of Pronominal Subjects,Yelî Dnye,,,Henderson 1975
+39,102A,Both the A and P arguments,Verbal Person Marking,Yelî Dnye,,,Henderson 1995
+40,103A,Zero in some 3sg forms,Third Person Zero of Verbal Person Marking,Yelî Dnye,,,Henderson 1995
+41,104A,P precedes A,Order of Person Markers on the Verb,Yelî Dnye,,,Henderson 1995
+42,107A,Absent,Passive Constructions,Yelî Dnye,,,Henderson 1995
+43,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Yelî Dnye,,,Henderson 1995

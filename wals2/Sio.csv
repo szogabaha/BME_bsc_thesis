@@ -1,0 +1,43 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Sio,,,Soetenga 1993
+1,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Sio,,,Soetenga 1993
+2,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Sio,,,Soetenga 1993
+3,17A,No rhythmic stress,Rhythm Types,Sio,,,Soetenga 1993
+4,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Sio,,,Clark and Clark 1987
+5,37A,"No definite, but indefinite article",Definite Articles,Sio,,,Clark and Clark 1987
+6,38A,Indefinite word distinct from 'one',Indefinite Articles,Sio,,,Clark and Clark 1987
+7,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sio,,,Clark and Clark 1987
+8,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Sio,,,Clark and Clark 1987
+9,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Sio,,,Clark and Clark 1987
+10,81A,SVO,"Order of Subject, Object and Verb",Sio,,,Clark and Clark 1987
+11,82A,SV,Order of Subject and Verb,Sio,,,Clark and Clark 1987
+12,83A,VO,Order of Object and Verb,Sio,,,Clark and Clark 1987
+13,84A,VOX,"Order of Object, Oblique, and Verb",Sio,,,Clark and Clark 1987
+14,85A,Prepositions,Order of Adposition and Noun Phrase,Sio,,,Clark and Clark 1987
+15,86A,Genitive-Noun,Order of Genitive and Noun,Sio,,,Clark and Clark 1987
+16,87A,Noun-Adjective,Order of Adjective and Noun,Sio,,,Clark and Clark 1987
+17,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sio,,,Clark and Clark 1987
+18,89A,Noun-Numeral,Order of Numeral and Noun,Sio,,,Clark and Clark 1987
+19,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sio,,,Clark and Clark 1987
+20,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sio,,,Clark and Clark 1987
+21,91A,No dominant order,Order of Degree Word and Adjective,Sio,,,Clark and Clark 1987
+22,92A,Final,Position of Polar Question Particles,Sio,,,Clark and Clark 1987
+23,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sio,,,Clark and Clark 1987
+24,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Sio,,,Clark and Clark 1987
+25,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sio,,,
+26,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sio,,,
+27,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sio,,,
+28,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sio,,,Clark and Clark 1987
+29,112A,Negative particle,Negative Morphemes,Sio,,,Clark and Clark 1987
+30,116A,Question particle,Polar Questions,Sio,,,Clark and Clark 1987
+31,143A,VNeg,Order of Negative Morpheme and Verb,Sio,,,Clark and Clark 1987
+32,143E,None,Preverbal Negative Morphemes,Sio,,,Clark and Clark 1987
+33,143F,VNeg,Postverbal Negative Morphemes,Sio,,,Clark and Clark 1987
+34,143G,None,Minor morphological means of signaling negation,Sio,,,Clark and Clark 1987
+35,144A,SVONeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sio,,,Clark and Clark 1987
+36,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sio,,,Clark and Clark 1987
+37,144D,SVONeg,The Position of Negative Morphemes in SVO Languages,Sio,,,Clark and Clark 1987
+38,144H,No NegSVO,NegSVO Order,Sio,,,Clark and Clark 1987
+39,144I,No SNegVO,SNegVO Order,Sio,,,Clark and Clark 1987
+40,144J,No SVNegO,SVNegO Order,Sio,,,Clark and Clark 1987
+41,144K,NoDoubleNeg,SVONeg Order,Sio,,,Clark and Clark 1987

@@ -1,0 +1,57 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,10A,Contrast present,Vowel Nasalization,Teribe,,,Quesada 2000
+1,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Teribe,,,Quesada 2000
+2,33A,Plural suffix,Coding of Nominal Plurality,Teribe,,,Quesada 2000
+3,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Teribe,,,Quesada 2000
+4,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Teribe,,,Quesada 2000
+5,48A,No person marking,Person Marking on Adpositions,Teribe,,,Quesada 2000
+6,51A,No case affixes or adpositional clitics,Position of Case Affixes,Teribe,,,Quesada 2000
+7,55A,Obligatory,Numeral Classifiers,Teribe,,,Quesada 2000
+8,56A,Formally different,Conjunctions and Universal Quantifiers,Teribe,,,Quesada 2000
+9,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Teribe,,,Quesada 2000
+10,60A,Adjectives and relative clauses collapsed,"Genitives, Adjectives and Relative Clauses",Teribe,,,Quesada 2000
+11,64A,Differentiation,Nominal and Verbal Conjunction,Teribe,,,Quesada 2000
+12,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Teribe,,,Quesada 2000
+13,81A,SOV,"Order of Subject, Object and Verb",Teribe,,,Quesada 2000
+14,82A,SV,Order of Subject and Verb,Teribe,,,Quesada 2000
+15,83A,OV,Order of Object and Verb,Teribe,,,Quesada 2000
+16,85A,Postpositions,Order of Adposition and Noun Phrase,Teribe,,,Quesada 2000
+17,86A,Genitive-Noun,Order of Genitive and Noun,Teribe,,,Quesada 2000
+18,87A,Noun-Adjective,Order of Adjective and Noun,Teribe,,,Quesada 2000
+19,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Teribe,,,Quesada 2000
+20,89A,Noun-Numeral,Order of Numeral and Noun,Teribe,,,Quesada 2000
+21,90A,Noun-Relative clause,Order of Relative Clause and Noun,Teribe,,,Quesada 2000
+22,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Teribe,,,Quesada 2000
+23,92A,Final,Position of Polar Question Particles,Teribe,,,Quesada 2000
+24,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Teribe,,,Quesada 2000
+25,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Teribe,,,
+26,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Teribe,,,
+27,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Teribe,,,
+28,100A,Split,Alignment of Verbal Person Marking,Teribe,,,Quesada 2000
+29,101A,Subject affixes on verb,Expression of Pronominal Subjects,Teribe,,,Quesada 2000
+30,102A,Only the A argument,Verbal Person Marking,Teribe,,,Quesada 2000
+31,103A,Zero in some 3sg forms,Third Person Zero of Verbal Person Marking,Teribe,,,Quesada 2000
+32,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Teribe,,,Quesada 2000
+33,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Teribe,,,Quesada 2000
+34,107A,Absent,Passive Constructions,Teribe,,,Quesada 2000
+35,112A,Negative particle,Negative Morphemes,Teribe,,,Quesada 2000
+36,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Teribe,,,Quesada 2000
+37,116A,Question particle,Polar Questions,Teribe,,,Quesada 2000
+38,124A,Both construction types exist,'Want' Complement Subjects,Teribe,,,Quesada 2000
+39,129A,Different,Hand and Arm,Teribe,,,Arroyo 1972
+40,130A,Different,Finger and Hand,Teribe,,,Arroyo 1972
+41,132A,5.5,Number of Non-Derived Basic Colour Categories,Teribe,,,
+42,133A,7-7.5,Number of Basic Colour Categories,Teribe,,,
+43,134A,Green/blue,Green and Blue,Teribe,,,
+44,135A,Red vs. yellow,Red and Yellow,Teribe,,,
+45,143A,VNeg,Order of Negative Morpheme and Verb,Teribe,,,Quesada 2000
+46,143E,None,Preverbal Negative Morphemes,Teribe,,,Quesada 2000
+47,143F,VNeg,Postverbal Negative Morphemes,Teribe,,,Quesada 2000
+48,143G,None,Minor morphological means of signaling negation,Teribe,,,Quesada 2000
+49,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Teribe,,,Quesada 2000
+50,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Teribe,,,Quesada 2000
+51,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Teribe,,,Quesada 2000
+52,144P,No NegSOV,NegSOV Order,Teribe,,,Quesada 2000
+53,144Q,No SNegOV,SNegOV Order,Teribe,,,Quesada 2000
+54,144R,No SONegV,SONegV Order,Teribe,,,Quesada 2000
+55,144S,Word&NoDoubleNeg,SOVNeg Order,Teribe,,,Quesada 2000

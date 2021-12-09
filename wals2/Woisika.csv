@@ -1,0 +1,36 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Woisika,,,Stokhof 1979
+1,2A,Large (7-14),Vowel Quality Inventories,Woisika,,,Stokhof 1979
+2,3A,Low,Consonant-Vowel Ratio,Woisika,,,Stokhof 1979
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Woisika,,,Stokhof 1979
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Woisika,,,Stokhof 1979
+5,6A,None,Uvular Consonants,Woisika,,,Stokhof 1979
+6,7A,No glottalized consonants,Glottalized Consonants,Woisika,,,Stokhof 1979
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Woisika,,,Stokhof 1979
+8,11A,None,Front Rounded Vowels,Woisika,,,Stokhof 1979
+9,12A,Moderately complex,Syllable Structure,Woisika,,,Stokhof 1979
+10,13A,No tones,Tone,Woisika,,,Stokhof 1979
+11,14A,No fixed stress,Fixed Stress Locations,Woisika,,,Stokhof 1979
+12,15A,Not predictable,Weight-Sensitive Stress,Woisika,,,Stokhof 1979
+13,16A,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Woisika,,,Stokhof 1979
+14,17A,No rhythmic stress,Rhythm Types,Woisika,,,Stokhof 1979
+15,18A,All present,Absence of Common Consonants,Woisika,,,Stokhof 1979
+16,19A,None,Presence of Uncommon Consonants,Woisika,,,Stokhof 1979
+17,82A,SV,Order of Subject and Verb,Woisika,,,Stokhof 1982
+18,83A,OV,Order of Object and Verb,Woisika,,,Stokhof 1982
+19,85A,No dominant order,Order of Adposition and Noun Phrase,Woisika,,,Stokhof 1982
+20,86A,Genitive-Noun,Order of Genitive and Noun,Woisika,,,Stokhof 1982
+21,87A,Noun-Adjective,Order of Adjective and Noun,Woisika,,,Stokhof 1982
+22,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Woisika,,,Stokhof 1982
+23,89A,Noun-Numeral,Order of Numeral and Noun,Woisika,,,Stokhof 1982
+24,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Woisika,,,
+25,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Woisika,,,
+26,112A,Negative affix,Negative Morphemes,Woisika,,,Stokhof 1982
+27,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Woisika,,,Stokhof 1982
+28,143C,(Neg)[V-Neg],Optional Double Negation,Woisika,,,Stokhof 1982
+29,143E,NegV,Preverbal Negative Morphemes,Woisika,,,Stokhof 1982
+30,143F,[V-Neg],Postverbal Negative Morphemes,Woisika,,,Stokhof 1982
+31,143G,None,Minor morphological means of signaling negation,Woisika,,,Stokhof 1982
+32,144A,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Woisika,,,Stokhof 1982
+33,144L,OptDoubleNeg,The Position of Negative Morphemes in SOV Languages,Woisika,,,Stokhof 1982
+34,144O,SV & OV &  (Neg)[V-Neg],Optional Double Negation in SOV languages,Woisika,,,Stokhof 1982

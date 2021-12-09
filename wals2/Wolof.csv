@@ -1,0 +1,81 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Wolof,,,Ka 1994
+1,2A,Large (7-14),Vowel Quality Inventories,Wolof,,,Ka 1994
+2,3A,Average,Consonant-Vowel Ratio,Wolof,,,Ka 1994
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Wolof,,,Ka 1994
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Wolof,,,Ka 1994
+5,6A,None,Uvular Consonants,Wolof,,,Ka 1994
+6,7A,No glottalized consonants,Glottalized Consonants,Wolof,,,Ka 1994
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Wolof,,,Ka 1994
+8,10A,Contrast absent,Vowel Nasalization,Wolof,,,Sauvageot 1965
+9,11A,None,Front Rounded Vowels,Wolof,,,Ka 1994
+10,12A,Complex,Syllable Structure,Wolof,,,Ka 1994
+11,13A,No tones,Tone,Wolof,,,Ka 1994
+12,18A,All present,Absence of Common Consonants,Wolof,,,Ka 1994
+13,19A,None,Presence of Uncommon Consonants,Wolof,,,Ka 1994
+14,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Wolof,,,Sauvageot 1965
+15,27A,Full reduplication only,Reduplication,Wolof,,,Ka 2001
+16,33A,Mixed morphological plural,Coding of Nominal Plurality,Wolof,,,Sauvageot 1965
+17,35A,Person-number stem,Plurality in Independent Personal Pronouns,Wolof,,,Nikiforova 1981
+18,37A,Definite word distinct from demonstrative,Definite Articles,Wolof,,,Njie 1982
+19,38A,Indefinite word distinct from 'one',Indefinite Articles,Wolof,,,Sauvageot 1965
+20,47A,Identical,Intensifiers and Reflexive Pronouns,Wolof,,,
+21,51A,No case affixes or adpositional clitics,Position of Case Affixes,Wolof,,,Njie 1982
+22,53A,"First, two-th, three-th",Ordinal Numerals,Wolof,,,Malherbe and Sall 1989
+23,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Wolof,,,Sauvageot 1965
+24,63A,'And' identical to 'with',Noun Phrase Conjunction,Wolof,,,Rambaud 1903
+25,64A,Differentiation,Nominal and Verbal Conjunction,Wolof,,,Njie 1982
+26,65A,No grammatical marking,Perfective/Imperfective Aspect,Wolof,,,Dahl 1985
+27,66A,"Present, no remoteness distinctions",The Past Tense,Wolof,,,Dahl 1985
+28,67A,No inflectional future,The Future Tense,Wolof,,,Dahl 1985
+29,68A,Other perfect,The Perfect,Wolof,,,Dahl 1985
+30,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Wolof,,,Njie 1982
+31,70A,Second singular and second plural,The Morphological Imperative,Wolof,,,Sauvageot 1965
+32,71A,Normal imperative + special negative,The Prohibitive,Wolof,,,Sauvageot 1965
+33,72A,Maximal system,Imperative-Hortative Systems,Wolof,,,Sauvageot 1965
+34,74A,Verbal constructions,Situational Possibility,Wolof,,,Diouf and Yaguello 1991
+35,75A,Verbal constructions,Epistemic Possibility,Wolof,,,
+36,76A,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Wolof,,,
+37,81A,SVO,"Order of Subject, Object and Verb",Wolof,,,Njie 1982
+38,82A,SV,Order of Subject and Verb,Wolof,,,Sauvageot 1965
+39,83A,VO,Order of Object and Verb,Wolof,,,Sauvageot 1965
+40,84A,VOX,"Order of Object, Oblique, and Verb",Wolof,,,Njie 1982
+41,85A,Prepositions,Order of Adposition and Noun Phrase,Wolof,,,Sauvageot 1965
+42,86A,Noun-Genitive,Order of Genitive and Noun,Wolof,,,Sauvageot 1965
+43,87A,Noun-Adjective,Order of Adjective and Noun,Wolof,,,Sauvageot 1965
+44,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Wolof,,,Sauvageot 1965
+45,89A,Numeral-Noun,Order of Numeral and Noun,Wolof,,,Sauvageot 1965
+46,90A,Noun-Relative clause,Order of Relative Clause and Noun,Wolof,,,Sauvageot 1965
+47,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Wolof,,,Sauvageot 1965
+48,91A,Adjective-Degree word,Order of Degree Word and Adjective,Wolof,,,Njie 1982
+49,92A,Initial,Position of Polar Question Particles,Wolof,,,Njie 1982
+50,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wolof,,,Njie 1982
+51,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Wolof,,,Sauvageot 1965
+52,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wolof,,,
+53,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wolof,,,
+54,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wolof,,,
+55,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Wolof,,,Njie 1982
+56,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Wolof,,,Njie 1982
+57,109A,Benefactive and other; both bases,Applicative Constructions,Wolof,,,Sauvageot 1965
+58,109B,Instrument and locative,Other Roles of Applied Objects,Wolof,,,
+59,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Wolof,,,Njie 1982
+60,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Wolof,,,Njie 1982
+61,116A,Question particle,Polar Questions,Wolof,,,Njie 1982
+62,118A,Verbal encoding,Predicative Adjectives,Wolof,,,Rambaud 1903
+63,119A,Different,Nominal and Locational Predication,Wolof,,,Rambaud 1903
+64,120A,Impossible,Zero Copula for Predicate Nominals,Wolof,,,Rambaud 1903
+65,121A,Exceed,Comparative Constructions,Wolof,,,Rambaud 1903
+66,124A,Subject is left implicit,'Want' Complement Subjects,Wolof,,,Njie 1982
+67,138A,Others,Tea,Wolof,,,Malherbe and Rosenberg 1996
+68,143A,Type 1 / Type 4,Order of Negative Morpheme and Verb,Wolof,,,Njie 1982
+69,143E,NegV,Preverbal Negative Morphemes,Wolof,,,Njie 1982
+70,143F,[V-Neg],Postverbal Negative Morphemes,Wolof,,,Njie 1982
+71,143G,None,Minor morphological means of signaling negation,Wolof,,,Njie 1982
+72,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Wolof,,,Njie 1982
+73,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wolof,,,Njie 1982
+74,144D,More than one construction,The Position of Negative Morphemes in SVO Languages,Wolof,,,Njie 1982
+75,144E,SNegVO/S[V-Neg]O,Multiple Negative Constructions in SVO Languages,Wolof,,,Njie 1982
+76,144H,No NegSVO,NegSVO Order,Wolof,,,Njie 1982
+77,144I,Word&NoDoubleNeg,SNegVO Order,Wolof,,,Njie 1982
+78,144J,Suffix&NoDoubleNeg,SVNegO Order,Wolof,,,Njie 1982
+79,144K,No SVONeg,SVONeg Order,Wolof,,,Njie 1982

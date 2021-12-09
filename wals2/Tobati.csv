@@ -1,0 +1,29 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,51A,Postpositional clitics,Position of Case Affixes,Tobati,,,Donohue 2002
+1,81A,OSV,"Order of Subject, Object and Verb",Tobati,,,Donohue 2002
+2,82A,SV,Order of Subject and Verb,Tobati,,,Donohue 2002
+3,83A,OV,Order of Object and Verb,Tobati,,,Donohue 2002
+4,85A,Postpositions,Order of Adposition and Noun Phrase,Tobati,,,Donohue 2002
+5,86A,Genitive-Noun,Order of Genitive and Noun,Tobati,,,Donohue 2002
+6,87A,Noun-Adjective,Order of Adjective and Noun,Tobati,,,Donohue 2002
+7,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tobati,,,Donohue 2002
+8,89A,Noun-Numeral,Order of Numeral and Noun,Tobati,,,Donohue 2002
+9,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tobati,,,Donohue 2002
+10,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tobati,,,Donohue 2002
+11,92A,No question particle,Position of Polar Question Particles,Tobati,,,Donohue 2002
+12,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tobati,,,Donohue 2002
+13,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tobati,,,Donohue 2002
+14,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tobati,,,
+15,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tobati,,,
+16,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tobati,,,
+17,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Tobati,,,Donohue 2002
+18,112A,Negative particle,Negative Morphemes,Tobati,,,Donohue 2002
+19,116A,Interrogative intonation only,Polar Questions,Tobati,,,Donohue 2002
+20,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Tobati,,,Donohue 2002
+21,143C,NegV/[V-Neg]/Neg[V-Neg],Optional Double Negation,Tobati,,,Donohue 2002
+22,143E,NegV,Preverbal Negative Morphemes,Tobati,,,Donohue 2002
+23,143F,[V-Neg],Postverbal Negative Morphemes,Tobati,,,Donohue 2002
+24,143G,None,Minor morphological means of signaling negation,Tobati,,,Donohue 2002
+25,144A,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tobati,,,Donohue 2002
+26,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tobati,,,Donohue 2002
+27,144Y,OS(Neg)[V(-Neg)],The Position of Negative Morphemes in Object-Initial Languages,Tobati,,,Donohue 2002

@@ -1,0 +1,36 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,10A,Contrast absent,Vowel Nasalization,Tabla,,,Collier and Collier 1986
+1,14A,No fixed stress,Fixed Stress Locations,Tabla,,,Collier and Collier 1986
+2,15A,Right-oriented: One of the last three,Weight-Sensitive Stress,Tabla,,,Collier and Collier 1986
+3,16A,Prominence,Weight Factors in Weight-Sensitive Stress Systems,Tabla,,,Collier and Collier 1986
+4,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tabla,,,Abisay et al. 1983
+5,81A,SOV,"Order of Subject, Object and Verb",Tabla,,,Abisay et al. 1983
+6,82A,SV,Order of Subject and Verb,Tabla,,,Abisay et al. 1983
+7,83A,OV,Order of Object and Verb,Tabla,,,Abisay et al. 1983
+8,85A,Postpositions,Order of Adposition and Noun Phrase,Tabla,,,Abisay et al. 1983
+9,87A,Noun-Adjective,Order of Adjective and Noun,Tabla,,,Abisay et al. 1983
+10,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tabla,,,Abisay et al. 1983
+11,89A,Noun-Numeral,Order of Numeral and Noun,Tabla,,,Abisay et al. 1983
+12,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tabla,,,Abisay et al. 1983
+13,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tabla,,,
+14,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tabla,,,
+15,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Tabla,,,Abisay et al. 1983
+16,112A,Double negation,Negative Morphemes,Tabla,,,Abisay et al. 1983
+17,132A,5,Number of Non-Derived Basic Colour Categories,Tabla,,,
+18,133A,6-6.5,Number of Basic Colour Categories,Tabla,,,
+19,134A,Green/blue,Green and Blue,Tabla,,,
+20,135A,Red vs. yellow,Red and Yellow,Tabla,,,
+21,143A,OptTripleNeg&ObligDoubleNeg,Order of Negative Morpheme and Verb,Tabla,,,Abisay et al. 1983
+22,143B,ObligDoubleNeg&OptTripleNeg,Obligatory Double Negation,Tabla,,,Abisay et al. 1983
+23,143D,[V-Neg]Neg&OptNegInfix or Pref,Optional Triple Negation,Tabla,,,Abisay et al. 1983
+24,143E,[Neg-V],Preverbal Negative Morphemes,Tabla,,,Abisay et al. 1983
+25,143F,VNeg&[V-Neg],Postverbal Negative Morphemes,Tabla,,,Abisay et al. 1983
+26,143G,NegInfix,Minor morphological means of signaling negation,Tabla,,,Abisay et al. 1983
+27,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tabla,,,Abisay et al. 1983
+28,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tabla,,,Abisay et al. 1983
+29,144L,ObligDoubleNeg,The Position of Negative Morphemes in SOV Languages,Tabla,,,Abisay et al. 1983
+30,144N,SO[V-Neg]Neg & OptNegPref/Infix,Obligatory Double Negation in SOV languages,Tabla,,,Abisay et al. 1983
+31,144P,No NegSOV,NegSOV Order,Tabla,,,Abisay et al. 1983
+32,144Q,No SNegOV,SNegOV Order,Tabla,,,Abisay et al. 1983
+33,144R,Prefix&OnlyWithAnotherNeg,SONegV Order,Tabla,,,Abisay et al. 1983
+34,144S,Type 5 / Type 6,SOVNeg Order,Tabla,,,Abisay et al. 1983

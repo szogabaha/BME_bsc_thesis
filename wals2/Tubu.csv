@@ -1,0 +1,48 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tubu,,,Tucker and Bryan 1966
+1,33A,Plural suffix,Coding of Nominal Plurality,Tubu,,,Tucker and Bryan 1966
+2,37A,Definite word distinct from demonstrative,Definite Articles,Tubu,,,Tucker and Bryan 1966
+3,38A,"No indefinite, but definite article",Indefinite Articles,Tubu,,,Tucker and Bryan 1966
+4,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tubu,,,Lukas 1953
+5,52A,Differentiation,Comitatives and Instrumentals,Tubu,,,Stolz 1996
+6,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tubu,,,Tucker and Bryan 1966
+7,63A,'And' different from 'with',Noun Phrase Conjunction,Tubu,,,Lukas 1953
+8,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tubu,,,Tucker and Bryan 1966
+9,70A,Second singular and second plural,The Morphological Imperative,Tubu,,,Lukas 1953
+10,71A,Special imperative + special negative,The Prohibitive,Tubu,,,Lukas 1953
+11,72A,Maximal system,Imperative-Hortative Systems,Tubu,,,Le Coeur and Le Coeur 1956
+12,73A,Inflectional optative absent,The Optative,Tubu,,,Le Coeur and Le Coeur 1956
+13,74A,Verbal constructions,Situational Possibility,Tubu,,,Lukas 1953
+14,81A,SOV,"Order of Subject, Object and Verb",Tubu,,,Tucker and Bryan 1966
+15,82A,SV,Order of Subject and Verb,Tubu,,,Tucker and Bryan 1966
+16,83A,OV,Order of Object and Verb,Tubu,,,Tucker and Bryan 1966
+17,85A,Postpositions,Order of Adposition and Noun Phrase,Tubu,,,Lukas 1953
+18,86A,Noun-Genitive,Order of Genitive and Noun,Tubu,,,Tucker and Bryan 1966
+19,87A,Noun-Adjective,Order of Adjective and Noun,Tubu,,,Tucker and Bryan 1966
+20,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tubu,,,Lukas 1953
+21,89A,Noun-Numeral,Order of Numeral and Noun,Tubu,,,Tucker and Bryan 1966
+22,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tubu,,,Tucker and Bryan 1966
+23,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tubu,,,Tucker and Bryan 1966
+24,92A,Final,Position of Polar Question Particles,Tubu,,,Lukas 1953
+25,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tubu,,,Lukas 1953
+26,94A,Mixed,Order of Adverbial Subordinator and Clause,Tubu,,,Lukas 1953
+27,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tubu,,,
+28,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tubu,,,
+29,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tubu,,,
+30,112A,Negative affix,Negative Morphemes,Tubu,,,Tucker and Bryan 1966
+31,116A,Question particle,Polar Questions,Tubu,,,Lukas 1953
+32,117A,'Have',Predicative Possession,Tubu,,,Lukas 1953
+33,118A,Mixed,Predicative Adjectives,Tubu,,,Lukas 1953
+34,119A,Different,Nominal and Locational Predication,Tubu,,,Lukas 1953
+35,120A,Possible,Zero Copula for Predicate Nominals,Tubu,,,Lukas 1953
+36,121A,Locational,Comparative Constructions,Tubu,,,Lukas 1953
+37,143A,[V-Neg],Order of Negative Morpheme and Verb,Tubu,,,Tucker and Bryan 1966
+38,143E,None,Preverbal Negative Morphemes,Tubu,,,Tucker and Bryan 1966
+39,143F,[V-Neg],Postverbal Negative Morphemes,Tubu,,,Tucker and Bryan 1966
+40,143G,None,Minor morphological means of signaling negation,Tubu,,,Tucker and Bryan 1966
+41,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tubu,,,Tucker and Bryan 1966
+42,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tubu,,,Tucker and Bryan 1966
+43,144P,No NegSOV,NegSOV Order,Tubu,,,Tucker and Bryan 1966
+44,144Q,No SNegOV,SNegOV Order,Tubu,,,Tucker and Bryan 1966
+45,144R,No SONegV,SONegV Order,Tubu,,,Tucker and Bryan 1966
+46,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tubu,,,Tucker and Bryan 1966

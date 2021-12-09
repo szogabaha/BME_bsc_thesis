@@ -1,0 +1,116 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Yidiny,,,Dixon 1977a
+1,2A,Small (2-4),Vowel Quality Inventories,Yidiny,,,Dixon 1977a
+2,3A,Average,Consonant-Vowel Ratio,Yidiny,,,Dixon 1977a
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Yidiny,,,Dixon 1977a
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yidiny,,,Dixon 1977a
+5,6A,None,Uvular Consonants,Yidiny,,,Dixon 1977a
+6,7A,No glottalized consonants,Glottalized Consonants,Yidiny,,,Dixon 1977a
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yidiny,,,Dixon 1977a
+8,9A,Initial velar nasal,The Velar Nasal,Yidiny,,,Dixon 1977a
+9,10A,Contrast absent,Vowel Nasalization,Yidiny,,,Dixon 1977a
+10,11A,None,Front Rounded Vowels,Yidiny,,,Dixon 1977a
+11,12A,Moderately complex,Syllable Structure,Yidiny,,,Dixon 1977a
+12,13A,No tones,Tone,Yidiny,,,Dixon 1977a
+13,14A,No fixed stress,Fixed Stress Locations,Yidiny,,,Dixon 1977a
+14,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Yidiny,,,Dixon 1977a
+15,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Yidiny,,,Dixon 1977a
+16,17A,Dual: both trochaic and iambic,Rhythm Types,Yidiny,,,Dixon 1977a
+17,18A,No fricatives,Absence of Common Consonants,Yidiny,,,Dixon 1977a
+18,19A,None,Presence of Uncommon Consonants,Yidiny,,,Dixon 1977a
+19,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Yidiny,,,Dixon 1977a
+20,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Yidiny,,,Dixon 1977a
+21,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Yidiny,,,Dixon 1977a
+22,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yidiny,,,Dixon 1977a
+23,27A,Productive full and partial reduplication,Reduplication,Yidiny,,,Dixon 1977a
+24,28A,Core cases only,Case Syncretism,Yidiny,,,Dixon 1977a
+25,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Yidiny,,,Dixon 1977a
+26,30A,None,Number of Genders,Yidiny,,,Dixon 1977a
+27,31A,No gender,Sex-based and Non-sex-based Gender Systems,Yidiny,,,Dixon 1977a
+28,32A,No gender,Systems of Gender Assignment,Yidiny,,,Dixon 1977a
+29,33A,No plural,Coding of Nominal Plurality,Yidiny,,,Dixon 1977a
+30,34A,No nominal plural,Occurrence of Nominal Plurality,Yidiny,,,Dixon 1977a
+31,35A,Person-number stem,Plurality in Independent Personal Pronouns,Yidiny,,,Dixon 1977a
+32,36A,Unique affixal associative plural,The Associative Plural,Yidiny,,,Dixon 1977a
+33,37A,No definite or indefinite article,Definite Articles,Yidiny,,,Dixon 1977a
+34,38A,No definite or indefinite article,Indefinite Articles,Yidiny,,,Dixon 1977a
+35,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Yidiny,,,Dixon 1977a
+36,39B,No inclusive/exclusive opposition,Inclusive/Exclusive Forms in Pama-Nyungan,Yidiny,,,
+37,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Yidiny,,,Dixon 1977a
+38,41A,Three-way contrast,Distance Contrasts in Demonstratives,Yidiny,,,Dixon 1977a
+39,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Yidiny,,,Dixon 1977a
+40,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yidiny,,,Dixon 1977a
+41,46A,Interrogative-based,Indefinite Pronouns,Yidiny,,,Dixon 1977a
+42,48A,No adpositions,Person Marking on Adpositions,Yidiny,,,Dixon 1977a
+43,49A,8-9 cases,Number of Cases,Yidiny,,,Dixon 1977a
+44,50A,Qualitatively asymmetrical,Asymmetrical Case-Marking,Yidiny,,,Dixon 1977a
+45,51A,Case suffixes,Position of Case Affixes,Yidiny,,,Dixon 1977a
+46,55A,Absent,Numeral Classifiers,Yidiny,,,Dixon 1977a
+47,56A,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Yidiny,,,Dixon 1977a
+48,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Yidiny,,,Dixon 1977a
+49,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Yidiny,,,Dixon 1977a
+50,61A,Without marking,Adjectives without Nouns,Yidiny,,,Dixon 1977a
+51,63A,'And' different from 'with',Noun Phrase Conjunction,Yidiny,,,Dixon 1977a
+52,64A,Differentiation,Nominal and Verbal Conjunction,Yidiny,,,Dixon 1977a
+53,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yidiny,,,Dixon 1977a
+54,70A,Second person number-neutral,The Morphological Imperative,Yidiny,,,Dixon 1977a
+55,71A,Normal imperative + special negative,The Prohibitive,Yidiny,,,Dixon 1977a
+56,72A,Maximal system,Imperative-Hortative Systems,Yidiny,,,Dixon 1977a
+57,73A,Inflectional optative absent,The Optative,Yidiny,,,Dixon 1977a
+58,75A,Other,Epistemic Possibility,Yidiny,,,Dixon 1977a
+59,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Yidiny,,,Dixon 1977a
+60,78A,No grammatical evidentials,Coding of Evidentiality,Yidiny,,,Dixon 1977a
+61,81A,SOV,"Order of Subject, Object and Verb",Yidiny,,,Dixon 1977a
+62,82A,SV,Order of Subject and Verb,Yidiny,,,Dixon 1977a
+63,83A,OV,Order of Object and Verb,Yidiny,,,Dixon 1977a
+64,84A,OVX,"Order of Object, Oblique, and Verb",Yidiny,,,Dixon 1977a
+65,85A,No adpositions,Order of Adposition and Noun Phrase,Yidiny,,,Dixon 1977a
+66,86A,Genitive-Noun,Order of Genitive and Noun,Yidiny,,,Dixon 1977a
+67,87A,Noun-Adjective,Order of Adjective and Noun,Yidiny,,,Dixon 1977a
+68,88A,Mixed,Order of Demonstrative and Noun,Yidiny,,,Dixon 1977a
+69,89A,Noun-Numeral,Order of Numeral and Noun,Yidiny,,,Dixon 1977a
+70,90A,Adjoined,Order of Relative Clause and Noun,Yidiny,,,Dixon 1977a
+71,90F,Adjoined relative clause dominant,Adjoined relative clauses,Yidiny,,,Dixon 1977a
+72,92A,No question particle,Position of Polar Question Particles,Yidiny,,,Dixon 1977a
+73,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yidiny,,,Dixon 1977a
+74,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yidiny,,,
+75,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yidiny,,,
+76,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Yidiny,,,Dixon 1977a
+77,99A,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Yidiny,,,Dixon 1977a
+78,100A,Neutral,Alignment of Verbal Person Marking,Yidiny,,,Dixon 1977a
+79,101A,Optional pronouns in subject position,Expression of Pronominal Subjects,Yidiny,,,Dixon 1977a
+80,102A,No person marking,Verbal Person Marking,Yidiny,,,Dixon 1977a
+81,103A,No person marking,Third Person Zero of Verbal Person Marking,Yidiny,,,Dixon 1977a
+82,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Yidiny,,,Dixon 1977a
+83,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Yidiny,,,Dixon 1977a
+84,106A,No reciprocals,Reciprocal Constructions,Yidiny,,,Dixon 1977a
+85,107A,Absent,Passive Constructions,Yidiny,,,Dixon 1977a
+86,108A,Oblique patient,Antipassive Constructions,Yidiny,,,Dixon 1977a
+87,108B,productive,Productivity of the Antipassive Construction,Yidiny,,,Dixon 1977a
+88,109A,Non-benefactive object; both bases,Applicative Constructions,Yidiny,,,Dixon 1977a
+89,109B,No other roles (= Only benefactive),Other Roles of Applied Objects,Yidiny,,,
+90,110A,Purposive but no sequential,Periphrastic Causative Constructions,Yidiny,,,Dixon 1977a
+91,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Yidiny,,,Dixon 1977a
+92,112A,Negative particle,Negative Morphemes,Yidiny,,,Dixon 1977a
+93,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Yidiny,,,Dixon 1977a
+94,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Yidiny,,,Dixon 1977a
+95,116A,Interrogative intonation only,Polar Questions,Yidiny,,,Dixon 1977a
+96,117A,Conjunctional,Predicative Possession,Yidiny,,,Dixon 1977a
+97,118A,Nonverbal encoding,Predicative Adjectives,Yidiny,,,Dixon 1977a
+98,119A,Identical,Nominal and Locational Predication,Yidiny,,,Dixon 1977a
+99,120A,Possible,Zero Copula for Predicate Nominals,Yidiny,,,Dixon 1977a
+100,122A,Non-reduction,Relativization on Subjects,Yidiny,,,Dixon 1977a
+101,125A,Deranked,Purpose Clauses,Yidiny,,,Dixon 1977a
+102,126A,Deranked,'When' Clauses,Yidiny,,,Dixon 1977a
+103,131A,Restricted,Numeral Bases,Yidiny,,,Dixon 1991a
+104,143A,NegV,Order of Negative Morpheme and Verb,Yidiny,,,Dixon 1977a
+105,143E,NegV,Preverbal Negative Morphemes,Yidiny,,,Dixon 1977a
+106,143F,None,Postverbal Negative Morphemes,Yidiny,,,Dixon 1977a
+107,143G,None,Minor morphological means of signaling negation,Yidiny,,,Dixon 1977a
+108,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Yidiny,,,Dixon 1977a
+109,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yidiny,,,Dixon 1977a
+110,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Yidiny,,,Dixon 1977a
+111,144P,No NegSOV,NegSOV Order,Yidiny,,,Dixon 1977a
+112,144Q,No SNegOV,SNegOV Order,Yidiny,,,Dixon 1977a
+113,144R,Word&NoDoubleNeg,SONegV Order,Yidiny,,,Dixon 1977a
+114,144S,NoSOVNeg,SOVNeg Order,Yidiny,,,Dixon 1977a

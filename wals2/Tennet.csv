@@ -1,0 +1,41 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tennet,,,Randal 1998
+1,33A,Plural suffix,Coding of Nominal Plurality,Tennet,,,Randal 1998
+2,37A,No definite or indefinite article,Definite Articles,Tennet,,,Randal 1998
+3,38A,No definite or indefinite article,Indefinite Articles,Tennet,,,Randal 1998
+4,51A,Case suffixes,Position of Case Affixes,Tennet,,,Randal 1998
+5,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tennet,,,Randal 1998
+6,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tennet,,,Randal 1998
+7,81A,VSO,"Order of Subject, Object and Verb",Tennet,,,Randal 1998
+8,82A,VS,Order of Subject and Verb,Tennet,,,Randal 1998
+9,83A,VO,Order of Object and Verb,Tennet,,,Randal 1998
+10,84A,VOX,"Order of Object, Oblique, and Verb",Tennet,,,Randal 1998
+11,85A,No dominant order,Order of Adposition and Noun Phrase,Tennet,,,Randal 1998
+12,86A,Noun-Genitive,Order of Genitive and Noun,Tennet,,,Randal 1998
+13,87A,Noun-Adjective,Order of Adjective and Noun,Tennet,,,Randal 1998
+14,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tennet,,,Randal 1998
+15,89A,Noun-Numeral,Order of Numeral and Noun,Tennet,,,Randal 1998
+16,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tennet,,,Randal 1998
+17,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tennet,,,Randal 1998
+18,92A,No question particle,Position of Polar Question Particles,Tennet,,,Randal 1998
+19,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tennet,,,Randal 1998
+20,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tennet,,,Randal 1998
+21,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tennet,,,
+22,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tennet,,,
+23,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tennet,,,
+24,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tennet,,,Randal 1998
+25,112A,Negative particle,Negative Morphemes,Tennet,,,Randal 1998
+26,116A,Interrogative intonation only,Polar Questions,Tennet,,,Randal 1998
+27,124A,Subject is expressed overtly,'Want' Complement Subjects,Tennet,,,Randal 1998
+28,143A,NegV,Order of Negative Morpheme and Verb,Tennet,,,Randal 1998
+29,143E,NegV,Preverbal Negative Morphemes,Tennet,,,Randal 1998
+30,143F,None,Postverbal Negative Morphemes,Tennet,,,Randal 1998
+31,143G,None,Minor morphological means of signaling negation,Tennet,,,Randal 1998
+32,144A,NegSVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Tennet,,,Randal 1998
+33,144B,"Beginning, not immed preverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tennet,,,Randal 1998
+34,144C,"VSO, but NegSVO",Languages with different word order in negative clauses,Tennet,,,Randal 1998
+35,144D,VSO but NegSVO,The Position of Negative Morphemes in SVO Languages,Tennet,,,Randal 1998
+36,144H,NoDoubleNeg,NegSVO Order,Tennet,,,Randal 1998
+37,144I,No SNegVO,SNegVO Order,Tennet,,,Randal 1998
+38,144J,No SVNegO,SVNegO Order,Tennet,,,Randal 1998
+39,144K,No SVONeg,SVONeg Order,Tennet,,,Randal 1998

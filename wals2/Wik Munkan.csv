@@ -1,0 +1,39 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Wik Munkan,,,McConnel 1945
+1,2A,Average (5-6),Vowel Quality Inventories,Wik Munkan,,,McConnel 1945
+2,3A,Moderately low,Consonant-Vowel Ratio,Wik Munkan,,,McConnel 1945
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Wik Munkan,,,McConnel 1945
+4,5A,Other,Voicing and Gaps in Plosive Systems,Wik Munkan,,,McConnel 1945
+5,6A,None,Uvular Consonants,Wik Munkan,,,McConnel 1945
+6,7A,No glottalized consonants,Glottalized Consonants,Wik Munkan,,,McConnel 1945
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Wik Munkan,,,McConnel 1945
+8,11A,None,Front Rounded Vowels,Wik Munkan,,,McConnel 1945
+9,12A,Moderately complex,Syllable Structure,Wik Munkan,,,McConnel 1945
+10,13A,No tones,Tone,Wik Munkan,,,McConnel 1945
+11,18A,No fricatives,Absence of Common Consonants,Wik Munkan,,,McConnel 1945
+12,19A,None,Presence of Uncommon Consonants,Wik Munkan,,,McConnel 1945
+13,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wik Munkan,,,Godfrey 1964
+14,27A,Productive full and partial reduplication,Reduplication,Wik Munkan,,,Oates and Oates 1964
+15,39B,Inclusive and exclusive differentiated,Inclusive/Exclusive Forms in Pama-Nyungan,Wik Munkan,,,
+16,46A,Interrogative-based,Indefinite Pronouns,Wik Munkan,,,Mushin 1995
+17,51A,Case suffixes,Position of Case Affixes,Wik Munkan,,,Kilham et al. 1986
+18,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Wik Munkan,,,Kilham et al. 1986
+19,81A,SOV,"Order of Subject, Object and Verb",Wik Munkan,,,Godfrey 1964
+20,82A,SV,Order of Subject and Verb,Wik Munkan,,,Kilham et al. 1986
+21,83A,OV,Order of Object and Verb,Wik Munkan,,,Godfrey 1964
+22,86A,Genitive-Noun,Order of Genitive and Noun,Wik Munkan,,,Godfrey 1964
+23,87A,Noun-Adjective,Order of Adjective and Noun,Wik Munkan,,,Godfrey 1964
+24,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Wik Munkan,,,Kilham et al. 1986
+25,89A,Noun-Numeral,Order of Numeral and Noun,Wik Munkan,,,Godfrey 1964
+26,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wik Munkan,,,Kilham et al. 1986
+27,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wik Munkan,,,
+28,112A,Negative particle,Negative Morphemes,Wik Munkan,,,Kilham et al. 1986
+29,129A,Different,Hand and Arm,Wik Munkan,,,Kilham et al. 1986
+30,130A,Different,Finger and Hand,Wik Munkan,,,Kilham et al. 1986
+31,143A,NegV,Order of Negative Morpheme and Verb,Wik Munkan,,,Kilham et al. 1986
+32,143E,NegV,Preverbal Negative Morphemes,Wik Munkan,,,Kilham et al. 1986
+33,143F,None,Postverbal Negative Morphemes,Wik Munkan,,,Kilham et al. 1986
+34,143G,None,Minor morphological means of signaling negation,Wik Munkan,,,Kilham et al. 1986
+35,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Wik Munkan,,,Kilham et al. 1986
+36,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Wik Munkan,,,Kilham et al. 1986
+37,144S,NoSOVNeg,SOVNeg Order,Wik Munkan,,,Kilham et al. 1986

@@ -1,0 +1,18 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Shan,,,Chan 1980
+1,2A,Average (5-6),Vowel Quality Inventories,Shan,,,Chan 1980
+2,3A,Average,Consonant-Vowel Ratio,Shan,,,Chan 1980
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Shan,,,Chan 1980
+4,5A,Other,Voicing and Gaps in Plosive Systems,Shan,,,Chan 1980
+5,6A,None,Uvular Consonants,Shan,,,Chan 1980
+6,7A,No glottalized consonants,Glottalized Consonants,Shan,,,Chan 1980
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Shan,,,Chan 1980
+8,11A,None,Front Rounded Vowels,Shan,,,Chan 1980
+9,12A,Moderately complex,Syllable Structure,Shan,,,Chan 1980
+10,13A,Complex tone system,Tone,Shan,,,Chan 1980
+11,18A,All present,Absence of Common Consonants,Shan,,,Chan 1980
+12,19A,None,Presence of Uncommon Consonants,Shan,,,Chan 1980
+13,81A,SVO,"Order of Subject, Object and Verb",Shan,,,Cushing 1888
+14,82A,SV,Order of Subject and Verb,Shan,,,Cushing 1888
+15,83A,VO,Order of Object and Verb,Shan,,,Cushing 1888
+16,86A,Noun-Genitive,Order of Genitive and Noun,Shan,,,Cushing 1888

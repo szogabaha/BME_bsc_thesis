@@ -1,0 +1,43 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No initial velar nasal,The Velar Nasal,Ute,,,Davis 1966
+1,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Ute,,,Southern Ute Tribe 1980
+2,33A,Plural suffix,Coding of Nominal Plurality,Ute,,,Southern Ute Tribe 1980
+3,37A,Demonstrative word used as definite article,Definite Articles,Ute,,,Southern Ute Tribe 1980
+4,41A,Two-way contrast,Distance Contrasts in Demonstratives,Ute,,,Sapir 1930
+5,42A,Identical,Pronominal and Adnominal Demonstratives,Ute,,,Southern Ute Tribe 1980
+6,51A,Case suffixes,Position of Case Affixes,Ute,,,Southern Ute Tribe 1980
+7,53A,"First, second, three-th",Ordinal Numerals,Ute,,,Southern Ute Tribe 1980
+8,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Ute,,,Southern Ute Tribe 1980
+9,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Ute,,,Southern Ute Tribe 1980
+10,79A,None,Suppletion According to Tense and Aspect,Ute,,,Southern Ute Tribe 1980
+11,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Ute,,,
+12,80A,"Singular-plural pairs, suppletion",Verbal Number and Suppletion,Ute,,,Southern Ute Tribe 1980
+13,81A,No dominant order,"Order of Subject, Object and Verb",Ute,,,Southern Ute Tribe 1980
+14,82A,No dominant order,Order of Subject and Verb,Ute,,,Southern Ute Tribe 1980
+15,83A,OV,Order of Object and Verb,Ute,,,Southern Ute Tribe 1980
+16,84A,No dominant order,"Order of Object, Oblique, and Verb",Ute,,,Southern Ute Tribe 1980
+17,85A,Postpositions,Order of Adposition and Noun Phrase,Ute,,,Southern Ute Tribe 1980
+18,86A,Genitive-Noun,Order of Genitive and Noun,Ute,,,Southern Ute Tribe 1980
+19,87A,Noun-Adjective,Order of Adjective and Noun,Ute,,,Southern Ute Tribe 1980
+20,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Ute,,,Southern Ute Tribe 1980
+21,89A,Numeral-Noun,Order of Numeral and Noun,Ute,,,Southern Ute Tribe 1980
+22,90A,Noun-Relative clause,Order of Relative Clause and Noun,Ute,,,Southern Ute Tribe 1980
+23,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Ute,,,Southern Ute Tribe 1980
+24,92A,Second position,Position of Polar Question Particles,Ute,,,Southern Ute Tribe 1980
+25,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Ute,,,
+26,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Ute,,,
+27,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Ute,,,
+28,101A,Subject clitics on variable host,Expression of Pronominal Subjects,Ute,,,Southern Ute Tribe 1980
+29,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Ute,,,Southern Ute Tribe 1980
+30,112A,Double negation,Negative Morphemes,Ute,,,Southern Ute Tribe 1980
+31,116A,Question particle,Polar Questions,Ute,,,Southern Ute Tribe 1980
+32,125A,Deranked,Purpose Clauses,Ute,,,Southern Ute Tribe 1980
+33,127A,Deranked,Reason Clauses,Ute,,,Southern Ute Tribe 1980
+34,128A,Balanced,Utterance Complement Clauses,Ute,,,Southern Ute Tribe 1980
+35,129A,Different,Hand and Arm,Ute,,,Anonymous 1979
+36,130A,Different,Finger and Hand,Ute,,,Anonymous 1979
+37,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Ute,,,Southern Ute Tribe 1980
+38,143B,[Neg-V-Neg],Obligatory Double Negation,Ute,,,Southern Ute Tribe 1980
+39,143E,[Neg-V],Preverbal Negative Morphemes,Ute,,,Southern Ute Tribe 1980
+40,143F,[V-Neg],Postverbal Negative Morphemes,Ute,,,Southern Ute Tribe 1980
+41,143G,None,Minor morphological means of signaling negation,Ute,,,Southern Ute Tribe 1980

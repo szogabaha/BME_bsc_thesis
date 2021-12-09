@@ -1,0 +1,36 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Zoque (Chimalapa),,,Johnson 2000
+1,37A,Definite word distinct from demonstrative,Definite Articles,Zoque (Chimalapa),,,Johnson 2000
+2,52A,Differentiation,Comitatives and Instrumentals,Zoque (Chimalapa),,,Knudson 1980
+3,64A,Identity,Nominal and Verbal Conjunction,Zoque (Chimalapa),,,Johnson 2000
+4,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Zoque (Chimalapa),,,Johnson 2000
+5,81A,SVO,"Order of Subject, Object and Verb",Zoque (Chimalapa),,,Johnson 2000
+6,82A,SV,Order of Subject and Verb,Zoque (Chimalapa),,,Johnson 2000
+7,83A,VO,Order of Object and Verb,Zoque (Chimalapa),,,Johnson 2000
+8,85A,Postpositions,Order of Adposition and Noun Phrase,Zoque (Chimalapa),,,Johnson 2000
+9,86A,Genitive-Noun,Order of Genitive and Noun,Zoque (Chimalapa),,,Johnson 2000
+10,87A,Adjective-Noun,Order of Adjective and Noun,Zoque (Chimalapa),,,Johnson 2000
+11,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Zoque (Chimalapa),,,Johnson 2000
+12,89A,Numeral-Noun,Order of Numeral and Noun,Zoque (Chimalapa),,,Johnson 2000
+13,90A,Noun-Relative clause,Order of Relative Clause and Noun,Zoque (Chimalapa),,,Johnson 2000
+14,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Zoque (Chimalapa),,,Johnson 2000
+15,91A,Degree word-Adjective,Order of Degree Word and Adjective,Zoque (Chimalapa),,,Johnson 2000
+16,92A,No question particle,Position of Polar Question Particles,Zoque (Chimalapa),,,Johnson 2000
+17,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Zoque (Chimalapa),,,Johnson 2000
+18,95A,VO and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Zoque (Chimalapa),,,
+19,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Zoque (Chimalapa),,,
+20,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Zoque (Chimalapa),,,
+21,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Zoque (Chimalapa),,,Johnson 2000
+22,112A,Negative particle,Negative Morphemes,Zoque (Chimalapa),,,Johnson 2000
+23,116A,Interrogative intonation only,Polar Questions,Zoque (Chimalapa),,,Johnson 2000
+24,124A,Desiderative verbal affix,'Want' Complement Subjects,Zoque (Chimalapa),,,Johnson 2000
+25,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Zoque (Chimalapa),,,Johnson 2000
+26,143C,Neg[V(-Neg)],Optional Double Negation,Zoque (Chimalapa),,,Johnson 2000
+27,143E,NegV,Preverbal Negative Morphemes,Zoque (Chimalapa),,,Johnson 2000
+28,143F,[V-Neg],Postverbal Negative Morphemes,Zoque (Chimalapa),,,Johnson 2000
+29,143G,None,Minor morphological means of signaling negation,Zoque (Chimalapa),,,Johnson 2000
+30,144A,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Zoque (Chimalapa),,,Johnson 2000
+31,144D,OptNeg,The Position of Negative Morphemes in SVO Languages,Zoque (Chimalapa),,,Johnson 2000
+32,144G,S[V(-Neg)]O & NegV,Optional Double Negation in SVO languages,Zoque (Chimalapa),,,Johnson 2000
+33,144J,Suffix&OnlyWithAnotherNeg,SVNegO Order,Zoque (Chimalapa),,,Johnson 2000
+34,144K,No SVONeg,SVONeg Order,Zoque (Chimalapa),,,Johnson 2000

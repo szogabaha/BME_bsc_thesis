@@ -1,0 +1,4 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Slovincian,,,Kurylowicz 1960
+1,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Slovincian,,,Kurylowicz 1960
+2,16A,Combined,Weight Factors in Weight-Sensitive Stress Systems,Slovincian,,,Kurylowicz 1960

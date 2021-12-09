@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wakhi,,,Grünberg 1988b
+1,33A,Plural suffix,Coding of Nominal Plurality,Wakhi,,,Lorimer 1958
+2,37A,Demonstrative word used as definite article,Definite Articles,Wakhi,,,Lorimer 1958
+3,51A,Case suffixes,Position of Case Affixes,Wakhi,,,Lorimer 1958
+4,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Wakhi,,,Lorimer 1958
+5,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Wakhi,,,Lorimer 1958
+6,81A,SOV,"Order of Subject, Object and Verb",Wakhi,,,Lorimer 1958
+7,82A,SV,Order of Subject and Verb,Wakhi,,,Lorimer 1958
+8,83A,OV,Order of Object and Verb,Wakhi,,,Lorimer 1958
+9,84A,OXV,"Order of Object, Oblique, and Verb",Wakhi,,,Lorimer 1958
+10,85A,No dominant order,Order of Adposition and Noun Phrase,Wakhi,,,Lorimer 1958
+11,86A,Genitive-Noun,Order of Genitive and Noun,Wakhi,,,Lorimer 1958
+12,87A,Adjective-Noun,Order of Adjective and Noun,Wakhi,,,Lorimer 1958
+13,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wakhi,,,Lorimer 1958
+14,89A,Numeral-Noun,Order of Numeral and Noun,Wakhi,,,Lorimer 1958
+15,90A,Noun-Relative clause,Order of Relative Clause and Noun,Wakhi,,,Grünberg 1988b
+16,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Wakhi,,,Grünberg 1988b
+17,92A,No question particle,Position of Polar Question Particles,Wakhi,,,Lorimer 1958
+18,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wakhi,,,Lorimer 1958
+19,94A,Internal subordinator word,Order of Adverbial Subordinator and Clause,Wakhi,,,Lorimer 1958
+20,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wakhi,,,
+21,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wakhi,,,
+22,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wakhi,,,
+23,112A,Negative particle,Negative Morphemes,Wakhi,,,Lorimer 1958
+24,116A,Interrogative verb morphology,Polar Questions,Wakhi,,,Lorimer 1958
+25,143A,NegV,Order of Negative Morpheme and Verb,Wakhi,,,Lorimer 1958
+26,143E,NegV,Preverbal Negative Morphemes,Wakhi,,,Lorimer 1958
+27,143F,None,Postverbal Negative Morphemes,Wakhi,,,Lorimer 1958
+28,143G,None,Minor morphological means of signaling negation,Wakhi,,,Lorimer 1958
+29,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Wakhi,,,Lorimer 1958
+30,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wakhi,,,Lorimer 1958
+31,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Wakhi,,,Lorimer 1958
+32,144P,No NegSOV,NegSOV Order,Wakhi,,,Lorimer 1958
+33,144Q,No SNegOV,SNegOV Order,Wakhi,,,Lorimer 1958
+34,144R,Word&NoDoubleNeg,SONegV Order,Wakhi,,,Lorimer 1958
+35,144S,NoSOVNeg,SOVNeg Order,Wakhi,,,Lorimer 1958

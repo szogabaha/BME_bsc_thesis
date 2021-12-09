@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Sardinian,,,Blasco 1986
+1,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Sardinian,,,Blasco 1986
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Sardinian,,,Blasco 1986
+3,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Sardinian,,,Jones 1988
+4,33A,Plural suffix,Coding of Nominal Plurality,Sardinian,,,Jones 1988
+5,53A,"One-th, two-th, three-th",Ordinal Numerals,Sardinian,,,Lausberg 1972
+6,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Sardinian,,,Jones 1988
+7,70A,Second singular and second plural,The Morphological Imperative,Sardinian,,,Jones 1988
+8,71A,Special imperative + normal negative,The Prohibitive,Sardinian,,,Jones 1988
+9,81A,SVO,"Order of Subject, Object and Verb",Sardinian,,,Jones 1988
+10,82A,SV,Order of Subject and Verb,Sardinian,,,Jones 1988
+11,83A,VO,Order of Object and Verb,Sardinian,,,Jones 1988
+12,87A,Noun-Adjective,Order of Adjective and Noun,Sardinian,,,Jones 1988
+13,89A,Numeral-Noun,Order of Numeral and Noun,Sardinian,,,Jones 1988
+14,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sardinian,,,Jones 1988
+15,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sardinian,,,Jones 1988
+16,91A,Degree word-Adjective,Order of Degree Word and Adjective,Sardinian,,,Jones 1988
+17,92A,Initial,Position of Polar Question Particles,Sardinian,,,Jones 1988
+18,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Sardinian,,,Jones 1988
+19,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sardinian,,,
+20,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sardinian,,,
+21,112A,Negative particle,Negative Morphemes,Sardinian,,,Jones 1988
+22,116A,Question particle,Polar Questions,Sardinian,,,Jones 1988
+23,143A,NegV,Order of Negative Morpheme and Verb,Sardinian,,,Jones 1988
+24,143E,NegV,Preverbal Negative Morphemes,Sardinian,,,Jones 1988
+25,143F,None,Postverbal Negative Morphemes,Sardinian,,,Jones 1988
+26,143G,None,Minor morphological means of signaling negation,Sardinian,,,Jones 1988
+27,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Sardinian,,,Jones 1988
+28,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sardinian,,,Jones 1988
+29,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Sardinian,,,Jones 1988
+30,144H,No NegSVO,NegSVO Order,Sardinian,,,Jones 1988
+31,144I,Word&NoDoubleNeg,SNegVO Order,Sardinian,,,Jones 1988
+32,144J,No SVNegO,SVNegO Order,Sardinian,,,Jones 1988
+33,144K,No SVONeg,SVONeg Order,Sardinian,,,Jones 1988

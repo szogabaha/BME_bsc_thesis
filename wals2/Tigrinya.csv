@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,27A,Productive full and partial reduplication,Reduplication,Tigrinya,,,Tewolde 2001
+1,33A,Plural suffix,Coding of Nominal Plurality,Tigrinya,,,Kogan 1997
+2,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Tigrinya,,,Kogan 1997
+3,37A,Demonstrative word used as definite article,Definite Articles,Tigrinya,,,Kogan 1997
+4,38A,Indefinite word same as 'one',Indefinite Articles,Tigrinya,,,Kogan 1997
+5,51A,Prepositional clitics,Position of Case Affixes,Tigrinya,,,Kogan 1997
+6,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tigrinya,,,Kogan 1997
+7,64A,Differentiation,Nominal and Verbal Conjunction,Tigrinya,,,Kogan 1997
+8,65A,No grammatical marking,Perfective/Imperfective Aspect,Tigrinya,,,Dahl 1985
+9,66A,"Present, no remoteness distinctions",The Past Tense,Tigrinya,,,Dahl 1985
+10,67A,Inflectional future exists,The Future Tense,Tigrinya,,,Dahl 1985
+11,68A,No perfect,The Perfect,Tigrinya,,,Dahl 1985
+12,81A,SOV,"Order of Subject, Object and Verb",Tigrinya,,,Kogan 1997
+13,82A,SV,Order of Subject and Verb,Tigrinya,,,Kogan 1997
+14,83A,OV,Order of Object and Verb,Tigrinya,,,Kogan 1997
+15,85A,Prepositions,Order of Adposition and Noun Phrase,Tigrinya,,,Kogan 1997
+16,86A,No dominant order,Order of Genitive and Noun,Tigrinya,,,Kogan 1997
+17,87A,Adjective-Noun,Order of Adjective and Noun,Tigrinya,,,Kogan 1997
+18,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tigrinya,,,Kogan 1997
+19,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tigrinya,,,Kogan 1997
+20,95A,OV and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tigrinya,,,
+21,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tigrinya,,,
+22,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Tigrinya,,,Kogan 1997
+23,112A,Double negation,Negative Morphemes,Tigrinya,,,Kogan 1997
+24,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Tigrinya,,,Kogan 1997
+25,143B,[Neg-V-Neg],Obligatory Double Negation,Tigrinya,,,Kogan 1997
+26,143E,[Neg-V],Preverbal Negative Morphemes,Tigrinya,,,Kogan 1997
+27,143F,[V-Neg],Postverbal Negative Morphemes,Tigrinya,,,Kogan 1997
+28,143G,None,Minor morphological means of signaling negation,Tigrinya,,,Kogan 1997
+29,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tigrinya,,,Kogan 1997
+30,144L,ObligDoubleNeg,The Position of Negative Morphemes in SOV Languages,Tigrinya,,,Kogan 1997
+31,144N,SO[Neg-V-Neg],Obligatory Double Negation in SOV languages,Tigrinya,,,Kogan 1997
+32,144P,No NegSOV,NegSOV Order,Tigrinya,,,Kogan 1997
+33,144Q,No SNegOV,SNegOV Order,Tigrinya,,,Kogan 1997
+34,144R,Prefix&OnlyWithAnotherNeg,SONegV Order,Tigrinya,,,Kogan 1997
+35,144S,Suffix&OnlyWithAnotherNeg,SOVNeg Order,Tigrinya,,,Kogan 1997

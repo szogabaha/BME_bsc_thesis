@@ -1,0 +1,30 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Shatt,,,Tucker and Bryan 1966
+1,33A,Plural suffix,Coding of Nominal Plurality,Shatt,,,Tucker and Bryan 1966
+2,36A,Unique affixal associative plural,The Associative Plural,Shatt,,,Tucker and Bryan 1966
+3,51A,No case affixes or adpositional clitics,Position of Case Affixes,Shatt,,,Tucker and Bryan 1966
+4,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Shatt,,,Tucker and Bryan 1966
+5,69A,Mixed type,Position of Tense-Aspect Affixes,Shatt,,,Tucker and Bryan 1966
+6,81A,SVO,"Order of Subject, Object and Verb",Shatt,,,Tucker and Bryan 1966
+7,82A,SV,Order of Subject and Verb,Shatt,,,Tucker and Bryan 1966
+8,83A,VO,Order of Object and Verb,Shatt,,,Tucker and Bryan 1966
+9,86A,Noun-Genitive,Order of Genitive and Noun,Shatt,,,Tucker and Bryan 1966
+10,87A,Noun-Adjective,Order of Adjective and Noun,Shatt,,,Tucker and Bryan 1966
+11,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Shatt,,,Tucker and Bryan 1966
+12,89A,Noun-Numeral,Order of Numeral and Noun,Shatt,,,Tucker and Bryan 1966
+13,90A,Noun-Relative clause,Order of Relative Clause and Noun,Shatt,,,Tucker and Bryan 1966
+14,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Shatt,,,Tucker and Bryan 1966
+15,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Shatt,,,
+16,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Shatt,,,
+17,112A,Negative particle,Negative Morphemes,Shatt,,,Tucker and Bryan 1966
+18,143A,VNeg,Order of Negative Morpheme and Verb,Shatt,,,Tucker and Bryan 1966
+19,143E,None,Preverbal Negative Morphemes,Shatt,,,Tucker and Bryan 1966
+20,143F,VNeg,Postverbal Negative Morphemes,Shatt,,,Tucker and Bryan 1966
+21,143G,None,Minor morphological means of signaling negation,Shatt,,,Tucker and Bryan 1966
+22,144A,SVONeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Shatt,,,Tucker and Bryan 1966
+23,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Shatt,,,Tucker and Bryan 1966
+24,144D,SVONeg,The Position of Negative Morphemes in SVO Languages,Shatt,,,Tucker and Bryan 1966
+25,144H,No NegSVO,NegSVO Order,Shatt,,,Tucker and Bryan 1966
+26,144I,No SNegVO,SNegVO Order,Shatt,,,Tucker and Bryan 1966
+27,144J,No SVNegO,SVNegO Order,Shatt,,,Tucker and Bryan 1966
+28,144K,NoDoubleNeg,SVONeg Order,Shatt,,,Tucker and Bryan 1966

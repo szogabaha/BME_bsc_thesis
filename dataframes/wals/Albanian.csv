@@ -1,0 +1,91 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-alb,Average,Consonant Inventories,Albanian,,,Newmark 1957
+2A-alb,Large (7-14),Vowel Quality Inventories,Albanian,,,Newmark 1957
+3A-alb,Average,Consonant-Vowel Ratio,Albanian,,,Newmark 1957
+4A-alb,In both plosives and fricatives,Voicing in Plosives and Fricatives,Albanian,,,Newmark 1957
+5A-alb,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Albanian,,,Newmark 1957
+6A-alb,None,Uvular Consonants,Albanian,,,Newmark 1957
+7A-alb,No glottalized consonants,Glottalized Consonants,Albanian,,,Newmark 1957
+8A-alb,"/l/, no obstruent laterals",Lateral Consonants,Albanian,,,Newmark 1957
+9A-alb,No velar nasal,The Velar Nasal,Albanian,,,Newmark et al. 1982
+11A-alb,High only,Front Rounded Vowels,Albanian,,,Newmark 1957
+12A-alb,Complex,Syllable Structure,Albanian,,,Newmark 1957
+13A-alb,No tones,Tone,Albanian,,,Newmark 1957
+18A-alb,All present,Absence of Common Consonants,Albanian,,,Newmark 1957
+19A-alb,'Th' sounds,Presence of Uncommon Consonants,Albanian,,,Newmark 1957
+26A-alb,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Albanian,,,Newmark 1957;Maxwell 1979;Mann 1977;Camaj 1969;Newmark et al. 1982
+33A-alb,Plural suffix,Coding of Nominal Plurality,Albanian,,,Mann 1977;Newmark et al. 1982
+36A-alb,No associative plural,The Associative Plural,Albanian,,,
+37A-alb,Definite affix,Definite Articles,Albanian,,,Newmark et al. 1982;Mann 1977
+38A-alb,Indefinite word distinct from 'one',Indefinite Articles,Albanian,,,Newmark et al. 1982
+44A-alb,"3rd person only, but also non-singular",Gender Distinctions in Independent Personal Pronouns,Albanian,,,Camaj 1984
+45A-alb,No politeness distinction,Politeness Distinctions in Pronouns,Albanian,,,Camaj 1984
+48A-alb,No person marking,Person Marking on Adpositions,Albanian,,,Camaj 1984
+49A-alb,4 cases,Number of Cases,Albanian,,,Buchholz and Fiedler 1987
+50A-alb,Syncretism in relevant NP-types,Asymmetrical Case-Marking,Albanian,,,Buchholz and Fiedler 1987
+51A-alb,Case suffixes,Position of Case Affixes,Albanian,,,Newmark 1957;Newmark et al. 1982
+52A-alb,Identity,Comitatives and Instrumentals,Albanian,,,Buchholz and Fiedler 1987
+53A-alb,"First, two-th, three-th",Ordinal Numerals,Albanian,,,Buchholz and Fiedler 1987
+54A-alb,Marked by preceding word,Distributive Numerals,Albanian,,,
+55A-alb,Absent,Numeral Classifiers,Albanian,,,
+57A-alb,No possessive affixes,Position of Pronominal Possessive Affixes,Albanian,,,Camaj 1969
+60A-alb,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Albanian,,,
+61A-alb,Marked by preceding word,Adjectives without Nouns,Albanian,,,
+62A-alb,Ergative-Possessive,Action Nominal Constructions,Albanian,,,Buchholz and Fiedler 1987
+63A-alb,'And' different from 'with',Noun Phrase Conjunction,Albanian,,,Camaj 1969
+69A-alb,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Albanian,,,Newmark et al. 1982
+70A-alb,Second singular,The Morphological Imperative,Albanian,,,Buchholz and Fiedler 1987;Newmark et al. 1982
+71A-alb,Normal imperative + special negative,The Prohibitive,Albanian,,,Buchholz and Fiedler 1987;Newmark et al. 1982
+72A-alb,Maximal system,Imperative-Hortative Systems,Albanian,,,Newmark et al. 1982
+73A-alb,Inflectional optative present,The Optative,Albanian,,,Newmark et al. 1982
+74A-alb,Verbal constructions,Situational Possibility,Albanian,,,Hetzer 1991;Buchholz and Fiedler 1987
+75A-alb,Verbal constructions,Epistemic Possibility,Albanian,,,Buchholz and Fiedler 1987
+76A-alb,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Albanian,,,Buchholz and Fiedler 1987
+77A-alb,Indirect only,Semantic Distinctions of Evidentiality,Albanian,,,Friedman 1986
+78A-alb,Verbal affix or clitic,Coding of Evidentiality,Albanian,,,Friedman 1986
+81A-alb,SVO,"Order of Subject, Object and Verb",Albanian,,,Newmark et al. 1982;Maxwell 1979
+82A-alb,SV,Order of Subject and Verb,Albanian,,,Newmark et al. 1982
+83A-alb,VO,Order of Object and Verb,Albanian,,,Newmark et al. 1982
+85A-alb,Prepositions,Order of Adposition and Noun Phrase,Albanian,,,Newmark et al. 1982;Newmark 1957
+86A-alb,Noun-Genitive,Order of Genitive and Noun,Albanian,,,Newmark 1957;Newmark et al. 1982
+87A-alb,Noun-Adjective,Order of Adjective and Noun,Albanian,,,Mann 1977;Newmark et al. 1982
+88A-alb,Demonstrative-Noun,Order of Demonstrative and Noun,Albanian,,,Newmark et al. 1982
+89A-alb,Numeral-Noun,Order of Numeral and Noun,Albanian,,,Newmark et al. 1982;Newmark 1957
+90A-alb,Noun-Relative clause,Order of Relative Clause and Noun,Albanian,,,Newmark et al. 1982
+90C-alb,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Albanian,,,Newmark et al. 1982
+91A-alb,Degree word-Adjective,Order of Degree Word and Adjective,Albanian,,,Newmark et al. 1982
+92A-alb,Initial,Position of Polar Question Particles,Albanian,,,Newmark et al. 1982
+94A-alb,Initial subordinator word,Order of Adverbial Subordinator and Clause,Albanian,,,Newmark et al. 1982
+95A-alb,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Albanian,,,
+96A-alb,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Albanian,,,
+97A-alb,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Albanian,,,
+100A-alb,Accusative,Alignment of Verbal Person Marking,Albanian,,,Camaj 1984
+101A-alb,Subject affixes on verb,Expression of Pronominal Subjects,Albanian,,,Newmark et al. 1982
+102A-alb,Both the A and P arguments,Verbal Person Marking,Albanian,,,Camaj 1984
+103A-alb,No zero realization,Third Person Zero of Verbal Person Marking,Albanian,,,Camaj 1984
+104A-alb,P precedes A,Order of Person Markers on the Verb,Albanian,,,Camaj 1984
+107A-alb,Present,Passive Constructions,Albanian,,,Camaj 1984
+112A-alb,Negative particle,Negative Morphemes,Albanian,,,Camaj 1969;Newmark et al. 1982;Newmark 1957
+113A-alb,Symmetric,Symmetric and Asymmetric Standard Negation,Albanian,,,Newmark et al. 1982
+114A-alb,Non-assignable,Subtypes of Asymmetric Standard Negation,Albanian,,,Newmark et al. 1982
+116A-alb,Question particle,Polar Questions,Albanian,,,Newmark et al. 1982
+117A-alb,'Have',Predicative Possession,Albanian,,,Kacori 1979
+118A-alb,Nonverbal encoding,Predicative Adjectives,Albanian,,,Camaj 1969
+119A-alb,Identical,Nominal and Locational Predication,Albanian,,,Camaj 1969
+120A-alb,Impossible,Zero Copula for Predicate Nominals,Albanian,,,Camaj 1969
+121A-alb,Particle,Comparative Constructions,Albanian,,,Camaj 1969
+124A-alb,Subject is expressed overtly,'Want' Complement Subjects,Albanian,,,Buchholz and Fiedler 1987
+131A-alb,Decimal,Numeral Bases,Albanian,,,Newmark et al. 1982
+138A-alb,Words derived from Sinitic cha,Tea,Albanian,,,
+142A-alb,Logical meanings,Para-Linguistic Usages of Clicks,Albanian,,,
+143A-alb,NegV,Order of Negative Morpheme and Verb,Albanian,,,Newmark et al. 1982;Newmark 1957
+143E-alb,NegV,Preverbal Negative Morphemes,Albanian,,,Newmark 1957;Newmark et al. 1982
+143F-alb,None,Postverbal Negative Morphemes,Albanian,,,Newmark 1957;Newmark et al. 1982
+143G-alb,None,Minor morphological means of signaling negation,Albanian,,,Newmark 1957;Newmark et al. 1982
+144A-alb,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Albanian,,,Newmark et al. 1982;Newmark 1957
+144B-alb,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Albanian,,,Newmark 1957;Newmark et al. 1982
+144D-alb,SNegVO,The Position of Negative Morphemes in SVO Languages,Albanian,,,Newmark 1957;Newmark et al. 1982
+144H-alb,No NegSVO,NegSVO Order,Albanian,,,Newmark 1957;Newmark et al. 1982
+144I-alb,Word&NoDoubleNeg,SNegVO Order,Albanian,,,Newmark et al. 1982;Newmark 1957
+144J-alb,No SVNegO,SVNegO Order,Albanian,,,Newmark 1957;Newmark et al. 1982
+144K-alb,No SVONeg,SVONeg Order,Albanian,,,Newmark et al. 1982;Newmark 1957

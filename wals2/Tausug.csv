@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Tausug,,,Ashley 1963
+1,2A,Small (2-4),Vowel Quality Inventories,Tausug,,,Ashley 1963
+2,3A,Moderately high,Consonant-Vowel Ratio,Tausug,,,Ashley 1963
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tausug,,,Ashley 1963
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Tausug,,,Ashley 1963
+5,6A,None,Uvular Consonants,Tausug,,,Ashley 1963
+6,7A,No glottalized consonants,Glottalized Consonants,Tausug,,,Ashley 1963
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tausug,,,Ashley 1963
+8,11A,None,Front Rounded Vowels,Tausug,,,Ashley 1963
+9,12A,Moderately complex,Syllable Structure,Tausug,,,Ashley 1963
+10,13A,No tones,Tone,Tausug,,,Ashley 1963
+11,18A,All present,Absence of Common Consonants,Tausug,,,Ashley 1963
+12,19A,None,Presence of Uncommon Consonants,Tausug,,,Ashley 1963
+13,27A,Productive full and partial reduplication,Reduplication,Tausug,,,
+14,33A,Plural word,Coding of Nominal Plurality,Tausug,,,Rubino 2006
+15,54A,Marked by reduplication,Distributive Numerals,Tausug,,,Llamzon 1978
+16,82A,VS,Order of Subject and Verb,Tausug,,,Rubino 2006
+17,83A,VO,Order of Object and Verb,Tausug,,,Rubino 2006
+18,85A,Prepositions,Order of Adposition and Noun Phrase,Tausug,,,Hardaker 1963
+19,86A,Noun-Genitive,Order of Genitive and Noun,Tausug,,,Rubino 2006
+20,87A,Noun-Adjective,Order of Adjective and Noun,Tausug,,,Hardaker 1963
+21,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tausug,,,
+22,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tausug,,,
+23,112A,Negative particle,Negative Morphemes,Tausug,,,Rubino 2006
+24,129A,Different,Hand and Arm,Tausug,,,Hassan et al. 1975
+25,130A,Different,Finger and Hand,Tausug,,,Hassan et al. 1975
+26,143A,NegV,Order of Negative Morpheme and Verb,Tausug,,,Rubino 2006
+27,143E,NegV,Preverbal Negative Morphemes,Tausug,,,Rubino 2006
+28,143F,None,Postverbal Negative Morphemes,Tausug,,,Rubino 2006
+29,143G,None,Minor morphological means of signaling negation,Tausug,,,Rubino 2006
+30,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Tausug,,,Rubino 2006
+31,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tausug,,,Rubino 2006
+32,144T,NegV & VS & VO,The Position of Negative Morphemes in Verb-Initial Languages,Tausug,,,Rubino 2006
+33,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tausug,,,Rubino 2006
+34,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tausug,,,Rubino 2006
+35,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tausug,,,Rubino 2006

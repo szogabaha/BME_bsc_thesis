@@ -1,0 +1,29 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Siane,,,Salisbury 1956
+1,33A,No plural,Coding of Nominal Plurality,Siane,,,Salisbury 1956
+2,37A,No definite or indefinite article,Definite Articles,Siane,,,Salisbury 1956
+3,38A,No definite or indefinite article,Indefinite Articles,Siane,,,Salisbury 1956
+4,51A,Case suffixes,Position of Case Affixes,Siane,,,Salisbury 1956
+5,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Siane,,,Salisbury 1956
+6,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Siane,,,Salisbury 1956
+7,81A,SOV,"Order of Subject, Object and Verb",Siane,,,Salisbury 1956
+8,82A,SV,Order of Subject and Verb,Siane,,,Salisbury 1956
+9,83A,OV,Order of Object and Verb,Siane,,,Salisbury 1956
+10,86A,Genitive-Noun,Order of Genitive and Noun,Siane,,,Salisbury 1956
+11,87A,Noun-Adjective,Order of Adjective and Noun,Siane,,,Salisbury 1956
+12,92A,No question particle,Position of Polar Question Particles,Siane,,,Salisbury 1956
+13,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Siane,,,Salisbury 1956
+14,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Siane,,,Salisbury 1956
+15,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Siane,,,
+16,112A,Negative affix,Negative Morphemes,Siane,,,Salisbury 1956
+17,116A,Interrogative verb morphology,Polar Questions,Siane,,,Salisbury 1956
+18,143A,[V-Neg],Order of Negative Morpheme and Verb,Siane,,,Salisbury 1956
+19,143E,None,Preverbal Negative Morphemes,Siane,,,Salisbury 1956
+20,143F,[V-Neg],Postverbal Negative Morphemes,Siane,,,Salisbury 1956
+21,143G,None,Minor morphological means of signaling negation,Siane,,,Salisbury 1956
+22,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Siane,,,Salisbury 1956
+23,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Siane,,,Salisbury 1956
+24,144P,No NegSOV,NegSOV Order,Siane,,,Salisbury 1956
+25,144Q,No SNegOV,SNegOV Order,Siane,,,Salisbury 1956
+26,144R,No SONegV,SONegV Order,Siane,,,Salisbury 1956
+27,144S,Suffix&NoDoubleNeg,SOVNeg Order,Siane,,,Salisbury 1956

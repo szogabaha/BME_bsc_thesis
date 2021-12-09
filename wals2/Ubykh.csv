@@ -1,0 +1,43 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No velar nasal,The Velar Nasal,Ubykh,,,Charachidze 1989
+1,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Ubykh,,,Charachidze 1989
+2,33A,Plural suffix,Coding of Nominal Plurality,Ubykh,,,Charachidze 1989
+3,37A,Definite affix,Definite Articles,Ubykh,,,Charachidze 1989
+4,38A,Indefinite affix,Indefinite Articles,Ubykh,,,Charachidze 1989
+5,51A,Postpositional clitics,Position of Case Affixes,Ubykh,,,Charachidze 1989
+6,52A,Differentiation,Comitatives and Instrumentals,Ubykh,,,Stolz 1996
+7,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Ubykh,,,Charachidze 1989
+8,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Ubykh,,,Charachidze 1989
+9,81A,SOV,"Order of Subject, Object and Verb",Ubykh,,,Charachidze 1989
+10,82A,SV,Order of Subject and Verb,Ubykh,,,Charachidze 1989
+11,83A,OV,Order of Object and Verb,Ubykh,,,Charachidze 1989
+12,85A,Postpositions,Order of Adposition and Noun Phrase,Ubykh,,,Charachidze 1989
+13,86A,Genitive-Noun,Order of Genitive and Noun,Ubykh,,,Charachidze 1989
+14,87A,Adjective-Noun,Order of Adjective and Noun,Ubykh,,,Charachidze 1989
+15,88A,Demonstrative prefix,Order of Demonstrative and Noun,Ubykh,,,Charachidze 1989
+16,89A,Numeral-Noun,Order of Numeral and Noun,Ubykh,,,Charachidze 1989
+17,90A,Relative clause-Noun,Order of Relative Clause and Noun,Ubykh,,,Charachidze 1989
+18,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Ubykh,,,Charachidze 1989
+19,92A,No question particle,Position of Polar Question Particles,Ubykh,,,Charachidze 1989
+20,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Ubykh,,,Charachidze 1989
+21,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Ubykh,,,
+22,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Ubykh,,,
+23,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Ubykh,,,
+24,101A,Subject affixes on verb,Expression of Pronominal Subjects,Ubykh,,,Charachidze 1989
+25,112A,Negative affix,Negative Morphemes,Ubykh,,,Charachidze 1989
+26,116A,Interrogative verb morphology,Polar Questions,Ubykh,,,Charachidze 1989
+27,118A,Verbal encoding,Predicative Adjectives,Ubykh,,,
+28,119A,Different,Nominal and Locational Predication,Ubykh,,,
+29,120A,Impossible,Zero Copula for Predicate Nominals,Ubykh,,,
+30,121A,Locational,Comparative Constructions,Ubykh,,,Dirr 1928
+31,143A,Type 3 / Type 4,Order of Negative Morpheme and Verb,Ubykh,,,Charachidze 1989
+32,143E,[Neg-V],Preverbal Negative Morphemes,Ubykh,,,Charachidze 1989
+33,143F,[V-Neg],Postverbal Negative Morphemes,Ubykh,,,Charachidze 1989
+34,143G,None,Minor morphological means of signaling negation,Ubykh,,,Charachidze 1989
+35,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Ubykh,,,Charachidze 1989
+36,144L,More than one construction,The Position of Negative Morphemes in SOV Languages,Ubykh,,,Charachidze 1989
+37,144M,SO[Neg-V]/SO[V-Neg],Multiple Negative Constructions in SOV Languages,Ubykh,,,Charachidze 1989
+38,144P,No NegSOV,NegSOV Order,Ubykh,,,Charachidze 1989
+39,144Q,No SNegOV,SNegOV Order,Ubykh,,,Charachidze 1989
+40,144R,Prefix&NoDoubleNeg,SONegV Order,Ubykh,,,Charachidze 1989
+41,144S,Suffix&NoDoubleNeg,SOVNeg Order,Ubykh,,,Charachidze 1989

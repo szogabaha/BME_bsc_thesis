@@ -1,0 +1,30 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,51A,Postpositional clitics,Position of Case Affixes,Tuyuca,,,Barnes 1994
+1,55A,Obligatory,Numeral Classifiers,Tuyuca,,,Barnes 1990
+2,71A,Special imperative + normal negative,The Prohibitive,Tuyuca,,,Barnes 1994
+3,77A,Direct and indirect,Semantic Distinctions of Evidentiality,Tuyuca,,,Barnes 1984
+4,78A,Part of the tense system,Coding of Evidentiality,Tuyuca,,,Barnes 1984
+5,81A,SOV,"Order of Subject, Object and Verb",Tuyuca,,,Barnes 1994
+6,82A,SV,Order of Subject and Verb,Tuyuca,,,Barnes 1994
+7,83A,OV,Order of Object and Verb,Tuyuca,,,Barnes 1994
+8,85A,Postpositions,Order of Adposition and Noun Phrase,Tuyuca,,,Barnes 1994
+9,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tuyuca,,,Barnes 1994
+10,89A,Numeral-Noun,Order of Numeral and Noun,Tuyuca,,,Barnes 1994
+11,92A,No question particle,Position of Polar Question Particles,Tuyuca,,,Barnes 1994
+12,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tuyuca,,,
+13,112A,Negative affix,Negative Morphemes,Tuyuca,,,Barnes 1994
+14,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Tuyuca,,,Barnes 1994
+15,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Tuyuca,,,Barnes 1994
+16,116A,Interrogative verb morphology,Polar Questions,Tuyuca,,,Barnes 1994
+17,129A,Different,Hand and Arm,Tuyuca,,,Huber and Reed 1992
+18,130A,Different,Finger and Hand,Tuyuca,,,Huber and Reed 1992
+19,143A,[V-Neg],Order of Negative Morpheme and Verb,Tuyuca,,,Barnes 1994
+20,143E,None,Preverbal Negative Morphemes,Tuyuca,,,Barnes 1994
+21,143F,[V-Neg],Postverbal Negative Morphemes,Tuyuca,,,Barnes 1994
+22,143G,None,Minor morphological means of signaling negation,Tuyuca,,,Barnes 1994
+23,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tuyuca,,,Barnes 1994
+24,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tuyuca,,,Barnes 1994
+25,144P,No NegSOV,NegSOV Order,Tuyuca,,,Barnes 1994
+26,144Q,No SNegOV,SNegOV Order,Tuyuca,,,Barnes 1994
+27,144R,No SONegV,SONegV Order,Tuyuca,,,Barnes 1994
+28,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tuyuca,,,Barnes 1994

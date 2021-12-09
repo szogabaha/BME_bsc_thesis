@@ -1,0 +1,49 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Shona,,,Fortune 1955
+1,30A,Five or more,Number of Genders,Shona,,,Fortune 1955
+2,31A,Non-sex-based,Sex-based and Non-sex-based Gender Systems,Shona,,,Fortune 1955
+3,32A,Semantic and formal,Systems of Gender Assignment,Shona,,,Fortune 1955
+4,33A,Plural prefix,Coding of Nominal Plurality,Shona,,,Fortune 1955
+5,43A,Related by gender markers,Third Person Pronouns and Demonstratives,Shona,,,Brauner 1995
+6,47A,Differentiated,Intensifiers and Reflexive Pronouns,Shona,,,
+7,52A,Differentiation,Comitatives and Instrumentals,Shona,,,Brauner 1993
+8,53A,"First, two-th, three-th",Ordinal Numerals,Shona,,,Brauner 1993
+9,63A,'And' identical to 'with',Noun Phrase Conjunction,Shona,,,Fortune 1955
+10,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Shona,,,Fortune 1955
+11,72A,Maximal system,Imperative-Hortative Systems,Shona,,,Fortune 1955
+12,73A,Inflectional optative absent,The Optative,Shona,,,Fortune 1955
+13,81A,SVO,"Order of Subject, Object and Verb",Shona,,,Fortune 1955
+14,82A,SV,Order of Subject and Verb,Shona,,,Fortune 1955
+15,83A,VO,Order of Object and Verb,Shona,,,Fortune 1955
+16,85A,Prepositions,Order of Adposition and Noun Phrase,Shona,,,Fortune 1955
+17,86A,Noun-Genitive,Order of Genitive and Noun,Shona,,,Fortune 1955
+18,87A,Noun-Adjective,Order of Adjective and Noun,Shona,,,Fortune 1955
+19,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Shona,,,Fortune 1955
+20,89A,Noun-Numeral,Order of Numeral and Noun,Shona,,,Fortune 1955
+21,90A,Noun-Relative clause,Order of Relative Clause and Noun,Shona,,,Fortune 1955
+22,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Shona,,,Fortune 1955
+23,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Shona,,,Fortune 1955
+24,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Shona,,,Fortune 1955
+25,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Shona,,,
+26,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Shona,,,
+27,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Shona,,,
+28,110A,Purposive but no sequential,Periphrastic Causative Constructions,Shona,,,Fortune 1955
+29,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Shona,,,Fortune 1955
+30,112A,Negative affix,Negative Morphemes,Shona,,,Fortune 1955
+31,117A,Conjunctional,Predicative Possession,Shona,,,Fortune 1955
+32,118A,Mixed,Predicative Adjectives,Shona,,,Fortune 1955
+33,119A,Identical,Nominal and Locational Predication,Shona,,,Fortune 1955
+34,120A,Impossible,Zero Copula for Predicate Nominals,Shona,,,Fortune 1955
+35,121A,Exceed,Comparative Constructions,Shona,,,Fortune 1955
+36,129A,Identical,Hand and Arm,Shona,,,Brauner 1993
+37,130A,Different,Finger and Hand,Shona,,,Brauner 1993
+38,143A,[Neg-V],Order of Negative Morpheme and Verb,Shona,,,Fortune 1955
+39,143E,[Neg-V],Preverbal Negative Morphemes,Shona,,,Fortune 1955
+40,143F,None,Postverbal Negative Morphemes,Shona,,,Fortune 1955
+41,143G,None,Minor morphological means of signaling negation,Shona,,,Fortune 1955
+42,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Shona,,,Fortune 1955
+43,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Shona,,,Fortune 1955
+44,144H,No NegSVO,NegSVO Order,Shona,,,Fortune 1955
+45,144I,Prefix&NoDoubleNeg,SNegVO Order,Shona,,,Fortune 1955
+46,144J,No SVNegO,SVNegO Order,Shona,,,Fortune 1955
+47,144K,No SVONeg,SVONeg Order,Shona,,,Fortune 1955

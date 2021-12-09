@@ -1,0 +1,137 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Yukaghir (Kolyma),,,Maslova 1999
+1,2A,Average (5-6),Vowel Quality Inventories,Yukaghir (Kolyma),,,Maslova 1999
+2,3A,Average,Consonant-Vowel Ratio,Yukaghir (Kolyma),,,Maslova 1999
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Yukaghir (Kolyma),,,Maslova 1999
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Yukaghir (Kolyma),,,Maslova 1999
+5,6A,Uvular stops and continuants,Uvular Consonants,Yukaghir (Kolyma),,,Maslova 1999
+6,7A,No glottalized consonants,Glottalized Consonants,Yukaghir (Kolyma),,,Maslova 1999
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yukaghir (Kolyma),,,Maslova 1999
+8,9A,Initial velar nasal,The Velar Nasal,Yukaghir (Kolyma),,,Nikolaeva and Xelimskij 1997
+9,10A,Contrast absent,Vowel Nasalization,Yukaghir (Kolyma),,,Maslova 1999
+10,11A,Mid only,Front Rounded Vowels,Yukaghir (Kolyma),,,Maslova 1999
+11,12A,Moderately complex,Syllable Structure,Yukaghir (Kolyma),,,Maslova 1999
+12,13A,No tones,Tone,Yukaghir (Kolyma),,,Maslova 1999
+13,14A,No fixed stress,Fixed Stress Locations,Yukaghir (Kolyma),,,Maslova 1999
+14,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Yukaghir (Kolyma),,,Maslova 1999
+15,16A,Long vowel or coda consonant,Weight Factors in Weight-Sensitive Stress Systems,Yukaghir (Kolyma),,,Maslova 1999
+16,18A,All present,Absence of Common Consonants,Yukaghir (Kolyma),,,Maslova 1999
+17,19A,None,Presence of Uncommon Consonants,Yukaghir (Kolyma),,,Maslova 1999
+18,23A,Dependent marking,Locus of Marking in the Clause,Yukaghir (Kolyma),,,Maslova 1999
+19,24A,No marking,Locus of Marking in Possessive Noun Phrases,Yukaghir (Kolyma),,,Maslova 1999
+20,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Yukaghir (Kolyma),,,Maslova 1999
+21,25B,Non-zero marking,Zero Marking of A and P Arguments,Yukaghir (Kolyma),,,Maslova 1999
+22,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yukaghir (Kolyma),,,Maslova 1999
+23,27A,No productive reduplication,Reduplication,Yukaghir (Kolyma),,,Maslova 1999
+24,28A,Core cases only,Case Syncretism,Yukaghir (Kolyma),,,Maslova 1999
+25,29A,Syncretic,Syncretism in Verbal Person/Number Marking,Yukaghir (Kolyma),,,Maslova 1999
+26,30A,None,Number of Genders,Yukaghir (Kolyma),,,Maslova 1999
+27,31A,No gender,Sex-based and Non-sex-based Gender Systems,Yukaghir (Kolyma),,,Maslova 1999
+28,32A,No gender,Systems of Gender Assignment,Yukaghir (Kolyma),,,Maslova 1999
+29,33A,Plural suffix,Coding of Nominal Plurality,Yukaghir (Kolyma),,,Maslova 1999
+30,35A,Person stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Yukaghir (Kolyma),,,Maslova 1999
+31,36A,Unique affixal associative plural,The Associative Plural,Yukaghir (Kolyma),,,Maslova 1999
+32,37A,No definite or indefinite article,Definite Articles,Yukaghir (Kolyma),,,Maslova 1999
+33,38A,No definite or indefinite article,Indefinite Articles,Yukaghir (Kolyma),,,Maslova 1999
+34,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Yukaghir (Kolyma),,,
+35,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Yukaghir (Kolyma),,,
+36,41A,Two-way contrast,Distance Contrasts in Demonstratives,Yukaghir (Kolyma),,,Maslova 1999
+37,42A,Different stem,Pronominal and Adnominal Demonstratives,Yukaghir (Kolyma),,,Maslova 1999
+38,43A,Unrelated,Third Person Pronouns and Demonstratives,Yukaghir (Kolyma),,,Maslova 1999
+39,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yukaghir (Kolyma),,,Maslova 1999
+40,45A,No politeness distinction,Politeness Distinctions in Pronouns,Yukaghir (Kolyma),,,Maslova 1999
+41,46A,Interrogative-based,Indefinite Pronouns,Yukaghir (Kolyma),,,Maslova 1999
+42,48A,No person marking,Person Marking on Adpositions,Yukaghir (Kolyma),,,Maslova 1999
+43,49A,8-9 cases,Number of Cases,Yukaghir (Kolyma),,,Maslova 1999
+44,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Yukaghir (Kolyma),,,Maslova 1999
+45,51A,Case suffixes,Position of Case Affixes,Yukaghir (Kolyma),,,Maslova 1999
+46,52A,Differentiation,Comitatives and Instrumentals,Yukaghir (Kolyma),,,Maslova 1999
+47,53A,"First, two-th, three-th",Ordinal Numerals,Yukaghir (Kolyma),,,Maslova 1999
+48,54A,No distributive numerals,Distributive Numerals,Yukaghir (Kolyma),,,
+49,55A,Absent,Numeral Classifiers,Yukaghir (Kolyma),,,
+50,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Yukaghir (Kolyma),,,Maslova 1999
+51,58A,Absent,Obligatory Possessive Inflection,Yukaghir (Kolyma),,,Maslova 1999
+52,58B,None reported,Number of Possessive Nouns,Yukaghir (Kolyma),,,
+53,59A,Two classes,Possessive Classification,Yukaghir (Kolyma),,,Maslova 1999
+54,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Yukaghir (Kolyma),,,
+55,61A,Marked by suffix,Adjectives without Nouns,Yukaghir (Kolyma),,,
+56,62A,Possessive-Accusative,Action Nominal Constructions,Yukaghir (Kolyma),,,Maslova 1999
+57,63A,'And' different from 'with',Noun Phrase Conjunction,Yukaghir (Kolyma),,,
+58,64A,Differentiation,Nominal and Verbal Conjunction,Yukaghir (Kolyma),,,Maslova 1999
+59,65A,No grammatical marking,Perfective/Imperfective Aspect,Yukaghir (Kolyma),,,Maslova 1999
+60,66A,No past tense,The Past Tense,Yukaghir (Kolyma),,,Maslova 1999
+61,67A,Inflectional future exists,The Future Tense,Yukaghir (Kolyma),,,Maslova 1999
+62,68A,No perfect,The Perfect,Yukaghir (Kolyma),,,Maslova 1999
+63,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yukaghir (Kolyma),,,Maslova 1999
+64,70A,Second singular and second plural,The Morphological Imperative,Yukaghir (Kolyma),,,Maslova 1999
+65,71A,Normal imperative + special negative,The Prohibitive,Yukaghir (Kolyma),,,Maslova 1999
+66,72A,Maximal system,Imperative-Hortative Systems,Yukaghir (Kolyma),,,Maslova 1999
+67,73A,Inflectional optative absent,The Optative,Yukaghir (Kolyma),,,Maslova 1999
+68,74A,Verbal constructions,Situational Possibility,Yukaghir (Kolyma),,,Maslova 1999
+69,75A,Affixes on verbs,Epistemic Possibility,Yukaghir (Kolyma),,,Maslova 1999
+70,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Yukaghir (Kolyma),,,
+71,77A,Indirect only,Semantic Distinctions of Evidentiality,Yukaghir (Kolyma),,,Maslova 1999
+72,78A,Verbal affix or clitic,Coding of Evidentiality,Yukaghir (Kolyma),,,Maslova 1999
+73,79A,None,Suppletion According to Tense and Aspect,Yukaghir (Kolyma),,,Maslova 1999
+74,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Yukaghir (Kolyma),,,
+75,80A,None,Verbal Number and Suppletion,Yukaghir (Kolyma),,,
+76,81A,SOV,"Order of Subject, Object and Verb",Yukaghir (Kolyma),,,Maslova 1999
+77,82A,SV,Order of Subject and Verb,Yukaghir (Kolyma),,,Maslova 1999
+78,83A,OV,Order of Object and Verb,Yukaghir (Kolyma),,,Maslova 1999
+79,85A,Postpositions,Order of Adposition and Noun Phrase,Yukaghir (Kolyma),,,Maslova 1999
+80,86A,Genitive-Noun,Order of Genitive and Noun,Yukaghir (Kolyma),,,Maslova 1999
+81,87A,Adjective-Noun,Order of Adjective and Noun,Yukaghir (Kolyma),,,Maslova 1999
+82,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yukaghir (Kolyma),,,Maslova 1999
+83,89A,Numeral-Noun,Order of Numeral and Noun,Yukaghir (Kolyma),,,Maslova 1999
+84,90A,Relative clause-Noun,Order of Relative Clause and Noun,Yukaghir (Kolyma),,,Maslova 1999
+85,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Yukaghir (Kolyma),,,Maslova 1999
+86,90E,Correlative as nondominant type,Correlative relative clauses,Yukaghir (Kolyma),,,Maslova 1999
+87,92A,No question particle,Position of Polar Question Particles,Yukaghir (Kolyma),,,Maslova 1999
+88,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yukaghir (Kolyma),,,Maslova 1999
+89,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Yukaghir (Kolyma),,,Maslova 1999
+90,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yukaghir (Kolyma),,,
+91,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yukaghir (Kolyma),,,
+92,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yukaghir (Kolyma),,,
+93,98A,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Yukaghir (Kolyma),,,Maslova 2003a
+94,99A,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Yukaghir (Kolyma),,,Maslova 2003a
+95,100A,Accusative,Alignment of Verbal Person Marking,Yukaghir (Kolyma),,,Maslova 1999
+96,101A,Subject affixes on verb,Expression of Pronominal Subjects,Yukaghir (Kolyma),,,Maslova 1999
+97,102A,Only the A argument,Verbal Person Marking,Yukaghir (Kolyma),,,Maslova 1999
+98,103A,No zero realization,Third Person Zero of Verbal Person Marking,Yukaghir (Kolyma),,,Maslova 1999
+99,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Yukaghir (Kolyma),,,Maslova 1999
+100,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Yukaghir (Kolyma),,,Maslova 1999
+101,106A,Distinct from reflexive,Reciprocal Constructions,Yukaghir (Kolyma),,,
+102,107A,Absent,Passive Constructions,Yukaghir (Kolyma),,,Maslova 1999
+103,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Yukaghir (Kolyma),,,Maslova 1999
+104,112A,Negative affix,Negative Morphemes,Yukaghir (Kolyma),,,Maslova 1999
+105,113A,Both,Symmetric and Asymmetric Standard Negation,Yukaghir (Kolyma),,,Maslova 1999
+106,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Yukaghir (Kolyma),,,Maslova 1999
+107,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Yukaghir (Kolyma),,,Maslova 1999
+108,116A,Interrogative intonation only,Polar Questions,Yukaghir (Kolyma),,,Maslova 1999
+109,117A,Conjunctional,Predicative Possession,Yukaghir (Kolyma),,,
+110,118A,Verbal encoding,Predicative Adjectives,Yukaghir (Kolyma),,,
+111,119A,Different,Nominal and Locational Predication,Yukaghir (Kolyma),,,
+112,120A,Impossible,Zero Copula for Predicate Nominals,Yukaghir (Kolyma),,,
+113,122A,Gap,Relativization on Subjects,Yukaghir (Kolyma),,,Maslova 1999
+114,123A,Not possible,Relativization on Obliques,Yukaghir (Kolyma),,,Maslova 1999
+115,124A,Subject is left implicit,'Want' Complement Subjects,Yukaghir (Kolyma),,,Maslova 1999
+116,125A,Deranked,Purpose Clauses,Yukaghir (Kolyma),,,Maslova 1999
+117,126A,Deranked,'When' Clauses,Yukaghir (Kolyma),,,Maslova 1999
+118,127A,Deranked,Reason Clauses,Yukaghir (Kolyma),,,Maslova 1999
+119,128A,Balanced/deranked,Utterance Complement Clauses,Yukaghir (Kolyma),,,Maslova 1999
+120,131A,Decimal,Numeral Bases,Yukaghir (Kolyma),,,Maslova 2003a
+121,136A,"M-T pronouns, paradigmatic",M-T Pronouns,Yukaghir (Kolyma),,,Maslova 1999
+122,136B,m in first person singular,M in First Person Singular,Yukaghir (Kolyma),,,Maslova 1999
+123,137A,No N-M pronouns,N-M Pronouns,Yukaghir (Kolyma),,,Maslova 1999
+124,137B,No m in second person singular,M in Second Person Singular,Yukaghir (Kolyma),,,Maslova 1999
+125,142A,Other or none,Para-Linguistic Usages of Clicks,Yukaghir (Kolyma),,,
+126,143A,[Neg-V],Order of Negative Morpheme and Verb,Yukaghir (Kolyma),,,Maslova 1999
+127,143E,[Neg-V],Preverbal Negative Morphemes,Yukaghir (Kolyma),,,Maslova 1999
+128,143F,None,Postverbal Negative Morphemes,Yukaghir (Kolyma),,,Maslova 1999
+129,143G,None,Minor morphological means of signaling negation,Yukaghir (Kolyma),,,Maslova 1999
+130,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Yukaghir (Kolyma),,,Maslova 1999
+131,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Yukaghir (Kolyma),,,Maslova 1999
+132,144P,No NegSOV,NegSOV Order,Yukaghir (Kolyma),,,Maslova 1999
+133,144Q,No SNegOV,SNegOV Order,Yukaghir (Kolyma),,,Maslova 1999
+134,144R,Prefix&NoDoubleNeg,SONegV Order,Yukaghir (Kolyma),,,Maslova 1999
+135,144S,NoSOVNeg,SOVNeg Order,Yukaghir (Kolyma),,,Maslova 1999

@@ -1,0 +1,68 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Tuvan,,,Anderson and Harrison 1999
+1,2A,Large (7-14),Vowel Quality Inventories,Tuvan,,,Anderson and Harrison 1999
+2,3A,Moderately low,Consonant-Vowel Ratio,Tuvan,,,Anderson and Harrison 1999
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tuvan,,,Anderson and Harrison 1999
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Tuvan,,,Anderson and Harrison 1999
+5,6A,None,Uvular Consonants,Tuvan,,,Anderson and Harrison 1999
+6,7A,No glottalized consonants,Glottalized Consonants,Tuvan,,,Anderson and Harrison 1999
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tuvan,,,Anderson and Harrison 1999
+8,9A,No initial velar nasal,The Velar Nasal,Tuvan,,,Anderson and Harrison 1999
+9,11A,High and mid,Front Rounded Vowels,Tuvan,,,Anderson and Harrison 1999
+10,12A,Complex,Syllable Structure,Tuvan,,,Anderson and Harrison 1999
+11,13A,No tones,Tone,Tuvan,,,Anderson and Harrison 1999
+12,18A,All present,Absence of Common Consonants,Tuvan,,,Anderson and Harrison 1999
+13,19A,None,Presence of Uncommon Consonants,Tuvan,,,Anderson and Harrison 1999
+14,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tuvan,,,Anderson and Harrison 1999
+15,27A,Productive full and partial reduplication,Reduplication,Tuvan,,,Harrison 2000
+16,33A,Plural suffix,Coding of Nominal Plurality,Tuvan,,,Krueger 1977
+17,37A,No definite or indefinite article,Definite Articles,Tuvan,,,Anderson and Harrison 1999
+18,38A,No definite or indefinite article,Indefinite Articles,Tuvan,,,Anderson and Harrison 1999
+19,46A,Interrogative-based,Indefinite Pronouns,Tuvan,,,Sat 1966
+20,51A,Case suffixes,Position of Case Affixes,Tuvan,,,Krueger 1977
+21,53A,"One-th, two-th, three-th",Ordinal Numerals,Tuvan,,,Anderson and Harrison 1999
+22,54A,Marked by reduplication,Distributive Numerals,Tuvan,,,Sat 1966
+23,55A,Absent,Numeral Classifiers,Tuvan,,,Nichols 1992
+24,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tuvan,,,Krueger 1977
+25,58A,Absent,Obligatory Possessive Inflection,Tuvan,,,Isxakov and Pal'mbax 1961
+26,58B,None reported,Number of Possessive Nouns,Tuvan,,,Isxakov and Pal'mbax 1961
+27,59A,No possessive classification,Possessive Classification,Tuvan,,,Isxakov and Pal'mbax 1961
+28,62A,Possessive-Accusative,Action Nominal Constructions,Tuvan,,,Ubrjatova and Litvin 1984
+29,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tuvan,,,Krueger 1977
+30,70A,Second singular and second plural,The Morphological Imperative,Tuvan,,,Anderson and Harrison 1999
+31,71A,Normal imperative + special negative,The Prohibitive,Tuvan,,,Anderson and Harrison 1999
+32,73A,Inflectional optative absent,The Optative,Tuvan,,,Isxakov and Pal'mbax 1961
+33,74A,Verbal constructions,Situational Possibility,Tuvan,,,Anderson and Harrison 1999
+34,75A,Verbal constructions,Epistemic Possibility,Tuvan,,,Anderson and Harrison 1999
+35,76A,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Tuvan,,,Anderson and Harrison 1999
+36,81A,SOV,"Order of Subject, Object and Verb",Tuvan,,,Anderson and Harrison 1999
+37,82A,SV,Order of Subject and Verb,Tuvan,,,Anderson and Harrison 1999
+38,83A,OV,Order of Object and Verb,Tuvan,,,Anderson and Harrison 1999
+39,85A,Postpositions,Order of Adposition and Noun Phrase,Tuvan,,,Anderson and Harrison 1999
+40,86A,Genitive-Noun,Order of Genitive and Noun,Tuvan,,,Anderson and Harrison 1999
+41,87A,Adjective-Noun,Order of Adjective and Noun,Tuvan,,,Anderson and Harrison 1999
+42,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tuvan,,,Anderson and Harrison 1999
+43,92A,Final,Position of Polar Question Particles,Tuvan,,,Anderson and Harrison 1999
+44,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tuvan,,,
+45,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tuvan,,,
+46,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tuvan,,,Anderson and Harrison 1999
+47,106A,Distinct from reflexive,Reciprocal Constructions,Tuvan,,,Kuular 2007
+48,112A,Negative affix,Negative Morphemes,Tuvan,,,Krueger 1977
+49,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Tuvan,,,Sat 1966
+50,116A,Question particle,Polar Questions,Tuvan,,,Anderson and Harrison 1999
+51,121A,Locational,Comparative Constructions,Tuvan,,,Anderson and Harrison 1999
+52,136A,"M-T pronouns, paradigmatic",M-T Pronouns,Tuvan,,,Isxakov and Pal'mbax 1961
+53,136B,m in first person singular,M in First Person Singular,Tuvan,,,Isxakov and Pal'mbax 1961
+54,137A,No N-M pronouns,N-M Pronouns,Tuvan,,,Isxakov and Pal'mbax 1961
+55,137B,No m in second person singular,M in Second Person Singular,Tuvan,,,Isxakov and Pal'mbax 1961
+56,138A,Words derived from Sinitic cha,Tea,Tuvan,,,Mongus 1980
+57,143A,[V-Neg],Order of Negative Morpheme and Verb,Tuvan,,,Krueger 1977
+58,143E,None,Preverbal Negative Morphemes,Tuvan,,,Krueger 1977
+59,143F,[V-Neg],Postverbal Negative Morphemes,Tuvan,,,Krueger 1977
+60,143G,None,Minor morphological means of signaling negation,Tuvan,,,Krueger 1977
+61,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tuvan,,,Krueger 1977
+62,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tuvan,,,Krueger 1977
+63,144P,No NegSOV,NegSOV Order,Tuvan,,,Krueger 1977
+64,144Q,No SNegOV,SNegOV Order,Tuvan,,,Krueger 1977
+65,144R,No SONegV,SONegV Order,Tuvan,,,Krueger 1977
+66,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tuvan,,,Krueger 1977

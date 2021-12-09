@@ -1,0 +1,45 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Trique (Copala),,,Hollenbach 1992
+1,33A,No plural,Coding of Nominal Plurality,Trique (Copala),,,Hollenbach 1992
+2,38A,Indefinite word same as 'one',Indefinite Articles,Trique (Copala),,,Hollenbach 1992
+3,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Trique (Copala),,,Hollenbach 1992
+4,48A,Pronouns only,Person Marking on Adpositions,Trique (Copala),,,Hollenbach 1992
+5,51A,No case affixes or adpositional clitics,Position of Case Affixes,Trique (Copala),,,Hollenbach 1992
+6,52A,Differentiation,Comitatives and Instrumentals,Trique (Copala),,,Hollenbach and Hollenbach 1975
+7,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Trique (Copala),,,Hollenbach 1992
+8,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Trique (Copala),,,Hollenbach 1992
+9,70A,No second-person imperatives,The Morphological Imperative,Trique (Copala),,,Hollenbach 1992
+10,71A,Normal imperative + normal negative,The Prohibitive,Trique (Copala),,,Hollenbach 1992
+11,81A,VSO,"Order of Subject, Object and Verb",Trique (Copala),,,Hollenbach 1992
+12,82A,VS,Order of Subject and Verb,Trique (Copala),,,Hollenbach 1992
+13,83A,VO,Order of Object and Verb,Trique (Copala),,,Hollenbach 1992
+14,84A,VOX,"Order of Object, Oblique, and Verb",Trique (Copala),,,Hollenbach 1992
+15,85A,Prepositions,Order of Adposition and Noun Phrase,Trique (Copala),,,Hollenbach 1992
+16,86A,Noun-Genitive,Order of Genitive and Noun,Trique (Copala),,,Hollenbach 1992
+17,87A,Noun-Adjective,Order of Adjective and Noun,Trique (Copala),,,Hollenbach 1992
+18,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Trique (Copala),,,Hollenbach 1992
+19,89A,Numeral-Noun,Order of Numeral and Noun,Trique (Copala),,,Hollenbach 1992
+20,90A,Noun-Relative clause,Order of Relative Clause and Noun,Trique (Copala),,,Hollenbach 1992
+21,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Trique (Copala),,,Hollenbach 1992
+22,92A,Final,Position of Polar Question Particles,Trique (Copala),,,Hollenbach 1992
+23,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Trique (Copala),,,Hollenbach 1992
+24,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Trique (Copala),,,Hollenbach 1992
+25,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Trique (Copala),,,
+26,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Trique (Copala),,,
+27,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Trique (Copala),,,
+28,100A,Accusative,Alignment of Verbal Person Marking,Trique (Copala),,,Hollenbach 1992
+29,102A,Only the A argument,Verbal Person Marking,Trique (Copala),,,Hollenbach 1992
+30,103A,No zero realization,Third Person Zero of Verbal Person Marking,Trique (Copala),,,Hollenbach 1992
+31,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Trique (Copala),,,Hollenbach 1992
+32,107A,Absent,Passive Constructions,Trique (Copala),,,Hollenbach 1992
+33,116A,Question particle,Polar Questions,Trique (Copala),,,Hollenbach 1992
+34,143A,NegV,Order of Negative Morpheme and Verb,Trique (Copala),,,Hollenbach 1992
+35,143E,NegV,Preverbal Negative Morphemes,Trique (Copala),,,Hollenbach 1992
+36,143F,None,Postverbal Negative Morphemes,Trique (Copala),,,Hollenbach 1992
+37,143G,None,Minor morphological means of signaling negation,Trique (Copala),,,Hollenbach 1992
+38,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Trique (Copala),,,Hollenbach 1992
+39,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Trique (Copala),,,Hollenbach 1992
+40,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Trique (Copala),,,Hollenbach 1992
+41,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Trique (Copala),,,Hollenbach 1992
+42,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Trique (Copala),,,Hollenbach 1992
+43,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Trique (Copala),,,Hollenbach 1992

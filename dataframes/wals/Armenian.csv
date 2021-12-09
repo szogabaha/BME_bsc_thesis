@@ -1,0 +1,130 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-arm,Moderately large,Consonant Inventories,Armenian (Eastern),,,Allen 1950
+2A-arm,Average (5-6),Vowel Quality Inventories,Armenian (Eastern),,,Allen 1950
+3A-arm,Moderately high,Consonant-Vowel Ratio,Armenian (Eastern),,,Allen 1950
+4A-arm,In fricatives alone,Voicing in Plosives and Fricatives,Armenian (Eastern),,,Allen 1950
+5A-arm,Other,Voicing and Gaps in Plosive Systems,Armenian (Eastern),,,Allen 1950
+6A-arm,Uvular continuants only,Uvular Consonants,Armenian (Eastern),,,Allen 1950
+7A-arm,Ejectives only,Glottalized Consonants,Armenian (Eastern),,,Allen 1950
+8A-arm,"/l/, no obstruent laterals",Lateral Consonants,Armenian (Eastern),,,Allen 1950
+9A-arm,No velar nasal,The Velar Nasal,Armenian (Eastern),,,Minassian 1980
+10A-arm,Contrast absent,Vowel Nasalization,Armenian (Eastern),,,Allen 1950
+11A-arm,None,Front Rounded Vowels,Armenian (Eastern),,,Allen 1950
+13A-arm,No tones,Tone,Armenian (Eastern),,,Allen 1950
+14A-arm,No fixed stress,Fixed Stress Locations,Armenian (Eastern),,,Gulian 1957;Abeghian 1936;Fairbanks 1958
+15A-arm,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Armenian (Eastern),,,Gulian 1957;Fairbanks 1958;Abeghian 1936
+16A-arm,Prominence,Weight Factors in Weight-Sensitive Stress Systems,Armenian (Eastern),,,Fairbanks 1958;Gulian 1957;Abeghian 1936
+17A-arm,Undetermined,Rhythm Types,Armenian (Eastern),,,Gulian 1957;Abeghian 1936;Fairbanks 1958
+18A-arm,All present,Absence of Common Consonants,Armenian (Eastern),,,Allen 1950
+19A-arm,None,Presence of Uncommon Consonants,Armenian (Eastern),,,Allen 1950
+22A-arm,2-3 categories per word,Inflectional Synthesis of the Verb,Armenian (Eastern),,,Minassian 1980;Tumanjan 1966
+26A-arm,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Armenian (Eastern),,,Stevick 1955
+27A-arm,Full reduplication only,Reduplication,Armenian (Eastern),,,Greppin 2001
+28A-arm,Core and non-core,Case Syncretism,Armenian (Eastern),,,Garibjan 1976
+29A-arm,Not syncretic,Syncretism in Verbal Person/Number Marking,Armenian (Eastern),,,Garibjan 1976
+30A-arm,None,Number of Genders,Armenian (Eastern),,,Garibjan and Garibjan 1970
+31A-arm,No gender,Sex-based and Non-sex-based Gender Systems,Armenian (Eastern),,,Garibjan and Garibjan 1970
+32A-arm,No gender,Systems of Gender Assignment,Armenian (Eastern),,,Garibjan and Garibjan 1970
+33A-arm,Plural suffix,Coding of Nominal Plurality,Armenian (Eastern),,,
+34A-arm,"All nouns, always obligatory",Occurrence of Nominal Plurality,Armenian (Eastern),,,Minassian 1980
+35A-arm,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Armenian (Eastern),,,Tumanjan 1966
+36A-arm,No associative plural,The Associative Plural,Armenian (Eastern),,,Gulian 1990
+37A-arm,Definite affix,Definite Articles,Armenian (Eastern),,,
+38A-arm,Indefinite word distinct from 'one',Indefinite Articles,Armenian (Eastern),,,
+39A-arm,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Armenian (Eastern),,,Kozintseva 1995
+40A-arm,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Armenian (Eastern),,,Kozintseva 1995
+43A-arm,Related to remote demonstratives,Third Person Pronouns and Demonstratives,Armenian (Eastern),,,Kozintseva 1995
+44A-arm,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Armenian (Eastern),,,Kozintseva 1999
+45A-arm,Binary politeness distinction,Politeness Distinctions in Pronouns,Armenian (Eastern),,,Minassian 1980
+47A-arm,Identical,Intensifiers and Reflexive Pronouns,Armenian (Eastern),,,
+48A-arm,No person marking,Person Marking on Adpositions,Armenian (Eastern),,,Kozintseva 1999
+49A-arm,5 cases,Number of Cases,Armenian (Eastern),,,Kozintseva 1995
+50A-arm,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Armenian (Eastern),,,Kozintseva 1995
+51A-arm,Case suffixes,Position of Case Affixes,Armenian (Eastern),,,
+52A-arm,Differentiation,Comitatives and Instrumentals,Armenian (Eastern),,,Guréghian and Guréghian 1999
+53A-arm,"First, two-th, three-th",Ordinal Numerals,Armenian (Eastern),,,Guréghian and Guréghian 1999
+54A-arm,Marked by mixed or other strategies,Distributive Numerals,Armenian (Eastern),,,Kozintseva 1995
+55A-arm,Absent,Numeral Classifiers,Armenian (Eastern),,,Nichols 1992;Kozintseva 1995
+56A-arm,Formally different,Conjunctions and Universal Quantifiers,Armenian (Eastern),,,Kozintseva 1995
+57A-arm,Possessive suffixes,Position of Pronominal Possessive Affixes,Armenian (Eastern),,,
+58A-arm,Absent,Obligatory Possessive Inflection,Armenian (Eastern),,,Tumanjan 1966
+58B-arm,None reported,Number of Possessive Nouns,Armenian (Eastern),,,Tumanjan 1966
+59A-arm,No possessive classification,Possessive Classification,Armenian (Eastern),,,Tumanjan 1966
+62A-arm,Possessive-Accusative,Action Nominal Constructions,Armenian (Eastern),,,
+63A-arm,'And' different from 'with',Noun Phrase Conjunction,Armenian (Eastern),,,
+65A-arm,Grammatical marking,Perfective/Imperfective Aspect,Armenian (Eastern),,,
+66A-arm,"Present, no remoteness distinctions",The Past Tense,Armenian (Eastern),,,
+67A-arm,No inflectional future,The Future Tense,Armenian (Eastern),,,
+68A-arm,Other perfect,The Perfect,Armenian (Eastern),,,
+69A-arm,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Armenian (Eastern),,,
+70A-arm,Second singular and second plural,The Morphological Imperative,Armenian (Eastern),,,Kozintseva 1995
+71A-arm,Normal imperative + special negative,The Prohibitive,Armenian (Eastern),,,Kozintseva 2001;Kozintseva 1995
+72A-arm,Neither type of system,Imperative-Hortative Systems,Armenian (Eastern),,,Kozintseva 2001
+73A-arm,Inflectional optative absent,The Optative,Armenian (Eastern),,,Kozintseva 1995
+74A-arm,Verbal constructions,Situational Possibility,Armenian (Eastern),,,Kozintseva 1995
+75A-arm,Other,Epistemic Possibility,Armenian (Eastern),,,Kozintseva 1995
+76A-arm,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Armenian (Eastern),,,Kozintseva 1995
+79A-arm,Tense and aspect,Suppletion According to Tense and Aspect,Armenian (Eastern),,,
+79B-arm,Imperative,Suppletion in Imperatives and Hortatives,Armenian (Eastern),,,
+80A-arm,None,Verbal Number and Suppletion,Armenian (Eastern),,,
+81A-arm,No dominant order,"Order of Subject, Object and Verb",Armenian (Eastern),,,
+81B-arm,SOV or SVO,"Languages with two Dominant Orders of Subject, Object, and Verb",Armenian (Eastern),,,
+82A-arm,SV,Order of Subject and Verb,Armenian (Eastern),,,Stevick 1955
+83A-arm,No dominant order,Order of Object and Verb,Armenian (Eastern),,,
+84A-arm,No dominant order,"Order of Object, Oblique, and Verb",Armenian (Eastern),,,
+85A-arm,Postpositions,Order of Adposition and Noun Phrase,Armenian (Eastern),,,Stevick 1955
+86A-arm,Genitive-Noun,Order of Genitive and Noun,Armenian (Eastern),,,Stevick 1955
+87A-arm,Adjective-Noun,Order of Adjective and Noun,Armenian (Eastern),,,Stevick 1955
+88A-arm,Demonstrative-Noun,Order of Demonstrative and Noun,Armenian (Eastern),,,Stevick 1955
+89A-arm,Numeral-Noun,Order of Numeral and Noun,Armenian (Eastern),,,Stevick 1955
+90A-arm,Mixed,Order of Relative Clause and Noun,Armenian (Eastern),,,
+90B-arm,RelN or NRel,Prenominal relative clauses,Armenian (Eastern),,,
+90C-arm,NRel or RelN,Postnominal relative clauses,Armenian (Eastern),,,
+91A-arm,Degree word-Adjective,Order of Degree Word and Adjective,Armenian (Eastern),,,
+92A-arm,No question particle,Position of Polar Question Particles,Armenian (Eastern),,,
+93A-arm,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Armenian (Eastern),,,
+94A-arm,Initial subordinator word,Order of Adverbial Subordinator and Clause,Armenian (Eastern),,,Stevick 1955
+95A-arm,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Armenian (Eastern),,,
+96A-arm,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Armenian (Eastern),,,
+97A-arm,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Armenian (Eastern),,,
+98A-arm,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Armenian (Eastern),,,Minassian 1980
+99A-arm,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Armenian (Eastern),,,Minassian 1980
+100A-arm,Accusative,Alignment of Verbal Person Marking,Armenian (Eastern),,,Kozintseva 1999
+101A-arm,Subject affixes on verb,Expression of Pronominal Subjects,Armenian (Eastern),,,
+102A-arm,Only the A argument,Verbal Person Marking,Armenian (Eastern),,,Kozintseva 1999
+103A-arm,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Armenian (Eastern),,,Kozintseva 1999
+104A-arm,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Armenian (Eastern),,,Kozintseva 1999
+107A-arm,Present,Passive Constructions,Armenian (Eastern),,,Kozintseva 1999
+108A-arm,No antipassive,Antipassive Constructions,Armenian (Eastern),,,
+108B-arm,no antipassive,Productivity of the Antipassive Construction,Armenian (Eastern),,,
+109A-arm,No applicative construction,Applicative Constructions,Armenian (Eastern),,,
+109B-arm,No applicative construction,Other Roles of Applied Objects,Armenian (Eastern),,,
+110A-arm,Purposive but no sequential,Periphrastic Causative Constructions,Armenian (Eastern),,,Kozintseva 1999
+111A-arm,Morphological but no compound,Nonperiphrastic Causative Constructions,Armenian (Eastern),,,Kozintseva 1999
+112A-arm,Variation between negative word and affix,Negative Morphemes,Armenian (Eastern),,,
+113A-arm,Both,Symmetric and Asymmetric Standard Negation,Armenian (Eastern),,,Kozintseva 1995
+114A-arm,A/Fin,Subtypes of Asymmetric Standard Negation,Armenian (Eastern),,,Kozintseva 1995
+116A-arm,Interrogative intonation only,Polar Questions,Armenian (Eastern),,,
+117A-arm,Genitive,Predicative Possession,Armenian (Eastern),,,
+118A-arm,Nonverbal encoding,Predicative Adjectives,Armenian (Eastern),,,
+119A-arm,Identical,Nominal and Locational Predication,Armenian (Eastern),,,
+120A-arm,Impossible,Zero Copula for Predicate Nominals,Armenian (Eastern),,,
+131A-arm,Decimal,Numeral Bases,Armenian (Eastern),,,Minassian 1980
+138A-arm,Words derived from Min Nan Chinese te,Tea,Armenian (Eastern),,,Malherbe and Rosenberg 1996
+143A-arm,Type 1 / Type 3,Order of Negative Morpheme and Verb,Armenian (Eastern),,,
+143E-arm,NegV&[Neg-V],Preverbal Negative Morphemes,Armenian (Eastern),,,
+143F-arm,None,Postverbal Negative Morphemes,Armenian (Eastern),,,
+143G-arm,None,Minor morphological means of signaling negation,Armenian (Eastern),,,
+144A-arm,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Armenian (Eastern),,,
+144D-arm,More than one construction,The Position of Negative Morphemes in SVO Languages,Armenian (Eastern),,,
+144E-arm,SNegVO/SONegV/S[Neg-V]O/SO[Neg-V],Multiple Negative Constructions in SVO Languages,Armenian (Eastern),,,
+144H-arm,No NegSVO,NegSVO Order,Armenian (Eastern),,,
+144I-arm,Word&NoDoubleNeg,SNegVO Order,Armenian (Eastern),,,
+144J-arm,No SVNegO,SVNegO Order,Armenian (Eastern),,,
+144K-arm,No SVONeg,SVONeg Order,Armenian (Eastern),,,
+144L-arm,More than one construction,The Position of Negative Morphemes in SOV Languages,Armenian (Eastern),,,
+144M-arm,SONegV/SO[Neg-V]/SNegVO/S[Neg-V]O,Multiple Negative Constructions in SOV Languages,Armenian (Eastern),,,
+144P-arm,No NegSOV,NegSOV Order,Armenian (Eastern),,,
+144Q-arm,No SNegOV,SNegOV Order,Armenian (Eastern),,,
+144R-arm,Type 1 / Type 2,SONegV Order,Armenian (Eastern),,,
+144S-arm,NoSOVNeg,SOVNeg Order,Armenian (Eastern),,,

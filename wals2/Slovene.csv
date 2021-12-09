@@ -1,0 +1,44 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Slovene,,,Gvozdanovic 1999
+1,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Slovene,,,Gvozdanovic 1999
+2,16A,Prominence,Weight Factors in Weight-Sensitive Stress Systems,Slovene,,,Gvozdanovic 1999
+3,17A,No rhythmic stress,Rhythm Types,Slovene,,,Gvozdanovic 1999
+4,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Slovene,,,Herrity 2000
+5,33A,Plural suffix,Coding of Nominal Plurality,Slovene,,,Priestly 1993
+6,51A,Case suffixes,Position of Case Affixes,Slovene,,,Priestly 1993
+7,53A,"First, second, three-th",Ordinal Numerals,Slovene,,,Jug-Kranjec 1989
+8,70A,Second singular and second plural,The Morphological Imperative,Slovene,,,Derbyshire 1993
+9,71A,Normal imperative + normal negative,The Prohibitive,Slovene,,,Derbyshire 1993
+10,72A,Neither type of system,Imperative-Hortative Systems,Slovene,,,Derbyshire 1993
+11,73A,Inflectional optative absent,The Optative,Slovene,,,Derbyshire 1993
+12,74A,Verbal constructions,Situational Possibility,Slovene,,,Derbyshire 1993
+13,75A,Other,Epistemic Possibility,Slovene,,,Derbyshire 1993
+14,76A,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Slovene,,,Derbyshire 1993
+15,79A,Tense and aspect,Suppletion According to Tense and Aspect,Slovene,,,Derbyshire 1993
+16,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Slovene,,,
+17,80A,None,Verbal Number and Suppletion,Slovene,,,Derbyshire 1993
+18,81A,SVO,"Order of Subject, Object and Verb",Slovene,,,Priestly 1993
+19,82A,SV,Order of Subject and Verb,Slovene,,,Priestly 1993
+20,83A,VO,Order of Object and Verb,Slovene,,,Priestly 1993
+21,85A,Prepositions,Order of Adposition and Noun Phrase,Slovene,,,Priestly 1993
+22,86A,No dominant order,Order of Genitive and Noun,Slovene,,,Priestly 1993
+23,87A,Adjective-Noun,Order of Adjective and Noun,Slovene,,,Priestly 1993
+24,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Slovene,,,Priestly 1993
+25,89A,Numeral-Noun,Order of Numeral and Noun,Slovene,,,Priestly 1993
+26,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Slovene,,,
+27,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Slovene,,,
+28,101A,Subject affixes on verb,Expression of Pronominal Subjects,Slovene,,,Herrity 2000
+29,112A,Negative particle,Negative Morphemes,Slovene,,,Priestly 1993
+30,116A,Question particle,Polar Questions,Slovene,,,Priestly 1993
+31,138A,Words derived from Sinitic cha,Tea,Slovene,,,Malherbe and Rosenberg 1996
+32,143A,NegV,Order of Negative Morpheme and Verb,Slovene,,,Priestly 1993
+33,143E,NegV,Preverbal Negative Morphemes,Slovene,,,Priestly 1993
+34,143F,None,Postverbal Negative Morphemes,Slovene,,,Priestly 1993
+35,143G,None,Minor morphological means of signaling negation,Slovene,,,Priestly 1993
+36,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Slovene,,,Priestly 1993
+37,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Slovene,,,Priestly 1993
+38,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Slovene,,,Priestly 1993
+39,144H,No NegSVO,NegSVO Order,Slovene,,,Priestly 1993
+40,144I,Word&NoDoubleNeg,SNegVO Order,Slovene,,,Priestly 1993
+41,144J,No SVNegO,SVNegO Order,Slovene,,,Priestly 1993
+42,144K,No SVONeg,SVONeg Order,Slovene,,,Priestly 1993

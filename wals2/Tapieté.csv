@@ -1,0 +1,32 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tapieté,,,Gonzalez 2005
+1,33A,Plural suffix,Coding of Nominal Plurality,Tapieté,,,Gonzalez 2005
+2,51A,Case suffixes,Position of Case Affixes,Tapieté,,,Gonzalez 2005
+3,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tapieté,,,Gonzalez 2005
+4,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tapieté,,,Gonzalez 2005
+5,81A,SOV,"Order of Subject, Object and Verb",Tapieté,,,Gonzalez 2005
+6,82A,SV,Order of Subject and Verb,Tapieté,,,Gonzalez 2005
+7,83A,OV,Order of Object and Verb,Tapieté,,,Gonzalez 2005
+8,84A,OVX,"Order of Object, Oblique, and Verb",Tapieté,,,Gonzalez 2005
+9,85A,Prepositions,Order of Adposition and Noun Phrase,Tapieté,,,Gonzalez 2005
+10,86A,Genitive-Noun,Order of Genitive and Noun,Tapieté,,,Gonzalez 2005
+11,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tapieté,,,Gonzalez 2005
+12,89A,Numeral-Noun,Order of Numeral and Noun,Tapieté,,,Gonzalez 2005
+13,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tapieté,,,Gonzalez 2005
+14,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tapieté,,,Gonzalez 2005
+15,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tapieté,,,Gonzalez 2005
+16,95A,OV and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tapieté,,,
+17,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tapieté,,,
+18,112A,Negative affix,Negative Morphemes,Tapieté,,,Gonzalez 2005
+19,129A,Different,Hand and Arm,Tapieté,,,Schmidt 1936
+20,130A,Different,Finger and Hand,Tapieté,,,Schmidt 1936
+21,143A,[V-Neg],Order of Negative Morpheme and Verb,Tapieté,,,Gonzalez 2005
+22,143E,None,Preverbal Negative Morphemes,Tapieté,,,Gonzalez 2005
+23,143F,[V-Neg],Postverbal Negative Morphemes,Tapieté,,,Gonzalez 2005
+24,143G,None,Minor morphological means of signaling negation,Tapieté,,,Gonzalez 2005
+25,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tapieté,,,Gonzalez 2005
+26,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tapieté,,,Gonzalez 2005
+27,144P,No NegSOV,NegSOV Order,Tapieté,,,Gonzalez 2005
+28,144Q,No SNegOV,SNegOV Order,Tapieté,,,Gonzalez 2005
+29,144R,No SONegV,SONegV Order,Tapieté,,,Gonzalez 2005
+30,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tapieté,,,Gonzalez 2005

@@ -1,0 +1,39 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tunen,,,Dugast 1971
+1,33A,Plural prefix,Coding of Nominal Plurality,Tunen,,,Dugast 1971
+2,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tunen,,,Dugast 1971
+3,55A,Absent,Numeral Classifiers,Tunen,,,
+4,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tunen,,,Dugast 1971
+5,61A,Without marking,Adjectives without Nouns,Tunen,,,
+6,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tunen,,,Dugast 1971
+7,81A,SOV,"Order of Subject, Object and Verb",Tunen,,,Dugast 1971
+8,82A,SV,Order of Subject and Verb,Tunen,,,Dugast 1971
+9,83A,OV,Order of Object and Verb,Tunen,,,Dugast 1971
+10,84A,OVX,"Order of Object, Oblique, and Verb",Tunen,,,Dugast 1971
+11,85A,No dominant order,Order of Adposition and Noun Phrase,Tunen,,,Dugast 1971
+12,86A,Noun-Genitive,Order of Genitive and Noun,Tunen,,,Dugast 1971
+13,87A,Noun-Adjective,Order of Adjective and Noun,Tunen,,,Dugast 1971
+14,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tunen,,,Dugast 1971
+15,89A,Noun-Numeral,Order of Numeral and Noun,Tunen,,,Dugast 1971
+16,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tunen,,,Dugast 1971
+17,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tunen,,,Dugast 1971
+18,92A,Final,Position of Polar Question Particles,Tunen,,,Dugast 1971
+19,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tunen,,,Dugast 1971
+20,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tunen,,,Dugast 1971
+21,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tunen,,,
+22,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tunen,,,
+23,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tunen,,,
+24,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Tunen,,,Mous 1997
+25,112A,Negative particle,Negative Morphemes,Tunen,,,Dugast 1971
+26,116A,Question particle,Polar Questions,Tunen,,,Dugast 1971
+27,143A,NegV,Order of Negative Morpheme and Verb,Tunen,,,Dugast 1971
+28,143E,NegV,Preverbal Negative Morphemes,Tunen,,,Dugast 1971
+29,143F,None,Postverbal Negative Morphemes,Tunen,,,Dugast 1971
+30,143G,None,Minor morphological means of signaling negation,Tunen,,,Dugast 1971
+31,144A,SNegOV,"Position of Negative Word With Respect to Subject, Object, and Verb",Tunen,,,Dugast 1971
+32,144B,"Preverbal, not beginning or immed",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tunen,,,Dugast 1971
+33,144L,SNegOV,The Position of Negative Morphemes in SOV Languages,Tunen,,,Dugast 1971
+34,144P,No NegSOV,NegSOV Order,Tunen,,,Dugast 1971
+35,144Q,NoDoubleNeg,SNegOV Order,Tunen,,,Dugast 1971
+36,144R,No SONegV,SONegV Order,Tunen,,,Dugast 1971
+37,144S,NoSOVNeg,SOVNeg Order,Tunen,,,Dugast 1971

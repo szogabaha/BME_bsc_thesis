@@ -1,0 +1,46 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tariana,,,Aikhenvald 2003
+1,33A,Plural suffix,Coding of Nominal Plurality,Tariana,,,Aikhenvald 2003
+2,36A,Associative same as additive plural,The Associative Plural,Tariana,,,
+3,37A,Definite word distinct from demonstrative,Definite Articles,Tariana,,,Aikhenvald 2003
+4,38A,Indefinite word same as 'one',Indefinite Articles,Tariana,,,Aikhenvald 2003
+5,51A,Postpositional clitics,Position of Case Affixes,Tariana,,,Aikhenvald 2003
+6,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tariana,,,Aikhenvald 2003
+7,77A,Direct and indirect,Semantic Distinctions of Evidentiality,Tariana,,,Aikhenvald and Dixon 1998
+8,78A,Part of the tense system,Coding of Evidentiality,Tariana,,,Aikhenvald and Dixon 1998
+9,81A,SOV,"Order of Subject, Object and Verb",Tariana,,,Aikhenvald 2003
+10,82A,SV,Order of Subject and Verb,Tariana,,,Aikhenvald 2003
+11,83A,OV,Order of Object and Verb,Tariana,,,Aikhenvald 2003
+12,85A,Postpositions,Order of Adposition and Noun Phrase,Tariana,,,Aikhenvald 2003
+13,86A,Genitive-Noun,Order of Genitive and Noun,Tariana,,,Aikhenvald 2003
+14,87A,No dominant order,Order of Adjective and Noun,Tariana,,,Aikhenvald 2003
+15,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tariana,,,Aikhenvald 2003
+16,89A,Numeral-Noun,Order of Numeral and Noun,Tariana,,,Aikhenvald 2003
+17,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tariana,,,Aikhenvald 2003
+18,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tariana,,,Aikhenvald 2003
+19,91A,Adjective-Degree word,Order of Degree Word and Adjective,Tariana,,,Aikhenvald 2003
+20,92A,No question particle,Position of Polar Question Particles,Tariana,,,Aikhenvald 2003
+21,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tariana,,,Aikhenvald 2003
+22,94A,Mixed,Order of Adverbial Subordinator and Clause,Tariana,,,Aikhenvald 2003
+23,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tariana,,,
+24,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tariana,,,
+25,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tariana,,,
+26,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tariana,,,Aikhenvald 2003
+27,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Tariana,,,Aikhenvald 2001
+28,106A,Mixed,Reciprocal Constructions,Tariana,,,Aikhenvald 2007a
+29,112A,Negative affix,Negative Morphemes,Tariana,,,Aikhenvald 2003
+30,116A,Interrogative intonation only,Polar Questions,Tariana,,,Aikhenvald 2003
+31,129A,Different,Hand and Arm,Tariana,,,Huber and Reed 1992
+32,130A,Different,Finger and Hand,Tariana,,,Huber and Reed 1992
+33,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Tariana,,,Aikhenvald 2003
+34,143C,[(Neg-)V-Neg],Optional Double Negation,Tariana,,,Aikhenvald 2003
+35,143E,[Neg-V],Preverbal Negative Morphemes,Tariana,,,Aikhenvald 2003
+36,143F,[V-Neg],Postverbal Negative Morphemes,Tariana,,,Aikhenvald 2003
+37,143G,None,Minor morphological means of signaling negation,Tariana,,,Aikhenvald 2003
+38,144A,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tariana,,,Aikhenvald 2003
+39,144L,OptDoubleNeg,The Position of Negative Morphemes in SOV Languages,Tariana,,,Aikhenvald 2003
+40,144O,SO[(Neg-)V-Neg],Optional Double Negation in SOV languages,Tariana,,,Aikhenvald 2003
+41,144P,No NegSOV,NegSOV Order,Tariana,,,Aikhenvald 2003
+42,144Q,No SNegOV,SNegOV Order,Tariana,,,Aikhenvald 2003
+43,144R,Prefix&OnlyWithAnotherNeg,SONegV Order,Tariana,,,Aikhenvald 2003
+44,144S,Suffix&OptDoubleNeg,SOVNeg Order,Tariana,,,Aikhenvald 2003

@@ -1,0 +1,27 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tenyer,,,Prost 1964h
+1,33A,Plural suffix,Coding of Nominal Plurality,Tenyer,,,Prost 1964h
+2,65A,Grammatical marking,Perfective/Imperfective Aspect,Tenyer,,,Dahl 1985
+3,66A,"Present, no remoteness distinctions",The Past Tense,Tenyer,,,Dahl 1985
+4,67A,No inflectional future,The Future Tense,Tenyer,,,Dahl 1985
+5,68A,"From 'finish', 'already'",The Perfect,Tenyer,,,Dahl 1985
+6,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tenyer,,,Prost 1964h
+7,82A,SV,Order of Subject and Verb,Tenyer,,,Prost 1964h
+8,83A,OV,Order of Object and Verb,Tenyer,,,Prost 1964h
+9,85A,Postpositions,Order of Adposition and Noun Phrase,Tenyer,,,Prost 1964h
+10,87A,Noun-Adjective,Order of Adjective and Noun,Tenyer,,,Prost 1964h
+11,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tenyer,,,Prost 1964h
+12,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tenyer,,,Prost 1964h
+13,92A,Final,Position of Polar Question Particles,Tenyer,,,Prost 1964h
+14,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tenyer,,,Prost 1964h
+15,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tenyer,,,
+16,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tenyer,,,
+17,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tenyer,,,
+18,112A,Negative particle,Negative Morphemes,Tenyer,,,Prost 1964h
+19,116A,Question particle,Polar Questions,Tenyer,,,Prost 1964h
+20,143A,NegV,Order of Negative Morpheme and Verb,Tenyer,,,Prost 1964h
+21,143E,NegV,Preverbal Negative Morphemes,Tenyer,,,Prost 1964h
+22,143F,None,Postverbal Negative Morphemes,Tenyer,,,Prost 1964h
+23,143G,None,Minor morphological means of signaling negation,Tenyer,,,Prost 1964h
+24,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Tenyer,,,Prost 1964h
+25,144L,SV&OV&NegV,The Position of Negative Morphemes in SOV Languages,Tenyer,,,Prost 1964h

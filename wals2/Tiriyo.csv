@@ -1,0 +1,33 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tiriyo,,,Meira 1999
+1,33A,Plural suffix,Coding of Nominal Plurality,Tiriyo,,,Meira 1999
+2,44A,"3rd person only, but also non-singular",Gender Distinctions in Independent Personal Pronouns,Tiriyo,,,Meira 1999
+3,48A,Pronouns only,Person Marking on Adpositions,Tiriyo,,,Meira 1999
+4,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tiriyo,,,Meira 1999
+5,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tiriyo,,,Meira 1999
+6,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tiriyo,,,Meira 1999
+7,70A,Second singular and second plural,The Morphological Imperative,Tiriyo,,,Meira 1999
+8,71A,Normal imperative + normal negative,The Prohibitive,Tiriyo,,,Meira 1999
+9,72A,Neither type of system,Imperative-Hortative Systems,Tiriyo,,,Meira 1999
+10,81A,OVS,"Order of Subject, Object and Verb",Tiriyo,,,Meira 1999
+11,82A,VS,Order of Subject and Verb,Tiriyo,,,Meira 1999
+12,83A,OV,Order of Object and Verb,Tiriyo,,,Meira 1999
+13,85A,Postpositions,Order of Adposition and Noun Phrase,Tiriyo,,,Meira 1999
+14,86A,Genitive-Noun,Order of Genitive and Noun,Tiriyo,,,Meira 1999
+15,92A,No question particle,Position of Polar Question Particles,Tiriyo,,,Meira 1999
+16,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tiriyo,,,Meira 1999
+17,94A,Mixed,Order of Adverbial Subordinator and Clause,Tiriyo,,,Meira 1999
+18,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tiriyo,,,
+19,100A,Split,Alignment of Verbal Person Marking,Tiriyo,,,Meira 1999
+20,102A,A or P argument,Verbal Person Marking,Tiriyo,,,Meira 1999
+21,103A,No zero realization,Third Person Zero of Verbal Person Marking,Tiriyo,,,Meira 1999
+22,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Tiriyo,,,Meira 1999
+23,107A,Absent,Passive Constructions,Tiriyo,,,Meira 1999
+24,112A,Negative affix,Negative Morphemes,Tiriyo,,,Meira 1999
+25,116A,Interrogative intonation only,Polar Questions,Tiriyo,,,Meira 1999
+26,143A,[V-Neg],Order of Negative Morpheme and Verb,Tiriyo,,,Meira 1999
+27,143E,None,Preverbal Negative Morphemes,Tiriyo,,,Meira 1999
+28,143F,[V-Neg],Postverbal Negative Morphemes,Tiriyo,,,Meira 1999
+29,143G,None,Minor morphological means of signaling negation,Tiriyo,,,Meira 1999
+30,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tiriyo,,,Meira 1999
+31,144Y,O[V-Neg]S,The Position of Negative Morphemes in Object-Initial Languages,Tiriyo,,,Meira 1999

@@ -1,0 +1,65 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Selknam,,,Najlis 1973
+1,2A,Small (2-4),Vowel Quality Inventories,Selknam,,,Najlis 1973
+2,3A,High,Consonant-Vowel Ratio,Selknam,,,Najlis 1973
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Selknam,,,Najlis 1973
+4,5A,Other,Voicing and Gaps in Plosive Systems,Selknam,,,Najlis 1973
+5,6A,Uvular stops only,Uvular Consonants,Selknam,,,Najlis 1973
+6,7A,Ejectives only,Glottalized Consonants,Selknam,,,Najlis 1973
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Selknam,,,Najlis 1973
+8,9A,No velar nasal,The Velar Nasal,Selknam,,,Najlis 1973
+9,10A,Contrast absent,Vowel Nasalization,Selknam,,,Najlis 1973
+10,12A,Complex,Syllable Structure,Selknam,,,Najlis 1973
+11,13A,No tones,Tone,Selknam,,,Najlis 1973
+12,18A,All present,Absence of Common Consonants,Selknam,,,Najlis 1973
+13,19A,None,Presence of Uncommon Consonants,Selknam,,,Najlis 1973
+14,28A,No case marking,Case Syncretism,Selknam,,,Najlis 1973
+15,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Selknam,,,Najlis 1973
+16,35A,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Selknam,,,Najlis 1973
+17,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Selknam,,,Najlis 1973
+18,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Selknam,,,Najlis 1973
+19,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Selknam,,,Najlis 1973
+20,48A,Pronouns only,Person Marking on Adpositions,Selknam,,,Najlis 1973
+21,49A,Exclusively borderline case-marking,Number of Cases,Selknam,,,Najlis 1973
+22,50A,Symmetrical,Asymmetrical Case-Marking,Selknam,,,Najlis 1973
+23,63A,'And' different from 'with',Noun Phrase Conjunction,Selknam,,,Tonelli 1926
+24,70A,Second person number-neutral,The Morphological Imperative,Selknam,,,Najlis 1973
+25,71A,Normal imperative + special negative,The Prohibitive,Selknam,,,Najlis 1973
+26,73A,Inflectional optative absent,The Optative,Selknam,,,Najlis 1973
+27,74A,Verbal constructions,Situational Possibility,Selknam,,,Najlis 1973
+28,75A,Affixes on verbs,Epistemic Possibility,Selknam,,,Najlis 1973
+29,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Selknam,,,Najlis 1973
+30,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Selknam,,,Najlis 1973
+31,78A,No grammatical evidentials,Coding of Evidentiality,Selknam,,,Najlis 1973
+32,79A,None,Suppletion According to Tense and Aspect,Selknam,,,Najlis 1973
+33,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Selknam,,,
+34,80A,None,Verbal Number and Suppletion,Selknam,,,Najlis 1973
+35,81A,OVS,"Order of Subject, Object and Verb",Selknam,,,Najlis 1973
+36,82A,VS,Order of Subject and Verb,Selknam,,,Najlis 1973
+37,83A,OV,Order of Object and Verb,Selknam,,,Najlis 1973
+38,85A,Postpositions,Order of Adposition and Noun Phrase,Selknam,,,Najlis 1973
+39,87A,Adjective-Noun,Order of Adjective and Noun,Selknam,,,Najlis 1973
+40,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Selknam,,,
+41,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Selknam,,,
+42,100A,Accusative,Alignment of Verbal Person Marking,Selknam,,,Najlis 1973
+43,102A,Only the P argument,Verbal Person Marking,Selknam,,,Najlis 1973
+44,103A,No person marking,Third Person Zero of Verbal Person Marking,Selknam,,,Najlis 1973
+45,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Selknam,,,Najlis 1973
+46,107A,Absent,Passive Constructions,Selknam,,,Najlis 1973
+47,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Selknam,,,Najlis 1973
+48,112A,Negative auxiliary verb,Negative Morphemes,Selknam,,,Najlis 1973
+49,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Selknam,,,Najlis 1973
+50,114A,A/Fin,Subtypes of Asymmetric Standard Negation,Selknam,,,Najlis 1973
+51,117A,Topic,Predicative Possession,Selknam,,,Tonelli 1926
+52,118A,Verbal encoding,Predicative Adjectives,Selknam,,,Tonelli 1926
+53,119A,Different,Nominal and Locational Predication,Selknam,,,Tonelli 1926
+54,120A,Impossible,Zero Copula for Predicate Nominals,Selknam,,,Tonelli 1926
+55,129A,Different,Hand and Arm,Selknam,,,Beauvoir 1915
+56,130A,Different,Finger and Hand,Selknam,,,Beauvoir 1915
+57,143A,VNeg,Order of Negative Morpheme and Verb,Selknam,,,Najlis 1973
+58,143E,None,Preverbal Negative Morphemes,Selknam,,,Najlis 1973
+59,143F,VNeg,Postverbal Negative Morphemes,Selknam,,,Najlis 1973
+60,143G,None,Minor morphological means of signaling negation,Selknam,,,Najlis 1973
+61,144A,OVNegS,"Position of Negative Word With Respect to Subject, Object, and Verb",Selknam,,,Najlis 1973
+62,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Selknam,,,Najlis 1973
+63,144Y,OVNegS,The Position of Negative Morphemes in Object-Initial Languages,Selknam,,,Najlis 1973

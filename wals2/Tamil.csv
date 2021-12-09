@@ -1,0 +1,84 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tamil,,,Asher 1982
+1,27A,Productive full and partial reduplication,Reduplication,Tamil,,,Steever 2001
+2,30A,Three,Number of Genders,Tamil,,,Asher 1985
+3,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Tamil,,,Asher 1985
+4,32A,Semantic,Systems of Gender Assignment,Tamil,,,Asher 1985
+5,33A,Plural suffix,Coding of Nominal Plurality,Tamil,,,Asher 1982
+6,34A,"All nouns, optional in inanimates",Occurrence of Nominal Plurality,Tamil,,,Asher 1985
+7,35A,Person-number stem + nominal plural affix,Plurality in Independent Personal Pronouns,Tamil,,,Annamalai and Steever 1998
+8,41A,Two-way contrast,Distance Contrasts in Demonstratives,Tamil,,,Herring 1994
+9,42A,Different inflection,Pronominal and Adnominal Demonstratives,Tamil,,,Herring 1994
+10,45A,Multiple politeness distinctions,Politeness Distinctions in Pronouns,Tamil,,,Brown and Levinson 1987
+11,46A,Interrogative-based,Indefinite Pronouns,Tamil,,,Asher 1985
+12,47A,Identical,Intensifiers and Reflexive Pronouns,Tamil,,,Annamalai 2000
+13,51A,Case suffixes,Position of Case Affixes,Tamil,,,Asher 1982
+14,52A,Differentiation,Comitatives and Instrumentals,Tamil,,,Beythan 1943
+15,53A,"First, two-th, three-th",Ordinal Numerals,Tamil,,,Beythan 1943
+16,54A,Marked by reduplication,Distributive Numerals,Tamil,,,Abbi 1992
+17,56A,"Formally similar, with interrogative",Conjunctions and Universal Quantifiers,Tamil,,,Emeneau 1980
+18,62A,Sentential,Action Nominal Constructions,Tamil,,,Asher 1982
+19,63A,'And' different from 'with',Noun Phrase Conjunction,Tamil,,,Asher 1982
+20,64A,Differentiation,Nominal and Verbal Conjunction,Tamil,,,Asher 1985
+21,65A,No grammatical marking,Perfective/Imperfective Aspect,Tamil,,,Dahl 1985
+22,66A,"Present, no remoteness distinctions",The Past Tense,Tamil,,,Dahl 1985
+23,67A,Inflectional future exists,The Future Tense,Tamil,,,Dahl 1985
+24,68A,Other perfect,The Perfect,Tamil,,,Dahl 1985
+25,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tamil,,,Asher 1982
+26,70A,Second singular and second plural,The Morphological Imperative,Tamil,,,Lehmann 1993
+27,71A,Special imperative + special negative,The Prohibitive,Tamil,,,Lehmann 1993
+28,74A,Affixes on verbs,Situational Possibility,Tamil,,,Lehmann 1993
+29,75A,Affixes on verbs,Epistemic Possibility,Tamil,,,Lehmann 1993
+30,76A,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Tamil,,,Lehmann 1993
+31,77A,Indirect only,Semantic Distinctions of Evidentiality,Tamil,,,Asher 1982
+32,78A,Verbal affix or clitic,Coding of Evidentiality,Tamil,,,Asher 1982
+33,81A,SOV,"Order of Subject, Object and Verb",Tamil,,,Asher 1982
+34,82A,SV,Order of Subject and Verb,Tamil,,,Asher 1982
+35,83A,OV,Order of Object and Verb,Tamil,,,Asher 1982
+36,84A,XOV,"Order of Object, Oblique, and Verb",Tamil,,,Asher 1982
+37,85A,Postpositions,Order of Adposition and Noun Phrase,Tamil,,,Asher 1982
+38,86A,Genitive-Noun,Order of Genitive and Noun,Tamil,,,Asher 1982
+39,87A,Adjective-Noun,Order of Adjective and Noun,Tamil,,,Asher 1982
+40,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tamil,,,Asher 1982
+41,89A,Numeral-Noun,Order of Numeral and Noun,Tamil,,,Asher 1982
+42,90A,Relative clause-Noun,Order of Relative Clause and Noun,Tamil,,,Asher 1982
+43,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Tamil,,,Asher 1982
+44,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tamil,,,Asher 1982
+45,92A,No question particle,Position of Polar Question Particles,Tamil,,,Asher 1982
+46,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tamil,,,Asher 1982
+47,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Tamil,,,Asher 1982
+48,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tamil,,,
+49,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tamil,,,
+50,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tamil,,,
+51,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Tamil,,,Asher 1985
+52,106A,Distinct from reflexive,Reciprocal Constructions,Tamil,,,Asher 1982
+53,108A,No antipassive,Antipassive Constructions,Tamil,,,Asher 1985
+54,108B,no antipassive,Productivity of the Antipassive Construction,Tamil,,,Asher 1985
+55,109A,No applicative construction,Applicative Constructions,Tamil,,,Asher 1985
+56,109B,No applicative construction,Other Roles of Applied Objects,Tamil,,,
+57,110A,Purposive but no sequential,Periphrastic Causative Constructions,Tamil,,,Asher 1985
+58,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tamil,,,Asher 1985
+59,112A,Negative affix,Negative Morphemes,Tamil,,,Asher 1982
+60,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Tamil,,,Asher 1985
+61,116A,Interrogative verb morphology,Polar Questions,Tamil,,,Asher 1982
+62,117A,Locational,Predicative Possession,Tamil,,,Asher 1982
+63,118A,Nonverbal encoding,Predicative Adjectives,Tamil,,,Asher 1982
+64,119A,Identical,Nominal and Locational Predication,Tamil,,,Asher 1982
+65,120A,Possible,Zero Copula for Predicate Nominals,Tamil,,,Asher 1982
+66,121A,Locational,Comparative Constructions,Tamil,,,Asher 1982
+67,125A,Deranked,Purpose Clauses,Tamil,,,Asher 1985
+68,126A,Deranked,'When' Clauses,Tamil,,,Asher 1985
+69,127A,Deranked,Reason Clauses,Tamil,,,Asher 1985
+70,128A,Deranked,Utterance Complement Clauses,Tamil,,,Asher 1985
+71,129A,Identical,Hand and Arm,Tamil,,,Burrow and Emeneau 1984
+72,130A,Different,Finger and Hand,Tamil,,,Burrow and Emeneau 1984
+73,143A,[V-Neg],Order of Negative Morpheme and Verb,Tamil,,,Asher 1982
+74,143E,None,Preverbal Negative Morphemes,Tamil,,,Asher 1982
+75,143F,[V-Neg],Postverbal Negative Morphemes,Tamil,,,Asher 1982
+76,143G,None,Minor morphological means of signaling negation,Tamil,,,Asher 1982
+77,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tamil,,,Asher 1982
+78,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tamil,,,Asher 1982
+79,144P,No NegSOV,NegSOV Order,Tamil,,,Asher 1982
+80,144Q,No SNegOV,SNegOV Order,Tamil,,,Asher 1982
+81,144R,No SONegV,SONegV Order,Tamil,,,Asher 1982
+82,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tamil,,,Asher 1982

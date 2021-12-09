@@ -1,0 +1,49 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,2A,Small (2-4),Vowel Quality Inventories,Tashlhiyt,,,Applegate 1958
+1,3A,High,Consonant-Vowel Ratio,Tashlhiyt,,,Applegate 1958
+2,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Tashlhiyt,,,Applegate 1958
+3,5A,Missing /p/,Voicing and Gaps in Plosive Systems,Tashlhiyt,,,Applegate 1958
+4,6A,None,Uvular Consonants,Tashlhiyt,,,Applegate 1958
+5,7A,No glottalized consonants,Glottalized Consonants,Tashlhiyt,,,Applegate 1958
+6,8A,"/l/, no obstruent laterals",Lateral Consonants,Tashlhiyt,,,Applegate 1958
+7,9A,No velar nasal,The Velar Nasal,Tashlhiyt,,,Kossmann and Stroomer 1997
+8,11A,None,Front Rounded Vowels,Tashlhiyt,,,Applegate 1958
+9,12A,Complex,Syllable Structure,Tashlhiyt,,,Applegate 1958
+10,13A,No tones,Tone,Tashlhiyt,,,Applegate 1958
+11,14A,Ultimate,Fixed Stress Locations,Tashlhiyt,,,Applegate 1958
+12,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tashlhiyt,,,Applegate 1958
+13,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tashlhiyt,,,Applegate 1958
+14,17A,No rhythmic stress,Rhythm Types,Tashlhiyt,,,Applegate 1958
+15,18A,All present,Absence of Common Consonants,Tashlhiyt,,,Applegate 1958
+16,19A,Pharyngeals,Presence of Uncommon Consonants,Tashlhiyt,,,Applegate 1958
+17,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tashlhiyt,,,Applegate 1958
+18,33A,Mixed morphological plural,Coding of Nominal Plurality,Tashlhiyt,,,Applegate 1958
+19,37A,"No definite, but indefinite article",Definite Articles,Tashlhiyt,,,Applegate 1955
+20,38A,Indefinite affix,Indefinite Articles,Tashlhiyt,,,Applegate 1958
+21,41A,Three-way contrast,Distance Contrasts in Demonstratives,Tashlhiyt,,,Naumann 2000
+22,42A,Different stem,Pronominal and Adnominal Demonstratives,Tashlhiyt,,,Naumann 2000
+23,47A,Identical,Intensifiers and Reflexive Pronouns,Tashlhiyt,,,El Mountassir 1999
+24,51A,Case prefixes,Position of Case Affixes,Tashlhiyt,,,Applegate 1958
+25,52A,Differentiation,Comitatives and Instrumentals,Tashlhiyt,,,Quitout 1997
+26,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tashlhiyt,,,Applegate 1958
+27,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tashlhiyt,,,Applegate 1958
+28,70A,Second singular and second plural,The Morphological Imperative,Tashlhiyt,,,Sadiqi 1997
+29,71A,Normal imperative + normal negative,The Prohibitive,Tashlhiyt,,,Sadiqi 1997
+30,81A,No dominant order,"Order of Subject, Object and Verb",Tashlhiyt,,,Applegate 1958
+31,82A,No dominant order,Order of Subject and Verb,Tashlhiyt,,,Applegate 1958
+32,83A,VO,Order of Object and Verb,Tashlhiyt,,,Applegate 1958
+33,86A,Noun-Genitive,Order of Genitive and Noun,Tashlhiyt,,,Applegate 1958
+34,88A,Demonstrative suffix,Order of Demonstrative and Noun,Tashlhiyt,,,Applegate 1958
+35,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tashlhiyt,,,Applegate 1958
+36,94A,Mixed,Order of Adverbial Subordinator and Clause,Tashlhiyt,,,Applegate 1958
+37,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tashlhiyt,,,Applegate 1958
+38,112A,Variation between negative word and affix,Negative Morphemes,Tashlhiyt,,,Applegate 1958
+39,116A,Mixture of previous two types,Polar Questions,Tashlhiyt,,,Applegate 1958
+40,117A,Locational,Predicative Possession,Tashlhiyt,,,Laoust 1921
+41,118A,Verbal encoding,Predicative Adjectives,Tashlhiyt,,,Laoust 1921
+42,119A,Different,Nominal and Locational Predication,Tashlhiyt,,,Laoust 1921
+43,120A,Possible,Zero Copula for Predicate Nominals,Tashlhiyt,,,Laoust 1921
+44,143A,Type 1 / Type 3,Order of Negative Morpheme and Verb,Tashlhiyt,,,Applegate 1958
+45,143E,NegV&[Neg-V],Preverbal Negative Morphemes,Tashlhiyt,,,Applegate 1958
+46,143F,None,Postverbal Negative Morphemes,Tashlhiyt,,,Applegate 1958
+47,143G,None,Minor morphological means of signaling negation,Tashlhiyt,,,Applegate 1958

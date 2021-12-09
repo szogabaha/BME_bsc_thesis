@@ -1,0 +1,41 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,23A,Head marking,Locus of Marking in the Clause,Warndarang,,,Heath 1980b
+1,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Warndarang,,,Heath 1980b
+2,25A,Head-marking,Locus of Marking: Whole-language Typology,Warndarang,,,Heath 1980b
+3,25B,Non-zero marking,Zero Marking of A and P Arguments,Warndarang,,,Heath 1980b
+4,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Warndarang,,,Heath 1980b
+5,33A,Plural prefix,Coding of Nominal Plurality,Warndarang,,,Heath 1980b
+6,46A,Interrogative-based,Indefinite Pronouns,Warndarang,,,Heath 1980b
+7,51A,Case suffixes,Position of Case Affixes,Warndarang,,,Heath 1980b
+8,55A,Absent,Numeral Classifiers,Warndarang,,,Nichols 1992
+9,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Warndarang,,,Heath 1980b
+10,58A,Absent,Obligatory Possessive Inflection,Warndarang,,,Heath 1980b
+11,58B,None reported,Number of Possessive Nouns,Warndarang,,,Heath 1980b
+12,59A,Two classes,Possessive Classification,Warndarang,,,Heath 1980b
+13,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Warndarang,,,Heath 1980b
+14,81A,SVO,"Order of Subject, Object and Verb",Warndarang,,,Heath 1980b
+15,82A,SV,Order of Subject and Verb,Warndarang,,,Heath 1980b
+16,83A,VO,Order of Object and Verb,Warndarang,,,Heath 1980b
+17,86A,Noun-Genitive,Order of Genitive and Noun,Warndarang,,,Heath 1980b
+18,92A,No question particle,Position of Polar Question Particles,Warndarang,,,Heath 1980b
+19,112A,Negative affix,Negative Morphemes,Warndarang,,,Heath 1980b
+20,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Warndarang,,,Heath 1980b
+21,114A,A/NonReal and A/Cat,Subtypes of Asymmetric Standard Negation,Warndarang,,,Heath 1980b
+22,116A,Interrogative intonation only,Polar Questions,Warndarang,,,Heath 1980b
+23,122A,Gap,Relativization on Subjects,Warndarang,,,Heath 1980b
+24,136A,No M-T pronouns,M-T Pronouns,Warndarang,,,Heath 1980b
+25,136B,No m in first person singular,M in First Person Singular,Warndarang,,,Heath 1980b
+26,137A,No N-M pronouns,N-M Pronouns,Warndarang,,,Heath 1980b
+27,137B,No m in second person singular,M in Second Person Singular,Warndarang,,,Heath 1980b
+28,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Warndarang,,,Heath 1980b
+29,143C,[Neg-V(-Neg)],Optional Double Negation,Warndarang,,,Heath 1980b
+30,143E,[Neg-V],Preverbal Negative Morphemes,Warndarang,,,Heath 1980b
+31,143F,[V-Neg],Postverbal Negative Morphemes,Warndarang,,,Heath 1980b
+32,143G,None,Minor morphological means of signaling negation,Warndarang,,,Heath 1980b
+33,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Warndarang,,,Heath 1980b
+34,144D,OptNeg,The Position of Negative Morphemes in SVO Languages,Warndarang,,,Heath 1980b
+35,144G,S[Neg-V(-Neg)]O,Optional Double Negation in SVO languages,Warndarang,,,Heath 1980b
+36,144H,No NegSVO,NegSVO Order,Warndarang,,,Heath 1980b
+37,144I,Prefix&OptDoubleNeg,SNegVO Order,Warndarang,,,Heath 1980b
+38,144J,Suffix&OnlyWithAnotherNeg,SVNegO Order,Warndarang,,,Heath 1980b
+39,144K,No SVONeg,SVONeg Order,Warndarang,,,Heath 1980b

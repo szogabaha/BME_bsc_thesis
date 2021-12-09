@@ -1,0 +1,59 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Temne,,,Dalby 1966
+1,2A,Large (7-14),Vowel Quality Inventories,Temne,,,Dalby 1966
+2,3A,Moderately low,Consonant-Vowel Ratio,Temne,,,Dalby 1966
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Temne,,,Dalby 1966
+4,5A,Missing /g/,Voicing and Gaps in Plosive Systems,Temne,,,Dalby 1966
+5,6A,None,Uvular Consonants,Temne,,,Dalby 1966
+6,7A,No glottalized consonants,Glottalized Consonants,Temne,,,Dalby 1966
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Temne,,,Dalby 1966
+8,10A,Contrast present,Vowel Nasalization,Temne,,,Yillah 1992
+9,10B,two-way nasal vs. oral vowel contrast (/ṽ/ vs. /V/) without nasal spreading,Nasal Vowels in West Africa,Temne,,,Yillah 1992
+10,11A,None,Front Rounded Vowels,Temne,,,Dalby 1966
+11,12A,Complex,Syllable Structure,Temne,,,Dalby 1966
+12,13A,Simple tone system,Tone,Temne,,,Dalby 1966
+13,18A,All present,Absence of Common Consonants,Temne,,,Dalby 1966
+14,19A,Labial-velars,Presence of Uncommon Consonants,Temne,,,Dalby 1966
+15,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Temne,,,Wilson 1961a
+16,33A,Plural prefix,Coding of Nominal Plurality,Temne,,,Wilson 1961a
+17,37A,Definite affix,Definite Articles,Temne,,,Wilson 1961a
+18,38A,Indefinite affix,Indefinite Articles,Temne,,,Wilson 1961a
+19,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Temne,,,Scott 1956
+20,63A,'And' identical to 'with',Noun Phrase Conjunction,Temne,,,Sumner 1922
+21,65A,No grammatical marking,Perfective/Imperfective Aspect,Temne,,,Bybee et al. 1994
+22,66A,"Present, no remoteness distinctions",The Past Tense,Temne,,,Bybee et al. 1994
+23,67A,Inflectional future exists,The Future Tense,Temne,,,
+24,68A,"From 'finish', 'already'",The Perfect,Temne,,,Bybee et al. 1994
+25,69A,Mixed type,Position of Tense-Aspect Affixes,Temne,,,Wilson 1961a
+26,81A,SVO,"Order of Subject, Object and Verb",Temne,,,Wilson 1961a
+27,82A,SV,Order of Subject and Verb,Temne,,,Scott 1956
+28,83A,VO,Order of Object and Verb,Temne,,,Wilson 1961a
+29,85A,Prepositions,Order of Adposition and Noun Phrase,Temne,,,Scott 1956
+30,86A,Noun-Genitive,Order of Genitive and Noun,Temne,,,Wilson 1961a
+31,87A,Noun-Adjective,Order of Adjective and Noun,Temne,,,Wilson 1961a
+32,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Temne,,,Wilson 1961a
+33,89A,Noun-Numeral,Order of Numeral and Noun,Temne,,,Scott 1956
+34,90A,Noun-Relative clause,Order of Relative Clause and Noun,Temne,,,Wilson 1961a
+35,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Temne,,,Wilson 1961a
+36,92A,Final,Position of Polar Question Particles,Temne,,,Wilson 1961a
+37,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Temne,,,Wilson 1961a
+38,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Temne,,,Wilson 1961a
+39,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Temne,,,
+40,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Temne,,,
+41,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Temne,,,
+42,112A,Negative affix,Negative Morphemes,Temne,,,Wilson 1961a
+43,116A,Question particle,Polar Questions,Temne,,,Wilson 1961a
+44,117A,Topic,Predicative Possession,Temne,,,Sumner 1922
+45,118A,Mixed,Predicative Adjectives,Temne,,,Sumner 1922
+46,119A,Different,Nominal and Locational Predication,Temne,,,Sumner 1922
+47,120A,Impossible,Zero Copula for Predicate Nominals,Temne,,,Sumner 1922
+48,143A,[V-Neg],Order of Negative Morpheme and Verb,Temne,,,Wilson 1961a
+49,143E,None,Preverbal Negative Morphemes,Temne,,,Wilson 1961a
+50,143F,[V-Neg],Postverbal Negative Morphemes,Temne,,,Wilson 1961a
+51,143G,None,Minor morphological means of signaling negation,Temne,,,Wilson 1961a
+52,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Temne,,,Wilson 1961a
+53,144D,S[V-Neg]O,The Position of Negative Morphemes in SVO Languages,Temne,,,Wilson 1961a
+54,144H,No NegSVO,NegSVO Order,Temne,,,Wilson 1961a
+55,144I,No SNegVO,SNegVO Order,Temne,,,Wilson 1961a
+56,144J,Suffix&NoDoubleNeg,SVNegO Order,Temne,,,Wilson 1961a
+57,144K,No SVONeg,SVONeg Order,Temne,,,Wilson 1961a

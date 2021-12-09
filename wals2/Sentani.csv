@@ -1,0 +1,88 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Sentani,,,Cowan 1965
+1,2A,Large (7-14),Vowel Quality Inventories,Sentani,,,Cowan 1965
+2,3A,Low,Consonant-Vowel Ratio,Sentani,,,Cowan 1965
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Sentani,,,Cowan 1965
+4,5A,Other,Voicing and Gaps in Plosive Systems,Sentani,,,Cowan 1965
+5,6A,None,Uvular Consonants,Sentani,,,Cowan 1965
+6,7A,No glottalized consonants,Glottalized Consonants,Sentani,,,Cowan 1965
+7,8A,No laterals,Lateral Consonants,Sentani,,,Cowan 1965
+8,9A,No velar nasal,The Velar Nasal,Sentani,,,Cowan 1965
+9,11A,None,Front Rounded Vowels,Sentani,,,Cowan 1965
+10,14A,No fixed stress,Fixed Stress Locations,Sentani,,,Cowan 1965
+11,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Sentani,,,Cowan 1965
+12,16A,Coda consonant,Weight Factors in Weight-Sensitive Stress Systems,Sentani,,,Cowan 1965
+13,17A,Trochaic,Rhythm Types,Sentani,,,Cowan 1965
+14,18A,All present,Absence of Common Consonants,Sentani,,,Cowan 1965
+15,19A,None,Presence of Uncommon Consonants,Sentani,,,Cowan 1965
+16,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Sentani,,,Cowan 1965
+17,28A,No case marking,Case Syncretism,Sentani,,,Cowan 1965
+18,29A,Syncretic,Syncretism in Verbal Person/Number Marking,Sentani,,,Cowan 1965
+19,30A,None,Number of Genders,Sentani,,,Cowan 1965
+20,31A,No gender,Sex-based and Non-sex-based Gender Systems,Sentani,,,Cowan 1965
+21,32A,No gender,Systems of Gender Assignment,Sentani,,,Cowan 1965
+22,33A,No plural,Coding of Nominal Plurality,Sentani,,,Cowan 1965
+23,35A,Person-number stem,Plurality in Independent Personal Pronouns,Sentani,,,Cowan 1965
+24,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Sentani,,,Cowan 1965
+25,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Sentani,,,Cowan 1965
+26,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Sentani,,,Cowan 1965
+27,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Sentani,,,Cowan 1965
+28,45A,No politeness distinction,Politeness Distinctions in Pronouns,Sentani,,,Cowan 1965
+29,48A,No person marking,Person Marking on Adpositions,Sentani,,,Cowan 1965
+30,49A,No morphological case-marking,Number of Cases,Sentani,,,Cowan 1965
+31,50A,No case-marking,Asymmetrical Case-Marking,Sentani,,,Cowan 1965
+32,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sentani,,,Cowan 1965
+33,55A,Absent,Numeral Classifiers,Sentani,,,Nichols 1992
+34,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Sentani,,,Cowan 1965
+35,58A,Absent,Obligatory Possessive Inflection,Sentani,,,Cowan 1965
+36,58B,None reported,Number of Possessive Nouns,Sentani,,,Cowan 1965
+37,59A,Three to five classes,Possessive Classification,Sentani,,,Cowan 1965
+38,64A,Differentiation,Nominal and Verbal Conjunction,Sentani,,,Cowan 1965
+39,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Sentani,,,Cowan 1965
+40,70A,Second singular and second plural,The Morphological Imperative,Sentani,,,Cowan 1965
+41,71A,Normal imperative + special negative,The Prohibitive,Sentani,,,Cowan 1965
+42,72A,Maximal system,Imperative-Hortative Systems,Sentani,,,Cowan 1965
+43,73A,Inflectional optative absent,The Optative,Sentani,,,Cowan 1965
+44,75A,Other,Epistemic Possibility,Sentani,,,Cowan 1965
+45,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Sentani,,,Cowan 1965
+46,78A,No grammatical evidentials,Coding of Evidentiality,Sentani,,,Cowan 1965
+47,79A,None,Suppletion According to Tense and Aspect,Sentani,,,Cowan 1965
+48,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Sentani,,,
+49,80A,None,Verbal Number and Suppletion,Sentani,,,Cowan 1965
+50,81A,SOV,"Order of Subject, Object and Verb",Sentani,,,Cowan 1965
+51,82A,SV,Order of Subject and Verb,Sentani,,,Cowan 1965
+52,83A,OV,Order of Object and Verb,Sentani,,,Cowan 1965
+53,85A,Postpositions,Order of Adposition and Noun Phrase,Sentani,,,Cowan 1965
+54,86A,Genitive-Noun,Order of Genitive and Noun,Sentani,,,Cowan 1965
+55,87A,Noun-Adjective,Order of Adjective and Noun,Sentani,,,Cowan 1965
+56,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Sentani,,,Cowan 1965
+57,89A,Noun-Numeral,Order of Numeral and Noun,Sentani,,,Cowan 1965
+58,91A,Adjective-Degree word,Order of Degree Word and Adjective,Sentani,,,Cowan 1965
+59,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sentani,,,Cowan 1965
+60,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sentani,,,
+61,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sentani,,,
+62,100A,Accusative,Alignment of Verbal Person Marking,Sentani,,,Cowan 1965
+63,102A,Both the A and P arguments,Verbal Person Marking,Sentani,,,Cowan 1965
+64,103A,No zero realization,Third Person Zero of Verbal Person Marking,Sentani,,,Cowan 1965
+65,104A,A precedes P,Order of Person Markers on the Verb,Sentani,,,Cowan 1965
+66,107A,Absent,Passive Constructions,Sentani,,,Cowan 1965
+67,112A,Negative affix,Negative Morphemes,Sentani,,,Cowan 1965
+68,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Sentani,,,Cowan 1965
+69,114A,A/Fin,Subtypes of Asymmetric Standard Negation,Sentani,,,Cowan 1965
+70,118A,Nonverbal encoding,Predicative Adjectives,Sentani,,,Cowan 1965
+71,119A,Different,Nominal and Locational Predication,Sentani,,,Cowan 1965
+72,120A,Possible,Zero Copula for Predicate Nominals,Sentani,,,Cowan 1965
+73,136A,No M-T pronouns,M-T Pronouns,Sentani,,,Cowan 1965
+74,136B,No m in first person singular,M in First Person Singular,Sentani,,,Cowan 1965
+75,137A,No N-M pronouns,N-M Pronouns,Sentani,,,Cowan 1965
+76,137B,No m in second person singular,M in Second Person Singular,Sentani,,,Cowan 1965
+77,143A,[Neg-V],Order of Negative Morpheme and Verb,Sentani,,,Cowan 1965
+78,143E,[Neg-V],Preverbal Negative Morphemes,Sentani,,,Cowan 1965
+79,143F,None,Postverbal Negative Morphemes,Sentani,,,Cowan 1965
+80,143G,None,Minor morphological means of signaling negation,Sentani,,,Cowan 1965
+81,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sentani,,,Cowan 1965
+82,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Sentani,,,Cowan 1965
+83,144P,No NegSOV,NegSOV Order,Sentani,,,Cowan 1965
+84,144Q,No SNegOV,SNegOV Order,Sentani,,,Cowan 1965
+85,144R,Prefix&NoDoubleNeg,SONegV Order,Sentani,,,Cowan 1965
+86,144S,NoSOVNeg,SOVNeg Order,Sentani,,,Cowan 1965

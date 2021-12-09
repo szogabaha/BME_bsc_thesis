@@ -1,0 +1,58 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Shuswap,,,Kuipers 1974
+1,2A,Average (5-6),Vowel Quality Inventories,Shuswap,,,Kuipers 1974
+2,3A,Moderately high,Consonant-Vowel Ratio,Shuswap,,,Kuipers 1974
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Shuswap,,,Kuipers 1974
+4,5A,Other,Voicing and Gaps in Plosive Systems,Shuswap,,,Kuipers 1974
+5,6A,Uvular stops and continuants,Uvular Consonants,Shuswap,,,Kuipers 1974
+6,7A,Ejectives and glottalized resonants,Glottalized Consonants,Shuswap,,,Kuipers 1974
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Shuswap,,,Kuipers 1974
+8,11A,None,Front Rounded Vowels,Shuswap,,,Kuipers 1974
+9,12A,Complex,Syllable Structure,Shuswap,,,Kuipers 1974
+10,13A,No tones,Tone,Shuswap,,,Kuipers 1974
+11,18A,All present,Absence of Common Consonants,Shuswap,,,Kuipers 1974
+12,19A,None,Presence of Uncommon Consonants,Shuswap,,,Kuipers 1974
+13,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Shuswap,,,Kuipers 1974
+14,27A,Productive full and partial reduplication,Reduplication,Shuswap,,,Bell 1982
+15,51A,Case prefixes,Position of Case Affixes,Shuswap,,,Kuipers 1974
+16,57A,Prefixes and suffixes,Position of Pronominal Possessive Affixes,Shuswap,,,Kuipers 1974
+17,63A,'And' identical to 'with',Noun Phrase Conjunction,Shuswap,,,Kuipers 1974
+18,65A,Grammatical marking,Perfective/Imperfective Aspect,Shuswap,,,Bybee et al. 1994
+19,66A,No past tense,The Past Tense,Shuswap,,,Bybee et al. 1994
+20,67A,No inflectional future,The Future Tense,Shuswap,,,Bybee et al. 1994
+21,68A,No perfect,The Perfect,Shuswap,,,Bybee et al. 1994
+22,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Shuswap,,,Kuipers 1974
+23,70A,Second singular and second plural,The Morphological Imperative,Shuswap,,,Kuipers 1974
+24,71A,Special imperative + special negative,The Prohibitive,Shuswap,,,Kuipers 1974
+25,72A,Neither type of system,Imperative-Hortative Systems,Shuswap,,,Kuipers 1974
+26,73A,Inflectional optative absent,The Optative,Shuswap,,,Kuipers 1974
+27,77A,Indirect only,Semantic Distinctions of Evidentiality,Shuswap,,,Kuipers 1974
+28,78A,Verbal affix or clitic,Coding of Evidentiality,Shuswap,,,Kuipers 1974
+29,81A,No dominant order,"Order of Subject, Object and Verb",Shuswap,,,Kuipers 1974
+30,81B,VSO or VOS,"Languages with two Dominant Orders of Subject, Object, and Verb",Shuswap,,,Kuipers 1974
+31,82A,VS,Order of Subject and Verb,Shuswap,,,Kuipers 1974
+32,83A,VO,Order of Object and Verb,Shuswap,,,Kuipers 1974
+33,85A,Prepositions,Order of Adposition and Noun Phrase,Shuswap,,,Kuipers 1974
+34,86A,Noun-Genitive,Order of Genitive and Noun,Shuswap,,,Kuipers 1974
+35,92A,In either of two positions,Position of Polar Question Particles,Shuswap,,,Kuipers 1974
+36,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Shuswap,,,
+37,101A,Subject affixes on verb,Expression of Pronominal Subjects,Shuswap,,,Kuipers 1974
+38,110A,Purposive but no sequential,Periphrastic Causative Constructions,Shuswap,,,Kuipers 1974
+39,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Shuswap,,,Kuipers 1974
+40,112A,Negative particle,Negative Morphemes,Shuswap,,,Kuipers 1974
+41,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Shuswap,,,Kuipers 1974
+42,114A,A/Fin and A/NonReal,Subtypes of Asymmetric Standard Negation,Shuswap,,,Kuipers 1974
+43,116A,Question particle,Polar Questions,Shuswap,,,Kuipers 1974
+44,117A,'Have',Predicative Possession,Shuswap,,,Kuipers 1974
+45,129A,Identical,Hand and Arm,Shuswap,,,Kuipers 1975
+46,130A,Different,Finger and Hand,Shuswap,,,Kuipers 1975
+47,143A,NegV,Order of Negative Morpheme and Verb,Shuswap,,,Kuipers 1974
+48,143E,NegV,Preverbal Negative Morphemes,Shuswap,,,Kuipers 1974
+49,143F,None,Postverbal Negative Morphemes,Shuswap,,,Kuipers 1974
+50,143G,None,Minor morphological means of signaling negation,Shuswap,,,Kuipers 1974
+51,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Shuswap,,,Kuipers 1974
+52,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Shuswap,,,Kuipers 1974
+53,144T,NegVSO/NegVOS,The Position of Negative Morphemes in Verb-Initial Languages,Shuswap,,,Kuipers 1974
+54,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Shuswap,,,Kuipers 1974
+55,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Shuswap,,,Kuipers 1974
+56,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Shuswap,,,Kuipers 1974

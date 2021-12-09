@@ -1,0 +1,86 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Una,,,Louwerse 1988
+1,2A,Large (7-14),Vowel Quality Inventories,Una,,,Louwerse 1988
+2,3A,Moderately low,Consonant-Vowel Ratio,Una,,,Louwerse 1988
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Una,,,Louwerse 1988
+4,5A,Both missing,Voicing and Gaps in Plosive Systems,Una,,,Louwerse 1988
+5,6A,None,Uvular Consonants,Una,,,Louwerse 1988
+6,7A,No glottalized consonants,Glottalized Consonants,Una,,,Louwerse 1988
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Una,,,Louwerse 1988
+8,9A,No initial velar nasal,The Velar Nasal,Una,,,Louwerse 1988
+9,11A,None,Front Rounded Vowels,Una,,,Louwerse 1988
+10,12A,Moderately complex,Syllable Structure,Una,,,Louwerse 1988
+11,13A,Simple tone system,Tone,Una,,,Louwerse 1988
+12,18A,All present,Absence of Common Consonants,Una,,,Louwerse 1988
+13,19A,None,Presence of Uncommon Consonants,Una,,,Louwerse 1988
+14,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Una,,,Louwerse 1988
+15,28A,No syncretism,Case Syncretism,Una,,,Louwerse 1988
+16,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Una,,,Louwerse 1988
+17,30A,None,Number of Genders,Una,,,Louwerse 1988
+18,31A,No gender,Sex-based and Non-sex-based Gender Systems,Una,,,Louwerse 1988
+19,32A,No gender,Systems of Gender Assignment,Una,,,Louwerse 1988
+20,35A,Person-number stem,Plurality in Independent Personal Pronouns,Una,,,Louwerse 1988
+21,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Una,,,Louwerse 1988
+22,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Una,,,Louwerse 1988
+23,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Una,,,Louwerse 1988
+24,48A,No person marking,Person Marking on Adpositions,Una,,,Louwerse 1988
+25,49A,No morphological case-marking,Number of Cases,Una,,,Louwerse 1988
+26,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Una,,,Louwerse 1988
+27,51A,No case affixes or adpositional clitics,Position of Case Affixes,Una,,,Louwerse 1988
+28,52A,Differentiation,Comitatives and Instrumentals,Una,,,Louwerse 1988
+29,53A,"One-th, two-th, three-th",Ordinal Numerals,Una,,,Louwerse 1988
+30,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Una,,,Louwerse 1988
+31,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Una,,,Louwerse 1988
+32,70A,Second singular and second plural,The Morphological Imperative,Una,,,Louwerse 1988
+33,71A,Special imperative + special negative,The Prohibitive,Una,,,Louwerse 1988
+34,73A,Inflectional optative absent,The Optative,Una,,,Louwerse 1988
+35,74A,Affixes on verbs,Situational Possibility,Una,,,Louwerse 1988
+36,75A,Affixes on verbs,Epistemic Possibility,Una,,,Louwerse 1988
+37,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Una,,,Louwerse 1988
+38,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Una,,,Louwerse 1988
+39,78A,No grammatical evidentials,Coding of Evidentiality,Una,,,Louwerse 1988
+40,81A,SOV,"Order of Subject, Object and Verb",Una,,,Louwerse 1988
+41,82A,SV,Order of Subject and Verb,Una,,,Louwerse 1988
+42,83A,OV,Order of Object and Verb,Una,,,Louwerse 1988
+43,85A,Postpositions,Order of Adposition and Noun Phrase,Una,,,Louwerse 1988
+44,86A,Genitive-Noun,Order of Genitive and Noun,Una,,,Louwerse 1988
+45,87A,Noun-Adjective,Order of Adjective and Noun,Una,,,Louwerse 1988
+46,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Una,,,Louwerse 1988
+47,89A,Noun-Numeral,Order of Numeral and Noun,Una,,,Louwerse 1988
+48,90A,Relative clause-Noun,Order of Relative Clause and Noun,Una,,,Louwerse 1988
+49,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Una,,,Louwerse 1988
+50,91A,Degree word-Adjective,Order of Degree Word and Adjective,Una,,,Louwerse 1988
+51,92A,No question particle,Position of Polar Question Particles,Una,,,Louwerse 1988
+52,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Una,,,Louwerse 1988
+53,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Una,,,
+54,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Una,,,
+55,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Una,,,
+56,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Una,,,Louwerse 1988
+57,99A,Ergative - absolutive,Alignment of Case Marking of Pronouns,Una,,,Louwerse 1988
+58,100A,Accusative,Alignment of Verbal Person Marking,Una,,,Louwerse 1988
+59,101A,Subject affixes on verb,Expression of Pronominal Subjects,Una,,,Louwerse 1988
+60,102A,Both the A and P arguments,Verbal Person Marking,Una,,,Louwerse 1988
+61,103A,No zero realization,Third Person Zero of Verbal Person Marking,Una,,,Louwerse 1988
+62,104A,P precedes A,Order of Person Markers on the Verb,Una,,,Louwerse 1988
+63,107A,Absent,Passive Constructions,Una,,,Louwerse 1988
+64,108A,No antipassive,Antipassive Constructions,Una,,,Louwerse 1988
+65,108B,no antipassive,Productivity of the Antipassive Construction,Una,,,Louwerse 1988
+66,109A,Benefactive object; only transitive,Applicative Constructions,Una,,,Louwerse 1988
+67,109B,No other roles (= Only benefactive),Other Roles of Applied Objects,Una,,,
+68,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Una,,,Louwerse 1988
+69,112A,Negative particle,Negative Morphemes,Una,,,Louwerse 1988
+70,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Una,,,Louwerse 1988
+71,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Una,,,Louwerse 1988
+72,116A,Interrogative verb morphology,Polar Questions,Una,,,Louwerse 1988
+73,131A,Extended body-part system,Numeral Bases,Una,,,Louwerse 1988
+74,143A,NegV,Order of Negative Morpheme and Verb,Una,,,Louwerse 1988
+75,143E,NegV,Preverbal Negative Morphemes,Una,,,Louwerse 1988
+76,143F,None,Postverbal Negative Morphemes,Una,,,Louwerse 1988
+77,143G,None,Minor morphological means of signaling negation,Una,,,Louwerse 1988
+78,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Una,,,Louwerse 1988
+79,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Una,,,Louwerse 1988
+80,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Una,,,Louwerse 1988
+81,144P,No NegSOV,NegSOV Order,Una,,,Louwerse 1988
+82,144Q,No SNegOV,SNegOV Order,Una,,,Louwerse 1988
+83,144R,Word&NoDoubleNeg,SONegV Order,Una,,,Louwerse 1988
+84,144S,NoSOVNeg,SOVNeg Order,Una,,,Louwerse 1988

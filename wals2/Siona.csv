@@ -1,0 +1,36 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Siona,,,Wheeler and Wheeler 1962
+1,2A,Average (5-6),Vowel Quality Inventories,Siona,,,Wheeler and Wheeler 1962
+2,3A,Average,Consonant-Vowel Ratio,Siona,,,Wheeler and Wheeler 1962
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Siona,,,Wheeler and Wheeler 1962
+4,5A,Other,Voicing and Gaps in Plosive Systems,Siona,,,Wheeler and Wheeler 1962
+5,6A,None,Uvular Consonants,Siona,,,Wheeler and Wheeler 1962
+6,7A,Ejectives only,Glottalized Consonants,Siona,,,Wheeler and Wheeler 1962
+7,8A,No laterals,Lateral Consonants,Siona,,,Wheeler and Wheeler 1962
+8,11A,None,Front Rounded Vowels,Siona,,,Wheeler and Wheeler 1962
+9,18A,All present,Absence of Common Consonants,Siona,,,Wheeler and Wheeler 1962
+10,19A,None,Presence of Uncommon Consonants,Siona,,,Wheeler and Wheeler 1962
+11,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Siona,,,Wheeler 1962
+12,33A,Plural suffix,Coding of Nominal Plurality,Siona,,,Wheeler 1962
+13,51A,Case suffixes,Position of Case Affixes,Siona,,,Wheeler 1962
+14,55A,Optional,Numeral Classifiers,Siona,,,Derbyshire and Payne 1990
+15,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Siona,,,Wheeler 1962
+16,77A,Direct and indirect,Semantic Distinctions of Evidentiality,Siona,,,Wheeler 1987
+17,78A,Verbal affix or clitic,Coding of Evidentiality,Siona,,,Wheeler 1987
+18,82A,SV,Order of Subject and Verb,Siona,,,Wheeler 1962
+19,83A,OV,Order of Object and Verb,Siona,,,Wheeler 1962
+20,86A,Genitive-Noun,Order of Genitive and Noun,Siona,,,Wheeler 1970
+21,87A,Adjective-Noun,Order of Adjective and Noun,Siona,,,Wheeler 1970
+22,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Siona,,,Wheeler 1970
+23,89A,Numeral-Noun,Order of Numeral and Noun,Siona,,,Wheeler 1970
+24,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Siona,,,
+25,112A,Negative affix,Negative Morphemes,Siona,,,Wheeler 1962
+26,117A,Topic,Predicative Possession,Siona,,,Espinosa Perez 1955
+27,129A,Identical,Hand and Arm,Siona,,,Wheeler 1987
+28,130A,Different,Finger and Hand,Siona,,,Wheeler 1987
+29,143A,[V-Neg],Order of Negative Morpheme and Verb,Siona,,,Wheeler 1962
+30,143E,None,Preverbal Negative Morphemes,Siona,,,Wheeler 1962
+31,143F,[V-Neg],Postverbal Negative Morphemes,Siona,,,Wheeler 1962
+32,143G,None,Minor morphological means of signaling negation,Siona,,,Wheeler 1962
+33,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Siona,,,Wheeler 1962
+34,144L,SV&OV&[V-Neg],The Position of Negative Morphemes in SOV Languages,Siona,,,Wheeler 1962

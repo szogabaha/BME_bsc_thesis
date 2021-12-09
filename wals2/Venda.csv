@@ -1,0 +1,24 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,43A,Related by gender markers,Third Person Pronouns and Demonstratives,Venda,,,Poulos 1990
+1,47A,Differentiated,Intensifiers and Reflexive Pronouns,Venda,,,Poulos 1990
+2,52A,Differentiation,Comitatives and Instrumentals,Venda,,,Stolz 1996
+3,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Venda,,,Poulos 1990
+4,81A,SVO,"Order of Subject, Object and Verb",Venda,,,Poulos 1990
+5,82A,SV,Order of Subject and Verb,Venda,,,Poulos 1990
+6,83A,VO,Order of Object and Verb,Venda,,,Poulos 1990
+7,87A,Noun-Adjective,Order of Adjective and Noun,Venda,,,Poulos 1990
+8,89A,Noun-Numeral,Order of Numeral and Noun,Venda,,,Poulos 1990
+9,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Venda,,,
+10,101A,Subject affixes on verb,Expression of Pronominal Subjects,Venda,,,Poulos 1990
+11,112A,Negative affix,Negative Morphemes,Venda,,,Poulos 1990
+12,122A,Gap,Relativization on Subjects,Venda,,,Poulos 1990
+13,143A,[Neg-V],Order of Negative Morpheme and Verb,Venda,,,Poulos 1990
+14,143E,[Neg-V],Preverbal Negative Morphemes,Venda,,,Poulos 1990
+15,143F,None,Postverbal Negative Morphemes,Venda,,,Poulos 1990
+16,143G,None,Minor morphological means of signaling negation,Venda,,,Poulos 1990
+17,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Venda,,,Poulos 1990
+18,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Venda,,,Poulos 1990
+19,144H,No NegSVO,NegSVO Order,Venda,,,Poulos 1990
+20,144I,Prefix&NoDoubleNeg,SNegVO Order,Venda,,,Poulos 1990
+21,144J,No SVNegO,SVNegO Order,Venda,,,Poulos 1990
+22,144K,No SVONeg,SVONeg Order,Venda,,,Poulos 1990

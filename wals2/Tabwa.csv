@@ -1,0 +1,27 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural prefix,Coding of Nominal Plurality,Tabwa,,,de Beerst 1896
+1,81A,SVO,"Order of Subject, Object and Verb",Tabwa,,,de Beerst 1896
+2,82A,SV,Order of Subject and Verb,Tabwa,,,de Beerst 1896
+3,83A,VO,Order of Object and Verb,Tabwa,,,de Beerst 1896
+4,85A,Prepositions,Order of Adposition and Noun Phrase,Tabwa,,,de Beerst 1896
+5,86A,Noun-Genitive,Order of Genitive and Noun,Tabwa,,,de Beerst 1896
+6,87A,Noun-Adjective,Order of Adjective and Noun,Tabwa,,,de Beerst 1896
+7,88A,Mixed,Order of Demonstrative and Noun,Tabwa,,,de Beerst 1896
+8,89A,Noun-Numeral,Order of Numeral and Noun,Tabwa,,,de Beerst 1896
+9,92A,No question particle,Position of Polar Question Particles,Tabwa,,,de Beerst 1896
+10,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tabwa,,,de Beerst 1896
+11,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tabwa,,,
+12,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tabwa,,,
+13,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tabwa,,,de Beerst 1896
+14,112A,Negative affix,Negative Morphemes,Tabwa,,,de Beerst 1896
+15,116A,Interrogative intonation only,Polar Questions,Tabwa,,,de Beerst 1896
+16,143A,[Neg-V],Order of Negative Morpheme and Verb,Tabwa,,,de Beerst 1896
+17,143E,[Neg-V],Preverbal Negative Morphemes,Tabwa,,,de Beerst 1896
+18,143F,None,Postverbal Negative Morphemes,Tabwa,,,de Beerst 1896
+19,143G,None,Minor morphological means of signaling negation,Tabwa,,,de Beerst 1896
+20,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tabwa,,,de Beerst 1896
+21,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Tabwa,,,de Beerst 1896
+22,144H,No NegSVO,NegSVO Order,Tabwa,,,de Beerst 1896
+23,144I,Prefix&NoDoubleNeg,SNegVO Order,Tabwa,,,de Beerst 1896
+24,144J,No SVNegO,SVNegO Order,Tabwa,,,de Beerst 1896
+25,144K,No SVONeg,SVONeg Order,Tabwa,,,de Beerst 1896

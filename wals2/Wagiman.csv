@@ -1,0 +1,22 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wagiman,,,Cook 1987
+1,51A,Case suffixes,Position of Case Affixes,Wagiman,,,Cook 1987
+2,69A,Mixed type,Position of Tense-Aspect Affixes,Wagiman,,,Tryon 1971
+3,81A,SOV,"Order of Subject, Object and Verb",Wagiman,,,Tryon 1971
+4,82A,SV,Order of Subject and Verb,Wagiman,,,Cook 1987
+5,83A,OV,Order of Object and Verb,Wagiman,,,Cook 1987
+6,87A,Noun-Adjective,Order of Adjective and Noun,Wagiman,,,Tryon 1971
+7,89A,Noun-Numeral,Order of Numeral and Noun,Wagiman,,,Tryon 1971
+8,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wagiman,,,
+9,112A,Negative particle,Negative Morphemes,Wagiman,,,Tryon 1971
+10,143A,NegV,Order of Negative Morpheme and Verb,Wagiman,,,Tryon 1971
+11,143E,NegV,Preverbal Negative Morphemes,Wagiman,,,Tryon 1971
+12,143F,None,Postverbal Negative Morphemes,Wagiman,,,Tryon 1971
+13,143G,None,Minor morphological means of signaling negation,Wagiman,,,Tryon 1971
+14,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Wagiman,,,Tryon 1971
+15,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wagiman,,,Tryon 1971
+16,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Wagiman,,,Tryon 1971
+17,144P,No NegSOV,NegSOV Order,Wagiman,,,Tryon 1971
+18,144Q,No SNegOV,SNegOV Order,Wagiman,,,Tryon 1971
+19,144R,Word&NoDoubleNeg,SONegV Order,Wagiman,,,Tryon 1971
+20,144S,NoSOVNeg,SOVNeg Order,Wagiman,,,Tryon 1971

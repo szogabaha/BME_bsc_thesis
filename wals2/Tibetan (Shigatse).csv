@@ -1,0 +1,22 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,34A,No nominal plural,Occurrence of Nominal Plurality,Tibetan (Shigatse),,,Haller 2000
+1,46A,Generic-noun-based,Indefinite Pronouns,Tibetan (Shigatse),,,
+2,64A,Identity,Nominal and Verbal Conjunction,Tibetan (Shigatse),,,
+3,82A,SV,Order of Subject and Verb,Tibetan (Shigatse),,,Haller 2000
+4,83A,OV,Order of Object and Verb,Tibetan (Shigatse),,,Haller 2000
+5,86A,Genitive-Noun,Order of Genitive and Noun,Tibetan (Shigatse),,,Haller 2000
+6,87A,No dominant order,Order of Adjective and Noun,Tibetan (Shigatse),,,Haller 2000
+7,89A,Noun-Numeral,Order of Numeral and Noun,Tibetan (Shigatse),,,Haller 2000
+8,90A,Mixed,Order of Relative Clause and Noun,Tibetan (Shigatse),,,Haller 2000
+9,90B,RelN or internally-headed,Prenominal relative clauses,Tibetan (Shigatse),,,Haller 2000
+10,90D,Internally-headed or RelN,Internally-headed relative clauses,Tibetan (Shigatse),,,Haller 2000
+11,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tibetan (Shigatse),,,
+12,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tibetan (Shigatse),,,
+13,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Tibetan (Shigatse),,,Haller 2000
+14,112A,Negative affix,Negative Morphemes,Tibetan (Shigatse),,,Haller 2000
+15,143A,[Neg-V],Order of Negative Morpheme and Verb,Tibetan (Shigatse),,,Haller 2000
+16,143E,[Neg-V],Preverbal Negative Morphemes,Tibetan (Shigatse),,,Haller 2000
+17,143F,None,Postverbal Negative Morphemes,Tibetan (Shigatse),,,Haller 2000
+18,143G,None,Minor morphological means of signaling negation,Tibetan (Shigatse),,,Haller 2000
+19,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tibetan (Shigatse),,,Haller 2000
+20,144L,SV&OV&[Neg-V],The Position of Negative Morphemes in SOV Languages,Tibetan (Shigatse),,,Haller 2000

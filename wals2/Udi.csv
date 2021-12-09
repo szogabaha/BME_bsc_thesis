@@ -1,0 +1,30 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No velar nasal,The Velar Nasal,Udi,,,Schulze-Fürhoff 1994
+1,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Udi,,,Schulze 1982
+2,33A,Plural suffix,Coding of Nominal Plurality,Udi,,,Schulze 1982
+3,51A,Case suffixes,Position of Case Affixes,Udi,,,Schulze 1982
+4,52A,Differentiation,Comitatives and Instrumentals,Udi,,,Stolz 1996
+5,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Udi,,,Schulze 1982
+6,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Udi,,,Schulze 1982
+7,70A,Second singular and second plural,The Morphological Imperative,Udi,,,Schulze-Fürhoff 1994
+8,71A,Special imperative + special negative,The Prohibitive,Udi,,,Schulze-Fürhoff 1994
+9,81A,SOV,"Order of Subject, Object and Verb",Udi,,,Schulze 1982
+10,82A,SV,Order of Subject and Verb,Udi,,,Schulze 1982
+11,83A,OV,Order of Object and Verb,Udi,,,Schulze 1982
+12,84A,No dominant order,"Order of Object, Oblique, and Verb",Udi,,,Schulze 1982
+13,87A,Adjective-Noun,Order of Adjective and Noun,Udi,,,Schulze 1982
+14,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Udi,,,Schulze 1982
+15,89A,Numeral-Noun,Order of Numeral and Noun,Udi,,,Schulze 1982
+16,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Udi,,,Schulze 1982
+17,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Udi,,,
+18,112A,Negative affix,Negative Morphemes,Udi,,,Schulze 1982
+19,143A,[Neg-V],Order of Negative Morpheme and Verb,Udi,,,Schulze 1982
+20,143E,[Neg-V],Preverbal Negative Morphemes,Udi,,,Schulze 1982
+21,143F,None,Postverbal Negative Morphemes,Udi,,,Schulze 1982
+22,143G,None,Minor morphological means of signaling negation,Udi,,,Schulze 1982
+23,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Udi,,,Schulze 1982
+24,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Udi,,,Schulze 1982
+25,144P,No NegSOV,NegSOV Order,Udi,,,Schulze 1982
+26,144Q,No SNegOV,SNegOV Order,Udi,,,Schulze 1982
+27,144R,Prefix&NoDoubleNeg,SONegV Order,Udi,,,Schulze 1982
+28,144S,NoSOVNeg,SOVNeg Order,Udi,,,Schulze 1982

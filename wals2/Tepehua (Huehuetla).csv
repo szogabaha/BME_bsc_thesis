@@ -1,0 +1,44 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tepehua (Huehuetla),,,Kung 2007
+1,33A,Mixed morphological plural,Coding of Nominal Plurality,Tepehua (Huehuetla),,,Kung 2007
+2,37A,Definite word distinct from demonstrative,Definite Articles,Tepehua (Huehuetla),,,Kung 2007
+3,38A,Indefinite word same as 'one',Indefinite Articles,Tepehua (Huehuetla),,,Kung 2007
+4,51A,Case prefixes,Position of Case Affixes,Tepehua (Huehuetla),,,Kung 2007
+5,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tepehua (Huehuetla),,,Kung 2007
+6,69A,Mixed type,Position of Tense-Aspect Affixes,Tepehua (Huehuetla),,,Kung 2007
+7,81A,No dominant order,"Order of Subject, Object and Verb",Tepehua (Huehuetla),,,Kung 2007
+8,81B,SVO or VSO,"Languages with two Dominant Orders of Subject, Object, and Verb",Tepehua (Huehuetla),,,Kung 2007
+9,82A,VS,Order of Subject and Verb,Tepehua (Huehuetla),,,Kung 2007
+10,83A,VO,Order of Object and Verb,Tepehua (Huehuetla),,,Kung 2007
+11,85A,Prepositions,Order of Adposition and Noun Phrase,Tepehua (Huehuetla),,,Kung 2007
+12,86A,Noun-Genitive,Order of Genitive and Noun,Tepehua (Huehuetla),,,Kung 2007
+13,87A,Adjective-Noun,Order of Adjective and Noun,Tepehua (Huehuetla),,,Kung 2007
+14,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tepehua (Huehuetla),,,Kung 2007
+15,89A,Numeral-Noun,Order of Numeral and Noun,Tepehua (Huehuetla),,,Kung 2007
+16,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tepehua (Huehuetla),,,Kung 2007
+17,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tepehua (Huehuetla),,,Kung 2007
+18,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tepehua (Huehuetla),,,Kung 2007
+19,92A,Initial,Position of Polar Question Particles,Tepehua (Huehuetla),,,Kung 2007
+20,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tepehua (Huehuetla),,,Kung 2007
+21,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tepehua (Huehuetla),,,Kung 2007
+22,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tepehua (Huehuetla),,,
+23,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tepehua (Huehuetla),,,
+24,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tepehua (Huehuetla),,,
+25,112A,Negative particle,Negative Morphemes,Tepehua (Huehuetla),,,Kung 2007
+26,116A,Question particle,Polar Questions,Tepehua (Huehuetla),,,Kung 2007
+27,143A,NegV,Order of Negative Morpheme and Verb,Tepehua (Huehuetla),,,Kung 2007
+28,143E,NegV,Preverbal Negative Morphemes,Tepehua (Huehuetla),,,Kung 2007
+29,143F,None,Postverbal Negative Morphemes,Tepehua (Huehuetla),,,Kung 2007
+30,143G,None,Minor morphological means of signaling negation,Tepehua (Huehuetla),,,Kung 2007
+31,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Tepehua (Huehuetla),,,Kung 2007
+32,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tepehua (Huehuetla),,,Kung 2007
+33,144D,More than one construction,The Position of Negative Morphemes in SVO Languages,Tepehua (Huehuetla),,,Kung 2007
+34,144E,SNegVO/NegVSO,Multiple Negative Constructions in SVO Languages,Tepehua (Huehuetla),,,Kung 2007
+35,144H,No NegSVO,NegSVO Order,Tepehua (Huehuetla),,,Kung 2007
+36,144I,Word&NoDoubleNeg,SNegVO Order,Tepehua (Huehuetla),,,Kung 2007
+37,144J,No SVNegO,SVNegO Order,Tepehua (Huehuetla),,,Kung 2007
+38,144K,No SVONeg,SVONeg Order,Tepehua (Huehuetla),,,Kung 2007
+39,144T,NegVSO/SNegVO,The Position of Negative Morphemes in Verb-Initial Languages,Tepehua (Huehuetla),,,Kung 2007
+40,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tepehua (Huehuetla),,,Kung 2007
+41,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tepehua (Huehuetla),,,Kung 2007
+42,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tepehua (Huehuetla),,,Kung 2007

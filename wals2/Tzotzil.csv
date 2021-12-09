@@ -1,0 +1,42 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Initial,Fixed Stress Locations,Tzotzil,,,Haviland et al. n.d.
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tzotzil,,,Haviland et al. n.d.
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tzotzil,,,Haviland et al. n.d.
+3,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tzotzil,,,Cowan 1969
+4,27A,Productive full and partial reduplication,Reduplication,Tzotzil,,,
+5,33A,Plural suffix,Coding of Nominal Plurality,Tzotzil,,,Cowan 1969
+6,53A,"First, two-th, three-th",Ordinal Numerals,Tzotzil,,,Cowan 1969
+7,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tzotzil,,,Cowan 1969
+8,69A,Mixed type,Position of Tense-Aspect Affixes,Tzotzil,,,Cowan 1969
+9,70A,Second singular and second plural,The Morphological Imperative,Tzotzil,,,Aissen 1987
+10,72A,Maximal system,Imperative-Hortative Systems,Tzotzil,,,Haviland 1988
+11,77A,Indirect only,Semantic Distinctions of Evidentiality,Tzotzil,,,Cowan 1969
+12,78A,Separate particle,Coding of Evidentiality,Tzotzil,,,Cowan 1969
+13,81A,VOS,"Order of Subject, Object and Verb",Tzotzil,,,Cowan 1969
+14,82A,VS,Order of Subject and Verb,Tzotzil,,,Cowan 1969
+15,83A,VO,Order of Object and Verb,Tzotzil,,,Cowan 1969
+16,84A,VOX,"Order of Object, Oblique, and Verb",Tzotzil,,,Cowan 1969
+17,85A,Prepositions,Order of Adposition and Noun Phrase,Tzotzil,,,Cowan 1969
+18,86A,Noun-Genitive,Order of Genitive and Noun,Tzotzil,,,Cowan 1969
+19,92A,Initial,Position of Polar Question Particles,Tzotzil,,,Cowan 1969
+20,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tzotzil,,,Cowan 1969
+21,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tzotzil,,,
+22,110A,Purposive but no sequential,Periphrastic Causative Constructions,Tzotzil,,,Cowan 1969
+23,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tzotzil,,,Cowan 1969
+24,112A,Negative particle,Negative Morphemes,Tzotzil,,,Cowan 1969
+25,116A,Question particle,Polar Questions,Tzotzil,,,Cowan 1969
+26,118A,Verbal encoding,Predicative Adjectives,Tzotzil,,,Sarles 1966
+27,119A,Different,Nominal and Locational Predication,Tzotzil,,,Sarles 1966
+28,120A,Impossible,Zero Copula for Predicate Nominals,Tzotzil,,,Sarles 1966
+29,129A,Identical,Hand and Arm,Tzotzil,,,Delgaty and Ruíz Sánchez 1978
+30,130A,Different,Finger and Hand,Tzotzil,,,Delgaty and Ruíz Sánchez 1978
+31,143A,NegV,Order of Negative Morpheme and Verb,Tzotzil,,,Cowan 1969
+32,143E,NegV,Preverbal Negative Morphemes,Tzotzil,,,Cowan 1969
+33,143F,None,Postverbal Negative Morphemes,Tzotzil,,,Cowan 1969
+34,143G,None,Minor morphological means of signaling negation,Tzotzil,,,Cowan 1969
+35,144A,NegVOS,"Position of Negative Word With Respect to Subject, Object, and Verb",Tzotzil,,,Cowan 1969
+36,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tzotzil,,,Cowan 1969
+37,144T,NegVOS,The Position of Negative Morphemes in Verb-Initial Languages,Tzotzil,,,Cowan 1969
+38,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tzotzil,,,Cowan 1969
+39,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tzotzil,,,Cowan 1969
+40,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tzotzil,,,Cowan 1969

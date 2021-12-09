@@ -1,0 +1,57 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+26A-ukr,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Ukrainian,,,Struk 1978;Humesky 1980;Stechishin 1958;Pugh and Press 1999
+30A-ukr,Three,Number of Genders,Ukrainian,,,Shevelov 1993
+31A-ukr,Sex-based,Sex-based and Non-sex-based Gender Systems,Ukrainian,,,Shevelov 1993
+32A-ukr,Semantic and formal,Systems of Gender Assignment,Ukrainian,,,Shevelov 1993
+33A-ukr,Plural suffix,Coding of Nominal Plurality,Ukrainian,,,Stechishin 1958
+37A-ukr,No definite or indefinite article,Definite Articles,Ukrainian,,,Stechishin 1958
+38A-ukr,No definite or indefinite article,Indefinite Articles,Ukrainian,,,Stechishin 1958
+46A-ukr,Interrogative-based,Indefinite Pronouns,Ukrainian,,,Beloded and Zhovtobrjux 1966
+51A-ukr,Case suffixes,Position of Case Affixes,Ukrainian,,,Struk 1978;Stechishin 1958
+53A-ukr,"First, second, three-th",Ordinal Numerals,Ukrainian,,,Struk 1982
+54A-ukr,Marked by preceding word,Distributive Numerals,Ukrainian,,,Pugh and Press 1999
+57A-ukr,No possessive affixes,Position of Pronominal Possessive Affixes,Ukrainian,,,Stechishin 1958
+69A-ukr,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Ukrainian,,,Stechishin 1958;Struk 1978
+70A-ukr,Second singular and second plural,The Morphological Imperative,Ukrainian,,,Danylenko and Vakulenko 1995
+71A-ukr,Normal imperative + normal negative,The Prohibitive,Ukrainian,,,
+72A-ukr,Neither type of system,Imperative-Hortative Systems,Ukrainian,,,
+79A-ukr,Tense and aspect,Suppletion According to Tense and Aspect,Ukrainian,,,Medushevsky and Zyatovska 1963;Humesky 1980
+79B-ukr,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Ukrainian,,,
+80A-ukr,None,Verbal Number and Suppletion,Ukrainian,,,Medushevsky and Zyatovska 1963;Humesky 1980
+81A-ukr,SVO,"Order of Subject, Object and Verb",Ukrainian,,,Stechishin 1958
+82A-ukr,SV,Order of Subject and Verb,Ukrainian,,,Stechishin 1958
+83A-ukr,VO,Order of Object and Verb,Ukrainian,,,Stechishin 1958
+85A-ukr,Prepositions,Order of Adposition and Noun Phrase,Ukrainian,,,Stechishin 1958
+87A-ukr,Adjective-Noun,Order of Adjective and Noun,Ukrainian,,,Stechishin 1958
+88A-ukr,Demonstrative-Noun,Order of Demonstrative and Noun,Ukrainian,,,Stechishin 1958
+89A-ukr,Numeral-Noun,Order of Numeral and Noun,Ukrainian,,,Struk 1978;Humesky 1980
+90A-ukr,Noun-Relative clause,Order of Relative Clause and Noun,Ukrainian,,,Stechishin 1958
+90C-ukr,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Ukrainian,,,Stechishin 1958
+92A-ukr,Initial,Position of Polar Question Particles,Ukrainian,,,Stechishin 1958
+94A-ukr,Initial subordinator word,Order of Adverbial Subordinator and Clause,Ukrainian,,,Stechishin 1958
+95A-ukr,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Ukrainian,,,
+96A-ukr,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Ukrainian,,,
+97A-ukr,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Ukrainian,,,
+101A-ukr,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Ukrainian,,,Pugh and Press 1999
+108A-ukr,No antipassive,Antipassive Constructions,Ukrainian,,,Shevelov 1993
+108B-ukr,no antipassive,Productivity of the Antipassive Construction,Ukrainian,,,Shevelov 1993
+109A-ukr,No applicative construction,Applicative Constructions,Ukrainian,,,Shevelov 1993
+109B-ukr,No applicative construction,Other Roles of Applied Objects,Ukrainian,,,
+112A-ukr,Negative particle,Negative Morphemes,Ukrainian,,,Stechishin 1958
+113A-ukr,Symmetric,Symmetric and Asymmetric Standard Negation,Ukrainian,,,Danylenko and Vakulenko 1995
+114A-ukr,Non-assignable,Subtypes of Asymmetric Standard Negation,Ukrainian,,,Danylenko and Vakulenko 1995
+116A-ukr,Question particle,Polar Questions,Ukrainian,,,Stechishin 1958
+129A-ukr,Identical,Hand and Arm,Ukrainian,,,Hrabovsky 1991
+130A-ukr,Different,Finger and Hand,Ukrainian,,,Hrabovsky 1991
+138A-ukr,Words derived from Sinitic cha,Tea,Ukrainian,,,Malherbe and Rosenberg 1996
+143A-ukr,NegV,Order of Negative Morpheme and Verb,Ukrainian,,,Stechishin 1958
+143E-ukr,NegV,Preverbal Negative Morphemes,Ukrainian,,,Stechishin 1958
+143F-ukr,None,Postverbal Negative Morphemes,Ukrainian,,,Stechishin 1958
+143G-ukr,None,Minor morphological means of signaling negation,Ukrainian,,,Stechishin 1958
+144A-ukr,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Ukrainian,,,Stechishin 1958
+144B-ukr,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Ukrainian,,,Stechishin 1958
+144D-ukr,SNegVO,The Position of Negative Morphemes in SVO Languages,Ukrainian,,,Stechishin 1958
+144H-ukr,No NegSVO,NegSVO Order,Ukrainian,,,Stechishin 1958
+144I-ukr,Word&NoDoubleNeg,SNegVO Order,Ukrainian,,,Stechishin 1958
+144J-ukr,No SVNegO,SVNegO Order,Ukrainian,,,Stechishin 1958
+144K-ukr,No SVONeg,SVONeg Order,Ukrainian,,,Stechishin 1958

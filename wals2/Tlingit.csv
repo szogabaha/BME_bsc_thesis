@@ -1,0 +1,95 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Tlingit,,,Maddieson et al. 2001
+1,2A,Small (2-4),Vowel Quality Inventories,Tlingit,,,Maddieson et al. 2001
+2,3A,High,Consonant-Vowel Ratio,Tlingit,,,Maddieson et al. 2001
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Tlingit,,,Maddieson et al. 2001
+4,5A,Other,Voicing and Gaps in Plosive Systems,Tlingit,,,Maddieson et al. 2001
+5,6A,Uvular stops and continuants,Uvular Consonants,Tlingit,,,Maddieson et al. 2001
+6,7A,Ejectives only,Glottalized Consonants,Tlingit,,,Maddieson et al. 2001
+7,8A,"No /l/, but lateral obstruents",Lateral Consonants,Tlingit,,,Maddieson et al. 2001
+8,9A,No velar nasal,The Velar Nasal,Tlingit,,,Leer 1991b
+9,10A,Contrast absent,Vowel Nasalization,Tlingit,,,Swanton 1911a
+10,11A,None,Front Rounded Vowels,Tlingit,,,Maddieson et al. 2001
+11,12A,Complex,Syllable Structure,Tlingit,,,Maddieson et al. 2001
+12,13A,Simple tone system,Tone,Tlingit,,,Maddieson et al. 2001
+13,18A,No bilabials,Absence of Common Consonants,Tlingit,,,Maddieson et al. 2001
+14,19A,None,Presence of Uncommon Consonants,Tlingit,,,Maddieson et al. 2001
+15,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Tlingit,,,Swanton 1911a
+16,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Tlingit,,,Swanton 1911a
+17,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Tlingit,,,Swanton 1911a
+18,23A,Head marking,Locus of Marking in the Clause,Tlingit,,,Swanton 1911a
+19,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Tlingit,,,Swanton 1911a
+20,25A,Head-marking,Locus of Marking: Whole-language Typology,Tlingit,,,Swanton 1911a
+21,25B,Non-zero marking,Zero Marking of A and P Arguments,Tlingit,,,Swanton 1911a
+22,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tlingit,,,Boas 1917
+23,28A,No case marking,Case Syncretism,Tlingit,,,Swanton 1911a
+24,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Tlingit,,,Swanton 1911a
+25,33A,Plural suffix,Coding of Nominal Plurality,Tlingit,,,Boas 1917
+26,35A,Person-number stem,Plurality in Independent Personal Pronouns,Tlingit,,,Swanton 1911a
+27,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Tlingit,,,Swanton 1911b
+28,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Tlingit,,,Swanton 1911b
+29,41A,Four-way contrast,Distance Contrasts in Demonstratives,Tlingit,,,Swanton 1911a
+30,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tlingit,,,Leer 1991b
+31,45A,No politeness distinction,Politeness Distinctions in Pronouns,Tlingit,,,Boas 1917
+32,48A,Pronouns and nouns,Person Marking on Adpositions,Tlingit,,,Leer 1991b
+33,49A,8-9 cases,Number of Cases,Tlingit,,,Swanton 1911a
+34,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Tlingit,,,Swanton 1911a
+35,51A,Case suffixes,Position of Case Affixes,Tlingit,,,Boas 1917
+36,52A,Differentiation,Comitatives and Instrumentals,Tlingit,,,Stolz 1996
+37,55A,Obligatory,Numeral Classifiers,Tlingit,,,Kinkade 2001
+38,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tlingit,,,Boas 1917
+39,58A,Absent,Obligatory Possessive Inflection,Tlingit,,,Swanton 1911a
+40,58B,None reported,Number of Possessive Nouns,Tlingit,,,Swanton 1911a
+41,59A,Two classes,Possessive Classification,Tlingit,,,Swanton 1911a
+42,63A,'And' different from 'with',Noun Phrase Conjunction,Tlingit,,,Swanton 1911a
+43,69A,Mixed type,Position of Tense-Aspect Affixes,Tlingit,,,Boas 1917
+44,70A,No second-person imperatives,The Morphological Imperative,Tlingit,,,Swanton 1911a
+45,74A,Affixes on verbs,Situational Possibility,Tlingit,,,Story 1979
+46,75A,Other,Epistemic Possibility,Tlingit,,,Naish 1979
+47,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Tlingit,,,Swanton 1911a
+48,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Tlingit,,,Swanton 1911a
+49,78A,No grammatical evidentials,Coding of Evidentiality,Tlingit,,,Swanton 1911a
+50,81A,SOV,"Order of Subject, Object and Verb",Tlingit,,,Dryer 1985
+51,82A,SV,Order of Subject and Verb,Tlingit,,,Dryer 1985
+52,83A,OV,Order of Object and Verb,Tlingit,,,Dryer 1985
+53,85A,Postpositions,Order of Adposition and Noun Phrase,Tlingit,,,Swanton 1909
+54,86A,Genitive-Noun,Order of Genitive and Noun,Tlingit,,,Naish 1979
+55,87A,No dominant order,Order of Adjective and Noun,Tlingit,,,Boas 1917
+56,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tlingit,,,Kelly and Willard 1904
+57,89A,Numeral-Noun,Order of Numeral and Noun,Tlingit,,,Kelly and Willard 1904
+58,90A,Relative clause-Noun,Order of Relative Clause and Noun,Tlingit,,,Naish 1979
+59,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Tlingit,,,Naish 1979
+60,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tlingit,,,Kelly and Willard 1904
+61,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Tlingit,,,Naish 1979
+62,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tlingit,,,
+63,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tlingit,,,
+64,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tlingit,,,
+65,100A,Active,Alignment of Verbal Person Marking,Tlingit,,,Leer 1991b
+66,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tlingit,,,Boas 1917
+67,102A,Both the A and P arguments,Verbal Person Marking,Tlingit,,,Leer 1991b
+68,103A,Zero in all 3rd person forms,Third Person Zero of Verbal Person Marking,Tlingit,,,Leer 1991b
+69,104A,P precedes A,Order of Person Markers on the Verb,Tlingit,,,Leer 1991b
+70,107A,Absent,Passive Constructions,Tlingit,,,Swanton 1911a
+71,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tlingit,,,Boas 1917
+72,112A,Negative particle,Negative Morphemes,Tlingit,,,Boas 1917
+73,113A,Both,Symmetric and Asymmetric Standard Negation,Tlingit,,,Naish 1979
+74,114A,A/NonReal and A/Cat,Subtypes of Asymmetric Standard Negation,Tlingit,,,Naish 1979
+75,118A,Verbal encoding,Predicative Adjectives,Tlingit,,,Swanton 1911a
+76,119A,Identical,Nominal and Locational Predication,Tlingit,,,Swanton 1911a
+77,120A,Impossible,Zero Copula for Predicate Nominals,Tlingit,,,Swanton 1911a
+78,131A,Decimal,Numeral Bases,Tlingit,,,Naish 1979
+79,136A,No M-T pronouns,M-T Pronouns,Tlingit,,,Swanton 1911a
+80,136B,No m in first person singular,M in First Person Singular,Tlingit,,,Swanton 1911a
+81,137A,No N-M pronouns,N-M Pronouns,Tlingit,,,Swanton 1911a
+82,137B,No m in second person singular,M in Second Person Singular,Tlingit,,,Swanton 1911a
+83,143A,NegV,Order of Negative Morpheme and Verb,Tlingit,,,Boas 1917
+84,143E,NegV,Preverbal Negative Morphemes,Tlingit,,,Boas 1917
+85,143F,None,Postverbal Negative Morphemes,Tlingit,,,Boas 1917
+86,143G,None,Minor morphological means of signaling negation,Tlingit,,,Boas 1917
+87,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Tlingit,,,Naish 1979
+88,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tlingit,,,Naish 1979
+89,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Tlingit,,,Naish 1979
+90,144P,No NegSOV,NegSOV Order,Tlingit,,,Naish 1979
+91,144Q,No SNegOV,SNegOV Order,Tlingit,,,Naish 1979
+92,144R,Word&NoDoubleNeg,SONegV Order,Tlingit,,,Naish 1979
+93,144S,NoSOVNeg,SOVNeg Order,Tlingit,,,Naish 1979

@@ -1,0 +1,55 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Tsova-Tush,,,Desheriev 1953
+1,2A,Average (5-6),Vowel Quality Inventories,Tsova-Tush,,,Desheriev 1953
+2,3A,High,Consonant-Vowel Ratio,Tsova-Tush,,,Desheriev 1953
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Tsova-Tush,,,Desheriev 1953
+4,5A,Other,Voicing and Gaps in Plosive Systems,Tsova-Tush,,,Desheriev 1953
+5,6A,Uvular stops and continuants,Uvular Consonants,Tsova-Tush,,,Desheriev 1953
+6,7A,Ejectives only,Glottalized Consonants,Tsova-Tush,,,Desheriev 1953
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Tsova-Tush,,,Desheriev 1953
+8,9A,No velar nasal,The Velar Nasal,Tsova-Tush,,,Holisky and Gagua 1994
+9,11A,None,Front Rounded Vowels,Tsova-Tush,,,Desheriev 1953
+10,12A,Complex,Syllable Structure,Tsova-Tush,,,Desheriev 1953
+11,13A,No tones,Tone,Tsova-Tush,,,Desheriev 1953
+12,18A,All present,Absence of Common Consonants,Tsova-Tush,,,Desheriev 1953
+13,19A,Pharyngeals,Presence of Uncommon Consonants,Tsova-Tush,,,Desheriev 1953
+14,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tsova-Tush,,,Holisky and Gagua 1994
+15,33A,Plural suffix,Coding of Nominal Plurality,Tsova-Tush,,,Holisky and Gagua 1994
+16,37A,No definite or indefinite article,Definite Articles,Tsova-Tush,,,Holisky and Gagua 1994
+17,38A,No definite or indefinite article,Indefinite Articles,Tsova-Tush,,,Holisky and Gagua 1994
+18,51A,Case suffixes,Position of Case Affixes,Tsova-Tush,,,Holisky and Gagua 1994
+19,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tsova-Tush,,,Holisky and Gagua 1994
+20,70A,Second singular and second plural,The Morphological Imperative,Tsova-Tush,,,Holisky and Gagua 1994
+21,71A,Normal imperative + normal negative,The Prohibitive,Tsova-Tush,,,Holisky and Gagua 1994
+22,77A,Direct and indirect,Semantic Distinctions of Evidentiality,Tsova-Tush,,,Holisky and Gagua 1994
+23,78A,Mixed,Coding of Evidentiality,Tsova-Tush,,,Holisky and Gagua 1994
+24,81A,SOV,"Order of Subject, Object and Verb",Tsova-Tush,,,Holisky and Gagua 1994
+25,82A,SV,Order of Subject and Verb,Tsova-Tush,,,Holisky and Gagua 1994
+26,83A,OV,Order of Object and Verb,Tsova-Tush,,,Holisky and Gagua 1994
+27,84A,No dominant order,"Order of Object, Oblique, and Verb",Tsova-Tush,,,Holisky and Gagua 1994
+28,85A,Postpositions,Order of Adposition and Noun Phrase,Tsova-Tush,,,Holisky and Gagua 1994
+29,86A,Genitive-Noun,Order of Genitive and Noun,Tsova-Tush,,,Holisky and Gagua 1994
+30,87A,Adjective-Noun,Order of Adjective and Noun,Tsova-Tush,,,Holisky and Gagua 1994
+31,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tsova-Tush,,,Holisky and Gagua 1994
+32,89A,Numeral-Noun,Order of Numeral and Noun,Tsova-Tush,,,Holisky and Gagua 1994
+33,90A,Relative clause-Noun,Order of Relative Clause and Noun,Tsova-Tush,,,Holisky and Gagua 1994
+34,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Tsova-Tush,,,Holisky and Gagua 1994
+35,92A,Second position,Position of Polar Question Particles,Tsova-Tush,,,Holisky and Gagua 1994
+36,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tsova-Tush,,,Holisky and Gagua 1994
+37,94A,Mixed,Order of Adverbial Subordinator and Clause,Tsova-Tush,,,Holisky and Gagua 1994
+38,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tsova-Tush,,,
+39,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tsova-Tush,,,
+40,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tsova-Tush,,,
+41,112A,Negative particle,Negative Morphemes,Tsova-Tush,,,Holisky and Gagua 1994
+42,116A,Question particle,Polar Questions,Tsova-Tush,,,Holisky and Gagua 1994
+43,143A,NegV,Order of Negative Morpheme and Verb,Tsova-Tush,,,Holisky and Gagua 1994
+44,143E,NegV,Preverbal Negative Morphemes,Tsova-Tush,,,Holisky and Gagua 1994
+45,143F,None,Postverbal Negative Morphemes,Tsova-Tush,,,Holisky and Gagua 1994
+46,143G,None,Minor morphological means of signaling negation,Tsova-Tush,,,Holisky and Gagua 1994
+47,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Tsova-Tush,,,Holisky and Gagua 1994
+48,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tsova-Tush,,,Holisky and Gagua 1994
+49,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Tsova-Tush,,,Holisky and Gagua 1994
+50,144P,No NegSOV,NegSOV Order,Tsova-Tush,,,Holisky and Gagua 1994
+51,144Q,No SNegOV,SNegOV Order,Tsova-Tush,,,Holisky and Gagua 1994
+52,144R,Word&NoDoubleNeg,SONegV Order,Tsova-Tush,,,Holisky and Gagua 1994
+53,144S,NoSOVNeg,SOVNeg Order,Tsova-Tush,,,Holisky and Gagua 1994

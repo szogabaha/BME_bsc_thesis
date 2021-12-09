@@ -1,0 +1,20 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,51A,Case prefixes,Position of Case Affixes,Talinga,,,Paluku 1998
+1,72A,Minimal system,Imperative-Hortative Systems,Talinga,,,Paluku 1998
+2,74A,Affixes on verbs,Situational Possibility,Talinga,,,Paluku 1998
+3,81A,SVO,"Order of Subject, Object and Verb",Talinga,,,Paluku 1998
+4,82A,SV,Order of Subject and Verb,Talinga,,,Paluku 1998
+5,83A,VO,Order of Object and Verb,Talinga,,,Paluku 1998
+6,85A,Prepositions,Order of Adposition and Noun Phrase,Talinga,,,Paluku 1998
+7,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Talinga,,,
+8,112A,Negative affix,Negative Morphemes,Talinga,,,Paluku 1998
+9,143A,[Neg-V],Order of Negative Morpheme and Verb,Talinga,,,Paluku 1998
+10,143E,[Neg-V],Preverbal Negative Morphemes,Talinga,,,Paluku 1998
+11,143F,None,Postverbal Negative Morphemes,Talinga,,,Paluku 1998
+12,143G,None,Minor morphological means of signaling negation,Talinga,,,Paluku 1998
+13,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Talinga,,,Paluku 1998
+14,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Talinga,,,Paluku 1998
+15,144H,No NegSVO,NegSVO Order,Talinga,,,Paluku 1998
+16,144I,Prefix&NoDoubleNeg,SNegVO Order,Talinga,,,Paluku 1998
+17,144J,No SVNegO,SVNegO Order,Talinga,,,Paluku 1998
+18,144K,No SVONeg,SVONeg Order,Talinga,,,Paluku 1998

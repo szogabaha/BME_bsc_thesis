@@ -1,0 +1,24 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Yucatec,,,Straight 1976
+1,2A,Average (5-6),Vowel Quality Inventories,Yucatec,,,Straight 1976
+2,3A,Average,Consonant-Vowel Ratio,Yucatec,,,Straight 1976
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Yucatec,,,Straight 1976
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yucatec,,,Straight 1976
+5,6A,None,Uvular Consonants,Yucatec,,,Straight 1976
+6,7A,Ejectives and implosives,Glottalized Consonants,Yucatec,,,Straight 1976
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yucatec,,,Straight 1976
+8,11A,None,Front Rounded Vowels,Yucatec,,,Straight 1976
+9,13A,Simple tone system,Tone,Yucatec,,,Straight 1976
+10,18A,All present,Absence of Common Consonants,Yucatec,,,Straight 1976
+11,19A,None,Presence of Uncommon Consonants,Yucatec,,,Straight 1976
+12,27A,Productive full and partial reduplication,Reduplication,Yucatec,,,Bricker et al. 1998
+13,45A,No politeness distinction,Politeness Distinctions in Pronouns,Yucatec,,,Arzápalo 1973
+14,52A,Identity,Comitatives and Instrumentals,Yucatec,,,
+15,55A,Obligatory,Numeral Classifiers,Yucatec,,,Suárez 1983b
+16,65A,Grammatical marking,Perfective/Imperfective Aspect,Yucatec,,,
+17,66A,No past tense,The Past Tense,Yucatec,,,
+18,67A,No inflectional future,The Future Tense,Yucatec,,,
+19,68A,No perfect,The Perfect,Yucatec,,,
+20,129A,Identical,Hand and Arm,Yucatec,,,Bricker et al. 1998
+21,130A,Different,Finger and Hand,Yucatec,,,Bricker et al. 1998
+22,131A,Pure vigesimal,Numeral Bases,Yucatec,,,Tozzer 1921

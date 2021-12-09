@@ -1,0 +1,17 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Initial,Fixed Stress Locations,Wangkumara,,,McDonald and Wurm 1979
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Wangkumara,,,McDonald and Wurm 1979
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Wangkumara,,,McDonald and Wurm 1979
+3,17A,Trochaic,Rhythm Types,Wangkumara,,,McDonald and Wurm 1979
+4,51A,Case suffixes,Position of Case Affixes,Wangkumara,,,McDonald and Wurm 1979
+5,52A,Differentiation,Comitatives and Instrumentals,Wangkumara,,,McDonald and Wurm 1979
+6,81A,No dominant order,"Order of Subject, Object and Verb",Wangkumara,,,McDonald and Wurm 1979
+7,82A,SV,Order of Subject and Verb,Wangkumara,,,McDonald and Wurm 1979
+8,83A,No dominant order,Order of Object and Verb,Wangkumara,,,McDonald and Wurm 1979
+9,84A,No dominant order,"Order of Object, Oblique, and Verb",Wangkumara,,,McDonald and Wurm 1979
+10,87A,No dominant order,Order of Adjective and Noun,Wangkumara,,,McDonald and Wurm 1979
+11,88A,Mixed,Order of Demonstrative and Noun,Wangkumara,,,McDonald and Wurm 1979
+12,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wangkumara,,,McDonald and Wurm 1979
+13,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wangkumara,,,
+14,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wangkumara,,,
+15,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wangkumara,,,

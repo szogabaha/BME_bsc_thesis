@@ -1,0 +1,61 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Serbian-Croatian,,,Gvozdanovic 1999
+1,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Serbian-Croatian,,,Gvozdanovic 1999
+2,16A,Prominence,Weight Factors in Weight-Sensitive Stress Systems,Serbian-Croatian,,,Gvozdanovic 1999
+3,17A,No rhythmic stress,Rhythm Types,Serbian-Croatian,,,Gvozdanovic 1999
+4,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Serbian-Croatian,,,Browne 1974
+5,33A,Plural suffix,Coding of Nominal Plurality,Serbian-Croatian,,,Partridge 1964
+6,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Serbian-Croatian,,,Hamm 1981
+7,37A,No definite or indefinite article,Definite Articles,Serbian-Croatian,,,Partridge 1964
+8,38A,No definite or indefinite article,Indefinite Articles,Serbian-Croatian,,,Partridge 1964
+9,43A,Unrelated,Third Person Pronouns and Demonstratives,Serbian-Croatian,,,Kordic 1997
+10,46A,Interrogative-based,Indefinite Pronouns,Serbian-Croatian,,,Haspelmath 1997
+11,49A,5 cases,Number of Cases,Serbian-Croatian,,,Hamm 1981
+12,50A,Syncretism in relevant NP-types,Asymmetrical Case-Marking,Serbian-Croatian,,,Hamm 1981
+13,51A,Case suffixes,Position of Case Affixes,Serbian-Croatian,,,Partridge 1964
+14,53A,"First, second, three-th",Ordinal Numerals,Serbian-Croatian,,,Schmaus 1983
+15,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Serbian-Croatian,,,Partridge 1964
+16,63A,'And' different from 'with',Noun Phrase Conjunction,Serbian-Croatian,,,
+17,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Serbian-Croatian,,,Partridge 1964
+18,70A,Second singular and second plural,The Morphological Imperative,Serbian-Croatian,,,Kordic 1997
+19,71A,Normal imperative + normal negative,The Prohibitive,Serbian-Croatian,,,Kordic 1997
+20,72A,Neither type of system,Imperative-Hortative Systems,Serbian-Croatian,,,Browne 1993
+21,74A,Verbal constructions,Situational Possibility,Serbian-Croatian,,,Kalogjera 1982
+22,75A,Verbal constructions,Epistemic Possibility,Serbian-Croatian,,,Kalogjera 1982
+23,76A,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Serbian-Croatian,,,Kalogjera 1982
+24,79A,Tense and aspect,Suppletion According to Tense and Aspect,Serbian-Croatian,,,Subotic and Forbes 1918
+25,79B,A regular and a suppletive form alternate,Suppletion in Imperatives and Hortatives,Serbian-Croatian,,,
+26,80A,None,Verbal Number and Suppletion,Serbian-Croatian,,,Subotic and Forbes 1918
+27,81A,SVO,"Order of Subject, Object and Verb",Serbian-Croatian,,,Browne 1974
+28,82A,SV,Order of Subject and Verb,Serbian-Croatian,,,Browne 1974
+29,83A,VO,Order of Object and Verb,Serbian-Croatian,,,Browne 1974
+30,85A,Prepositions,Order of Adposition and Noun Phrase,Serbian-Croatian,,,Partridge 1964
+31,86A,No dominant order,Order of Genitive and Noun,Serbian-Croatian,,,Browne 1974
+32,87A,Adjective-Noun,Order of Adjective and Noun,Serbian-Croatian,,,Browne 1974
+33,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Serbian-Croatian,,,Javarek and Sudjic 1972
+34,89A,Numeral-Noun,Order of Numeral and Noun,Serbian-Croatian,,,Partridge 1964
+35,91A,Degree word-Adjective,Order of Degree Word and Adjective,Serbian-Croatian,,,Partridge 1964
+36,92A,In either of two positions,Position of Polar Question Particles,Serbian-Croatian,,,Partridge 1964
+37,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Serbian-Croatian,,,Partridge 1964
+38,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Serbian-Croatian,,,
+39,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Serbian-Croatian,,,
+40,101A,Subject affixes on verb,Expression of Pronominal Subjects,Serbian-Croatian,,,Partridge 1964
+41,112A,Negative particle,Negative Morphemes,Serbian-Croatian,,,Partridge 1964
+42,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Serbian-Croatian,,,Haspelmath 1997
+43,116A,Question particle,Polar Questions,Serbian-Croatian,,,Partridge 1964
+44,117A,'Have',Predicative Possession,Serbian-Croatian,,,
+45,118A,Nonverbal encoding,Predicative Adjectives,Serbian-Croatian,,,Hamm 1975
+46,119A,Identical,Nominal and Locational Predication,Serbian-Croatian,,,Hamm 1975
+47,120A,Impossible,Zero Copula for Predicate Nominals,Serbian-Croatian,,,Hamm 1975
+48,129A,Identical,Hand and Arm,Serbian-Croatian,,,Hewitt 1989c
+49,130A,Different,Finger and Hand,Serbian-Croatian,,,Hewitt 1989c
+50,138A,Words derived from Sinitic cha,Tea,Serbian-Croatian,,,Malherbe and Rosenberg 1996
+51,142A,Logical meanings,Para-Linguistic Usages of Clicks,Serbian-Croatian,,,
+52,143A,NegV,Order of Negative Morpheme and Verb,Serbian-Croatian,,,Partridge 1964
+53,143E,NegV,Preverbal Negative Morphemes,Serbian-Croatian,,,Partridge 1964
+54,143F,None,Postverbal Negative Morphemes,Serbian-Croatian,,,Partridge 1964
+55,143G,None,Minor morphological means of signaling negation,Serbian-Croatian,,,Partridge 1964
+56,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Serbian-Croatian,,,Partridge 1964
+57,144D,Other NegV,The Position of Negative Morphemes in SVO Languages,Serbian-Croatian,,,Partridge 1964
+58,144J,No SVNegO,SVNegO Order,Serbian-Croatian,,,Partridge 1964
+59,144K,No SVONeg,SVONeg Order,Serbian-Croatian,,,Partridge 1964

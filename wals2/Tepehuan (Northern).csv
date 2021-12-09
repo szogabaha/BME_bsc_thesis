@@ -1,0 +1,56 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tepehuan (Northern),,,Bascom 1982
+1,33A,Plural prefix,Coding of Nominal Plurality,Tepehuan (Northern),,,Bascom 1982
+2,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Tepehuan (Northern),,,Bascom 1982
+3,37A,Definite affix,Definite Articles,Tepehuan (Northern),,,Bascom 1982
+4,38A,"No indefinite, but definite article",Indefinite Articles,Tepehuan (Northern),,,Bascom 1982
+5,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tepehuan (Northern),,,Bascom 1982
+6,46A,Mixed,Indefinite Pronouns,Tepehuan (Northern),,,Bascom 1982
+7,48A,Pronouns only,Person Marking on Adpositions,Tepehuan (Northern),,,Bascom 1982
+8,51A,Case suffixes,Position of Case Affixes,Tepehuan (Northern),,,Bascom 1982
+9,54A,Marked by reduplication,Distributive Numerals,Tepehuan (Northern),,,Bascom 1982
+10,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tepehuan (Northern),,,Bascom 1982
+11,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tepehuan (Northern),,,Bascom 1982
+12,70A,Second singular and second plural,The Morphological Imperative,Tepehuan (Northern),,,Bascom 1982
+13,71A,Normal imperative + normal negative,The Prohibitive,Tepehuan (Northern),,,Bascom 1982
+14,77A,Indirect only,Semantic Distinctions of Evidentiality,Tepehuan (Northern),,,Bascom 1982
+15,78A,Verbal affix or clitic,Coding of Evidentiality,Tepehuan (Northern),,,Bascom 1982
+16,79A,Aspect,Suppletion According to Tense and Aspect,Tepehuan (Northern),,,Bascom 1982
+17,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Tepehuan (Northern),,,
+18,80A,"Singular-plural pairs, suppletion",Verbal Number and Suppletion,Tepehuan (Northern),,,Bascom 1982
+19,81A,VSO,"Order of Subject, Object and Verb",Tepehuan (Northern),,,Bascom 1982
+20,82A,VS,Order of Subject and Verb,Tepehuan (Northern),,,Bascom 1982
+21,83A,VO,Order of Object and Verb,Tepehuan (Northern),,,Bascom 1982
+22,84A,No dominant order,"Order of Object, Oblique, and Verb",Tepehuan (Northern),,,Bascom 1982
+23,85A,Postpositions,Order of Adposition and Noun Phrase,Tepehuan (Northern),,,Bascom 1982
+24,86A,Genitive-Noun,Order of Genitive and Noun,Tepehuan (Northern),,,Bascom 1982
+25,87A,No dominant order,Order of Adjective and Noun,Tepehuan (Northern),,,Bascom 1982
+26,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tepehuan (Northern),,,Bascom 1982
+27,89A,Numeral-Noun,Order of Numeral and Noun,Tepehuan (Northern),,,Bascom 1982
+28,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tepehuan (Northern),,,Bascom 1982
+29,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tepehuan (Northern),,,Bascom 1982
+30,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tepehuan (Northern),,,Bascom 1982
+31,92A,Second position,Position of Polar Question Particles,Tepehuan (Northern),,,Bascom 1982
+32,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tepehuan (Northern),,,Bascom 1982
+33,95A,VO and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tepehuan (Northern),,,
+34,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tepehuan (Northern),,,
+35,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tepehuan (Northern),,,
+36,100A,Accusative,Alignment of Verbal Person Marking,Tepehuan (Northern),,,Bascom 1982
+37,101A,Mixed,Expression of Pronominal Subjects,Tepehuan (Northern),,,Bascom 1982
+38,102A,Both the A and P arguments,Verbal Person Marking,Tepehuan (Northern),,,Bascom 1982
+39,103A,Zero in all 3rd person forms,Third Person Zero of Verbal Person Marking,Tepehuan (Northern),,,Bascom 1982
+40,104A,P precedes A,Order of Person Markers on the Verb,Tepehuan (Northern),,,Bascom 1982
+41,107A,Present,Passive Constructions,Tepehuan (Northern),,,Bascom 1982
+42,112A,Negative particle,Negative Morphemes,Tepehuan (Northern),,,Bascom 1982
+43,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Tepehuan (Northern),,,Bascom 1982
+44,116A,Question particle,Polar Questions,Tepehuan (Northern),,,Bascom 1982
+45,143A,NegV,Order of Negative Morpheme and Verb,Tepehuan (Northern),,,Bascom 1982
+46,143E,NegV,Preverbal Negative Morphemes,Tepehuan (Northern),,,Bascom 1982
+47,143F,None,Postverbal Negative Morphemes,Tepehuan (Northern),,,Bascom 1982
+48,143G,None,Minor morphological means of signaling negation,Tepehuan (Northern),,,Bascom 1982
+49,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Tepehuan (Northern),,,Bascom 1982
+50,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tepehuan (Northern),,,Bascom 1982
+51,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Tepehuan (Northern),,,Bascom 1982
+52,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tepehuan (Northern),,,Bascom 1982
+53,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tepehuan (Northern),,,Bascom 1982
+54,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tepehuan (Northern),,,Bascom 1982

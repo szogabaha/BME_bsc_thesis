@@ -1,0 +1,79 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Swedish,,,Bruce 1999a
+1,15A,Right-oriented: One of the last three,Weight-Sensitive Stress,Swedish,,,Bruce 1999a
+2,16A,Long vowel or coda consonant,Weight Factors in Weight-Sensitive Stress Systems,Swedish,,,Bruce 1999a
+3,17A,No rhythmic stress,Rhythm Types,Swedish,,,Bruce 1999a
+4,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Swedish,,,Holmes and Hinchliffe 1994
+5,33A,Plural suffix,Coding of Nominal Plurality,Swedish,,,Holmes and Hinchliffe 1994
+6,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Swedish,,,Holmes and Hinchliffe 1994
+7,37A,Definite affix,Definite Articles,Swedish,,,Holmes and Hinchliffe 1994
+8,38A,Indefinite word same as 'one',Indefinite Articles,Swedish,,,Holmes and Hinchliffe 1994
+9,41A,Two-way contrast,Distance Contrasts in Demonstratives,Swedish,,,
+10,42A,Identical,Pronominal and Adnominal Demonstratives,Swedish,,,
+11,45A,Binary politeness distinction,Politeness Distinctions in Pronouns,Swedish,,,Ritte 1998
+12,46A,Special,Indefinite Pronouns,Swedish,,,Holmes and Hinchliffe 1994
+13,47A,Identical,Intensifiers and Reflexive Pronouns,Swedish,,,Holmes and Hinchliffe 1994
+14,49A,2 cases,Number of Cases,Swedish,,,Holmes and Hinchliffe 1994
+15,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Swedish,,,Holmes and Hinchliffe 1994
+16,51A,No case affixes or adpositional clitics,Position of Case Affixes,Swedish,,,McClean 1963
+17,52A,Identity,Comitatives and Instrumentals,Swedish,,,Holm and Nylund Lindgren 1977
+18,53A,"First, second, three-th",Ordinal Numerals,Swedish,,,Holm and Nylund Lindgren 1977
+19,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Swedish,,,McClean 1963
+20,62A,Other,Action Nominal Constructions,Swedish,,,
+21,63A,'And' different from 'with',Noun Phrase Conjunction,Swedish,,,Hammar 1958
+22,65A,No grammatical marking,Perfective/Imperfective Aspect,Swedish,,,Dahl 1985
+23,66A,"Present, no remoteness distinctions",The Past Tense,Swedish,,,Dahl 1985
+24,67A,No inflectional future,The Future Tense,Swedish,,,Dahl 1985
+25,68A,From possessive,The Perfect,Swedish,,,Dahl 1985
+26,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Swedish,,,McClean 1963
+27,70A,Second person number-neutral,The Morphological Imperative,Swedish,,,Holmes and Hinchliffe 1994
+28,71A,Normal imperative + normal negative,The Prohibitive,Swedish,,,Holmes and Hinchliffe 1994
+29,72A,Neither type of system,Imperative-Hortative Systems,Swedish,,,
+30,73A,Inflectional optative absent,The Optative,Swedish,,,
+31,74A,Verbal constructions,Situational Possibility,Swedish,,,Holmes and Hinchliffe 1994
+32,75A,Verbal constructions,Epistemic Possibility,Swedish,,,Holmes and Hinchliffe 1994
+33,76A,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Swedish,,,Holmes and Hinchliffe 1994
+34,77A,Indirect only,Semantic Distinctions of Evidentiality,Swedish,,,Dahl 1985
+35,78A,Mixed,Coding of Evidentiality,Swedish,,,Dahl 1985
+36,79A,Tense,Suppletion According to Tense and Aspect,Swedish,,,
+37,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Swedish,,,
+38,80A,None,Verbal Number and Suppletion,Swedish,,,
+39,81A,SVO,"Order of Subject, Object and Verb",Swedish,,,Holmes and Hinchliffe 1994
+40,82A,SV,Order of Subject and Verb,Swedish,,,Holmes and Hinchliffe 1994
+41,83A,VO,Order of Object and Verb,Swedish,,,Holmes and Hinchliffe 1994
+42,84A,VOX,"Order of Object, Oblique, and Verb",Swedish,,,Holmes and Hinchliffe 1994
+43,85A,Prepositions,Order of Adposition and Noun Phrase,Swedish,,,Holmes and Hinchliffe 1994
+44,86A,Genitive-Noun,Order of Genitive and Noun,Swedish,,,Holmes and Hinchliffe 1994
+45,87A,Adjective-Noun,Order of Adjective and Noun,Swedish,,,McClean 1963
+46,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Swedish,,,McClean 1963
+47,89A,Numeral-Noun,Order of Numeral and Noun,Swedish,,,Holmes and Hinchliffe 1994
+48,90A,Noun-Relative clause,Order of Relative Clause and Noun,Swedish,,,McClean 1963
+49,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Swedish,,,Holmes and Hinchliffe 1994
+50,91A,Degree word-Adjective,Order of Degree Word and Adjective,Swedish,,,Holmes and Hinchliffe 1994
+51,92A,No question particle,Position of Polar Question Particles,Swedish,,,Holmes and Hinchliffe 1994
+52,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Swedish,,,Holmes and Hinchliffe 1994
+53,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Swedish,,,Holmes and Hinchliffe 1994
+54,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Swedish,,,
+55,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Swedish,,,
+56,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Swedish,,,
+57,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Swedish,,,Holmes and Hinchliffe 1994
+58,112A,Negative particle,Negative Morphemes,Swedish,,,McClean 1963
+59,115A,Mixed behaviour,Negative Indefinite Pronouns and Predicate Negation,Swedish,,,Haspelmath 1997
+60,116A,Interrogative word order,Polar Questions,Swedish,,,Holmes and Hinchliffe 1994
+61,117A,'Have',Predicative Possession,Swedish,,,Hammar 1958
+62,118A,Nonverbal encoding,Predicative Adjectives,Swedish,,,Hammar 1958
+63,119A,Identical,Nominal and Locational Predication,Swedish,,,Hammar 1958
+64,120A,Impossible,Zero Copula for Predicate Nominals,Swedish,,,Hammar 1958
+65,138A,Words derived from Min Nan Chinese te,Tea,Swedish,,,
+66,142A,Affective meanings,Para-Linguistic Usages of Clicks,Swedish,,,
+67,143A,Type 1 / Type 2,Order of Negative Morpheme and Verb,Swedish,,,Holmes and Hinchliffe 1994
+68,143E,NegV,Preverbal Negative Morphemes,Swedish,,,Holmes and Hinchliffe 1994
+69,143F,VNeg,Postverbal Negative Morphemes,Swedish,,,Holmes and Hinchliffe 1994
+70,143G,None,Minor morphological means of signaling negation,Swedish,,,Holmes and Hinchliffe 1994
+71,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Swedish,,,Holmes and Hinchliffe 1994
+72,144D,More than one construction,The Position of Negative Morphemes in SVO Languages,Swedish,,,Holmes and Hinchliffe 1994
+73,144E,SNegVO/SVNegO,Multiple Negative Constructions in SVO Languages,Swedish,,,Holmes and Hinchliffe 1994
+74,144H,No NegSVO,NegSVO Order,Swedish,,,Holmes and Hinchliffe 1994
+75,144I,Word&NoDoubleNeg,SNegVO Order,Swedish,,,Holmes and Hinchliffe 1994
+76,144J,Word&NoDoubleNeg,SVNegO Order,Swedish,,,Holmes and Hinchliffe 1994
+77,144K,No SVONeg,SVONeg Order,Swedish,,,Holmes and Hinchliffe 1994

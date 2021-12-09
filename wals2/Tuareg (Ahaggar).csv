@@ -1,0 +1,25 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+1,2A,Large (7-14),Vowel Quality Inventories,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+2,3A,Average,Consonant-Vowel Ratio,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+4,5A,Missing /p/,Voicing and Gaps in Plosive Systems,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+5,6A,Uvular stops and continuants,Uvular Consonants,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+6,7A,No glottalized consonants,Glottalized Consonants,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+8,11A,None,Front Rounded Vowels,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+9,12A,Complex,Syllable Structure,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+10,13A,No tones,Tone,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+11,18A,All present,Absence of Common Consonants,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+12,19A,None,Presence of Uncommon Consonants,Tuareg (Ahaggar),,,Louali-Reynal et al. 1997
+13,52A,Differentiation,Comitatives and Instrumentals,Tuareg (Ahaggar),,,Quitout 1997
+14,65A,Grammatical marking,Perfective/Imperfective Aspect,Tuareg (Ahaggar),,,Bybee et al. 1994
+15,66A,No past tense,The Past Tense,Tuareg (Ahaggar),,,Bybee et al. 1994
+16,67A,Inflectional future exists,The Future Tense,Tuareg (Ahaggar),,,
+17,68A,No perfect,The Perfect,Tuareg (Ahaggar),,,Bybee et al. 1994
+18,117A,Locational,Predicative Possession,Tuareg (Ahaggar),,,Hanoteau 1896
+19,118A,Verbal encoding,Predicative Adjectives,Tuareg (Ahaggar),,,Hanoteau 1896
+20,119A,Different,Nominal and Locational Predication,Tuareg (Ahaggar),,,Hanoteau 1896
+21,120A,Possible,Zero Copula for Predicate Nominals,Tuareg (Ahaggar),,,Hanoteau 1896
+22,121A,Locational,Comparative Constructions,Tuareg (Ahaggar),,,Hanoteau 1896
+23,131A,Decimal,Numeral Bases,Tuareg (Ahaggar),,,Penchoen 1973b

@@ -1,0 +1,20 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Tehuelche,,,Fernandez Garay 1998
+1,2A,Small (2-4),Vowel Quality Inventories,Tehuelche,,,Fernandez Garay 1998
+2,3A,High,Consonant-Vowel Ratio,Tehuelche,,,Fernandez Garay 1998
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tehuelche,,,Fernandez Garay 1998
+4,5A,Missing /g/,Voicing and Gaps in Plosive Systems,Tehuelche,,,Fernandez Garay 1998
+5,6A,Uvular stops only,Uvular Consonants,Tehuelche,,,Fernandez Garay 1998
+6,7A,Ejectives only,Glottalized Consonants,Tehuelche,,,Fernandez Garay 1998
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Tehuelche,,,Fernandez Garay 1998
+8,9A,No velar nasal,The Velar Nasal,Tehuelche,,,Suarez 1973
+9,11A,None,Front Rounded Vowels,Tehuelche,,,Fernandez Garay 1998
+10,13A,No tones,Tone,Tehuelche,,,Fernandez Garay 1998
+11,14A,Initial,Fixed Stress Locations,Tehuelche,,,Schmid 1910
+12,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tehuelche,,,Schmid 1910
+13,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tehuelche,,,Schmid 1910
+14,18A,All present,Absence of Common Consonants,Tehuelche,,,Fernandez Garay 1998
+15,19A,None,Presence of Uncommon Consonants,Tehuelche,,,Fernandez Garay 1998
+16,70A,Second singular,The Morphological Imperative,Tehuelche,,,Fernandez Garay 1993
+17,129A,Different,Hand and Arm,Tehuelche,,,Schmid 1910
+18,130A,Different,Finger and Hand,Tehuelche,,,Schmid 1910

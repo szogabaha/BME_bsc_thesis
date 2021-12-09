@@ -1,0 +1,30 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,53A,"One, two, three",Ordinal Numerals,Sapuan,,,Jacq and Sidwell 1999
+1,70A,No second-person imperatives,The Morphological Imperative,Sapuan,,,Jacq and Sidwell 1999
+2,71A,Normal imperative + special negative,The Prohibitive,Sapuan,,,Jacq and Sidwell 1999
+3,81A,SVO,"Order of Subject, Object and Verb",Sapuan,,,Jacq and Sidwell 1999
+4,82A,SV,Order of Subject and Verb,Sapuan,,,Jacq and Sidwell 1999
+5,83A,VO,Order of Object and Verb,Sapuan,,,Jacq and Sidwell 1999
+6,87A,Noun-Adjective,Order of Adjective and Noun,Sapuan,,,Jacq and Sidwell 1999
+7,92A,Final,Position of Polar Question Particles,Sapuan,,,Jacq and Sidwell 1999
+8,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sapuan,,,Jacq and Sidwell 1999
+9,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sapuan,,,
+10,101A,Optional pronouns in subject position,Expression of Pronominal Subjects,Sapuan,,,Jacq and Sidwell 1999
+11,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Sapuan,,,Jacq and Sidwell 1999
+12,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Sapuan,,,Jacq and Sidwell 1999
+13,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Sapuan,,,Jacq and Sidwell 1999
+14,116A,Question particle,Polar Questions,Sapuan,,,Jacq and Sidwell 1999
+15,121A,Exceed,Comparative Constructions,Sapuan,,,Jacq and Sidwell 1999
+16,124A,Subject is left implicit,'Want' Complement Subjects,Sapuan,,,Jacq and Sidwell 1999
+17,131A,Decimal,Numeral Bases,Sapuan,,,Jacq and Sidwell 1999
+18,143A,NegV,Order of Negative Morpheme and Verb,Sapuan,,,Jacq and Sidwell 1999
+19,143E,NegV,Preverbal Negative Morphemes,Sapuan,,,Jacq and Sidwell 1999
+20,143F,None,Postverbal Negative Morphemes,Sapuan,,,Jacq and Sidwell 1999
+21,143G,None,Minor morphological means of signaling negation,Sapuan,,,Jacq and Sidwell 1999
+22,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Sapuan,,,Jacq and Sidwell 1999
+23,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sapuan,,,Jacq and Sidwell 1999
+24,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Sapuan,,,Jacq and Sidwell 1999
+25,144H,No NegSVO,NegSVO Order,Sapuan,,,Jacq and Sidwell 1999
+26,144I,Word&NoDoubleNeg,SNegVO Order,Sapuan,,,Jacq and Sidwell 1999
+27,144J,No SVNegO,SVNegO Order,Sapuan,,,Jacq and Sidwell 1999
+28,144K,No SVONeg,SVONeg Order,Sapuan,,,Jacq and Sidwell 1999

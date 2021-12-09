@@ -1,0 +1,44 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Sinaugoro,,,Tauberschmidt 1999
+1,33A,Plural clitic,Coding of Nominal Plurality,Sinaugoro,,,Kolia 1975
+2,45A,No politeness distinction,Politeness Distinctions in Pronouns,Sinaugoro,,,Tauberschmidt 1999
+3,51A,Postpositional clitics,Position of Case Affixes,Sinaugoro,,,Tauberschmidt 1999
+4,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Sinaugoro,,,Tauberschmidt 1999
+5,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Sinaugoro,,,Kolia 1975
+6,81A,SOV,"Order of Subject, Object and Verb",Sinaugoro,,,Tauberschmidt 1999
+7,82A,SV,Order of Subject and Verb,Sinaugoro,,,Tauberschmidt 1999
+8,83A,OV,Order of Object and Verb,Sinaugoro,,,Tauberschmidt 1999
+9,85A,Postpositions,Order of Adposition and Noun Phrase,Sinaugoro,,,Tauberschmidt 1999
+10,86A,Genitive-Noun,Order of Genitive and Noun,Sinaugoro,,,Tauberschmidt 1999
+11,87A,Noun-Adjective,Order of Adjective and Noun,Sinaugoro,,,Tauberschmidt 1999
+12,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Sinaugoro,,,Tauberschmidt 1999
+13,89A,Noun-Numeral,Order of Numeral and Noun,Sinaugoro,,,Kolia 1975
+14,90A,Relative clause-Noun,Order of Relative Clause and Noun,Sinaugoro,,,Tauberschmidt 1999
+15,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Sinaugoro,,,Tauberschmidt 1999
+16,91A,Adjective-Degree word,Order of Degree Word and Adjective,Sinaugoro,,,Kolia 1975
+17,92A,Final,Position of Polar Question Particles,Sinaugoro,,,Kolia 1975
+18,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sinaugoro,,,Tauberschmidt 1999
+19,94A,Mixed,Order of Adverbial Subordinator and Clause,Sinaugoro,,,Tauberschmidt 1999
+20,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sinaugoro,,,
+21,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sinaugoro,,,
+22,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sinaugoro,,,
+23,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Sinaugoro,,,Tauberschmidt and Bala 1992
+24,112A,Negative particle,Negative Morphemes,Sinaugoro,,,Kolia 1975
+25,116A,Question particle,Polar Questions,Sinaugoro,,,Kolia 1975
+26,118A,Nonverbal encoding,Predicative Adjectives,Sinaugoro,,,Kolia 1975
+27,119A,Different,Nominal and Locational Predication,Sinaugoro,,,Kolia 1975
+28,120A,Possible,Zero Copula for Predicate Nominals,Sinaugoro,,,Kolia 1975
+29,125A,Balanced/deranked,Purpose Clauses,Sinaugoro,,,Tauberschmidt 1999
+30,126A,Balanced,'When' Clauses,Sinaugoro,,,Tauberschmidt 1999
+31,127A,Balanced,Reason Clauses,Sinaugoro,,,Tauberschmidt 1999
+32,143A,NegV,Order of Negative Morpheme and Verb,Sinaugoro,,,Kolia 1975
+33,143E,NegV,Preverbal Negative Morphemes,Sinaugoro,,,Kolia 1975
+34,143F,None,Postverbal Negative Morphemes,Sinaugoro,,,Kolia 1975
+35,143G,None,Minor morphological means of signaling negation,Sinaugoro,,,Kolia 1975
+36,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Sinaugoro,,,Kolia 1975
+37,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sinaugoro,,,Kolia 1975
+38,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Sinaugoro,,,Kolia 1975
+39,144P,No NegSOV,NegSOV Order,Sinaugoro,,,Kolia 1975
+40,144Q,No SNegOV,SNegOV Order,Sinaugoro,,,Kolia 1975
+41,144R,Word&NoDoubleNeg,SONegV Order,Sinaugoro,,,Kolia 1975
+42,144S,NoSOVNeg,SOVNeg Order,Sinaugoro,,,Kolia 1975

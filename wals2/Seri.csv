@@ -1,0 +1,50 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Seri,,,Marlett 1988
+1,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Seri,,,Marlett 1988
+2,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Seri,,,Marlett 1988
+3,17A,Undetermined,Rhythm Types,Seri,,,Marlett 1988
+4,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Seri,,,Marlett 1981
+5,27A,No productive reduplication,Reduplication,Seri,,,
+6,33A,Plural suffix,Coding of Nominal Plurality,Seri,,,Marlett 1981
+7,37A,Definite word distinct from demonstrative,Definite Articles,Seri,,,Marlett 1981
+8,51A,No case affixes or adpositional clitics,Position of Case Affixes,Seri,,,Marlett 1981
+9,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Seri,,,Marlett 1981
+10,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Seri,,,Marlett 1981
+11,81A,SOV,"Order of Subject, Object and Verb",Seri,,,Marlett 1981
+12,82A,SV,Order of Subject and Verb,Seri,,,Marlett 1981
+13,83A,OV,Order of Object and Verb,Seri,,,Marlett 1981
+14,84A,XOV,"Order of Object, Oblique, and Verb",Seri,,,Marlett 1981
+15,85A,Postpositions,Order of Adposition and Noun Phrase,Seri,,,Marlett 1981
+16,86A,Genitive-Noun,Order of Genitive and Noun,Seri,,,Marlett 1981
+17,87A,Only internally-headed relative clauses,Order of Adjective and Noun,Seri,,,Marlett 1981
+18,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Seri,,,Marlett 1981
+19,89A,Noun-Numeral,Order of Numeral and Noun,Seri,,,Marlett 1981
+20,90A,Internally headed,Order of Relative Clause and Noun,Seri,,,Marlett 1981
+21,90D,Internally-headed relative clause dominant,Internally-headed relative clauses,Seri,,,
+22,92A,Final,Position of Polar Question Particles,Seri,,,Marlett 1981
+23,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Seri,,,Marlett 1981
+24,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Seri,,,Marlett 1981
+25,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Seri,,,
+26,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Seri,,,
+27,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Seri,,,
+28,101A,Subject affixes on verb,Expression of Pronominal Subjects,Seri,,,Marlett 1981
+29,112A,Negative affix,Negative Morphemes,Seri,,,Marlett 1981
+30,116A,Question particle,Polar Questions,Seri,,,Marlett 1981
+31,124A,Subject is left implicit,'Want' Complement Subjects,Seri,,,Marlett 1984
+32,129A,Identical,Hand and Arm,Seri,,,Moser and Moser 1961
+33,130A,Identical,Finger and Hand,Seri,,,Moser and Moser 1961
+34,130B,Hunter-gatherers,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',Seri,,,
+35,132A,5,Number of Non-Derived Basic Colour Categories,Seri,,,
+36,133A,6-6.5,Number of Basic Colour Categories,Seri,,,
+37,134A,Green/blue,Green and Blue,Seri,,,
+38,135A,Red vs. yellow,Red and Yellow,Seri,,,
+39,143A,[Neg-V],Order of Negative Morpheme and Verb,Seri,,,Marlett 1981
+40,143E,[Neg-V],Preverbal Negative Morphemes,Seri,,,Marlett 1981
+41,143F,None,Postverbal Negative Morphemes,Seri,,,Marlett 1981
+42,143G,None,Minor morphological means of signaling negation,Seri,,,Marlett 1981
+43,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Seri,,,Marlett 1981
+44,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Seri,,,Marlett 1981
+45,144P,No NegSOV,NegSOV Order,Seri,,,Marlett 1981
+46,144Q,No SNegOV,SNegOV Order,Seri,,,Marlett 1981
+47,144R,Prefix&NoDoubleNeg,SONegV Order,Seri,,,Marlett 1981
+48,144S,NoSOVNeg,SOVNeg Order,Seri,,,Marlett 1981

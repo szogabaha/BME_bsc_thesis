@@ -1,0 +1,31 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural suffix,Coding of Nominal Plurality,Sougb,,,Reesink 2002
+1,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Sougb,,,Reesink 2002
+2,81A,SVO,"Order of Subject, Object and Verb",Sougb,,,Reesink 2002
+3,82A,SV,Order of Subject and Verb,Sougb,,,Reesink 2002
+4,83A,VO,Order of Object and Verb,Sougb,,,Reesink 2002
+5,85A,Prepositions,Order of Adposition and Noun Phrase,Sougb,,,Reesink 2002
+6,86A,Genitive-Noun,Order of Genitive and Noun,Sougb,,,Reesink 2002
+7,87A,Noun-Adjective,Order of Adjective and Noun,Sougb,,,Reesink 2002
+8,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sougb,,,Reesink 2002
+9,89A,Noun-Numeral,Order of Numeral and Noun,Sougb,,,Reesink 2002
+10,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sougb,,,Reesink 2002
+11,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sougb,,,Reesink 2002
+12,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sougb,,,Reesink 2002
+13,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sougb,,,
+14,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sougb,,,
+15,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sougb,,,
+16,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sougb,,,Reesink 2002
+17,112A,Negative particle,Negative Morphemes,Sougb,,,Reesink 2002
+18,116A,Question particle,Polar Questions,Sougb,,,Reesink 2002
+19,143A,VNeg,Order of Negative Morpheme and Verb,Sougb,,,Reesink 2002
+20,143E,None,Preverbal Negative Morphemes,Sougb,,,Reesink 2002
+21,143F,VNeg,Postverbal Negative Morphemes,Sougb,,,Reesink 2002
+22,143G,None,Minor morphological means of signaling negation,Sougb,,,Reesink 2002
+23,144A,SVONeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sougb,,,Reesink 2002
+24,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sougb,,,Reesink 2002
+25,144D,SVONeg,The Position of Negative Morphemes in SVO Languages,Sougb,,,Reesink 2002
+26,144H,No NegSVO,NegSVO Order,Sougb,,,Reesink 2002
+27,144I,No SNegVO,SNegVO Order,Sougb,,,Reesink 2002
+28,144J,No SVNegO,SVNegO Order,Sougb,,,Reesink 2002
+29,144K,NoDoubleNeg,SVONeg Order,Sougb,,,Reesink 2002

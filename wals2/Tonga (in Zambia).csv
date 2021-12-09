@@ -1,0 +1,31 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tonga (in Zambia),,,Collins 1962
+1,33A,Plural prefix,Coding of Nominal Plurality,Tonga (in Zambia),,,Collins 1962
+2,51A,Case prefixes,Position of Case Affixes,Tonga (in Zambia),,,Collins 1962
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tonga (in Zambia),,,Collins 1962
+4,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tonga (in Zambia),,,Collins 1962
+5,81A,SVO,"Order of Subject, Object and Verb",Tonga (in Zambia),,,Collins 1962
+6,82A,SV,Order of Subject and Verb,Tonga (in Zambia),,,Collins 1962
+7,83A,VO,Order of Object and Verb,Tonga (in Zambia),,,Collins 1962
+8,86A,Noun-Genitive,Order of Genitive and Noun,Tonga (in Zambia),,,Collins 1962
+9,87A,Noun-Adjective,Order of Adjective and Noun,Tonga (in Zambia),,,Collins 1962
+10,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tonga (in Zambia),,,Collins 1962
+11,89A,Noun-Numeral,Order of Numeral and Noun,Tonga (in Zambia),,,Collins 1962
+12,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tonga (in Zambia),,,Collins 1962
+13,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tonga (in Zambia),,,Collins 1962
+14,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tonga (in Zambia),,,Collins 1962
+15,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tonga (in Zambia),,,
+16,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tonga (in Zambia),,,
+17,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tonga (in Zambia),,,Collins 1962
+18,112A,Negative affix,Negative Morphemes,Tonga (in Zambia),,,Collins 1962
+19,116A,Question particle,Polar Questions,Tonga (in Zambia),,,Collins 1962
+20,143A,[Neg-V],Order of Negative Morpheme and Verb,Tonga (in Zambia),,,Collins 1962
+21,143E,[Neg-V],Preverbal Negative Morphemes,Tonga (in Zambia),,,Collins 1962
+22,143F,None,Postverbal Negative Morphemes,Tonga (in Zambia),,,Collins 1962
+23,143G,None,Minor morphological means of signaling negation,Tonga (in Zambia),,,Collins 1962
+24,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tonga (in Zambia),,,Collins 1962
+25,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Tonga (in Zambia),,,Collins 1962
+26,144H,No NegSVO,NegSVO Order,Tonga (in Zambia),,,Collins 1962
+27,144I,Prefix&NoDoubleNeg,SNegVO Order,Tonga (in Zambia),,,Collins 1962
+28,144J,No SVNegO,SVNegO Order,Tonga (in Zambia),,,Collins 1962
+29,144K,No SVONeg,SVONeg Order,Tonga (in Zambia),,,Collins 1962

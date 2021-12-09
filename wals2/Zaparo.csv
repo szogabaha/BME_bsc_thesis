@@ -1,0 +1,24 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Zaparo,,,Peeke 1962
+1,33A,Plural suffix,Coding of Nominal Plurality,Zaparo,,,Peeke 1962
+2,51A,Case suffixes,Position of Case Affixes,Zaparo,,,Peeke 1962
+3,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Zaparo,,,Peeke 1962
+4,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Zaparo,,,Peeke 1962
+5,81A,SVO,"Order of Subject, Object and Verb",Zaparo,,,Peeke 1962
+6,82A,SV,Order of Subject and Verb,Zaparo,,,Peeke 1962
+7,83A,VO,Order of Object and Verb,Zaparo,,,Peeke 1962
+8,86A,Genitive-Noun,Order of Genitive and Noun,Zaparo,,,Peeke 1962
+9,112A,Double negation,Negative Morphemes,Zaparo,,,Peeke 1962
+10,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Zaparo,,,Peeke 1962
+11,143B,Neg[V-Neg],Obligatory Double Negation,Zaparo,,,Peeke 1962
+12,143E,NegV,Preverbal Negative Morphemes,Zaparo,,,Peeke 1962
+13,143F,[V-Neg],Postverbal Negative Morphemes,Zaparo,,,Peeke 1962
+14,143G,None,Minor morphological means of signaling negation,Zaparo,,,Peeke 1962
+15,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Zaparo,,,Peeke 1962
+16,144B,"Beginning, not immed preverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Zaparo,,,Peeke 1962
+17,144D,ObligNeg,The Position of Negative Morphemes in SVO Languages,Zaparo,,,Peeke 1962
+18,144F,NegS[V-Neg]O,Obligatory Double Negation in SVO languages,Zaparo,,,Peeke 1962
+19,144H,OnlyWithAnotherNeg,NegSVO Order,Zaparo,,,Peeke 1962
+20,144I,No SNegVO,SNegVO Order,Zaparo,,,Peeke 1962
+21,144J,Suffix&OnlyWithAnotherNeg,SVNegO Order,Zaparo,,,Peeke 1962
+22,144K,No SVONeg,SVONeg Order,Zaparo,,,Peeke 1962

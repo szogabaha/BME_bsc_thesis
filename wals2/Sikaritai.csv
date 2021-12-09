@@ -1,0 +1,11 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Sikaritai,,,Martin 1991b
+1,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Sikaritai,,,Martin 1991b
+2,16A,Prominence,Weight Factors in Weight-Sensitive Stress Systems,Sikaritai,,,Martin 1991b
+3,17A,No rhythmic stress,Rhythm Types,Sikaritai,,,Martin 1991b
+4,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Sikaritai,,,Martin 1986
+5,82A,SV,Order of Subject and Verb,Sikaritai,,,Martin 1986
+6,83A,OV,Order of Object and Verb,Sikaritai,,,Martin 1986
+7,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sikaritai,,,Martin 1986
+8,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sikaritai,,,Martin 1986
+9,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sikaritai,,,

@@ -1,0 +1,82 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tzutujil,,,Dayley 1985
+1,33A,Plural word,Coding of Nominal Plurality,Tzutujil,,,Dayley 1985
+2,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Tzutujil,,,Dayley 1985
+3,37A,Definite word distinct from demonstrative,Definite Articles,Tzutujil,,,Dayley 1985
+4,38A,Indefinite word distinct from 'one',Indefinite Articles,Tzutujil,,,Dayley 1985
+5,41A,Three-way contrast,Distance Contrasts in Demonstratives,Tzutujil,,,Dayley 1985
+6,42A,Identical,Pronominal and Adnominal Demonstratives,Tzutujil,,,Dayley 1985
+7,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Tzutujil,,,Dayley 1985
+8,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tzutujil,,,Dayley 1985
+9,48A,Pronouns and nouns,Person Marking on Adpositions,Tzutujil,,,Dayley 1985
+10,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tzutujil,,,Dayley 1985
+11,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tzutujil,,,Dayley 1985
+12,58A,Exists,Obligatory Possessive Inflection,Tzutujil,,,Dayley 1985
+13,59A,Three to five classes,Possessive Classification,Tzutujil,,,Dayley 1985
+14,63A,'And' identical to 'with',Noun Phrase Conjunction,Tzutujil,,,Dayley 1981
+15,64A,Identity,Nominal and Verbal Conjunction,Tzutujil,,,Dayley 1985
+16,69A,Mixed type,Position of Tense-Aspect Affixes,Tzutujil,,,Dayley 1985
+17,70A,Second singular and second plural,The Morphological Imperative,Tzutujil,,,Dayley 1985
+18,72A,Maximal system,Imperative-Hortative Systems,Tzutujil,,,Dayley 1985
+19,73A,Inflectional optative absent,The Optative,Tzutujil,,,Dayley 1985
+20,77A,Indirect only,Semantic Distinctions of Evidentiality,Tzutujil,,,Dayley 1985
+21,78A,Separate particle,Coding of Evidentiality,Tzutujil,,,Dayley 1985
+22,81A,No dominant order,"Order of Subject, Object and Verb",Tzutujil,,,Dayley 1985
+23,81B,SVO or VOS,"Languages with two Dominant Orders of Subject, Object, and Verb",Tzutujil,,,Dayley 1985
+24,82A,No dominant order,Order of Subject and Verb,Tzutujil,,,Dayley 1985
+25,83A,VO,Order of Object and Verb,Tzutujil,,,Dayley 1985
+26,84A,VOX,"Order of Object, Oblique, and Verb",Tzutujil,,,Dayley 1985
+27,85A,Prepositions,Order of Adposition and Noun Phrase,Tzutujil,,,Dayley 1985
+28,86A,Noun-Genitive,Order of Genitive and Noun,Tzutujil,,,Dayley 1985
+29,87A,No dominant order,Order of Adjective and Noun,Tzutujil,,,Dayley 1985
+30,88A,Mixed,Order of Demonstrative and Noun,Tzutujil,,,Dayley 1985
+31,89A,Numeral-Noun,Order of Numeral and Noun,Tzutujil,,,Dayley 1985
+32,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tzutujil,,,Dayley 1985
+33,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tzutujil,,,Dayley 1985
+34,91A,No dominant order,Order of Degree Word and Adjective,Tzutujil,,,Dayley 1985
+35,92A,Initial,Position of Polar Question Particles,Tzutujil,,,Dayley 1985
+36,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tzutujil,,,Dayley 1985
+37,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tzutujil,,,Dayley 1985
+38,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tzutujil,,,
+39,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tzutujil,,,
+40,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tzutujil,,,
+41,100A,Ergative,Alignment of Verbal Person Marking,Tzutujil,,,Dayley 1985
+42,102A,Both the A and P arguments,Verbal Person Marking,Tzutujil,,,Dayley 1985
+43,103A,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Tzutujil,,,Dayley 1985
+44,104A,P precedes A,Order of Person Markers on the Verb,Tzutujil,,,Dayley 1985
+45,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Tzutujil,,,Dayley 1985
+46,107A,Present,Passive Constructions,Tzutujil,,,Dayley 1985
+47,108A,Oblique patient,Antipassive Constructions,Tzutujil,,,Dayley 1985
+48,108B,productive,Productivity of the Antipassive Construction,Tzutujil,,,Dayley 1985
+49,112A,Negative particle,Negative Morphemes,Tzutujil,,,Dayley 1985
+50,115A,No predicate negation,Negative Indefinite Pronouns and Predicate Negation,Tzutujil,,,Dayley 1985
+51,116A,Question particle,Polar Questions,Tzutujil,,,Dayley 1985
+52,117A,Topic,Predicative Possession,Tzutujil,,,Dayley 1981
+53,118A,Verbal encoding,Predicative Adjectives,Tzutujil,,,Dayley 1981
+54,119A,Different,Nominal and Locational Predication,Tzutujil,,,Dayley 1981
+55,120A,Impossible,Zero Copula for Predicate Nominals,Tzutujil,,,Dayley 1981
+56,124A,Subject is expressed overtly,'Want' Complement Subjects,Tzutujil,,,Dayley 1985
+57,125A,Deranked,Purpose Clauses,Tzutujil,,,Dayley 1985
+58,126A,Balanced,'When' Clauses,Tzutujil,,,Dayley 1985
+59,127A,Balanced,Reason Clauses,Tzutujil,,,Dayley 1985
+60,128A,Balanced,Utterance Complement Clauses,Tzutujil,,,Dayley 1985
+61,136A,No M-T pronouns,M-T Pronouns,Tzutujil,,,Dayley 1985
+62,136B,No m in first person singular,M in First Person Singular,Tzutujil,,,Dayley 1985
+63,137A,No N-M pronouns,N-M Pronouns,Tzutujil,,,Dayley 1985
+64,137B,No m in second person singular,M in Second Person Singular,Tzutujil,,,Dayley 1985
+65,143A,NegV,Order of Negative Morpheme and Verb,Tzutujil,,,Dayley 1985
+66,143E,NegV,Preverbal Negative Morphemes,Tzutujil,,,Dayley 1985
+67,143F,None,Postverbal Negative Morphemes,Tzutujil,,,Dayley 1985
+68,143G,None,Minor morphological means of signaling negation,Tzutujil,,,Dayley 1985
+69,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Tzutujil,,,Dayley 1985
+70,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tzutujil,,,Dayley 1985
+71,144D,More than one construction,The Position of Negative Morphemes in SVO Languages,Tzutujil,,,Dayley 1985
+72,144E,SNegVO/NegVOS,Multiple Negative Constructions in SVO Languages,Tzutujil,,,Dayley 1985
+73,144H,No NegSVO,NegSVO Order,Tzutujil,,,Dayley 1985
+74,144I,Word&NoDoubleNeg,SNegVO Order,Tzutujil,,,Dayley 1985
+75,144J,No SVNegO,SVNegO Order,Tzutujil,,,Dayley 1985
+76,144K,No SVONeg,SVONeg Order,Tzutujil,,,Dayley 1985
+77,144T,NegVOS/SNegVO,The Position of Negative Morphemes in Verb-Initial Languages,Tzutujil,,,Dayley 1985
+78,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tzutujil,,,Dayley 1985
+79,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tzutujil,,,Dayley 1985
+80,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tzutujil,,,Dayley 1985

@@ -1,0 +1,58 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Tahitian,,,Tryon 1976
+1,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Tahitian,,,Tryon 1976
+2,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Tahitian,,,Tryon 1976
+3,17A,No rhythmic stress,Rhythm Types,Tahitian,,,Tryon 1976
+4,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Tahitian,,,Tryon 1970a
+5,33A,Plural word,Coding of Nominal Plurality,Tahitian,,,Tryon 1970a
+6,38A,Indefinite word same as 'one',Indefinite Articles,Tahitian,,,Tryon 1970a
+7,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tahitian,,,Tryon 1970a
+8,52A,Differentiation,Comitatives and Instrumentals,Tahitian,,,Paia and Vernaudon 1999
+9,53A,"First, two-th, three-th",Ordinal Numerals,Tahitian,,,Paia and Vernaudon 1999
+10,63A,'And' identical to 'with',Noun Phrase Conjunction,Tahitian,,,Tryon 1970a
+11,65A,Grammatical marking,Perfective/Imperfective Aspect,Tahitian,,,Bybee et al. 1994
+12,66A,"Present, no remoteness distinctions",The Past Tense,Tahitian,,,Bybee et al. 1994
+13,67A,No inflectional future,The Future Tense,Tahitian,,,Bybee et al. 1994
+14,68A,Other perfect,The Perfect,Tahitian,,,Bybee et al. 1994
+15,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Tahitian,,,Tryon 1970a
+16,70A,Second person number-neutral,The Morphological Imperative,Tahitian,,,Lazard and Peltzer 1999
+17,71A,Special imperative + special negative,The Prohibitive,Tahitian,,,Lazard and Peltzer 1999
+18,81A,VSO,"Order of Subject, Object and Verb",Tahitian,,,Tryon 1970a
+19,82A,VS,Order of Subject and Verb,Tahitian,,,Tryon 1970a
+20,83A,VO,Order of Object and Verb,Tahitian,,,Tryon 1970a
+21,85A,Prepositions,Order of Adposition and Noun Phrase,Tahitian,,,Tryon 1970a
+22,86A,No dominant order,Order of Genitive and Noun,Tahitian,,,Tryon 1970a
+23,87A,Noun-Adjective,Order of Adjective and Noun,Tahitian,,,Tryon 1970a
+24,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tahitian,,,Tryon 1970a
+25,89A,No dominant order,Order of Numeral and Noun,Tahitian,,,Tryon 1970a
+26,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tahitian,,,Tryon 1970a
+27,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tahitian,,,Tryon 1970a
+28,91A,Adjective-Degree word,Order of Degree Word and Adjective,Tahitian,,,Tryon 1970a
+29,92A,Second position,Position of Polar Question Particles,Tahitian,,,Tryon 1970a
+30,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tahitian,,,Tryon 1970a
+31,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tahitian,,,Tryon 1970a
+32,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tahitian,,,
+33,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tahitian,,,
+34,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tahitian,,,
+35,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tahitian,,,Tryon 1970a
+36,112A,Negative particle,Negative Morphemes,Tahitian,,,Tryon 1970a
+37,115A,Negative existential construction,Negative Indefinite Pronouns and Predicate Negation,Tahitian,,,Lazard and Peltzer 1999
+38,116A,Question particle,Polar Questions,Tahitian,,,Tryon 1970a
+39,117A,Genitive,Predicative Possession,Tahitian,,,Tryon 1970a
+40,118A,Mixed,Predicative Adjectives,Tahitian,,,Tryon 1970a
+41,119A,Different,Nominal and Locational Predication,Tahitian,,,Tryon 1970a
+42,120A,Possible,Zero Copula for Predicate Nominals,Tahitian,,,Tryon 1970a
+43,129A,Identical,Hand and Arm,Tahitian,,,Davies 1851
+44,130A,Identical,Finger and Hand,Tahitian,,,Davies 1851
+45,130B,Full-fledged farmers,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',Tahitian,,,
+46,138A,Words derived from Min Nan Chinese te,Tea,Tahitian,,,Malherbe and Rosenberg 1996
+47,143A,NegV,Order of Negative Morpheme and Verb,Tahitian,,,Tryon 1970a
+48,143E,NegV,Preverbal Negative Morphemes,Tahitian,,,Tryon 1970a
+49,143F,None,Postverbal Negative Morphemes,Tahitian,,,Tryon 1970a
+50,143G,None,Minor morphological means of signaling negation,Tahitian,,,Tryon 1970a
+51,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Tahitian,,,Tryon 1970a
+52,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tahitian,,,Tryon 1970a
+53,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Tahitian,,,Tryon 1970a
+54,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tahitian,,,Tryon 1970a
+55,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tahitian,,,Tryon 1970a
+56,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tahitian,,,Tryon 1970a

@@ -1,0 +1,20 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Yawa,,,Jones 1986b
+1,2A,Average (5-6),Vowel Quality Inventories,Yawa,,,Jones 1986b
+2,3A,Average,Consonant-Vowel Ratio,Yawa,,,Jones 1986b
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Yawa,,,Jones 1986b
+4,5A,Missing /g/,Voicing and Gaps in Plosive Systems,Yawa,,,Jones 1986b
+5,6A,None,Uvular Consonants,Yawa,,,Jones 1986b
+6,7A,No glottalized consonants,Glottalized Consonants,Yawa,,,Jones 1986b
+7,8A,No laterals,Lateral Consonants,Yawa,,,Jones 1986b
+8,11A,None,Front Rounded Vowels,Yawa,,,Jones 1986b
+9,12A,Moderately complex,Syllable Structure,Yawa,,,Jones 1986b
+10,13A,No tones,Tone,Yawa,,,Jones 1986b
+11,18A,All present,Absence of Common Consonants,Yawa,,,Jones 1986b
+12,19A,None,Presence of Uncommon Consonants,Yawa,,,Jones 1986b
+13,44A,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Yawa,,,Jones 1986a
+14,48A,Pronouns only,Person Marking on Adpositions,Yawa,,,Jones 1986a
+15,100A,Split,Alignment of Verbal Person Marking,Yawa,,,Jones 1986a
+16,102A,Only the P argument,Verbal Person Marking,Yawa,,,Jones 1986a
+17,103A,Zero in some 3sg forms,Third Person Zero of Verbal Person Marking,Yawa,,,Jones 1986a
+18,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Yawa,,,Jones 1986a

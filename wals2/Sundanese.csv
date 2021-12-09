@@ -1,0 +1,60 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Sundanese,,,Clynes 1995a
+1,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Sundanese,,,Clynes 1995a
+2,16A,Prominence,Weight Factors in Weight-Sensitive Stress Systems,Sundanese,,,Clynes 1995a
+3,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Sundanese,,,Hardjadibrata 1985
+4,27A,Productive full and partial reduplication,Reduplication,Sundanese,,,Robins 1959
+5,33A,Plural complete reduplication,Coding of Nominal Plurality,Sundanese,,,Hardjadibrata 1985
+6,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Sundanese,,,Müller-Gotama 2001
+7,38A,"No indefinite, but definite article",Indefinite Articles,Sundanese,,,Hardjadibrata 1985
+8,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Sundanese,,,Hardjadibrata 1985
+9,48A,No person marking,Person Marking on Adpositions,Sundanese,,,Hardjadibrata 1985
+10,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sundanese,,,Hardjadibrata 1985
+11,64A,Identity,Nominal and Verbal Conjunction,Sundanese,,,Müller-Gotama 2001
+12,65A,No grammatical marking,Perfective/Imperfective Aspect,Sundanese,,,Dahl 1985
+13,66A,No past tense,The Past Tense,Sundanese,,,Dahl 1985
+14,67A,No inflectional future,The Future Tense,Sundanese,,,Dahl 1985
+15,68A,"From 'finish', 'already'",The Perfect,Sundanese,,,Dahl 1985
+16,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Sundanese,,,Hardjadibrata 1985
+17,81A,SVO,"Order of Subject, Object and Verb",Sundanese,,,Hardjadibrata 1985
+18,82A,SV,Order of Subject and Verb,Sundanese,,,Hardjadibrata 1985
+19,83A,VO,Order of Object and Verb,Sundanese,,,Hardjadibrata 1985
+20,85A,Prepositions,Order of Adposition and Noun Phrase,Sundanese,,,Hardjadibrata 1985
+21,86A,Noun-Genitive,Order of Genitive and Noun,Sundanese,,,Hardjadibrata 1985
+22,87A,Noun-Adjective,Order of Adjective and Noun,Sundanese,,,Hardjadibrata 1985
+23,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sundanese,,,Hardjadibrata 1985
+24,89A,Numeral-Noun,Order of Numeral and Noun,Sundanese,,,Hardjadibrata 1985
+25,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sundanese,,,Hardjadibrata 1985
+26,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sundanese,,,Hardjadibrata 1985
+27,91A,No dominant order,Order of Degree Word and Adjective,Sundanese,,,Hardjadibrata 1985
+28,92A,Initial,Position of Polar Question Particles,Sundanese,,,Hardjadibrata 1985
+29,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sundanese,,,Hardjadibrata 1985
+30,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Sundanese,,,Hardjadibrata 1985
+31,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sundanese,,,
+32,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sundanese,,,
+33,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sundanese,,,
+34,100A,Neutral,Alignment of Verbal Person Marking,Sundanese,,,Hardjadibrata 1985
+35,102A,No person marking,Verbal Person Marking,Sundanese,,,Hardjadibrata 1985
+36,103A,No person marking,Third Person Zero of Verbal Person Marking,Sundanese,,,Hardjadibrata 1985
+37,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Sundanese,,,Hardjadibrata 1985
+38,105A,Mixed,Ditransitive Constructions: The Verb 'Give',Sundanese,,,Müller-Gotama 2001
+39,107A,Present,Passive Constructions,Sundanese,,,Hardjadibrata 1985
+40,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Sundanese,,,Hardjadibrata 1985
+41,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Sundanese,,,Hardjadibrata 1985
+42,116A,Question particle,Polar Questions,Sundanese,,,Hardjadibrata 1985
+43,118A,Verbal encoding,Predicative Adjectives,Sundanese,,,Hardjadibrata 1985
+44,119A,Different,Nominal and Locational Predication,Sundanese,,,Hardjadibrata 1985
+45,120A,Possible,Zero Copula for Predicate Nominals,Sundanese,,,Hardjadibrata 1985
+46,124A,Subject is left implicit,'Want' Complement Subjects,Sundanese,,,Müller-Gotama 2001
+47,138A,Words derived from Min Nan Chinese te,Tea,Sundanese,,,Sugiarto 1993
+48,143A,NegV,Order of Negative Morpheme and Verb,Sundanese,,,Hardjadibrata 1985
+49,143E,NegV,Preverbal Negative Morphemes,Sundanese,,,Hardjadibrata 1985
+50,143F,None,Postverbal Negative Morphemes,Sundanese,,,Hardjadibrata 1985
+51,143G,None,Minor morphological means of signaling negation,Sundanese,,,Hardjadibrata 1985
+52,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Sundanese,,,Hardjadibrata 1985
+53,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sundanese,,,Hardjadibrata 1985
+54,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Sundanese,,,Hardjadibrata 1985
+55,144H,No NegSVO,NegSVO Order,Sundanese,,,Hardjadibrata 1985
+56,144I,Word&NoDoubleNeg,SNegVO Order,Sundanese,,,Hardjadibrata 1985
+57,144J,No SVNegO,SVNegO Order,Sundanese,,,Hardjadibrata 1985
+58,144K,No SVONeg,SVONeg Order,Sundanese,,,Hardjadibrata 1985

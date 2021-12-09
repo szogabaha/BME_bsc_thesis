@@ -1,0 +1,51 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Yareba,,,Weimer and Weimer 1972
+1,2A,Average (5-6),Vowel Quality Inventories,Yareba,,,Weimer and Weimer 1972
+2,3A,Moderately low,Consonant-Vowel Ratio,Yareba,,,Weimer and Weimer 1972
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Yareba,,,Weimer and Weimer 1972
+4,5A,Missing /p/,Voicing and Gaps in Plosive Systems,Yareba,,,Weimer and Weimer 1972
+5,6A,None,Uvular Consonants,Yareba,,,Weimer and Weimer 1972
+6,7A,No glottalized consonants,Glottalized Consonants,Yareba,,,Weimer and Weimer 1972
+7,8A,No laterals,Lateral Consonants,Yareba,,,Weimer and Weimer 1972
+8,11A,None,Front Rounded Vowels,Yareba,,,Weimer and Weimer 1972
+9,12A,Simple,Syllable Structure,Yareba,,,Weimer and Weimer 1972
+10,13A,No tones,Tone,Yareba,,,Weimer and Weimer 1972
+11,18A,All present,Absence of Common Consonants,Yareba,,,Weimer and Weimer 1972
+12,19A,None,Presence of Uncommon Consonants,Yareba,,,Weimer and Weimer 1972
+13,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yareba,,,Weimer and Weimer 1975
+14,33A,Plural suffix,Coding of Nominal Plurality,Yareba,,,Weimer and Weimer 1975
+15,51A,Case suffixes,Position of Case Affixes,Yareba,,,Weimer and Weimer 1975
+16,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Yareba,,,Weimer and Weimer 1975
+17,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yareba,,,Weimer and Weimer 1975
+18,81A,SOV,"Order of Subject, Object and Verb",Yareba,,,Weimer and Weimer 1975
+19,82A,SV,Order of Subject and Verb,Yareba,,,Weimer and Weimer 1975
+20,83A,OV,Order of Object and Verb,Yareba,,,Weimer and Weimer 1975
+21,85A,Postpositions,Order of Adposition and Noun Phrase,Yareba,,,Weimer and Weimer 1975
+22,86A,Genitive-Noun,Order of Genitive and Noun,Yareba,,,Weimer and Weimer 1975
+23,87A,Adjective-Noun,Order of Adjective and Noun,Yareba,,,Weimer and Weimer 1975
+24,89A,Noun-Numeral,Order of Numeral and Noun,Yareba,,,Weimer and Weimer 1975
+25,90A,Relative clause-Noun,Order of Relative Clause and Noun,Yareba,,,Weimer and Weimer 1975
+26,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Yareba,,,Weimer and Weimer 1975
+27,91A,Adjective-Degree word,Order of Degree Word and Adjective,Yareba,,,Weimer and Weimer 1975
+28,92A,Final,Position of Polar Question Particles,Yareba,,,Weimer and Weimer 1975
+29,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yareba,,,Weimer and Weimer 1975
+30,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yareba,,,
+31,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yareba,,,
+32,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yareba,,,
+33,101A,Subject affixes on verb,Expression of Pronominal Subjects,Yareba,,,Weimer and Weimer 1975
+34,112A,Negative affix,Negative Morphemes,Yareba,,,Weimer and Weimer 1975
+35,113A,Both,Symmetric and Asymmetric Standard Negation,Yareba,,,Weimer 1972
+36,114A,A/Fin,Subtypes of Asymmetric Standard Negation,Yareba,,,Weimer 1972
+37,116A,Question particle,Polar Questions,Yareba,,,Weimer and Weimer 1975
+38,129A,Identical,Hand and Arm,Yareba,,,Weimer and Weimer 1974
+39,130A,Different,Finger and Hand,Yareba,,,Weimer and Weimer 1974
+40,143A,[V-Neg],Order of Negative Morpheme and Verb,Yareba,,,Weimer and Weimer 1975
+41,143E,None,Preverbal Negative Morphemes,Yareba,,,Weimer and Weimer 1975
+42,143F,[V-Neg],Postverbal Negative Morphemes,Yareba,,,Weimer and Weimer 1975
+43,143G,None,Minor morphological means of signaling negation,Yareba,,,Weimer and Weimer 1975
+44,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Yareba,,,Weimer and Weimer 1975
+45,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Yareba,,,Weimer and Weimer 1975
+46,144P,No NegSOV,NegSOV Order,Yareba,,,Weimer and Weimer 1975
+47,144Q,No SNegOV,SNegOV Order,Yareba,,,Weimer and Weimer 1975
+48,144R,No SONegV,SONegV Order,Yareba,,,Weimer and Weimer 1975
+49,144S,Suffix&NoDoubleNeg,SOVNeg Order,Yareba,,,Weimer and Weimer 1975

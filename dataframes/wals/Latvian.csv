@@ -1,0 +1,127 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-lat,Moderately large,Consonant Inventories,Latvian,,,Mathiassen 1997
+2A-lat,Average (5-6),Vowel Quality Inventories,Latvian,,,Mathiassen 1997
+3A-lat,Average,Consonant-Vowel Ratio,Latvian,,,Mathiassen 1997
+4A-lat,In both plosives and fricatives,Voicing in Plosives and Fricatives,Latvian,,,Mathiassen 1997
+5A-lat,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Latvian,,,Mathiassen 1997
+6A-lat,None,Uvular Consonants,Latvian,,,Mathiassen 1997
+7A-lat,No glottalized consonants,Glottalized Consonants,Latvian,,,Mathiassen 1997
+8A-lat,"/l/, no obstruent laterals",Lateral Consonants,Latvian,,,Mathiassen 1997
+9A-lat,No velar nasal,The Velar Nasal,Latvian,,,Nau 1998
+10A-lat,Contrast absent,Vowel Nasalization,Latvian,,,Nau 1998
+11A-lat,None,Front Rounded Vowels,Latvian,,,Mathiassen 1997
+12A-lat,Complex,Syllable Structure,Latvian,,,Mathiassen 1997
+13A-lat,Simple tone system,Tone,Latvian,,,Mathiassen 1997
+14A-lat,Initial,Fixed Stress Locations,Latvian,,,Markus 1991;Ekblom 1933;Fennell and Gelsen 1980;Markus 1987
+15A-lat,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Latvian,,,Fennell and Gelsen 1980;Ekblom 1933;Markus 1991;Markus 1987
+16A-lat,No weight,Weight Factors in Weight-Sensitive Stress Systems,Latvian,,,Fennell and Gelsen 1980;Markus 1991;Ekblom 1933;Markus 1987
+17A-lat,No rhythmic stress,Rhythm Types,Latvian,,,Markus 1991;Markus 1987;Fennell and Gelsen 1980;Ekblom 1933
+18A-lat,All present,Absence of Common Consonants,Latvian,,,Mathiassen 1997
+19A-lat,None,Presence of Uncommon Consonants,Latvian,,,Mathiassen 1997
+26A-lat,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Latvian,,,Mathiassen 1997;Lazdina 1966;Bielenstein 1863
+28A-lat,Core and non-core,Case Syncretism,Latvian,,,Mathiassen 1997
+29A-lat,Syncretic,Syncretism in Verbal Person/Number Marking,Latvian,,,Mathiassen 1997
+30A-lat,Two,Number of Genders,Latvian,,,Mathiassen 1997
+31A-lat,Sex-based,Sex-based and Non-sex-based Gender Systems,Latvian,,,Mathiassen 1997
+32A-lat,Semantic and formal,Systems of Gender Assignment,Latvian,,,Mathiassen 1997
+33A-lat,Plural suffix,Coding of Nominal Plurality,Latvian,,,Lazdina 1966
+34A-lat,"All nouns, always obligatory",Occurrence of Nominal Plurality,Latvian,,,Mathiassen 1997
+35A-lat,Person-number stem,Plurality in Independent Personal Pronouns,Latvian,,,Grabis 1965
+37A-lat,Demonstrative word used as definite article,Definite Articles,Latvian,,,Bielenstein 1863
+38A-lat,Indefinite word same as 'one',Indefinite Articles,Latvian,,,Bielenstein 1863
+39A-lat,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Latvian,,,Nau 1998
+40A-lat,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Latvian,,,Nau 1998
+41A-lat,Two-way contrast,Distance Contrasts in Demonstratives,Latvian,,,Nau 1998
+42A-lat,Identical,Pronominal and Adnominal Demonstratives,Latvian,,,Nau 1998
+43A-lat,Related by gender markers,Third Person Pronouns and Demonstratives,Latvian,,,Nau 1998
+44A-lat,"3rd person only, but also non-singular",Gender Distinctions in Independent Personal Pronouns,Latvian,,,Nau 1998
+45A-lat,Binary politeness distinction,Politeness Distinctions in Pronouns,Latvian,,,Nau 1998
+46A-lat,Interrogative-based,Indefinite Pronouns,Latvian,,,Mathiassen 1997
+47A-lat,Differentiated,Intensifiers and Reflexive Pronouns,Latvian,,,Fennell and Gelsen 1980
+48A-lat,No person marking,Person Marking on Adpositions,Latvian,,,Nau 1998
+49A-lat,5 cases,Number of Cases,Latvian,,,Mathiassen 1997
+50A-lat,Syncretism in relevant NP-types,Asymmetrical Case-Marking,Latvian,,,Mathiassen 1997
+51A-lat,Case suffixes,Position of Case Affixes,Latvian,,,Lazdina 1966
+52A-lat,Identity,Comitatives and Instrumentals,Latvian,,,Eckert et al. 1998
+53A-lat,"First, second, three-th",Ordinal Numerals,Latvian,,,Eckert et al. 1994
+54A-lat,Marked by preceding word,Distributive Numerals,Latvian,,,Fennell and Gelsen 1980
+55A-lat,Absent,Numeral Classifiers,Latvian,,,Fennell and Gelsen 1980
+56A-lat,Formally different,Conjunctions and Universal Quantifiers,Latvian,,,Fennell and Gelsen 1980
+57A-lat,No possessive affixes,Position of Pronominal Possessive Affixes,Latvian,,,Bielenstein 1863
+62A-lat,Double-Possessive,Action Nominal Constructions,Latvian,,,
+63A-lat,'And' different from 'with',Noun Phrase Conjunction,Latvian,,,Budina Lazdina 1966
+64A-lat,Identity,Nominal and Verbal Conjunction,Latvian,,,Mathiassen 1997
+65A-lat,No grammatical marking,Perfective/Imperfective Aspect,Latvian,,,
+66A-lat,"Present, no remoteness distinctions",The Past Tense,Latvian,,,
+67A-lat,Inflectional future exists,The Future Tense,Latvian,,,
+68A-lat,Other perfect,The Perfect,Latvian,,,
+69A-lat,Mixed type,Position of Tense-Aspect Affixes,Latvian,,,Lazdina 1966
+70A-lat,Second plural,The Morphological Imperative,Latvian,,,Nau 1998
+71A-lat,Normal imperative + normal negative,The Prohibitive,Latvian,,,Nau 1998
+72A-lat,Neither type of system,Imperative-Hortative Systems,Latvian,,,Holst 2001
+73A-lat,Inflectional optative absent,The Optative,Latvian,,,Nau 1998
+74A-lat,Verbal constructions,Situational Possibility,Latvian,,,Holvoet 2001;Nau 1998
+75A-lat,Verbal constructions,Epistemic Possibility,Latvian,,,Holvoet 2001
+76A-lat,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Latvian,,,Holvoet 2001
+77A-lat,Indirect only,Semantic Distinctions of Evidentiality,Latvian,,,Mathiassen 1997
+78A-lat,Verbal affix or clitic,Coding of Evidentiality,Latvian,,,Mathiassen 1997
+79A-lat,Tense,Suppletion According to Tense and Aspect,Latvian,,,Fennell and Gelsen 1980
+79B-lat,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Latvian,,,
+80A-lat,None,Verbal Number and Suppletion,Latvian,,,Fennell and Gelsen 1980
+81A-lat,SVO,"Order of Subject, Object and Verb",Latvian,,,Bielenstein 1863
+82A-lat,No dominant order,Order of Subject and Verb,Latvian,,,Bielenstein 1863
+83A-lat,VO,Order of Object and Verb,Latvian,,,Bielenstein 1863;Lazdina 1966
+85A-lat,Prepositions,Order of Adposition and Noun Phrase,Latvian,,,Bielenstein 1863;Lazdina 1966
+86A-lat,Genitive-Noun,Order of Genitive and Noun,Latvian,,,Lazdina 1966;Bielenstein 1863
+87A-lat,Adjective-Noun,Order of Adjective and Noun,Latvian,,,Bielenstein 1863;Lazdina 1966
+88A-lat,Demonstrative-Noun,Order of Demonstrative and Noun,Latvian,,,Bielenstein 1863
+89A-lat,Numeral-Noun,Order of Numeral and Noun,Latvian,,,Lazdina 1966;Bielenstein 1863
+90A-lat,Noun-Relative clause,Order of Relative Clause and Noun,Latvian,,,Lazdina 1966;Bielenstein 1863
+90C-lat,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Latvian,,,Bielenstein 1863;Lazdina 1966
+91A-lat,Degree word-Adjective,Order of Degree Word and Adjective,Latvian,,,Bielenstein 1863
+92A-lat,Initial,Position of Polar Question Particles,Latvian,,,Lazdina 1966;Bielenstein 1863
+93A-lat,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Latvian,,,Lazdina 1966;Bielenstein 1863
+94A-lat,Initial subordinator word,Order of Adverbial Subordinator and Clause,Latvian,,,Lazdina 1966
+95A-lat,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Latvian,,,
+96A-lat,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Latvian,,,
+97A-lat,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Latvian,,,
+98A-lat,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Latvian,,,Mathiassen 1997
+99A-lat,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Latvian,,,Mathiassen 1997
+100A-lat,Accusative,Alignment of Verbal Person Marking,Latvian,,,Nau 1998
+101A-lat,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Latvian,,,Mathiassen 1997
+102A-lat,Only the A argument,Verbal Person Marking,Latvian,,,Nau 1998
+103A-lat,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Latvian,,,Nau 1998
+104A-lat,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Latvian,,,Nau 1998
+105A-lat,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Latvian,,,Mathiassen 1997
+107A-lat,Present,Passive Constructions,Latvian,,,Nau 1998
+108A-lat,No antipassive,Antipassive Constructions,Latvian,,,Mathiassen 1997
+108B-lat,no antipassive,Productivity of the Antipassive Construction,Latvian,,,Mathiassen 1997
+109A-lat,No applicative construction,Applicative Constructions,Latvian,,,Mathiassen 1997
+109B-lat,No applicative construction,Other Roles of Applied Objects,Latvian,,,
+110A-lat,Purposive but no sequential,Periphrastic Causative Constructions,Latvian,,,
+111A-lat,Morphological but no compound,Nonperiphrastic Causative Constructions,Latvian,,,
+112A-lat,Negative affix,Negative Morphemes,Latvian,,,Lazdina 1966
+113A-lat,Both,Symmetric and Asymmetric Standard Negation,Latvian,,,Fennell and Gelsen 1980;Nau 1998
+114A-lat,A/Cat,Subtypes of Asymmetric Standard Negation,Latvian,,,Fennell and Gelsen 1980;Nau 1998
+115A-lat,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Latvian,,,Mathiassen 1997;Haspelmath 1997
+116A-lat,Question particle,Polar Questions,Latvian,,,Bielenstein 1863;Lazdina 1966
+117A-lat,Locational,Predicative Possession,Latvian,,,Budina Lazdina 1966
+118A-lat,Nonverbal encoding,Predicative Adjectives,Latvian,,,Budina Lazdina 1966
+119A-lat,Identical,Nominal and Locational Predication,Latvian,,,Budina Lazdina 1966
+120A-lat,Possible,Zero Copula for Predicate Nominals,Latvian,,,Budina Lazdina 1966
+121A-lat,Particle,Comparative Constructions,Latvian,,,Endzelin 1922
+122A-lat,Relative pronoun,Relativization on Subjects,Latvian,,,Mathiassen 1997
+123A-lat,Relative pronoun,Relativization on Obliques,Latvian,,,Mathiassen 1997
+124A-lat,Subject is left implicit,'Want' Complement Subjects,Latvian,,,Mathiassen 1997
+131A-lat,Decimal,Numeral Bases,Latvian,,,Mathiassen 1997
+138A-lat,Words derived from Min Nan Chinese te,Tea,Latvian,,,Malherbe and Rosenberg 1996
+143A-lat,[Neg-V],Order of Negative Morpheme and Verb,Latvian,,,Lazdina 1966
+143E-lat,[Neg-V],Preverbal Negative Morphemes,Latvian,,,Lazdina 1966
+143F-lat,None,Postverbal Negative Morphemes,Latvian,,,Lazdina 1966
+143G-lat,None,Minor morphological means of signaling negation,Latvian,,,Lazdina 1966
+144A-lat,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Latvian,,,Lazdina 1966
+144D-lat,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Latvian,,,Lazdina 1966
+144H-lat,No NegSVO,NegSVO Order,Latvian,,,Lazdina 1966
+144I-lat,Prefix&NoDoubleNeg,SNegVO Order,Latvian,,,Lazdina 1966
+144J-lat,No SVNegO,SVNegO Order,Latvian,,,Lazdina 1966
+144K-lat,No SVONeg,SVONeg Order,Latvian,,,Lazdina 1966

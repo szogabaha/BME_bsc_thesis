@@ -1,0 +1,18 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural word,Coding of Nominal Plurality,Tungak,,,Fast 1990
+1,37A,Definite word distinct from demonstrative,Definite Articles,Tungak,,,Fast 1990
+2,38A,Indefinite word distinct from 'one',Indefinite Articles,Tungak,,,Fast 1990
+3,81A,SVO,"Order of Subject, Object and Verb",Tungak,,,Fast 1990
+4,82A,SV,Order of Subject and Verb,Tungak,,,Fast 1990
+5,83A,VO,Order of Object and Verb,Tungak,,,Fast 1990
+6,85A,Prepositions,Order of Adposition and Noun Phrase,Tungak,,,Fast 1990
+7,86A,Noun-Genitive,Order of Genitive and Noun,Tungak,,,Fast 1990
+8,87A,Noun-Adjective,Order of Adjective and Noun,Tungak,,,Fast 1990
+9,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tungak,,,Fast 1990
+10,89A,Numeral-Noun,Order of Numeral and Noun,Tungak,,,Fast 1990
+11,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tungak,,,Fast 1990
+12,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tungak,,,Fast 1990
+13,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tungak,,,
+14,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tungak,,,
+15,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tungak,,,
+16,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Tungak,,,Fast 1990

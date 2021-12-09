@@ -1,0 +1,14 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,UMbundu,,,Schadeberg 1982
+1,2A,Average (5-6),Vowel Quality Inventories,UMbundu,,,Schadeberg 1982
+2,3A,Average,Consonant-Vowel Ratio,UMbundu,,,Schadeberg 1982
+3,4A,In fricatives alone,Voicing in Plosives and Fricatives,UMbundu,,,Schadeberg 1982
+4,5A,Other,Voicing and Gaps in Plosive Systems,UMbundu,,,Schadeberg 1982
+5,6A,None,Uvular Consonants,UMbundu,,,Schadeberg 1982
+6,7A,No glottalized consonants,Glottalized Consonants,UMbundu,,,Schadeberg 1982
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,UMbundu,,,Schadeberg 1982
+8,11A,None,Front Rounded Vowels,UMbundu,,,Schadeberg 1982
+9,12A,Simple,Syllable Structure,UMbundu,,,Schadeberg 1982
+10,13A,Simple tone system,Tone,UMbundu,,,Schadeberg 1982
+11,18A,All present,Absence of Common Consonants,UMbundu,,,Schadeberg 1982
+12,19A,None,Presence of Uncommon Consonants,UMbundu,,,Schadeberg 1982

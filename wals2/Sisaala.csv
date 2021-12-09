@@ -1,0 +1,16 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,37A,Definite affix,Definite Articles,Sisaala,,,Blass 1975
+1,81A,SVO,"Order of Subject, Object and Verb",Sisaala,,,Blass 1975
+2,82A,SV,Order of Subject and Verb,Sisaala,,,Blass 1975
+3,83A,VO,Order of Object and Verb,Sisaala,,,Blass 1975
+4,143A,NegV,Order of Negative Morpheme and Verb,Sisaala,,,Blass 1975
+5,143E,NegV,Preverbal Negative Morphemes,Sisaala,,,Blass 1975
+6,143F,None,Postverbal Negative Morphemes,Sisaala,,,Blass 1975
+7,143G,None,Minor morphological means of signaling negation,Sisaala,,,Blass 1975
+8,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Sisaala,,,Blass 1975
+9,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sisaala,,,Blass 1975
+10,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Sisaala,,,Blass 1975
+11,144H,No NegSVO,NegSVO Order,Sisaala,,,Blass 1975
+12,144I,Word&NoDoubleNeg,SNegVO Order,Sisaala,,,Blass 1975
+13,144J,No SVNegO,SVNegO Order,Sisaala,,,Blass 1975
+14,144K,No SVONeg,SVONeg Order,Sisaala,,,Blass 1975

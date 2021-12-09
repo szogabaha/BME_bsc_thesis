@@ -1,0 +1,24 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Yaqay,,,Boelaars 1950
+1,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Yaqay,,,Boelaars 1950
+2,81A,SOV,"Order of Subject, Object and Verb",Yaqay,,,Boelaars 1950
+3,82A,SV,Order of Subject and Verb,Yaqay,,,Boelaars 1950
+4,83A,OV,Order of Object and Verb,Yaqay,,,Boelaars 1950
+5,85A,Postpositions,Order of Adposition and Noun Phrase,Yaqay,,,Boelaars 1950
+6,86A,Genitive-Noun,Order of Genitive and Noun,Yaqay,,,Boelaars 1950
+7,89A,Noun-Numeral,Order of Numeral and Noun,Yaqay,,,Boelaars 1950
+8,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yaqay,,,
+9,112A,Double negation,Negative Morphemes,Yaqay,,,Boelaars 1950
+10,116A,Question particle,Polar Questions,Yaqay,,,Boelaars 1950
+11,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Yaqay,,,Boelaars 1950
+12,143B,[Neg-V-Neg],Obligatory Double Negation,Yaqay,,,Boelaars 1950
+13,143E,[Neg-V],Preverbal Negative Morphemes,Yaqay,,,Boelaars 1950
+14,143F,[V-Neg],Postverbal Negative Morphemes,Yaqay,,,Boelaars 1950
+15,143G,None,Minor morphological means of signaling negation,Yaqay,,,Boelaars 1950
+16,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Yaqay,,,Boelaars 1950
+17,144L,ObligDoubleNeg,The Position of Negative Morphemes in SOV Languages,Yaqay,,,Boelaars 1950
+18,144N,SO[Neg-V-Neg],Obligatory Double Negation in SOV languages,Yaqay,,,Boelaars 1950
+19,144P,No NegSOV,NegSOV Order,Yaqay,,,Boelaars 1950
+20,144Q,No SNegOV,SNegOV Order,Yaqay,,,Boelaars 1950
+21,144R,Prefix&OnlyWithAnotherNeg,SONegV Order,Yaqay,,,Boelaars 1950
+22,144S,Suffix&OnlyWithAnotherNeg,SOVNeg Order,Yaqay,,,Boelaars 1950

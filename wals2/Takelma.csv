@@ -1,0 +1,57 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,23A,Head marking,Locus of Marking in the Clause,Takelma,,,Sapir 1922b
+1,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Takelma,,,Sapir 1922b
+2,25A,Head-marking,Locus of Marking: Whole-language Typology,Takelma,,,Sapir 1922b
+3,25B,Non-zero marking,Zero Marking of A and P Arguments,Takelma,,,Sapir 1922b
+4,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Takelma,,,Sapir 1922b
+5,33A,Plural suffix,Coding of Nominal Plurality,Takelma,,,Sapir 1922b
+6,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Takelma,,,Sapir 1922b
+7,36A,Associative same as additive plural,The Associative Plural,Takelma,,,Sapir 1922b
+8,37A,No definite or indefinite article,Definite Articles,Takelma,,,Sapir 1909
+9,38A,No definite or indefinite article,Indefinite Articles,Takelma,,,Sapir 1909
+10,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Takelma,,,Sapir 1922b
+11,46A,Interrogative-based,Indefinite Pronouns,Takelma,,,Sapir 1922b
+12,48A,Pronouns and nouns,Person Marking on Adpositions,Takelma,,,Sapir 1922b
+13,51A,Case prefixes,Position of Case Affixes,Takelma,,,Sapir 1922b
+14,52A,Mixed,Comitatives and Instrumentals,Takelma,,,Stolz 1996
+15,55A,Absent,Numeral Classifiers,Takelma,,,Nichols 1992
+16,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Takelma,,,Sapir 1922b
+17,58A,Absent,Obligatory Possessive Inflection,Takelma,,,Sapir 1922b
+18,58B,None reported,Number of Possessive Nouns,Takelma,,,Sapir 1922b
+19,59A,Two classes,Possessive Classification,Takelma,,,Sapir 1922b
+20,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Takelma,,,Sapir 1922b
+21,70A,Second singular and second plural,The Morphological Imperative,Takelma,,,Sapir 1922b
+22,77A,Indirect only,Semantic Distinctions of Evidentiality,Takelma,,,Sapir 1922b
+23,78A,Verbal affix or clitic,Coding of Evidentiality,Takelma,,,Sapir 1922b
+24,81A,SOV,"Order of Subject, Object and Verb",Takelma,,,Kendall 1977
+25,82A,SV,Order of Subject and Verb,Takelma,,,Sapir 1909
+26,83A,OV,Order of Object and Verb,Takelma,,,Sapir 1909
+27,85A,Postpositions,Order of Adposition and Noun Phrase,Takelma,,,Sapir 1922b
+28,86A,Genitive-Noun,Order of Genitive and Noun,Takelma,,,Kendall 1977
+29,87A,Noun-Adjective,Order of Adjective and Noun,Takelma,,,Sapir 1922b
+30,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Takelma,,,Sapir 1922b
+31,89A,Noun-Numeral,Order of Numeral and Noun,Takelma,,,Sapir 1922b
+32,92A,Second position,Position of Polar Question Particles,Takelma,,,Sapir 1922b
+33,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Takelma,,,
+34,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Takelma,,,
+35,100A,Accusative,Alignment of Verbal Person Marking,Takelma,,,Sapir 1922b
+36,101A,Subject affixes on verb,Expression of Pronominal Subjects,Takelma,,,Sapir 1922b
+37,102A,Both the A and P arguments,Verbal Person Marking,Takelma,,,Sapir 1922b
+38,103A,Zero in some 3sg forms,Third Person Zero of Verbal Person Marking,Takelma,,,Sapir 1922b
+39,104A,P precedes A,Order of Person Markers on the Verb,Takelma,,,Sapir 1922b
+40,107A,Present,Passive Constructions,Takelma,,,Sapir 1922b
+41,112A,Negative particle,Negative Morphemes,Takelma,,,Sapir 1922b
+42,113A,Both,Symmetric and Asymmetric Standard Negation,Takelma,,,Sapir 1922b
+43,114A,A/NonReal,Subtypes of Asymmetric Standard Negation,Takelma,,,Sapir 1922b
+44,116A,Question particle,Polar Questions,Takelma,,,Sapir 1922b
+45,136A,No M-T pronouns,M-T Pronouns,Takelma,,,Sapir 1922b
+46,136B,No m in first person singular,M in First Person Singular,Takelma,,,Sapir 1922b
+47,137A,No N-M pronouns,N-M Pronouns,Takelma,,,Sapir 1922b
+48,137B,m in second person singular,M in Second Person Singular,Takelma,,,Sapir 1922b
+49,143A,NegV,Order of Negative Morpheme and Verb,Takelma,,,Sapir 1909
+50,143E,NegV,Preverbal Negative Morphemes,Takelma,,,Sapir 1909
+51,143F,None,Postverbal Negative Morphemes,Takelma,,,Sapir 1909
+52,143G,None,Minor morphological means of signaling negation,Takelma,,,Sapir 1909
+53,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Takelma,,,Sapir 1909
+54,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Takelma,,,Sapir 1909
+55,144S,NoSOVNeg,SOVNeg Order,Takelma,,,Sapir 1909

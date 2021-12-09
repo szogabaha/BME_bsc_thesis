@@ -1,0 +1,46 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Second,Fixed Stress Locations,Siroi,,,Wells 1979
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Siroi,,,Wells 1979
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Siroi,,,Wells 1979
+3,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Siroi,,,Wells 1979
+4,27A,Productive full and partial reduplication,Reduplication,Siroi,,,Wells 1979
+5,33A,Plural word,Coding of Nominal Plurality,Siroi,,,Wells 1979
+6,37A,No definite or indefinite article,Definite Articles,Siroi,,,Wells 1979
+7,38A,No definite or indefinite article,Indefinite Articles,Siroi,,,Wells 1979
+8,51A,Postpositional clitics,Position of Case Affixes,Siroi,,,Wells 1979
+9,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Siroi,,,Wells 1979
+10,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Siroi,,,Wells 1979
+11,81A,SOV,"Order of Subject, Object and Verb",Siroi,,,Wells 1979
+12,82A,SV,Order of Subject and Verb,Siroi,,,Wells 1979
+13,83A,OV,Order of Object and Verb,Siroi,,,Wells 1979
+14,85A,Postpositions,Order of Adposition and Noun Phrase,Siroi,,,Wells 1979
+15,86A,Genitive-Noun,Order of Genitive and Noun,Siroi,,,Wells 1979
+16,87A,Noun-Adjective,Order of Adjective and Noun,Siroi,,,Wells 1979
+17,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Siroi,,,Wells 1979
+18,89A,Noun-Numeral,Order of Numeral and Noun,Siroi,,,Wells 1979
+19,90A,Noun-Relative clause,Order of Relative Clause and Noun,Siroi,,,Wells 1979
+20,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Siroi,,,Wells 1979
+21,91A,Adjective-Degree word,Order of Degree Word and Adjective,Siroi,,,Wells 1979
+22,92A,Final,Position of Polar Question Particles,Siroi,,,Wells 1979
+23,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Siroi,,,Wells 1979
+24,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Siroi,,,Wells 1979
+25,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Siroi,,,
+26,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Siroi,,,
+27,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Siroi,,,
+28,101A,Subject affixes on verb,Expression of Pronominal Subjects,Siroi,,,Wells 1979
+29,112A,Negative auxiliary verb,Negative Morphemes,Siroi,,,Wells 1979
+30,116A,Question particle,Polar Questions,Siroi,,,Wells 1979
+31,118A,Nonverbal encoding,Predicative Adjectives,Siroi,,,Wells 1979
+32,119A,Identical,Nominal and Locational Predication,Siroi,,,Wells 1979
+33,120A,Possible,Zero Copula for Predicate Nominals,Siroi,,,Wells 1979
+34,143A,VNeg,Order of Negative Morpheme and Verb,Siroi,,,Wells 1979
+35,143E,None,Preverbal Negative Morphemes,Siroi,,,Wells 1979
+36,143F,VNeg,Postverbal Negative Morphemes,Siroi,,,Wells 1979
+37,143G,None,Minor morphological means of signaling negation,Siroi,,,Wells 1979
+38,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Siroi,,,Wells 1979
+39,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Siroi,,,Wells 1979
+40,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Siroi,,,Wells 1979
+41,144P,No NegSOV,NegSOV Order,Siroi,,,Wells 1979
+42,144Q,No SNegOV,SNegOV Order,Siroi,,,Wells 1979
+43,144R,No SONegV,SONegV Order,Siroi,,,Wells 1979
+44,144S,Word&NoDoubleNeg,SOVNeg Order,Siroi,,,Wells 1979

@@ -1,0 +1,8 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,112A,Negative affix,Negative Morphemes,Yaruro,,,
+1,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Yaruro,,,Mosonyi et al. 2000a
+2,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Yaruro,,,Mosonyi et al. 2000a
+3,143A,[V-Neg],Order of Negative Morpheme and Verb,Yaruro,,,
+4,143E,None,Preverbal Negative Morphemes,Yaruro,,,
+5,143F,[V-Neg],Postverbal Negative Morphemes,Yaruro,,,
+6,143G,None,Minor morphological means of signaling negation,Yaruro,,,

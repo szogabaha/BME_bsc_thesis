@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural clitic,Coding of Nominal Plurality,Sare,,,Sumbuk 1999
+1,37A,No definite or indefinite article,Definite Articles,Sare,,,Sumbuk 1999
+2,38A,No definite or indefinite article,Indefinite Articles,Sare,,,Sumbuk 1999
+3,51A,Postpositional clitics,Position of Case Affixes,Sare,,,Sumbuk 1999
+4,69A,Mixed type,Position of Tense-Aspect Affixes,Sare,,,Sumbuk 1999
+5,81A,SOV,"Order of Subject, Object and Verb",Sare,,,Sumbuk 1999
+6,82A,SV,Order of Subject and Verb,Sare,,,Sumbuk 1999
+7,83A,OV,Order of Object and Verb,Sare,,,Sumbuk 1999
+8,84A,No dominant order,"Order of Object, Oblique, and Verb",Sare,,,Sumbuk 1999
+9,85A,Postpositions,Order of Adposition and Noun Phrase,Sare,,,Sumbuk 1999
+10,86A,Genitive-Noun,Order of Genitive and Noun,Sare,,,Sumbuk 1999
+11,87A,Adjective-Noun,Order of Adjective and Noun,Sare,,,Sumbuk 1999
+12,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Sare,,,Sumbuk 1999
+13,89A,Numeral-Noun,Order of Numeral and Noun,Sare,,,Sumbuk 1999
+14,90A,Relative clause-Noun,Order of Relative Clause and Noun,Sare,,,Sumbuk 1999
+15,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Sare,,,Sumbuk 1999
+16,92A,No question particle,Position of Polar Question Particles,Sare,,,Sumbuk 1999
+17,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sare,,,Sumbuk 1999
+18,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Sare,,,Sumbuk 1999
+19,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sare,,,
+20,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sare,,,
+21,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sare,,,
+22,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sare,,,Sumbuk 1999
+23,112A,Negative affix,Negative Morphemes,Sare,,,Sumbuk 1999
+24,116A,Interrogative intonation only,Polar Questions,Sare,,,Sumbuk 1999
+25,143A,Type 3 / Type 4,Order of Negative Morpheme and Verb,Sare,,,Sumbuk 1999
+26,143E,[Neg-V],Preverbal Negative Morphemes,Sare,,,Sumbuk 1999
+27,143F,[V-Neg],Postverbal Negative Morphemes,Sare,,,Sumbuk 1999
+28,143G,None,Minor morphological means of signaling negation,Sare,,,Sumbuk 1999
+29,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sare,,,Sumbuk 1999
+30,144L,More than one construction,The Position of Negative Morphemes in SOV Languages,Sare,,,Sumbuk 1999
+31,144M,SO[Neg-V]/SO[V-Neg],Multiple Negative Constructions in SOV Languages,Sare,,,Sumbuk 1999
+32,144P,No NegSOV,NegSOV Order,Sare,,,Sumbuk 1999
+33,144Q,No SNegOV,SNegOV Order,Sare,,,Sumbuk 1999
+34,144R,Prefix&NoDoubleNeg,SONegV Order,Sare,,,Sumbuk 1999
+35,144S,Suffix&NoDoubleNeg,SOVNeg Order,Sare,,,Sumbuk 1999

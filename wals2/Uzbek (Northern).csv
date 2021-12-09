@@ -1,0 +1,18 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Uzbek (Northern),,,Sjoberg 1962
+1,2A,Average (5-6),Vowel Quality Inventories,Uzbek (Northern),,,Sjoberg 1962
+2,3A,Average,Consonant-Vowel Ratio,Uzbek (Northern),,,Sjoberg 1962
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Uzbek (Northern),,,Sjoberg 1962
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Uzbek (Northern),,,Sjoberg 1962
+5,6A,Uvular stops and continuants,Uvular Consonants,Uzbek (Northern),,,Sjoberg 1962
+6,7A,No glottalized consonants,Glottalized Consonants,Uzbek (Northern),,,Sjoberg 1962
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Uzbek (Northern),,,Sjoberg 1962
+8,11A,None,Front Rounded Vowels,Uzbek (Northern),,,Sjoberg 1962
+9,12A,Complex,Syllable Structure,Uzbek (Northern),,,Sjoberg 1962
+10,13A,No tones,Tone,Uzbek (Northern),,,Sjoberg 1962
+11,14A,Ultimate,Fixed Stress Locations,Uzbek (Northern),,,Raun 1969
+12,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Uzbek (Northern),,,Raun 1969
+13,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Uzbek (Northern),,,Raun 1969
+14,17A,Trochaic,Rhythm Types,Uzbek (Northern),,,Raun 1969
+15,18A,All present,Absence of Common Consonants,Uzbek (Northern),,,Sjoberg 1962
+16,19A,None,Presence of Uncommon Consonants,Uzbek (Northern),,,Sjoberg 1962

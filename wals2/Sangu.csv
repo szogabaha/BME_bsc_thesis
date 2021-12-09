@@ -1,0 +1,29 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Sangu,,,Idiata 1998
+1,64A,Differentiation,Nominal and Verbal Conjunction,Sangu,,,Idiata 1998
+2,70A,Second singular and second plural,The Morphological Imperative,Sangu,,,Idiata 1998
+3,71A,Special imperative + special negative,The Prohibitive,Sangu,,,Idiata 1998
+4,81A,SVO,"Order of Subject, Object and Verb",Sangu,,,Idiata 1998
+5,82A,SV,Order of Subject and Verb,Sangu,,,Idiata 1998
+6,83A,VO,Order of Object and Verb,Sangu,,,Idiata 1998
+7,86A,Noun-Genitive,Order of Genitive and Noun,Sangu,,,Idiata 1998
+8,87A,Noun-Adjective,Order of Adjective and Noun,Sangu,,,Idiata 1998
+9,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sangu,,,Idiata 1998
+10,89A,Noun-Numeral,Order of Numeral and Noun,Sangu,,,Idiata 1998
+11,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sangu,,,Idiata 1998
+12,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sangu,,,Idiata 1998
+13,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sangu,,,
+14,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sangu,,,
+15,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sangu,,,Idiata 1998
+16,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Sangu,,,Idiata 1998
+17,112A,Negative affix,Negative Morphemes,Sangu,,,Idiata 1998
+18,143A,[Neg-V],Order of Negative Morpheme and Verb,Sangu,,,Idiata 1998
+19,143E,[Neg-V],Preverbal Negative Morphemes,Sangu,,,Idiata 1998
+20,143F,None,Postverbal Negative Morphemes,Sangu,,,Idiata 1998
+21,143G,None,Minor morphological means of signaling negation,Sangu,,,Idiata 1998
+22,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sangu,,,Idiata 1998
+23,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Sangu,,,Idiata 1998
+24,144H,No NegSVO,NegSVO Order,Sangu,,,Idiata 1998
+25,144I,Prefix&NoDoubleNeg,SNegVO Order,Sangu,,,Idiata 1998
+26,144J,No SVNegO,SVNegO Order,Sangu,,,Idiata 1998
+27,144K,No SVONeg,SVONeg Order,Sangu,,,Idiata 1998

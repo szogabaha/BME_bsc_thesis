@@ -1,0 +1,43 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No velar nasal,The Velar Nasal,Tsez,,,Bokarev 1959
+1,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tsez,,,Alekseev and Radzhabov 2004
+2,30A,Four,Number of Genders,Tsez,,,Comrie and Polinsky 1999
+3,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Tsez,,,Comrie and Polinsky 1999
+4,32A,Semantic and formal,Systems of Gender Assignment,Tsez,,,Comrie and Polinsky 1999
+5,33A,Plural suffix,Coding of Nominal Plurality,Tsez,,,Alekseev and Radzhabov 2004
+6,36A,Unique affixal associative plural,The Associative Plural,Tsez,,,
+7,51A,Case suffixes,Position of Case Affixes,Tsez,,,Alekseev and Radzhabov 2004
+8,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tsez,,,Alekseev and Radzhabov 2004
+9,73A,Inflectional optative present,The Optative,Tsez,,,
+10,81A,SOV,"Order of Subject, Object and Verb",Tsez,,,Alekseev and Radzhabov 2004
+11,82A,SV,Order of Subject and Verb,Tsez,,,Alekseev and Radzhabov 2004
+12,83A,OV,Order of Object and Verb,Tsez,,,Alekseev and Radzhabov 2004
+13,85A,Postpositions,Order of Adposition and Noun Phrase,Tsez,,,Alekseev and Radzhabov 2004
+14,86A,Genitive-Noun,Order of Genitive and Noun,Tsez,,,Alekseev and Radzhabov 2004
+15,87A,Adjective-Noun,Order of Adjective and Noun,Tsez,,,Alekseev and Radzhabov 2004
+16,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tsez,,,Alekseev and Radzhabov 2004
+17,89A,Numeral-Noun,Order of Numeral and Noun,Tsez,,,Alekseev and Radzhabov 2004
+18,92A,No question particle,Position of Polar Question Particles,Tsez,,,Alekseev and Radzhabov 2004
+19,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tsez,,,
+20,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tsez,,,
+21,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tsez,,,Alekseev and Radzhabov 2004
+22,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Tsez,,,Comrie 2000
+23,108A,Oblique patient,Antipassive Constructions,Tsez,,,
+24,108B,partially productive,Productivity of the Antipassive Construction,Tsez,,,
+25,109A,No applicative construction,Applicative Constructions,Tsez,,,
+26,109B,No applicative construction,Other Roles of Applied Objects,Tsez,,,
+27,112A,Negative auxiliary verb,Negative Morphemes,Tsez,,,Alekseev and Radzhabov 2004
+28,116A,Interrogative verb morphology,Polar Questions,Tsez,,,Alekseev and Radzhabov 2004
+29,131A,Hybrid vigesimal-decimal,Numeral Bases,Tsez,,,
+30,142A,Logical meanings,Para-Linguistic Usages of Clicks,Tsez,,,
+31,143A,VNeg,Order of Negative Morpheme and Verb,Tsez,,,Alekseev and Radzhabov 2004
+32,143E,None,Preverbal Negative Morphemes,Tsez,,,Alekseev and Radzhabov 2004
+33,143F,VNeg,Postverbal Negative Morphemes,Tsez,,,Alekseev and Radzhabov 2004
+34,143G,None,Minor morphological means of signaling negation,Tsez,,,Alekseev and Radzhabov 2004
+35,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tsez,,,Alekseev and Radzhabov 2004
+36,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tsez,,,Alekseev and Radzhabov 2004
+37,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Tsez,,,Alekseev and Radzhabov 2004
+38,144P,No NegSOV,NegSOV Order,Tsez,,,Alekseev and Radzhabov 2004
+39,144Q,No SNegOV,SNegOV Order,Tsez,,,Alekseev and Radzhabov 2004
+40,144R,No SONegV,SONegV Order,Tsez,,,Alekseev and Radzhabov 2004
+41,144S,Word&NoDoubleNeg,SOVNeg Order,Tsez,,,Alekseev and Radzhabov 2004

@@ -1,0 +1,47 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Initial,Fixed Stress Locations,Warlpiri,,,Nash 1986
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Warlpiri,,,Nash 1986
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Warlpiri,,,Nash 1986
+3,17A,Trochaic,Rhythm Types,Warlpiri,,,Nash 1986
+4,23A,Double marking,Locus of Marking in the Clause,Warlpiri,,,Simpson 1991
+5,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Warlpiri,,,Simpson 1991
+6,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Warlpiri,,,Simpson 1991
+7,25B,Non-zero marking,Zero Marking of A and P Arguments,Warlpiri,,,Simpson 1991
+8,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Warlpiri,,,Capell 1962b
+9,27A,Productive full and partial reduplication,Reduplication,Warlpiri,,,Terrill 2001a
+10,33A,Plural suffix,Coding of Nominal Plurality,Warlpiri,,,Capell 1962b
+11,39B,Inclusive and exclusive differentiated,Inclusive/Exclusive Forms in Pama-Nyungan,Warlpiri,,,
+12,51A,Case suffixes,Position of Case Affixes,Warlpiri,,,Capell 1962b
+13,58A,Absent,Obligatory Possessive Inflection,Warlpiri,,,Simpson 1991
+14,58B,None reported,Number of Possessive Nouns,Warlpiri,,,Simpson 1991
+15,59A,No possessive classification,Possessive Classification,Warlpiri,,,Simpson 1991
+16,62A,No action nominals,Action Nominal Constructions,Warlpiri,,,Simpson 1983
+17,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Warlpiri,,,Capell 1962b
+18,71A,Normal imperative + normal negative,The Prohibitive,Warlpiri,,,Nash 1986
+19,81A,No dominant order,"Order of Subject, Object and Verb",Warlpiri,,,Swartz 1988
+20,82A,No dominant order,Order of Subject and Verb,Warlpiri,,,Swartz 1988
+21,83A,No dominant order,Order of Object and Verb,Warlpiri,,,Swartz 1988
+22,84A,No dominant order,"Order of Object, Oblique, and Verb",Warlpiri,,,Swartz 1988
+23,87A,Noun-Adjective,Order of Adjective and Noun,Warlpiri,,,Capell 1962b
+24,90A,Adjoined,Order of Relative Clause and Noun,Warlpiri,,,Capell 1962b
+25,90F,Adjoined relative clause dominant,Adjoined relative clauses,Warlpiri,,,Capell 1962b
+26,92A,Second position,Position of Polar Question Particles,Warlpiri,,,Capell 1962b
+27,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Warlpiri,,,
+28,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Warlpiri,,,
+29,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Warlpiri,,,
+30,101A,Subject clitics on variable host,Expression of Pronominal Subjects,Warlpiri,,,Capell 1962b
+31,105A,Mixed,Ditransitive Constructions: The Verb 'Give',Warlpiri,,,Simpson 1991
+32,110A,Purposive but no sequential,Periphrastic Causative Constructions,Warlpiri,,,Simpson 1991
+33,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Warlpiri,,,Simpson 1991
+34,116A,Question particle,Polar Questions,Warlpiri,,,Capell 1962b
+35,129A,Different,Hand and Arm,Warlpiri,,,Reece 1975
+36,130A,Identical,Finger and Hand,Warlpiri,,,Reece 1975
+37,130B,Hunter-gatherers,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',Warlpiri,,,
+38,132A,5,Number of Non-Derived Basic Colour Categories,Warlpiri,,,
+39,133A,6-6.5,Number of Basic Colour Categories,Warlpiri,,,
+40,134A,Green/blue,Green and Blue,Warlpiri,,,
+41,135A,Red vs. yellow,Red and Yellow,Warlpiri,,,
+42,143A,NegV,Order of Negative Morpheme and Verb,Warlpiri,,,
+43,143E,NegV,Preverbal Negative Morphemes,Warlpiri,,,
+44,143F,None,Postverbal Negative Morphemes,Warlpiri,,,
+45,143G,None,Minor morphological means of signaling negation,Warlpiri,,,

@@ -1,0 +1,26 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Initial,Fixed Stress Locations,Sorbian,,,Dogil 1999
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Sorbian,,,Dogil 1999
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Sorbian,,,Dogil 1999
+3,17A,Trochaic,Rhythm Types,Sorbian,,,Dogil 1999
+4,81A,SOV,"Order of Subject, Object and Verb",Sorbian,,,Stone 1993
+5,82A,SV,Order of Subject and Verb,Sorbian,,,Stone 1993
+6,83A,OV,Order of Object and Verb,Sorbian,,,Stone 1993
+7,85A,Prepositions,Order of Adposition and Noun Phrase,Sorbian,,,Stone 1993
+8,87A,Adjective-Noun,Order of Adjective and Noun,Sorbian,,,Stone 1993
+9,91A,Degree word-Adjective,Order of Degree Word and Adjective,Sorbian,,,Stone 1993
+10,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Sorbian,,,Stone 1993
+11,95A,OV and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sorbian,,,
+12,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sorbian,,,
+13,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sorbian,,,Stone 1993
+14,112A,Negative affix,Negative Morphemes,Sorbian,,,Stone 1993
+15,143A,[Neg-V],Order of Negative Morpheme and Verb,Sorbian,,,Stone 1993
+16,143E,[Neg-V],Preverbal Negative Morphemes,Sorbian,,,Stone 1993
+17,143F,None,Postverbal Negative Morphemes,Sorbian,,,Stone 1993
+18,143G,None,Minor morphological means of signaling negation,Sorbian,,,Stone 1993
+19,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sorbian,,,Stone 1993
+20,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Sorbian,,,Stone 1993
+21,144P,No NegSOV,NegSOV Order,Sorbian,,,Stone 1993
+22,144Q,No SNegOV,SNegOV Order,Sorbian,,,Stone 1993
+23,144R,Prefix&NoDoubleNeg,SONegV Order,Sorbian,,,Stone 1993
+24,144S,NoSOVNeg,SOVNeg Order,Sorbian,,,Stone 1993

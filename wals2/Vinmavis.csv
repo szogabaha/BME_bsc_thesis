@@ -1,0 +1,33 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural word,Coding of Nominal Plurality,Vinmavis,,,Crowley 2002g
+1,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Vinmavis,,,Crowley 2002g
+2,81A,SVO,"Order of Subject, Object and Verb",Vinmavis,,,Crowley 2002g
+3,82A,SV,Order of Subject and Verb,Vinmavis,,,Crowley 2002g
+4,83A,VO,Order of Object and Verb,Vinmavis,,,Crowley 2002g
+5,85A,Prepositions,Order of Adposition and Noun Phrase,Vinmavis,,,Crowley 2002g
+6,86A,Noun-Genitive,Order of Genitive and Noun,Vinmavis,,,Crowley 2002g
+7,87A,Noun-Adjective,Order of Adjective and Noun,Vinmavis,,,Crowley 2002g
+8,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Vinmavis,,,Crowley 2002g
+9,89A,Noun-Numeral,Order of Numeral and Noun,Vinmavis,,,Crowley 2002g
+10,90A,Noun-Relative clause,Order of Relative Clause and Noun,Vinmavis,,,Crowley 2002g
+11,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Vinmavis,,,Crowley 2002g
+12,92A,No question particle,Position of Polar Question Particles,Vinmavis,,,Crowley 2002g
+13,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Vinmavis,,,Crowley 2002g
+14,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Vinmavis,,,Crowley 2002g
+15,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Vinmavis,,,
+16,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Vinmavis,,,
+17,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Vinmavis,,,
+18,112A,Double negation,Negative Morphemes,Vinmavis,,,Crowley 2002g
+19,116A,Interrogative intonation only,Polar Questions,Vinmavis,,,Crowley 2002g
+20,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Vinmavis,,,Crowley 2002g
+21,143B,[Neg-V-Neg],Obligatory Double Negation,Vinmavis,,,Crowley 2002g
+22,143E,[Neg-V],Preverbal Negative Morphemes,Vinmavis,,,Crowley 2002g
+23,143F,[V-Neg],Postverbal Negative Morphemes,Vinmavis,,,Crowley 2002g
+24,143G,None,Minor morphological means of signaling negation,Vinmavis,,,Crowley 2002g
+25,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Vinmavis,,,Crowley 2002g
+26,144D,ObligNeg,The Position of Negative Morphemes in SVO Languages,Vinmavis,,,Crowley 2002g
+27,144F,S[Neg-V-Neg]O,Obligatory Double Negation in SVO languages,Vinmavis,,,Crowley 2002g
+28,144H,No NegSVO,NegSVO Order,Vinmavis,,,Crowley 2002g
+29,144I,Prefix&OnlyWithAnotherNeg,SNegVO Order,Vinmavis,,,Crowley 2002g
+30,144J,Suffix&OnlyWithAnotherNeg,SVNegO Order,Vinmavis,,,Crowley 2002g
+31,144K,No SVONeg,SVONeg Order,Vinmavis,,,Crowley 2002g

@@ -1,0 +1,45 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Yukaghir (Tundra),,,Krejnovich 1958
+1,2A,Average (5-6),Vowel Quality Inventories,Yukaghir (Tundra),,,Krejnovich 1958
+2,3A,Average,Consonant-Vowel Ratio,Yukaghir (Tundra),,,Krejnovich 1958
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Yukaghir (Tundra),,,Krejnovich 1958
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Yukaghir (Tundra),,,Krejnovich 1958
+5,6A,Uvular stops and continuants,Uvular Consonants,Yukaghir (Tundra),,,Krejnovich 1958
+6,7A,No glottalized consonants,Glottalized Consonants,Yukaghir (Tundra),,,Krejnovich 1958
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yukaghir (Tundra),,,Krejnovich 1958
+8,11A,Mid only,Front Rounded Vowels,Yukaghir (Tundra),,,Krejnovich 1958
+9,12A,Complex,Syllable Structure,Yukaghir (Tundra),,,Krejnovich 1958
+10,13A,No tones,Tone,Yukaghir (Tundra),,,Krejnovich 1958
+11,18A,All present,Absence of Common Consonants,Yukaghir (Tundra),,,Krejnovich 1958
+12,19A,None,Presence of Uncommon Consonants,Yukaghir (Tundra),,,Krejnovich 1958
+13,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yukaghir (Tundra),,,Krejnovich 1958
+14,33A,Plural suffix,Coding of Nominal Plurality,Yukaghir (Tundra),,,Krejnovich 1958
+15,51A,Case suffixes,Position of Case Affixes,Yukaghir (Tundra),,,Krejnovich 1958
+16,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yukaghir (Tundra),,,Krejnovich 1958
+17,81A,SOV,"Order of Subject, Object and Verb",Yukaghir (Tundra),,,Krejnovich 1958
+18,82A,SV,Order of Subject and Verb,Yukaghir (Tundra),,,Krejnovich 1958
+19,83A,OV,Order of Object and Verb,Yukaghir (Tundra),,,Krejnovich 1958
+20,85A,Postpositions,Order of Adposition and Noun Phrase,Yukaghir (Tundra),,,Krejnovich 1958
+21,86A,Genitive-Noun,Order of Genitive and Noun,Yukaghir (Tundra),,,Krejnovich 1958
+22,87A,Adjective-Noun,Order of Adjective and Noun,Yukaghir (Tundra),,,Krejnovich 1958
+23,88A,Demonstrative prefix,Order of Demonstrative and Noun,Yukaghir (Tundra),,,Krejnovich 1958
+24,89A,Numeral-Noun,Order of Numeral and Noun,Yukaghir (Tundra),,,Krejnovich 1958
+25,91A,Degree word-Adjective,Order of Degree Word and Adjective,Yukaghir (Tundra),,,Krejnovich 1958
+26,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yukaghir (Tundra),,,Krejnovich 1958
+27,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yukaghir (Tundra),,,
+28,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yukaghir (Tundra),,,
+29,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Yukaghir (Tundra),,,Maslova 2003b
+30,106A,Distinct from reflexive,Reciprocal Constructions,Yukaghir (Tundra),,,
+31,112A,Negative affix,Negative Morphemes,Yukaghir (Tundra),,,Krejnovich 1958
+32,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Yukaghir (Tundra),,,Maslova 2003b
+33,124A,Desiderative verbal affix,'Want' Complement Subjects,Yukaghir (Tundra),,,Maslova 2003b
+34,143A,[Neg-V],Order of Negative Morpheme and Verb,Yukaghir (Tundra),,,Krejnovich 1958
+35,143E,[Neg-V],Preverbal Negative Morphemes,Yukaghir (Tundra),,,Krejnovich 1958
+36,143F,None,Postverbal Negative Morphemes,Yukaghir (Tundra),,,Krejnovich 1958
+37,143G,None,Minor morphological means of signaling negation,Yukaghir (Tundra),,,Krejnovich 1958
+38,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Yukaghir (Tundra),,,Krejnovich 1958
+39,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Yukaghir (Tundra),,,Krejnovich 1958
+40,144P,No NegSOV,NegSOV Order,Yukaghir (Tundra),,,Krejnovich 1958
+41,144Q,No SNegOV,SNegOV Order,Yukaghir (Tundra),,,Krejnovich 1958
+42,144R,Prefix&NoDoubleNeg,SONegV Order,Yukaghir (Tundra),,,Krejnovich 1958
+43,144S,NoSOVNeg,SOVNeg Order,Yukaghir (Tundra),,,Krejnovich 1958

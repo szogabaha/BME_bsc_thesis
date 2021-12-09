@@ -1,0 +1,18 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,55A,Optional,Numeral Classifiers,Vafsi,,,
+1,56A,Formally different,Conjunctions and Universal Quantifiers,Vafsi,,,
+2,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Vafsi,,,
+3,61A,Without marking,Adjectives without Nouns,Vafsi,,,
+4,64A,Identity,Nominal and Verbal Conjunction,Vafsi,,,Stilo 2004
+5,83A,OV,Order of Object and Verb,Vafsi,,,Stilo 2005
+6,85A,No dominant order,Order of Adposition and Noun Phrase,Vafsi,,,Stilo 2005
+7,86A,Noun-Genitive,Order of Genitive and Noun,Vafsi,,,Stilo 2005
+8,87A,Noun-Adjective,Order of Adjective and Noun,Vafsi,,,Stilo 2005
+9,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Vafsi,,,Stilo 2005
+10,89A,Numeral-Noun,Order of Numeral and Noun,Vafsi,,,Stilo 2005
+11,90A,Noun-Relative clause,Order of Relative Clause and Noun,Vafsi,,,Stilo 2005
+12,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Vafsi,,,Stilo 2005
+13,91A,Degree word-Adjective,Order of Degree Word and Adjective,Vafsi,,,Stilo 2005
+14,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Vafsi,,,
+15,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Vafsi,,,
+16,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Vafsi,,,

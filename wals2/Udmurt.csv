@@ -1,0 +1,47 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Udmurt,,,Csúcs 1998
+1,33A,Plural suffix,Coding of Nominal Plurality,Udmurt,,,Tepljashina 1966
+2,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Udmurt,,,Perevoshchikov 1962
+3,36A,Associative same as additive plural,The Associative Plural,Udmurt,,,Tepljashina and Lytkin 1976
+4,46A,Interrogative-based,Indefinite Pronouns,Udmurt,,,Perevoshchikov 1962
+5,49A,10 or more cases,Number of Cases,Udmurt,,,Winkler 2001
+6,50A,Symmetrical,Asymmetrical Case-Marking,Udmurt,,,Winkler 2001
+7,51A,Case suffixes,Position of Case Affixes,Udmurt,,,Tepljashina 1966
+8,52A,Identity,Comitatives and Instrumentals,Udmurt,,,Stolz 1996
+9,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Udmurt,,,Tepljashina 1966
+10,64A,Identity,Nominal and Verbal Conjunction,Udmurt,,,Perevoshchikov 1962
+11,65A,No grammatical marking,Perfective/Imperfective Aspect,Udmurt,,,Bybee et al. 1994
+12,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Udmurt,,,Bybee et al. 1994
+13,67A,Inflectional future exists,The Future Tense,Udmurt,,,Bybee et al. 1994
+14,68A,Other perfect,The Perfect,Udmurt,,,Bybee et al. 1994
+15,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Udmurt,,,Tepljashina 1966
+16,73A,Inflectional optative absent,The Optative,Udmurt,,,Perevoshchikov 1962
+17,81A,SOV,"Order of Subject, Object and Verb",Udmurt,,,Csúcs 1998
+18,82A,SV,Order of Subject and Verb,Udmurt,,,Csúcs 1998
+19,83A,OV,Order of Object and Verb,Udmurt,,,Tepljashina 1966
+20,85A,Postpositions,Order of Adposition and Noun Phrase,Udmurt,,,Tepljashina 1966
+21,86A,Genitive-Noun,Order of Genitive and Noun,Udmurt,,,Csúcs 1998
+22,87A,Adjective-Noun,Order of Adjective and Noun,Udmurt,,,Csúcs 1998
+23,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Udmurt,,,Csúcs 1998
+24,89A,Numeral-Noun,Order of Numeral and Noun,Udmurt,,,Csúcs 1998
+25,91A,Degree word-Adjective,Order of Degree Word and Adjective,Udmurt,,,Tepljashina 1966
+26,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Udmurt,,,Tepljashina 1966
+27,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Udmurt,,,
+28,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Udmurt,,,
+29,101A,Subject affixes on verb,Expression of Pronominal Subjects,Udmurt,,,Tepljashina 1966
+30,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Udmurt,,,Vaxrushev 1970
+31,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Udmurt,,,Perevoshchikov 1962
+32,121A,Locational,Comparative Constructions,Udmurt,,,Winkler 2001
+33,124A,Subject is left implicit,'Want' Complement Subjects,Udmurt,,,Vaxrushev 1970
+34,138A,Words derived from Sinitic cha,Tea,Udmurt,,,Vaxrushev 1983
+35,143A,VNeg,Order of Negative Morpheme and Verb,Udmurt,,,Tepljashina 1966
+36,143E,None,Preverbal Negative Morphemes,Udmurt,,,Tepljashina 1966
+37,143F,VNeg,Postverbal Negative Morphemes,Udmurt,,,Tepljashina 1966
+38,143G,None,Minor morphological means of signaling negation,Udmurt,,,Tepljashina 1966
+39,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Udmurt,,,Tepljashina 1966
+40,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Udmurt,,,Tepljashina 1966
+41,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Udmurt,,,Tepljashina 1966
+42,144P,No NegSOV,NegSOV Order,Udmurt,,,Tepljashina 1966
+43,144Q,No SNegOV,SNegOV Order,Udmurt,,,Tepljashina 1966
+44,144R,No SONegV,SONegV Order,Udmurt,,,Tepljashina 1966
+45,144S,Word&NoDoubleNeg,SOVNeg Order,Udmurt,,,Tepljashina 1966

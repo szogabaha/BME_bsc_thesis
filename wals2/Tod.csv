@@ -1,0 +1,17 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,Initial velar nasal,The Velar Nasal,Tod,,,Sharma 1989b
+1,81A,SOV,"Order of Subject, Object and Verb",Tod,,,Sharma 1989b
+2,82A,SV,Order of Subject and Verb,Tod,,,Sharma 1989b
+3,83A,OV,Order of Object and Verb,Tod,,,Sharma 1989b
+4,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tod,,,Sharma 1989b
+5,112A,Negative affix,Negative Morphemes,Tod,,,Sharma 1989b
+6,143A,[Neg-V],Order of Negative Morpheme and Verb,Tod,,,Sharma 1989b
+7,143E,[Neg-V],Preverbal Negative Morphemes,Tod,,,Sharma 1989b
+8,143F,None,Postverbal Negative Morphemes,Tod,,,Sharma 1989b
+9,143G,None,Minor morphological means of signaling negation,Tod,,,Sharma 1989b
+10,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tod,,,Sharma 1989b
+11,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Tod,,,Sharma 1989b
+12,144P,No NegSOV,NegSOV Order,Tod,,,Sharma 1989b
+13,144Q,No SNegOV,SNegOV Order,Tod,,,Sharma 1989b
+14,144R,Prefix&NoDoubleNeg,SONegV Order,Tod,,,Sharma 1989b
+15,144S,NoSOVNeg,SOVNeg Order,Tod,,,Sharma 1989b

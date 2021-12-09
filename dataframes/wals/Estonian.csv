@@ -1,0 +1,61 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+14A-est,Initial,Fixed Stress Locations,Estonian,,,Eek 1975;Hint 1973
+15A-est,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Estonian,,,Eek 1975;Hint 1973
+16A-est,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Estonian,,,Eek 1975;Hint 1973
+17A-est,Trochaic,Rhythm Types,Estonian,,,Eek 1975;Hint 1973
+26A-est,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Estonian,,,Tauli 1973;de Sivers 1969;Tauli 1983
+33A-est,Plural suffix,Coding of Nominal Plurality,Estonian,,,de Sivers 1969
+36A-est,No associative plural,The Associative Plural,Estonian,,,
+37A-est,No definite or indefinite article,Definite Articles,Estonian,,,de Sivers 1969
+38A-est,No definite or indefinite article,Indefinite Articles,Estonian,,,de Sivers 1969
+46A-est,Interrogative-based,Indefinite Pronouns,Estonian,,,Kask 1966
+49A-est,10 or more cases,Number of Cases,Estonian,,,Viitso 1998
+50A-est,Symmetrical,Asymmetrical Case-Marking,Estonian,,,Viitso 1998
+51A-est,Case suffixes,Position of Case Affixes,Estonian,,,de Sivers 1969;Tauli 1973
+52A-est,Identity,Comitatives and Instrumentals,Estonian,,,Laanest 1982
+53A-est,"First, second, three-th",Ordinal Numerals,Estonian,,,Laanest 1982
+62A-est,Mixed,Action Nominal Constructions,Estonian,,,
+63A-est,'And' different from 'with',Noun Phrase Conjunction,Estonian,,,Oinas 1966
+69A-est,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Estonian,,,de Sivers 1969;Tauli 1973
+70A-est,Second singular and second plural,The Morphological Imperative,Estonian,,,Oinas 1966
+71A-est,Special imperative + normal negative,The Prohibitive,Estonian,,,Oinas 1966
+72A-est,Maximal system,Imperative-Hortative Systems,Estonian,,,Oinas 1966
+73A-est,Inflectional optative absent,The Optative,Estonian,,,Oinas 1966
+77A-est,Indirect only,Semantic Distinctions of Evidentiality,Estonian,,,Valmet et al. 1981
+78A-est,Verbal affix or clitic,Coding of Evidentiality,Estonian,,,Valmet et al. 1981
+81A-est,SVO,"Order of Subject, Object and Verb",Estonian,,,de Sivers 1969;Tauli 1983
+82A-est,SV,Order of Subject and Verb,Estonian,,,Tauli 1983;de Sivers 1969
+83A-est,VO,Order of Object and Verb,Estonian,,,Tauli 1983
+84A-est,VOX,"Order of Object, Oblique, and Verb",Estonian,,,Tauli 1983
+85A-est,Postpositions,Order of Adposition and Noun Phrase,Estonian,,,Tauli 1983;Tauli 1973;de Sivers 1969
+86A-est,Genitive-Noun,Order of Genitive and Noun,Estonian,,,Tauli 1983;de Sivers 1969
+87A-est,Adjective-Noun,Order of Adjective and Noun,Estonian,,,de Sivers 1969
+88A-est,Demonstrative-Noun,Order of Demonstrative and Noun,Estonian,,,de Sivers 1969;Tauli 1983
+89A-est,Numeral-Noun,Order of Numeral and Noun,Estonian,,,Tauli 1983;de Sivers 1969
+90A-est,Noun-Relative clause,Order of Relative Clause and Noun,Estonian,,,de Sivers 1969;Tauli 1983
+90C-est,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Estonian,,,Tauli 1983;de Sivers 1969
+91A-est,Degree word-Adjective,Order of Degree Word and Adjective,Estonian,,,Tauli 1983
+92A-est,In either of two positions,Position of Polar Question Particles,Estonian,,,Tauli 1983;de Sivers 1969
+93A-est,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Estonian,,,Tauli 1983
+94A-est,Initial subordinator word,Order of Adverbial Subordinator and Clause,Estonian,,,Tauli 1983;de Sivers 1969
+95A-est,VO and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Estonian,,,
+96A-est,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Estonian,,,
+97A-est,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Estonian,,,
+101A-est,Subject affixes on verb,Expression of Pronominal Subjects,Estonian,,,de Sivers 1969
+112A-est,Negative particle,Negative Morphemes,Estonian,,,Tauli 1973;de Sivers 1969;Tauli 1983
+116A-est,Question particle,Polar Questions,Estonian,,,de Sivers 1969;Tauli 1983
+118A-est,Nonverbal encoding,Predicative Adjectives,Estonian,,,Lehiste 1972
+119A-est,Identical,Nominal and Locational Predication,Estonian,,,Lehiste 1972
+120A-est,Impossible,Zero Copula for Predicate Nominals,Estonian,,,Lehiste 1972
+138A-est,Words derived from Min Nan Chinese te,Tea,Estonian,,,Malherbe and Rosenberg 1996
+143A-est,NegV,Order of Negative Morpheme and Verb,Estonian,,,de Sivers 1969;Tauli 1983;Tauli 1973
+143E-est,NegV,Preverbal Negative Morphemes,Estonian,,,Tauli 1983;de Sivers 1969;Tauli 1973
+143F-est,None,Postverbal Negative Morphemes,Estonian,,,de Sivers 1969;Tauli 1973;Tauli 1983
+143G-est,None,Minor morphological means of signaling negation,Estonian,,,de Sivers 1969;Tauli 1973;Tauli 1983
+144A-est,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Estonian,,,Tauli 1973;de Sivers 1969;Tauli 1983
+144B-est,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Estonian,,,Tauli 1973;Tauli 1983;de Sivers 1969
+144D-est,SNegVO,The Position of Negative Morphemes in SVO Languages,Estonian,,,Tauli 1973;de Sivers 1969;Tauli 1983
+144H-est,No NegSVO,NegSVO Order,Estonian,,,Tauli 1983;de Sivers 1969;Tauli 1973
+144I-est,Word&NoDoubleNeg,SNegVO Order,Estonian,,,de Sivers 1969;Tauli 1983;Tauli 1973
+144J-est,No SVNegO,SVNegO Order,Estonian,,,Tauli 1983;de Sivers 1969;Tauli 1973
+144K-est,No SVONeg,SVONeg Order,Estonian,,,Tauli 1973;de Sivers 1969;Tauli 1983

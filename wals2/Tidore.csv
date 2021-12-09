@@ -1,0 +1,64 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,Initial velar nasal,The Velar Nasal,Tidore,,,Pikkert et al. 1994
+1,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tidore,,,van Staden 2000
+2,27A,Productive full and partial reduplication,Reduplication,Tidore,,,Pikkert and Pikkert 1995
+3,30A,Three,Number of Genders,Tidore,,,van Staden 2000
+4,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Tidore,,,van Staden 2000
+5,32A,Semantic,Systems of Gender Assignment,Tidore,,,van Staden 2000
+6,33A,No plural,Coding of Nominal Plurality,Tidore,,,van Staden 2000
+7,34A,No nominal plural,Occurrence of Nominal Plurality,Tidore,,,van Staden 2000
+8,37A,Definite word distinct from demonstrative,Definite Articles,Tidore,,,van Staden 2000
+9,38A,Indefinite word same as 'one',Indefinite Articles,Tidore,,,van Staden 2000
+10,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Tidore,,,van Staden 2000
+11,44A,"3rd person only, but also non-singular",Gender Distinctions in Independent Personal Pronouns,Tidore,,,van Staden 2000
+12,46A,Generic-noun-based,Indefinite Pronouns,Tidore,,,van Staden 2000
+13,48A,No person marking,Person Marking on Adpositions,Tidore,,,van Staden 2000
+14,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tidore,,,van Staden 2000
+15,55A,Optional,Numeral Classifiers,Tidore,,,
+16,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tidore,,,van Staden 2000
+17,60A,Adjectives and relative clauses collapsed,"Genitives, Adjectives and Relative Clauses",Tidore,,,
+18,61A,Marked by preceding word,Adjectives without Nouns,Tidore,,,
+19,62A,No action nominals,Action Nominal Constructions,Tidore,,,van Staden 2000
+20,64A,Identity,Nominal and Verbal Conjunction,Tidore,,,van Staden 2000
+21,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Tidore,,,van Staden 2000
+22,81A,SVO,"Order of Subject, Object and Verb",Tidore,,,van Staden 2000
+23,82A,SV,Order of Subject and Verb,Tidore,,,van Staden 2000
+24,83A,VO,Order of Object and Verb,Tidore,,,van Staden 2000
+25,84A,VOX,"Order of Object, Oblique, and Verb",Tidore,,,van Staden 2000
+26,85A,Prepositions,Order of Adposition and Noun Phrase,Tidore,,,van Staden 2000
+27,86A,Genitive-Noun,Order of Genitive and Noun,Tidore,,,van Staden 2000
+28,87A,Noun-Adjective,Order of Adjective and Noun,Tidore,,,van Staden 2000
+29,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tidore,,,van Staden 2000
+30,89A,Noun-Numeral,Order of Numeral and Noun,Tidore,,,van Staden 2000
+31,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tidore,,,van Staden 2000
+32,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tidore,,,van Staden 2000
+33,91A,Adjective-Degree word,Order of Degree Word and Adjective,Tidore,,,van Staden 2000
+34,92A,No question particle,Position of Polar Question Particles,Tidore,,,van Staden 2000
+35,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tidore,,,van Staden 2000
+36,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tidore,,,
+37,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tidore,,,
+38,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tidore,,,
+39,100A,Accusative,Alignment of Verbal Person Marking,Tidore,,,van Staden 2000
+40,101A,Mixed,Expression of Pronominal Subjects,Tidore,,,van Staden 2000
+41,102A,Only the A argument,Verbal Person Marking,Tidore,,,van Staden 2000
+42,103A,No zero realization,Third Person Zero of Verbal Person Marking,Tidore,,,van Staden 2000
+43,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Tidore,,,van Staden 2000
+44,105A,Mixed,Ditransitive Constructions: The Verb 'Give',Tidore,,,van Staden 2000
+45,107A,Absent,Passive Constructions,Tidore,,,van Staden 2000
+46,112A,Negative particle,Negative Morphemes,Tidore,,,van Staden 2000
+47,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Tidore,,,van Staden 2000
+48,116A,Interrogative intonation only,Polar Questions,Tidore,,,van Staden 2000
+49,124A,Subject is left implicit,'Want' Complement Subjects,Tidore,,,van Staden 2000
+50,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Tidore,,,van Staden 2000
+51,143C,(Neg)VNeg,Optional Double Negation,Tidore,,,van Staden 2000
+52,143E,NegV,Preverbal Negative Morphemes,Tidore,,,van Staden 2000
+53,143F,VNeg,Postverbal Negative Morphemes,Tidore,,,van Staden 2000
+54,143G,None,Minor morphological means of signaling negation,Tidore,,,van Staden 2000
+55,144A,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tidore,,,van Staden 2000
+56,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tidore,,,van Staden 2000
+57,144D,OptNeg,The Position of Negative Morphemes in SVO Languages,Tidore,,,van Staden 2000
+58,144G,S(Neg)VONeg,Optional Double Negation in SVO languages,Tidore,,,van Staden 2000
+59,144H,No NegSVO,NegSVO Order,Tidore,,,van Staden 2000
+60,144I,Word&OnlyWithAnotherNeg,SNegVO Order,Tidore,,,van Staden 2000
+61,144J,No SVNegO,SVNegO Order,Tidore,,,van Staden 2000
+62,144K,OptDoubleNeg,SVONeg Order,Tidore,,,van Staden 2000

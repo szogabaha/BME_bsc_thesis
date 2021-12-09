@@ -1,0 +1,68 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-nor,Average,Consonant Inventories,Norwegian,,,Vanvik 1972
+2A-nor,Large (7-14),Vowel Quality Inventories,Norwegian,,,Vanvik 1972
+3A-nor,Moderately low,Consonant-Vowel Ratio,Norwegian,,,Vanvik 1972
+4A-nor,In plosives alone,Voicing in Plosives and Fricatives,Norwegian,,,Vanvik 1972
+5A-nor,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Norwegian,,,Vanvik 1972
+6A-nor,None,Uvular Consonants,Norwegian,,,Vanvik 1972
+7A-nor,No glottalized consonants,Glottalized Consonants,Norwegian,,,Vanvik 1972
+8A-nor,"/l/, no obstruent laterals",Lateral Consonants,Norwegian,,,Vanvik 1972
+11A-nor,High and mid,Front Rounded Vowels,Norwegian,,,Vanvik 1972
+12A-nor,Complex,Syllable Structure,Norwegian,,,Vanvik 1972
+13A-nor,Simple tone system,Tone,Norwegian,,,Vanvik 1972
+14A-nor,No fixed stress,Fixed Stress Locations,Norwegian,,,Rice 1999
+15A-nor,Right-oriented: One of the last three,Weight-Sensitive Stress,Norwegian,,,Rice 1999
+16A-nor,Long vowel or coda consonant,Weight Factors in Weight-Sensitive Stress Systems,Norwegian,,,Rice 1999
+17A-nor,Undetermined,Rhythm Types,Norwegian,,,Rice 1999
+18A-nor,All present,Absence of Common Consonants,Norwegian,,,Vanvik 1972
+19A-nor,None,Presence of Uncommon Consonants,Norwegian,,,Vanvik 1972
+26A-nor,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Norwegian,,,Strandskogen and Strandskogen 1986;Olson 1901;Moen and Pedersen 1983
+33A-nor,Plural suffix,Coding of Nominal Plurality,Norwegian,,,Olson 1901;Strandskogen and Strandskogen 1986
+36A-nor,Unique periphrastic associative plural,The Associative Plural,Norwegian,,,
+37A-nor,Definite affix,Definite Articles,Norwegian,,,Olson 1901;Strandskogen and Strandskogen 1986
+38A-nor,Indefinite word same as 'one',Indefinite Articles,Norwegian,,,Strandskogen and Strandskogen 1986;Olson 1901
+45A-nor,Binary politeness distinction,Politeness Distinctions in Pronouns,Norwegian,,,Berit and Strandskogen 1998
+47A-nor,Identical,Intensifiers and Reflexive Pronouns,Norwegian,,,Strandskogen and Strandskogen 1995
+51A-nor,Case suffixes,Position of Case Affixes,Norwegian,,,Olson 1901
+52A-nor,Identity,Comitatives and Instrumentals,Norwegian,,,Berulfsen 1977
+53A-nor,"First, second, three-th",Ordinal Numerals,Norwegian,,,Berulfsen 1977
+57A-nor,No possessive affixes,Position of Pronominal Possessive Affixes,Norwegian,,,Olson 1901
+69A-nor,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Norwegian,,,Olson 1901;Strandskogen and Strandskogen 1986
+70A-nor,Second person number-neutral,The Morphological Imperative,Norwegian,,,Askedal 1994
+71A-nor,Normal imperative + normal negative,The Prohibitive,Norwegian,,,
+72A-nor,Neither type of system,Imperative-Hortative Systems,Norwegian,,,
+73A-nor,Inflectional optative absent,The Optative,Norwegian,,,Askedal 1994
+81A-nor,SVO,"Order of Subject, Object and Verb",Norwegian,,,Olson 1901
+82A-nor,SV,Order of Subject and Verb,Norwegian,,,Olson 1901
+83A-nor,VO,Order of Object and Verb,Norwegian,,,Olson 1901
+85A-nor,Prepositions,Order of Adposition and Noun Phrase,Norwegian,,,Olson 1901
+86A-nor,No dominant order,Order of Genitive and Noun,Norwegian,,,Strandskogen and Strandskogen 1986;Olson 1901
+87A-nor,Adjective-Noun,Order of Adjective and Noun,Norwegian,,,Olson 1901
+88A-nor,Demonstrative-Noun,Order of Demonstrative and Noun,Norwegian,,,Olson 1901
+89A-nor,Numeral-Noun,Order of Numeral and Noun,Norwegian,,,Olson 1901
+90A-nor,Noun-Relative clause,Order of Relative Clause and Noun,Norwegian,,,Olson 1901
+90C-nor,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Norwegian,,,Olson 1901
+91A-nor,Degree word-Adjective,Order of Degree Word and Adjective,Norwegian,,,Olson 1901;Moen and Pedersen 1983
+92A-nor,No question particle,Position of Polar Question Particles,Norwegian,,,Moen and Pedersen 1983
+93A-nor,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Norwegian,,,Moen and Pedersen 1983
+94A-nor,Initial subordinator word,Order of Adverbial Subordinator and Clause,Norwegian,,,Olson 1901
+95A-nor,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Norwegian,,,
+96A-nor,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Norwegian,,,
+97A-nor,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Norwegian,,,
+101A-nor,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Norwegian,,,Olson 1901
+112A-nor,Negative particle,Negative Morphemes,Norwegian,,,Strandskogen and Strandskogen 1986;Olson 1901
+116A-nor,Interrogative word order,Polar Questions,Norwegian,,,Moen and Pedersen 1983
+129A-nor,Different,Hand and Arm,Norwegian,,,Lektor et al. 1965
+130A-nor,Different,Finger and Hand,Norwegian,,,Lektor et al. 1965
+138A-nor,Words derived from Min Nan Chinese te,Tea,Norwegian,,,
+143A-nor,Type 1 / Type 2,Order of Negative Morpheme and Verb,Norwegian,,,Olson 1901;Strandskogen and Strandskogen 1986
+143E-nor,NegV,Preverbal Negative Morphemes,Norwegian,,,Olson 1901;Strandskogen and Strandskogen 1986
+143F-nor,VNeg,Postverbal Negative Morphemes,Norwegian,,,Strandskogen and Strandskogen 1986;Olson 1901
+143G-nor,None,Minor morphological means of signaling negation,Norwegian,,,Strandskogen and Strandskogen 1986;Olson 1901
+144A-nor,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Norwegian,,,Strandskogen and Strandskogen 1986;Olson 1901
+144D-nor,More than one construction,The Position of Negative Morphemes in SVO Languages,Norwegian,,,Strandskogen and Strandskogen 1986;Olson 1901
+144E-nor,SNegVO/SVNegO,Multiple Negative Constructions in SVO Languages,Norwegian,,,Olson 1901;Strandskogen and Strandskogen 1986
+144H-nor,No NegSVO,NegSVO Order,Norwegian,,,Olson 1901;Strandskogen and Strandskogen 1986
+144I-nor,Word&NoDoubleNeg,SNegVO Order,Norwegian,,,Strandskogen and Strandskogen 1986;Olson 1901
+144J-nor,Word&NoDoubleNeg,SVNegO Order,Norwegian,,,Strandskogen and Strandskogen 1986;Olson 1901
+144K-nor,No SVONeg,SVONeg Order,Norwegian,,,Olson 1901;Strandskogen and Strandskogen 1986

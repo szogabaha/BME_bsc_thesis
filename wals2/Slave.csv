@@ -1,0 +1,144 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Slave,,,Rice 1976
+1,2A,Average (5-6),Vowel Quality Inventories,Slave,,,Rice 1976
+2,3A,Moderately high,Consonant-Vowel Ratio,Slave,,,Rice 1976
+3,4A,In fricatives alone,Voicing in Plosives and Fricatives,Slave,,,Rice 1976
+4,5A,Other,Voicing and Gaps in Plosive Systems,Slave,,,Rice 1976
+5,6A,None,Uvular Consonants,Slave,,,Rice 1976
+6,7A,Ejectives and glottalized resonants,Glottalized Consonants,Slave,,,Rice 1976
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Slave,,,Rice 1976
+8,9A,No velar nasal,The Velar Nasal,Slave,,,Rice 1989
+9,10A,Contrast present,Vowel Nasalization,Slave,,,Rice 1989
+10,11A,None,Front Rounded Vowels,Slave,,,Rice 1976
+11,12A,Moderately complex,Syllable Structure,Slave,,,Rice 1976
+12,13A,Simple tone system,Tone,Slave,,,Rice 1976
+13,14A,No fixed stress,Fixed Stress Locations,Slave,,,Rice 1989
+14,15A,Not predictable,Weight-Sensitive Stress,Slave,,,Rice 1989
+15,16A,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Slave,,,Rice 1989
+16,17A,No rhythmic stress,Rhythm Types,Slave,,,Rice 1989
+17,18A,All present,Absence of Common Consonants,Slave,,,Rice 1976
+18,19A,None,Presence of Uncommon Consonants,Slave,,,Rice 1976
+19,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Slave,,,Rice 1989
+20,21A,No case,Exponence of Selected Inflectional Formatives,Slave,,,Rice 1989
+21,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Slave,,,Rice 1989
+22,22A,8-9 categories per word,Inflectional Synthesis of the Verb,Slave,,,Rice 1989
+23,23A,Head marking,Locus of Marking in the Clause,Slave,,,Rice 1989
+24,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Slave,,,Rice 1989
+25,25A,Head-marking,Locus of Marking: Whole-language Typology,Slave,,,Rice 1989
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Slave,,,Rice 1989
+27,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Slave,,,Rice 1989
+28,27A,No productive reduplication,Reduplication,Slave,,,
+29,28A,No case marking,Case Syncretism,Slave,,,Rice 1989
+30,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Slave,,,Rice 1989
+31,33A,Plural suffix,Coding of Nominal Plurality,Slave,,,Rice 1989
+32,35A,Person-number stem,Plurality in Independent Personal Pronouns,Slave,,,Rice 1989
+33,36A,Unique periphrastic associative plural,The Associative Plural,Slave,,,Rice 2000
+34,37A,No definite or indefinite article,Definite Articles,Slave,,,Rice 1989
+35,38A,No definite or indefinite article,Indefinite Articles,Slave,,,Rice 1989
+36,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Slave,,,Rice 1989
+37,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Slave,,,Rice 1989
+38,41A,Two-way contrast,Distance Contrasts in Demonstratives,Slave,,,Rice 1989
+39,42A,Identical,Pronominal and Adnominal Demonstratives,Slave,,,Rice 1989
+40,43A,Related for non-human reference,Third Person Pronouns and Demonstratives,Slave,,,Rice 1989
+41,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Slave,,,Rice 1989
+42,45A,No politeness distinction,Politeness Distinctions in Pronouns,Slave,,,Rice 1989
+43,46A,Generic-noun-based,Indefinite Pronouns,Slave,,,Rice 1989
+44,48A,Pronouns only,Person Marking on Adpositions,Slave,,,Rice 1989
+45,49A,No morphological case-marking,Number of Cases,Slave,,,Rice 1989
+46,50A,No case-marking,Asymmetrical Case-Marking,Slave,,,Rice 1989
+47,51A,No case affixes or adpositional clitics,Position of Case Affixes,Slave,,,Rice 1989
+48,52A,Differentiation,Comitatives and Instrumentals,Slave,,,Rice 1989
+49,53A,"First, two-th, three-th",Ordinal Numerals,Slave,,,Rice 1989
+50,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Slave,,,Rice 1989
+51,58A,Absent,Obligatory Possessive Inflection,Slave,,,Rice 1989
+52,58B,None reported,Number of Possessive Nouns,Slave,,,Rice 1989
+53,59A,Three to five classes,Possessive Classification,Slave,,,Rice 1989
+54,62A,No action nominals,Action Nominal Constructions,Slave,,,
+55,63A,'And' different from 'with',Noun Phrase Conjunction,Slave,,,Rice 1989
+56,64A,Differentiation,Nominal and Verbal Conjunction,Slave,,,Rice 1989
+57,65A,Grammatical marking,Perfective/Imperfective Aspect,Slave,,,Bybee et al. 1994
+58,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Slave,,,Bybee et al. 1994
+59,67A,Inflectional future exists,The Future Tense,Slave,,,Bybee et al. 1994
+60,68A,Other perfect,The Perfect,Slave,,,Bybee et al. 1994
+61,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Slave,,,Rice 1989
+62,70A,No second-person imperatives,The Morphological Imperative,Slave,,,Rice 1989
+63,72A,Maximal system,Imperative-Hortative Systems,Slave,,,Rice 1989
+64,73A,Inflectional optative absent,The Optative,Slave,,,Rice 1989
+65,74A,Other kinds of markers,Situational Possibility,Slave,,,Rice 1989
+66,75A,Other,Epistemic Possibility,Slave,,,Rice 1989
+67,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Slave,,,Rice 1989
+68,77A,Indirect only,Semantic Distinctions of Evidentiality,Slave,,,Rice 1989
+69,78A,Separate particle,Coding of Evidentiality,Slave,,,Rice 1989
+70,79A,Aspect,Suppletion According to Tense and Aspect,Slave,,,
+71,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Slave,,,
+72,80A,"Singular-dual-plural triples, suppletion",Verbal Number and Suppletion,Slave,,,
+73,81A,SOV,"Order of Subject, Object and Verb",Slave,,,Rice 1989
+74,82A,SV,Order of Subject and Verb,Slave,,,Rice 1989
+75,83A,OV,Order of Object and Verb,Slave,,,Rice 1989
+76,84A,XOV,"Order of Object, Oblique, and Verb",Slave,,,Rice 1989
+77,85A,Postpositions,Order of Adposition and Noun Phrase,Slave,,,Rice 1989
+78,86A,Genitive-Noun,Order of Genitive and Noun,Slave,,,Rice 1989
+79,87A,Noun-Adjective,Order of Adjective and Noun,Slave,,,Rice 1989
+80,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Slave,,,Rice 1989
+81,89A,Noun-Numeral,Order of Numeral and Noun,Slave,,,Rice 1989
+82,90A,Mixed,Order of Relative Clause and Noun,Slave,,,Rice 1989
+83,90C,NRel or internally-headed,Postnominal relative clauses,Slave,,,Rice 1989
+84,90D,Internally-headed or NRel,Internally-headed relative clauses,Slave,,,Rice 1989
+85,92A,Initial,Position of Polar Question Particles,Slave,,,Rice 1989
+86,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Slave,,,Rice 1989
+87,94A,Mixed,Order of Adverbial Subordinator and Clause,Slave,,,Rice 1989
+88,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Slave,,,
+89,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Slave,,,
+90,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Slave,,,
+91,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Slave,,,Rice 1989
+92,99A,Neutral,Alignment of Case Marking of Pronouns,Slave,,,Rice 1989
+93,100A,Accusative,Alignment of Verbal Person Marking,Slave,,,Rice 1989
+94,101A,Subject affixes on verb,Expression of Pronominal Subjects,Slave,,,Rice 1989
+95,102A,Both the A and P arguments,Verbal Person Marking,Slave,,,Rice 1989
+96,103A,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Slave,,,Rice 1989
+97,104A,P precedes A,Order of Person Markers on the Verb,Slave,,,Rice 1989
+98,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Slave,,,Rice 1989
+99,106A,Distinct from reflexive,Reciprocal Constructions,Slave,,,Rice 1989
+100,107A,Present,Passive Constructions,Slave,,,Rice 1989
+101,108A,No antipassive,Antipassive Constructions,Slave,,,Rice 1989
+102,108B,no antipassive,Productivity of the Antipassive Construction,Slave,,,Rice 1989
+103,109A,No applicative construction,Applicative Constructions,Slave,,,Rice 1989
+104,109B,No applicative construction,Other Roles of Applied Objects,Slave,,,
+105,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Slave,,,Rice 1989
+106,112A,Negative particle,Negative Morphemes,Slave,,,Rice 1989
+107,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Slave,,,Rice 1989
+108,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Slave,,,Rice 1989
+109,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Slave,,,Rice 1989
+110,116A,Question particle,Polar Questions,Slave,,,Rice 1989
+111,118A,Verbal encoding,Predicative Adjectives,Slave,,,Rice 1989
+112,119A,Different,Nominal and Locational Predication,Slave,,,Rice 1989
+113,120A,Impossible,Zero Copula for Predicate Nominals,Slave,,,Rice 1989
+114,122A,Non-reduction,Relativization on Subjects,Slave,,,Rice 1989
+115,123A,Non-reduction,Relativization on Obliques,Slave,,,Rice 1989
+116,124A,Subject is expressed overtly,'Want' Complement Subjects,Slave,,,Rice 1989
+117,125A,Balanced,Purpose Clauses,Slave,,,Rice 1989
+118,126A,Balanced,'When' Clauses,Slave,,,Rice 1989
+119,127A,Balanced,Reason Clauses,Slave,,,Rice 1989
+120,128A,Balanced,Utterance Complement Clauses,Slave,,,Rice 1989
+121,129A,Different,Hand and Arm,Slave,,,Petitot 1876
+122,130A,Different,Finger and Hand,Slave,,,Petitot 1876
+123,131A,Decimal,Numeral Bases,Slave,,,Rice 1989
+124,132A,6,Number of Non-Derived Basic Colour Categories,Slave,,,
+125,133A,7-7.5,Number of Basic Colour Categories,Slave,,,
+126,134A,Green vs. blue,Green and Blue,Slave,,,
+127,135A,Red vs. yellow,Red and Yellow,Slave,,,
+128,136A,No M-T pronouns,M-T Pronouns,Slave,,,Rice 1989
+129,136B,No m in first person singular,M in First Person Singular,Slave,,,Rice 1989
+130,137A,No N-M pronouns,N-M Pronouns,Slave,,,Rice 1989
+131,137B,No m in second person singular,M in Second Person Singular,Slave,,,Rice 1989
+132,143A,VNeg,Order of Negative Morpheme and Verb,Slave,,,Rice 1989
+133,143E,None,Preverbal Negative Morphemes,Slave,,,Rice 1989
+134,143F,VNeg,Postverbal Negative Morphemes,Slave,,,Rice 1989
+135,143G,None,Minor morphological means of signaling negation,Slave,,,Rice 1989
+136,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Slave,,,Rice 1989
+137,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Slave,,,Rice 1989
+138,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Slave,,,Rice 1989
+139,144P,No NegSOV,NegSOV Order,Slave,,,Rice 1989
+140,144Q,No SNegOV,SNegOV Order,Slave,,,Rice 1989
+141,144R,No SONegV,SONegV Order,Slave,,,Rice 1989
+142,144S,Word&NoDoubleNeg,SOVNeg Order,Slave,,,Rice 1989

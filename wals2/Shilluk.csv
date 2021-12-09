@@ -1,0 +1,40 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Shilluk,,,Kohnen 1933
+1,33A,Plural suffix,Coding of Nominal Plurality,Shilluk,,,Kohnen 1933
+2,51A,Case tone,Position of Case Affixes,Shilluk,,,Kohnen 1933
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Shilluk,,,Kohnen 1933
+4,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Shilluk,,,Kohnen 1933
+5,70A,Second singular and second plural,The Morphological Imperative,Shilluk,,,Westermann 1974
+6,71A,Normal imperative + special negative,The Prohibitive,Shilluk,,,Westermann 1974
+7,72A,Neither type of system,Imperative-Hortative Systems,Shilluk,,,Westermann 1974
+8,73A,Inflectional optative absent,The Optative,Shilluk,,,Westermann 1912
+9,81A,SVO,"Order of Subject, Object and Verb",Shilluk,,,Kohnen 1933
+10,82A,SV,Order of Subject and Verb,Shilluk,,,Kohnen 1933
+11,83A,VO,Order of Object and Verb,Shilluk,,,Westermann 1912
+12,85A,Prepositions,Order of Adposition and Noun Phrase,Shilluk,,,Kohnen 1933
+13,86A,Noun-Genitive,Order of Genitive and Noun,Shilluk,,,Kohnen 1933
+14,87A,Noun-Adjective,Order of Adjective and Noun,Shilluk,,,Kohnen 1933
+15,89A,Noun-Numeral,Order of Numeral and Noun,Shilluk,,,Kohnen 1933
+16,92A,No question particle,Position of Polar Question Particles,Shilluk,,,Kohnen 1933
+17,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Shilluk,,,Kohnen 1933
+18,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Shilluk,,,Kohnen 1933
+19,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Shilluk,,,
+20,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Shilluk,,,
+21,112A,Negative particle,Negative Morphemes,Shilluk,,,Kohnen 1933
+22,116A,Interrogative intonation only,Polar Questions,Shilluk,,,Kohnen 1933
+23,118A,Mixed,Predicative Adjectives,Shilluk,,,Westermann 1912
+24,119A,Different,Nominal and Locational Predication,Shilluk,,,Westermann 1912
+25,120A,Possible,Zero Copula for Predicate Nominals,Shilluk,,,Westermann 1912
+26,129A,Different,Hand and Arm,Shilluk,,,Westermann 1974
+27,130A,Different,Finger and Hand,Shilluk,,,Westermann 1974
+28,143A,NegV,Order of Negative Morpheme and Verb,Shilluk,,,Kohnen 1933
+29,143E,NegV,Preverbal Negative Morphemes,Shilluk,,,Kohnen 1933
+30,143F,None,Postverbal Negative Morphemes,Shilluk,,,Kohnen 1933
+31,143G,None,Minor morphological means of signaling negation,Shilluk,,,Kohnen 1933
+32,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Shilluk,,,Kohnen 1933
+33,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Shilluk,,,Kohnen 1933
+34,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Shilluk,,,Kohnen 1933
+35,144H,No NegSVO,NegSVO Order,Shilluk,,,Kohnen 1933
+36,144I,Word&NoDoubleNeg,SNegVO Order,Shilluk,,,Kohnen 1933
+37,144J,No SVNegO,SVNegO Order,Shilluk,,,Kohnen 1933
+38,144K,No SVONeg,SVONeg Order,Shilluk,,,Kohnen 1933

@@ -1,0 +1,93 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Tsimshian (Coast),,,Dunn 1970
+1,2A,Small (2-4),Vowel Quality Inventories,Tsimshian (Coast),,,Dunn 1970
+2,3A,High,Consonant-Vowel Ratio,Tsimshian (Coast),,,Dunn 1970
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tsimshian (Coast),,,Dunn 1970
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Tsimshian (Coast),,,Dunn 1970
+5,6A,Uvular stops only,Uvular Consonants,Tsimshian (Coast),,,Dunn 1970
+6,7A,Ejectives and glottalized resonants,Glottalized Consonants,Tsimshian (Coast),,,Dunn 1970
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Tsimshian (Coast),,,Dunn 1970
+8,9A,No velar nasal,The Velar Nasal,Tsimshian (Coast),,,Mulder 1994
+9,10A,Contrast absent,Vowel Nasalization,Tsimshian (Coast),,,Mulder 1994
+10,11A,None,Front Rounded Vowels,Tsimshian (Coast),,,Dunn 1970
+11,12A,Complex,Syllable Structure,Tsimshian (Coast),,,Dunn 1970
+12,13A,No tones,Tone,Tsimshian (Coast),,,Dunn 1970
+13,14A,Ultimate,Fixed Stress Locations,Tsimshian (Coast),,,Dunn 1995
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tsimshian (Coast),,,Dunn 1995
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tsimshian (Coast),,,Dunn 1995
+16,18A,All present,Absence of Common Consonants,Tsimshian (Coast),,,Dunn 1970
+17,19A,None,Presence of Uncommon Consonants,Tsimshian (Coast),,,Dunn 1970
+18,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tsimshian (Coast),,,Dunn 1979
+19,27A,Productive full and partial reduplication,Reduplication,Tsimshian (Coast),,,Dunn 1995
+20,28A,No case marking,Case Syncretism,Tsimshian (Coast),,,Dunn 1995
+21,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Tsimshian (Coast),,,Dunn 1995
+22,30A,None,Number of Genders,Tsimshian (Coast),,,Dunn 1995
+23,31A,No gender,Sex-based and Non-sex-based Gender Systems,Tsimshian (Coast),,,Dunn 1995
+24,32A,No gender,Systems of Gender Assignment,Tsimshian (Coast),,,Dunn 1995
+25,33A,Plural prefix,Coding of Nominal Plurality,Tsimshian (Coast),,,Dunn 1979
+26,35A,Person-number affixes,Plurality in Independent Personal Pronouns,Tsimshian (Coast),,,Boas 1911c
+27,37A,Definite word distinct from demonstrative,Definite Articles,Tsimshian (Coast),,,Dunn 1979
+28,38A,"No indefinite, but definite article",Indefinite Articles,Tsimshian (Coast),,,Dunn 1979
+29,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Tsimshian (Coast),,,Boas 1911c
+30,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Tsimshian (Coast),,,Boas 1911c
+31,41A,Two-way contrast,Distance Contrasts in Demonstratives,Tsimshian (Coast),,,Boas 1911c
+32,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tsimshian (Coast),,,Boas 1911c
+33,48A,No person marking,Person Marking on Adpositions,Tsimshian (Coast),,,Mulder 1994
+34,49A,No morphological case-marking,Number of Cases,Tsimshian (Coast),,,Dunn 1979
+35,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Tsimshian (Coast),,,Dunn 1979
+36,54A,Marked by prefix,Distributive Numerals,Tsimshian (Coast),,,Boas 1911c
+37,55A,Obligatory,Numeral Classifiers,Tsimshian (Coast),,,Boas 1911c
+38,56A,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Tsimshian (Coast),,,Boas 1911c
+39,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tsimshian (Coast),,,Dunn 1979
+40,63A,'And' different from 'with',Noun Phrase Conjunction,Tsimshian (Coast),,,Boas 1911c
+41,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Tsimshian (Coast),,,Dunn 1979
+42,71A,Normal imperative + special negative,The Prohibitive,Tsimshian (Coast),,,Dunn 1979
+43,75A,Affixes on verbs,Epistemic Possibility,Tsimshian (Coast),,,Boas 1911c
+44,77A,Indirect only,Semantic Distinctions of Evidentiality,Tsimshian (Coast),,,Boas 1911c
+45,78A,Verbal affix or clitic,Coding of Evidentiality,Tsimshian (Coast),,,Boas 1911c
+46,81A,VSO,"Order of Subject, Object and Verb",Tsimshian (Coast),,,Dunn 1979
+47,82A,VS,Order of Subject and Verb,Tsimshian (Coast),,,Dunn 1979
+48,83A,VO,Order of Object and Verb,Tsimshian (Coast),,,Dunn 1979
+49,84A,VOX,"Order of Object, Oblique, and Verb",Tsimshian (Coast),,,Dunn 1979
+50,85A,Prepositions,Order of Adposition and Noun Phrase,Tsimshian (Coast),,,Dunn 1979
+51,86A,Noun-Genitive,Order of Genitive and Noun,Tsimshian (Coast),,,Dunn 1979
+52,87A,Adjective-Noun,Order of Adjective and Noun,Tsimshian (Coast),,,Dunn 1979
+53,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tsimshian (Coast),,,Dunn 1979
+54,89A,Numeral-Noun,Order of Numeral and Noun,Tsimshian (Coast),,,Dunn 1979
+55,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tsimshian (Coast),,,Mulder 1994
+56,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tsimshian (Coast),,,Dunn 1979
+57,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tsimshian (Coast),,,Boas 1911c
+58,92A,No question particle,Position of Polar Question Particles,Tsimshian (Coast),,,Dunn 1979
+59,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tsimshian (Coast),,,Dunn 1979
+60,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tsimshian (Coast),,,Boas 1911c
+61,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tsimshian (Coast),,,
+62,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tsimshian (Coast),,,
+63,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tsimshian (Coast),,,
+64,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Tsimshian (Coast),,,Mulder 1994
+65,99A,Neutral,Alignment of Case Marking of Pronouns,Tsimshian (Coast),,,Mulder 1994
+66,100A,Split,Alignment of Verbal Person Marking,Tsimshian (Coast),,,Mulder 1994
+67,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Tsimshian (Coast),,,Mulder 1994
+68,102A,Both the A and P arguments,Verbal Person Marking,Tsimshian (Coast),,,Boas 1911c
+69,103A,No zero realization,Third Person Zero of Verbal Person Marking,Tsimshian (Coast),,,Boas 1911c
+70,104A,P precedes A,Order of Person Markers on the Verb,Tsimshian (Coast),,,Boas 1911c
+71,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Tsimshian (Coast),,,Mulder 1994
+72,107A,Absent,Passive Constructions,Tsimshian (Coast),,,Mulder 1994
+73,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tsimshian (Coast),,,Dunn 1979
+74,112A,Double negation,Negative Morphemes,Tsimshian (Coast),,,Dunn 1979
+75,113A,Both,Symmetric and Asymmetric Standard Negation,Tsimshian (Coast),,,Dunn 1979
+76,114A,A/NonReal,Subtypes of Asymmetric Standard Negation,Tsimshian (Coast),,,Dunn 1979
+77,116A,Interrogative intonation only,Polar Questions,Tsimshian (Coast),,,Dunn 1979
+78,124A,Subject is expressed overtly,'Want' Complement Subjects,Tsimshian (Coast),,,Mulder 1994
+79,129A,Different,Hand and Arm,Tsimshian (Coast),,,Dunn 1995
+80,130A,Different,Finger and Hand,Tsimshian (Coast),,,Dunn 1995
+81,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Tsimshian (Coast),,,Dunn 1979
+82,143B,NegNegV,Obligatory Double Negation,Tsimshian (Coast),,,Dunn 1979
+83,143E,NegV,Preverbal Negative Morphemes,Tsimshian (Coast),,,Dunn 1979
+84,143F,None,Postverbal Negative Morphemes,Tsimshian (Coast),,,Dunn 1979
+85,143G,None,Minor morphological means of signaling negation,Tsimshian (Coast),,,Dunn 1979
+86,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tsimshian (Coast),,,Dunn 1979
+87,144T,ObligDoubleNeg,The Position of Negative Morphemes in Verb-Initial Languages,Tsimshian (Coast),,,Dunn 1979
+88,144U,NegNegVSO,Double negation in verb-initial languages,Tsimshian (Coast),,,Dunn 1979
+89,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tsimshian (Coast),,,Dunn 1979
+90,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tsimshian (Coast),,,Dunn 1979
+91,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tsimshian (Coast),,,Dunn 1979

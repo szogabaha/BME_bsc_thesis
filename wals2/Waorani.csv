@@ -1,0 +1,72 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,2A,Average (5-6),Vowel Quality Inventories,Waorani,,,Saint and Pike 1962
+1,3A,Moderately low,Consonant-Vowel Ratio,Waorani,,,Saint and Pike 1962
+2,4A,In plosives alone,Voicing in Plosives and Fricatives,Waorani,,,Saint and Pike 1962
+3,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Waorani,,,Saint and Pike 1962
+4,6A,None,Uvular Consonants,Waorani,,,Saint and Pike 1962
+5,7A,No glottalized consonants,Glottalized Consonants,Waorani,,,Saint and Pike 1962
+6,8A,No laterals,Lateral Consonants,Waorani,,,Saint and Pike 1962
+7,11A,None,Front Rounded Vowels,Waorani,,,Saint and Pike 1962
+8,12A,Simple,Syllable Structure,Waorani,,,Saint and Pike 1962
+9,13A,No tones,Tone,Waorani,,,Saint and Pike 1962
+10,14A,Initial,Fixed Stress Locations,Waorani,,,Pike 1964
+11,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Waorani,,,Pike 1964
+12,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Waorani,,,Pike 1964
+13,17A,Trochaic,Rhythm Types,Waorani,,,Pike 1964
+14,18A,No fricatives,Absence of Common Consonants,Waorani,,,Saint and Pike 1962
+15,19A,None,Presence of Uncommon Consonants,Waorani,,,Saint and Pike 1962
+16,23A,No marking,Locus of Marking in the Clause,Waorani,,,Peeke 1973
+17,24A,No marking,Locus of Marking in Possessive Noun Phrases,Waorani,,,Peeke 1973
+18,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Waorani,,,Peeke 1973
+19,25B,Non-zero marking,Zero Marking of A and P Arguments,Waorani,,,Peeke 1973
+20,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Waorani,,,Peeke 1973
+21,33A,Plural suffix,Coding of Nominal Plurality,Waorani,,,Peeke 1979
+22,44A,"3rd person only, but also non-singular",Gender Distinctions in Independent Personal Pronouns,Waorani,,,Peeke 1973
+23,48A,No person marking,Person Marking on Adpositions,Waorani,,,Wilkendorf 1988
+24,55A,Obligatory,Numeral Classifiers,Waorani,,,Nichols 1992
+25,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Waorani,,,Peeke 1973
+26,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Waorani,,,Peeke 1973
+27,71A,Normal imperative + normal negative,The Prohibitive,Waorani,,,Peeke 1994
+28,77A,Indirect only,Semantic Distinctions of Evidentiality,Waorani,,,Wilkendorf 1988
+29,78A,Verbal affix or clitic,Coding of Evidentiality,Waorani,,,Wilkendorf 1988
+30,81A,SOV,"Order of Subject, Object and Verb",Waorani,,,Peeke 1973
+31,82A,SV,Order of Subject and Verb,Waorani,,,Peeke 1973
+32,83A,OV,Order of Object and Verb,Waorani,,,Peeke 1973
+33,85A,Postpositions,Order of Adposition and Noun Phrase,Waorani,,,Peeke 1994
+34,86A,Genitive-Noun,Order of Genitive and Noun,Waorani,,,Peeke 1979
+35,87A,No dominant order,Order of Adjective and Noun,Waorani,,,Peeke 1979
+36,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Waorani,,,Peeke 1994
+37,90A,Mixed,Order of Relative Clause and Noun,Waorani,,,Peeke 1994
+38,90B,RelN or NRel,Prenominal relative clauses,Waorani,,,Peeke 1994
+39,90C,NRel or RelN,Postnominal relative clauses,Waorani,,,Peeke 1994
+40,92A,No question particle,Position of Polar Question Particles,Waorani,,,Peeke 1994
+41,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Waorani,,,
+42,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Waorani,,,
+43,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Waorani,,,
+44,100A,Accusative,Alignment of Verbal Person Marking,Waorani,,,Wilkendorf 1988
+45,102A,Only the A argument,Verbal Person Marking,Waorani,,,Peeke 1973
+46,103A,Zero in some 3sg forms,Third Person Zero of Verbal Person Marking,Waorani,,,Peeke 1973
+47,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Waorani,,,Peeke 1973
+48,107A,Absent,Passive Constructions,Waorani,,,Peeke 1973
+49,112A,Negative affix,Negative Morphemes,Waorani,,,Peeke 1979
+50,113A,Both,Symmetric and Asymmetric Standard Negation,Waorani,,,Peeke 1994
+51,114A,A/Fin,Subtypes of Asymmetric Standard Negation,Waorani,,,Peeke 1994
+52,116A,Interrogative verb morphology,Polar Questions,Waorani,,,Peeke 1994
+53,132A,4,Number of Non-Derived Basic Colour Categories,Waorani,,,
+54,133A,3-4,Number of Basic Colour Categories,Waorani,,,
+55,134A,Green/blue,Green and Blue,Waorani,,,
+56,135A,None,Red and Yellow,Waorani,,,
+57,136A,No M-T pronouns,M-T Pronouns,Waorani,,,Pike and Saint 1989
+58,136B,m in first person singular,M in First Person Singular,Waorani,,,Pike and Saint 1989
+59,137A,No N-M pronouns,N-M Pronouns,Waorani,,,Pike and Saint 1989
+60,137B,m in second person singular,M in Second Person Singular,Waorani,,,Pike and Saint 1989
+61,143A,[V-Neg],Order of Negative Morpheme and Verb,Waorani,,,Peeke 1979
+62,143E,None,Preverbal Negative Morphemes,Waorani,,,Peeke 1979
+63,143F,[V-Neg],Postverbal Negative Morphemes,Waorani,,,Peeke 1979
+64,143G,None,Minor morphological means of signaling negation,Waorani,,,Peeke 1979
+65,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Waorani,,,Peeke 1979
+66,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Waorani,,,Peeke 1979
+67,144P,No NegSOV,NegSOV Order,Waorani,,,Peeke 1979
+68,144Q,No SNegOV,SNegOV Order,Waorani,,,Peeke 1979
+69,144R,No SONegV,SONegV Order,Waorani,,,Peeke 1979
+70,144S,Suffix&NoDoubleNeg,SOVNeg Order,Waorani,,,Peeke 1979

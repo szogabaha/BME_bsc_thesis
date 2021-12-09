@@ -1,0 +1,25 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural suffix,Coding of Nominal Plurality,Yaminahua,,,Eakin 1991
+1,51A,Case suffixes,Position of Case Affixes,Yaminahua,,,Eakin 1991
+2,77A,Indirect only,Semantic Distinctions of Evidentiality,Yaminahua,,,Eakin 1991
+3,78A,Verbal affix or clitic,Coding of Evidentiality,Yaminahua,,,Eakin 1991
+4,81A,SOV,"Order of Subject, Object and Verb",Yaminahua,,,Eakin 1991
+5,82A,SV,Order of Subject and Verb,Yaminahua,,,Eakin 1991
+6,83A,OV,Order of Object and Verb,Yaminahua,,,Eakin 1991
+7,87A,Noun-Adjective,Order of Adjective and Noun,Yaminahua,,,Eakin 1991
+8,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yaminahua,,,
+9,112A,Negative affix,Negative Morphemes,Yaminahua,,,Eakin 1991
+10,132A,5,Number of Non-Derived Basic Colour Categories,Yaminahua,,,
+11,133A,4.5-5.5,Number of Basic Colour Categories,Yaminahua,,,
+12,134A,Green/blue,Green and Blue,Yaminahua,,,
+13,135A,Red vs. yellow,Red and Yellow,Yaminahua,,,
+14,143A,[V-Neg],Order of Negative Morpheme and Verb,Yaminahua,,,Eakin 1991
+15,143E,None,Preverbal Negative Morphemes,Yaminahua,,,Eakin 1991
+16,143F,[V-Neg],Postverbal Negative Morphemes,Yaminahua,,,Eakin 1991
+17,143G,None,Minor morphological means of signaling negation,Yaminahua,,,Eakin 1991
+18,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Yaminahua,,,Eakin 1991
+19,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Yaminahua,,,Eakin 1991
+20,144P,No NegSOV,NegSOV Order,Yaminahua,,,Eakin 1991
+21,144Q,No SNegOV,SNegOV Order,Yaminahua,,,Eakin 1991
+22,144R,No SONegV,SONegV Order,Yaminahua,,,Eakin 1991
+23,144S,Suffix&NoDoubleNeg,SOVNeg Order,Yaminahua,,,Eakin 1991

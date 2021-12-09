@@ -1,0 +1,66 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No initial velar nasal,The Velar Nasal,Uzbek,,,Xodzhiev 1997
+1,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Uzbek,,,Boeschoten 1998
+2,30A,None,Number of Genders,Uzbek,,,Sjoberg 1963
+3,31A,No gender,Sex-based and Non-sex-based Gender Systems,Uzbek,,,Sjoberg 1963
+4,32A,No gender,Systems of Gender Assignment,Uzbek,,,Sjoberg 1963
+5,33A,Plural suffix,Coding of Nominal Plurality,Uzbek,,,Sjoberg 1963
+6,35A,Person-number stem + nominal plural affix,Plurality in Independent Personal Pronouns,Uzbek,,,Kononov 1960
+7,36A,Associative same as additive plural,The Associative Plural,Uzbek,,,Kononov 1960
+8,46A,Interrogative-based,Indefinite Pronouns,Uzbek,,,Reshetov 1966
+9,51A,Case suffixes,Position of Case Affixes,Uzbek,,,Sjoberg 1963
+10,52A,Mixed,Comitatives and Instrumentals,Uzbek,,,Sjoberg 1963
+11,53A,"One-th, two-th, three-th",Ordinal Numerals,Uzbek,,,Boeschoten 1998
+12,56A,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Uzbek,,,Sjoberg 1963
+13,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Uzbek,,,Sjoberg 1963
+14,63A,'And' different from 'with',Noun Phrase Conjunction,Uzbek,,,Sjoberg 1963
+15,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Uzbek,,,Sjoberg 1963
+16,70A,Second singular and second plural,The Morphological Imperative,Uzbek,,,Raun 1969
+17,71A,Normal imperative + normal negative,The Prohibitive,Uzbek,,,Raun 1969
+18,72A,Maximal system,Imperative-Hortative Systems,Uzbek,,,Raun 1969
+19,74A,Affixes on verbs,Situational Possibility,Uzbek,,,Raun 1969
+20,75A,Other,Epistemic Possibility,Uzbek,,,Boeschoten 1998
+21,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Uzbek,,,Raun 1969
+22,81A,SOV,"Order of Subject, Object and Verb",Uzbek,,,Sjoberg 1963
+23,82A,SV,Order of Subject and Verb,Uzbek,,,Sjoberg 1963
+24,83A,OV,Order of Object and Verb,Uzbek,,,Sjoberg 1963
+25,86A,Genitive-Noun,Order of Genitive and Noun,Uzbek,,,Sjoberg 1963
+26,87A,Adjective-Noun,Order of Adjective and Noun,Uzbek,,,Sjoberg 1963
+27,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Uzbek,,,Sjoberg 1963
+28,89A,Numeral-Noun,Order of Numeral and Noun,Uzbek,,,Raun 1969
+29,90A,Relative clause-Noun,Order of Relative Clause and Noun,Uzbek,,,Sjoberg 1963
+30,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Uzbek,,,Sjoberg 1963
+31,91A,Degree word-Adjective,Order of Degree Word and Adjective,Uzbek,,,Sjoberg 1963
+32,92A,No question particle,Position of Polar Question Particles,Uzbek,,,Sjoberg 1963
+33,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Uzbek,,,Sjoberg 1963
+34,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Uzbek,,,Sjoberg 1963
+35,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Uzbek,,,
+36,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Uzbek,,,
+37,101A,Subject affixes on verb,Expression of Pronominal Subjects,Uzbek,,,Sjoberg 1963
+38,108A,No antipassive,Antipassive Constructions,Uzbek,,,Kononov 1960
+39,108B,no antipassive,Productivity of the Antipassive Construction,Uzbek,,,Kononov 1960
+40,109A,No applicative construction,Applicative Constructions,Uzbek,,,Kononov 1960
+41,109B,No applicative construction,Other Roles of Applied Objects,Uzbek,,,
+42,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Uzbek,,,Sjoberg 1963
+43,112A,Negative affix,Negative Morphemes,Uzbek,,,Boeschoten 1998
+44,113A,Both,Symmetric and Asymmetric Standard Negation,Uzbek,,,Sjoberg 1963
+45,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Uzbek,,,Sjoberg 1963
+46,116A,Interrogative verb morphology,Polar Questions,Uzbek,,,Sjoberg 1963
+47,117A,Locational,Predicative Possession,Uzbek,,,Sjoberg 1963
+48,118A,Nonverbal encoding,Predicative Adjectives,Uzbek,,,Sjoberg 1963
+49,119A,Identical,Nominal and Locational Predication,Uzbek,,,Sjoberg 1963
+50,120A,Possible,Zero Copula for Predicate Nominals,Uzbek,,,Sjoberg 1963
+51,121A,Locational,Comparative Constructions,Uzbek,,,Sjoberg 1963
+52,129A,Identical,Hand and Arm,Uzbek,,,Khakimov 1994
+53,130A,Different,Finger and Hand,Uzbek,,,Khakimov 1994
+54,138A,Words derived from Sinitic cha,Tea,Uzbek,,,Malherbe and Rosenberg 1996
+55,143A,[V-Neg],Order of Negative Morpheme and Verb,Uzbek,,,Boeschoten 1998
+56,143E,None,Preverbal Negative Morphemes,Uzbek,,,Boeschoten 1998
+57,143F,[V-Neg],Postverbal Negative Morphemes,Uzbek,,,Boeschoten 1998
+58,143G,None,Minor morphological means of signaling negation,Uzbek,,,Boeschoten 1998
+59,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Uzbek,,,Boeschoten 1998
+60,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Uzbek,,,Boeschoten 1998
+61,144P,No NegSOV,NegSOV Order,Uzbek,,,Boeschoten 1998
+62,144Q,No SNegOV,SNegOV Order,Uzbek,,,Boeschoten 1998
+63,144R,No SONegV,SONegV Order,Uzbek,,,Boeschoten 1998
+64,144S,Suffix&NoDoubleNeg,SOVNeg Order,Uzbek,,,Boeschoten 1998

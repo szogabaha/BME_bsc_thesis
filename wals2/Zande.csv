@@ -1,0 +1,56 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Zande,,,Tucker and Hackett 1959
+1,2A,Large (7-14),Vowel Quality Inventories,Zande,,,Tucker and Hackett 1959
+2,3A,Average,Consonant-Vowel Ratio,Zande,,,Tucker and Hackett 1959
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Zande,,,Tucker and Hackett 1959
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Zande,,,Tucker and Hackett 1959
+5,6A,None,Uvular Consonants,Zande,,,Tucker and Hackett 1959
+6,7A,No glottalized consonants,Glottalized Consonants,Zande,,,Tucker and Hackett 1959
+7,8A,"Laterals, but no /l/, no obstruent laterals",Lateral Consonants,Zande,,,Tucker and Hackett 1959
+8,11A,None,Front Rounded Vowels,Zande,,,Tucker and Hackett 1959
+9,13A,Simple tone system,Tone,Zande,,,Tucker and Hackett 1959
+10,18A,All present,Absence of Common Consonants,Zande,,,Tucker and Hackett 1959
+11,19A,Labial-velars,Presence of Uncommon Consonants,Zande,,,Tucker and Hackett 1959
+12,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Zande,,,Tucker and Bryan 1966
+13,30A,Four,Number of Genders,Zande,,,Claudi 1985
+14,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Zande,,,Claudi 1985
+15,32A,Semantic,Systems of Gender Assignment,Zande,,,Claudi 1985
+16,33A,Plural prefix,Coding of Nominal Plurality,Zande,,,Gore 1926
+17,44A,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Zande,,,Gore 1931
+18,48A,No person marking,Person Marking on Adpositions,Zande,,,Tucker and Bryan 1956
+19,51A,Case suffixes,Position of Case Affixes,Zande,,,Tucker and Bryan 1966
+20,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Zande,,,Tucker and Bryan 1966
+21,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Zande,,,Gore 1926
+22,81A,SVO,"Order of Subject, Object and Verb",Zande,,,Tucker and Bryan 1966
+23,82A,SV,Order of Subject and Verb,Zande,,,Tucker and Bryan 1966
+24,83A,VO,Order of Object and Verb,Zande,,,Tucker and Bryan 1966
+25,85A,Prepositions,Order of Adposition and Noun Phrase,Zande,,,Gore 1926
+26,86A,No dominant order,Order of Genitive and Noun,Zande,,,Tucker and Bryan 1966
+27,87A,Adjective-Noun,Order of Adjective and Noun,Zande,,,Tucker and Bryan 1966
+28,88A,Demonstrative before and after Noun,Order of Demonstrative and Noun,Zande,,,Tucker and Bryan 1966
+29,89A,Noun-Numeral,Order of Numeral and Noun,Zande,,,Tucker and Bryan 1966
+30,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Zande,,,Gore 1926
+31,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Zande,,,
+32,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Zande,,,
+33,100A,Accusative,Alignment of Verbal Person Marking,Zande,,,Tucker and Bryan 1956
+34,102A,Both the A and P arguments,Verbal Person Marking,Zande,,,Tucker and Bryan 1956
+35,103A,No zero realization,Third Person Zero of Verbal Person Marking,Zande,,,Tucker and Bryan 1956
+36,104A,A precedes P,Order of Person Markers on the Verb,Zande,,,Tucker and Bryan 1956
+37,107A,Present,Passive Constructions,Zande,,,Gore 1931
+38,112A,Double negation,Negative Morphemes,Zande,,,Tucker and Bryan 1966
+39,117A,Conjunctional,Predicative Possession,Zande,,,Tucker 1959
+40,118A,Mixed,Predicative Adjectives,Zande,,,Tucker 1959
+41,119A,Different,Nominal and Locational Predication,Zande,,,Tucker 1959
+42,120A,Impossible,Zero Copula for Predicate Nominals,Zande,,,Tucker 1959
+43,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Zande,,,Tucker and Bryan 1966
+44,143B,VNegNeg,Obligatory Double Negation,Zande,,,Tucker and Bryan 1966
+45,143E,None,Preverbal Negative Morphemes,Zande,,,Tucker and Bryan 1966
+46,143F,VNeg,Postverbal Negative Morphemes,Zande,,,Tucker and Bryan 1966
+47,143G,None,Minor morphological means of signaling negation,Zande,,,Tucker and Bryan 1966
+48,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Zande,,,Tucker and Bryan 1966
+49,144D,ObligNeg,The Position of Negative Morphemes in SVO Languages,Zande,,,Tucker and Bryan 1966
+50,144F,SVNegONeg,Obligatory Double Negation in SVO languages,Zande,,,Tucker and Bryan 1966
+51,144H,No NegSVO,NegSVO Order,Zande,,,Tucker and Bryan 1966
+52,144I,No SNegVO,SNegVO Order,Zande,,,Tucker and Bryan 1966
+53,144J,Word&OnlyWithAnotherNeg,SVNegO Order,Zande,,,Tucker and Bryan 1966
+54,144K,OnlyWithAnotherNeg,SVONeg Order,Zande,,,Tucker and Bryan 1966

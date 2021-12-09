@@ -1,0 +1,119 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Shipibo-Konibo,,,Loriot et al. 1993
+1,2A,Small (2-4),Vowel Quality Inventories,Shipibo-Konibo,,,Loriot et al. 1993
+2,3A,Average,Consonant-Vowel Ratio,Shipibo-Konibo,,,Loriot et al. 1993
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Shipibo-Konibo,,,Loriot et al. 1993
+4,5A,Other,Voicing and Gaps in Plosive Systems,Shipibo-Konibo,,,Loriot et al. 1993
+5,6A,None,Uvular Consonants,Shipibo-Konibo,,,Loriot et al. 1993
+6,7A,No glottalized consonants,Glottalized Consonants,Shipibo-Konibo,,,Loriot et al. 1993
+7,8A,No laterals,Lateral Consonants,Shipibo-Konibo,,,Loriot et al. 1993
+8,9A,No velar nasal,The Velar Nasal,Shipibo-Konibo,,,
+9,11A,None,Front Rounded Vowels,Shipibo-Konibo,,,Loriot et al. 1993
+10,12A,Moderately complex,Syllable Structure,Shipibo-Konibo,,,Loriot et al. 1993
+11,13A,No tones,Tone,Shipibo-Konibo,,,Loriot et al. 1993
+12,14A,No fixed stress,Fixed Stress Locations,Shipibo-Konibo,,,Faust 1973
+13,15A,Left-edge: First or second,Weight-Sensitive Stress,Shipibo-Konibo,,,Faust 1973
+14,16A,Coda consonant,Weight Factors in Weight-Sensitive Stress Systems,Shipibo-Konibo,,,Faust 1973
+15,18A,All present,Absence of Common Consonants,Shipibo-Konibo,,,Loriot et al. 1993
+16,19A,None,Presence of Uncommon Consonants,Shipibo-Konibo,,,Loriot et al. 1993
+17,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Shipibo-Konibo,,,Valenzuela 1997
+18,22A,6-7 categories per word,Inflectional Synthesis of the Verb,Shipibo-Konibo,,,Valenzuela 1997
+19,23A,Dependent marking,Locus of Marking in the Clause,Shipibo-Konibo,,,Valenzuela 1997
+20,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Shipibo-Konibo,,,Valenzuela 1997
+21,25A,Dependent-marking,Locus of Marking: Whole-language Typology,Shipibo-Konibo,,,Valenzuela 1997
+22,25B,Non-zero marking,Zero Marking of A and P Arguments,Shipibo-Konibo,,,Valenzuela 1997
+23,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Shipibo-Konibo,,,Faust 1973
+24,28A,No case marking,Case Syncretism,Shipibo-Konibo,,,Valenzuela 1997
+25,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Shipibo-Konibo,,,Valenzuela 1997
+26,30A,None,Number of Genders,Shipibo-Konibo,,,Valenzuela 1997
+27,31A,No gender,Sex-based and Non-sex-based Gender Systems,Shipibo-Konibo,,,Valenzuela 1997
+28,32A,No gender,Systems of Gender Assignment,Shipibo-Konibo,,,Valenzuela 1997
+29,33A,Plural suffix,Coding of Nominal Plurality,Shipibo-Konibo,,,Faust 1973
+30,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Shipibo-Konibo,,,Valenzuela 2003
+31,35A,Person-number stem,Plurality in Independent Personal Pronouns,Shipibo-Konibo,,,Faust 1973
+32,37A,No definite or indefinite article,Definite Articles,Shipibo-Konibo,,,Faust 1973
+33,38A,No definite or indefinite article,Indefinite Articles,Shipibo-Konibo,,,Faust 1973
+34,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Shipibo-Konibo,,,Faust 1973
+35,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Shipibo-Konibo,,,Faust 1973
+36,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Shipibo-Konibo,,,Valenzuela 1997
+37,46A,Interrogative-based,Indefinite Pronouns,Shipibo-Konibo,,,Valenzuela 2003
+38,47A,Differentiated,Intensifiers and Reflexive Pronouns,Shipibo-Konibo,,,Valenzuela 1997
+39,48A,No person marking,Person Marking on Adpositions,Shipibo-Konibo,,,Valenzuela 1997
+40,49A,6-7 cases,Number of Cases,Shipibo-Konibo,,,Valenzuela 1997
+41,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Shipibo-Konibo,,,Valenzuela 1997
+42,51A,Postpositional clitics,Position of Case Affixes,Shipibo-Konibo,,,Faust 1973
+43,54A,No distributive numerals,Distributive Numerals,Shipibo-Konibo,,,
+44,55A,Absent,Numeral Classifiers,Shipibo-Konibo,,,
+45,56A,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Shipibo-Konibo,,,
+46,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Shipibo-Konibo,,,Faust 1973
+47,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Shipibo-Konibo,,,
+48,61A,Without marking,Adjectives without Nouns,Shipibo-Konibo,,,
+49,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Shipibo-Konibo,,,Faust 1973
+50,70A,Second singular and second plural,The Morphological Imperative,Shipibo-Konibo,,,Faust 1973
+51,71A,Normal imperative + normal negative,The Prohibitive,Shipibo-Konibo,,,Faust 1973
+52,72A,Neither type of system,Imperative-Hortative Systems,Shipibo-Konibo,,,Faust 1973
+53,73A,Inflectional optative absent,The Optative,Shipibo-Konibo,,,Faust 1973
+54,74A,Verbal constructions,Situational Possibility,Shipibo-Konibo,,,Valenzuela 1997
+55,75A,Affixes on verbs,Epistemic Possibility,Shipibo-Konibo,,,Valenzuela 1997
+56,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Shipibo-Konibo,,,
+57,77A,Indirect only,Semantic Distinctions of Evidentiality,Shipibo-Konibo,,,Valenzuela 1997
+58,78A,Verbal affix or clitic,Coding of Evidentiality,Shipibo-Konibo,,,Valenzuela 1997
+59,79A,None,Suppletion According to Tense and Aspect,Shipibo-Konibo,,,Valenzuela 1997
+60,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Shipibo-Konibo,,,
+61,80A,"Singular-plural pairs, suppletion",Verbal Number and Suppletion,Shipibo-Konibo,,,Valenzuela 1997
+62,81A,SOV,"Order of Subject, Object and Verb",Shipibo-Konibo,,,Faust 1973
+63,82A,SV,Order of Subject and Verb,Shipibo-Konibo,,,Faust 1973
+64,83A,OV,Order of Object and Verb,Shipibo-Konibo,,,Faust 1973
+65,85A,Postpositions,Order of Adposition and Noun Phrase,Shipibo-Konibo,,,Faust 1973
+66,86A,Genitive-Noun,Order of Genitive and Noun,Shipibo-Konibo,,,Faust 1973
+67,87A,No dominant order,Order of Adjective and Noun,Shipibo-Konibo,,,Faust 1973
+68,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Shipibo-Konibo,,,
+69,89A,Numeral-Noun,Order of Numeral and Noun,Shipibo-Konibo,,,Faust 1973
+70,91A,Degree word-Adjective,Order of Degree Word and Adjective,Shipibo-Konibo,,,
+71,92A,Second position,Position of Polar Question Particles,Shipibo-Konibo,,,Faust 1973
+72,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Shipibo-Konibo,,,Faust 1973
+73,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Shipibo-Konibo,,,
+74,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Shipibo-Konibo,,,
+75,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Shipibo-Konibo,,,Valenzuela 2003
+76,99A,Ergative - absolutive,Alignment of Case Marking of Pronouns,Shipibo-Konibo,,,Valenzuela 2003
+77,100A,Neutral,Alignment of Verbal Person Marking,Shipibo-Konibo,,,Valenzuela 1997
+78,102A,No person marking,Verbal Person Marking,Shipibo-Konibo,,,Valenzuela 1997
+79,103A,No person marking,Third Person Zero of Verbal Person Marking,Shipibo-Konibo,,,Valenzuela 1997
+80,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Shipibo-Konibo,,,Valenzuela 1997
+81,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Shipibo-Konibo,,,Valenzuela 2002
+82,107A,Absent,Passive Constructions,Shipibo-Konibo,,,Valenzuela 1997
+83,108A,No antipassive,Antipassive Constructions,Shipibo-Konibo,,,
+84,108B,no antipassive,Productivity of the Antipassive Construction,Shipibo-Konibo,,,
+85,109A,Benefactive and other; both bases,Applicative Constructions,Shipibo-Konibo,,,Valenzuela 2002
+86,109B,No other roles (= Only benefactive),Other Roles of Applied Objects,Shipibo-Konibo,,,
+87,110A,Purposive but no sequential,Periphrastic Causative Constructions,Shipibo-Konibo,,,Valenzuela 1997
+88,111A,Both,Nonperiphrastic Causative Constructions,Shipibo-Konibo,,,Valenzuela 1997
+89,112A,Negative affix,Negative Morphemes,Shipibo-Konibo,,,Faust 1973
+90,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Shipibo-Konibo,,,
+91,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Shipibo-Konibo,,,
+92,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Shipibo-Konibo,,,Valenzuela 2003
+93,116A,Question particle,Polar Questions,Shipibo-Konibo,,,Faust 1973
+94,117A,Locational,Predicative Possession,Shipibo-Konibo,,,Tessmann 1929
+95,118A,Nonverbal encoding,Predicative Adjectives,Shipibo-Konibo,,,Tessmann 1929
+96,119A,Identical,Nominal and Locational Predication,Shipibo-Konibo,,,Tessmann 1929
+97,120A,Possible,Zero Copula for Predicate Nominals,Shipibo-Konibo,,,Tessmann 1929
+98,121A,Conjoined,Comparative Constructions,Shipibo-Konibo,,,Tessmann 1929
+99,124A,Desiderative verbal affix,'Want' Complement Subjects,Shipibo-Konibo,,,Valenzuela 2003
+100,125A,Deranked,Purpose Clauses,Shipibo-Konibo,,,Weisshar and Illius 1990
+101,126A,Deranked,'When' Clauses,Shipibo-Konibo,,,Weisshar and Illius 1990
+102,129A,Different,Hand and Arm,Shipibo-Konibo,,,Wise 1978
+103,130A,Different,Finger and Hand,Shipibo-Konibo,,,Wise 1978
+104,132A,5,Number of Non-Derived Basic Colour Categories,Shipibo-Konibo,,,
+105,133A,6-6.5,Number of Basic Colour Categories,Shipibo-Konibo,,,
+106,134A,Green/blue,Green and Blue,Shipibo-Konibo,,,
+107,135A,Red vs. yellow,Red and Yellow,Shipibo-Konibo,,,
+108,143A,[V-Neg],Order of Negative Morpheme and Verb,Shipibo-Konibo,,,Faust 1973
+109,143E,None,Preverbal Negative Morphemes,Shipibo-Konibo,,,Faust 1973
+110,143F,[V-Neg],Postverbal Negative Morphemes,Shipibo-Konibo,,,Faust 1973
+111,143G,None,Minor morphological means of signaling negation,Shipibo-Konibo,,,Faust 1973
+112,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Shipibo-Konibo,,,Faust 1973
+113,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Shipibo-Konibo,,,Faust 1973
+114,144P,No NegSOV,NegSOV Order,Shipibo-Konibo,,,Faust 1973
+115,144Q,No SNegOV,SNegOV Order,Shipibo-Konibo,,,Faust 1973
+116,144R,No SONegV,SONegV Order,Shipibo-Konibo,,,Faust 1973
+117,144S,Suffix&NoDoubleNeg,SOVNeg Order,Shipibo-Konibo,,,Faust 1973

@@ -1,0 +1,10 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,SVO,"Order of Subject, Object and Verb",Waama,,,Peter 1990
+1,82A,SV,Order of Subject and Verb,Waama,,,Peter 1990
+2,83A,VO,Order of Object and Verb,Waama,,,Peter 1990
+3,86A,Genitive-Noun,Order of Genitive and Noun,Waama,,,Peter 1990
+4,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Waama,,,Peter 1990
+5,89A,Noun-Numeral,Order of Numeral and Noun,Waama,,,Peter 1990
+6,92A,Final,Position of Polar Question Particles,Waama,,,Peter 1990
+7,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Waama,,,Peter 1990
+8,116A,Question particle,Polar Questions,Waama,,,Peter 1990

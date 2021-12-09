@@ -1,0 +1,32 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Sonsorol-Tobi,,,Capell 1969
+1,33A,No plural,Coding of Nominal Plurality,Sonsorol-Tobi,,,Capell 1969
+2,34A,No nominal plural,Occurrence of Nominal Plurality,Sonsorol-Tobi,,,Capell 1969
+3,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sonsorol-Tobi,,,Capell 1969
+4,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Sonsorol-Tobi,,,Capell 1969
+5,81A,SVO,"Order of Subject, Object and Verb",Sonsorol-Tobi,,,Capell 1969
+6,82A,SV,Order of Subject and Verb,Sonsorol-Tobi,,,Capell 1969
+7,83A,VO,Order of Object and Verb,Sonsorol-Tobi,,,Capell 1969
+8,85A,Prepositions,Order of Adposition and Noun Phrase,Sonsorol-Tobi,,,Capell 1969
+9,86A,Noun-Genitive,Order of Genitive and Noun,Sonsorol-Tobi,,,Capell 1969
+10,87A,No dominant order,Order of Adjective and Noun,Sonsorol-Tobi,,,Capell 1969
+11,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sonsorol-Tobi,,,Capell 1969
+12,89A,Numeral-Noun,Order of Numeral and Noun,Sonsorol-Tobi,,,Capell 1969
+13,91A,Adjective-Degree word,Order of Degree Word and Adjective,Sonsorol-Tobi,,,Capell 1969
+14,92A,Initial,Position of Polar Question Particles,Sonsorol-Tobi,,,Capell 1969
+15,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sonsorol-Tobi,,,Capell 1969
+16,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Sonsorol-Tobi,,,Capell 1969
+17,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sonsorol-Tobi,,,
+18,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sonsorol-Tobi,,,
+19,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Sonsorol-Tobi,,,Capell 1969
+20,116A,Question particle,Polar Questions,Sonsorol-Tobi,,,Capell 1969
+21,129A,Identical,Hand and Arm,Sonsorol-Tobi,,,Capell 1969
+22,130A,Different,Finger and Hand,Sonsorol-Tobi,,,Capell 1969
+23,143A,NegV,Order of Negative Morpheme and Verb,Sonsorol-Tobi,,,Capell 1969
+24,143E,NegV,Preverbal Negative Morphemes,Sonsorol-Tobi,,,Capell 1969
+25,143F,None,Postverbal Negative Morphemes,Sonsorol-Tobi,,,Capell 1969
+26,143G,None,Minor morphological means of signaling negation,Sonsorol-Tobi,,,Capell 1969
+27,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Sonsorol-Tobi,,,Capell 1969
+28,144D,Other NegV,The Position of Negative Morphemes in SVO Languages,Sonsorol-Tobi,,,Capell 1969
+29,144J,No SVNegO,SVNegO Order,Sonsorol-Tobi,,,Capell 1969
+30,144K,No SVONeg,SVONeg Order,Sonsorol-Tobi,,,Capell 1969

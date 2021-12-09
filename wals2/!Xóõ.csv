@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,!Xóõ,,,Traill 1985
+1,2A,Average (5-6),Vowel Quality Inventories,!Xóõ,,,Traill 1985
+2,3A,High,Consonant-Vowel Ratio,!Xóõ,,,Traill 1985
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,!Xóõ,,,Traill 1985
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,!Xóõ,,,Traill 1985
+5,6A,Uvular stops only,Uvular Consonants,!Xóõ,,,Traill 1985
+6,7A,Ejectives and glottalized resonants,Glottalized Consonants,!Xóõ,,,Traill 1985
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,!Xóõ,,,Traill 1985
+8,10A,Contrast absent,Vowel Nasalization,!Xóõ,,,Traill 1985
+9,11A,None,Front Rounded Vowels,!Xóõ,,,Traill 1985
+10,12A,Moderately complex,Syllable Structure,!Xóõ,,,Traill 1985
+11,13A,Complex tone system,Tone,!Xóõ,,,Traill 1985
+12,18A,All present,Absence of Common Consonants,!Xóõ,,,Traill 1985
+13,19A,Clicks,Presence of Uncommon Consonants,!Xóõ,,,Traill 1985
+14,33A,Plural suffix,Coding of Nominal Plurality,!Xóõ,,,Traill 1994
+15,53A,None,Ordinal Numerals,!Xóõ,,,Traill 1994
+16,55A,Absent,Numeral Classifiers,!Xóõ,,,
+17,81A,SVO,"Order of Subject, Object and Verb",!Xóõ,,,Traill 1994
+18,82A,SV,Order of Subject and Verb,!Xóõ,,,Traill 1994
+19,83A,VO,Order of Object and Verb,!Xóõ,,,Traill 1994
+20,86A,Genitive-Noun,Order of Genitive and Noun,!Xóõ,,,Traill 1994
+21,87A,Noun-Adjective,Order of Adjective and Noun,!Xóõ,,,Traill 1994
+22,88A,Noun-Demonstrative,Order of Demonstrative and Noun,!Xóõ,,,Traill 1994
+23,90A,Noun-Relative clause,Order of Relative Clause and Noun,!Xóõ,,,Traill 1994
+24,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,!Xóõ,,,Traill 1994
+25,92A,Initial,Position of Polar Question Particles,!Xóõ,,,Traill 1994
+26,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,!Xóõ,,,Traill 1994
+27,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,!Xóõ,,,
+28,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,!Xóõ,,,
+29,116A,Question particle,Polar Questions,!Xóõ,,,Traill 1994
+30,129A,Identical,Hand and Arm,!Xóõ,,,Traill 1994
+31,130A,Different,Finger and Hand,!Xóõ,,,Traill 1994
+32,131A,Restricted,Numeral Bases,!Xóõ,,,
+33,138A,Words derived from Min Nan Chinese te,Tea,!Xóõ,,,Traill 1994

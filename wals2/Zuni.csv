@@ -1,0 +1,90 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Zuni,,,Newman 1965
+1,2A,Average (5-6),Vowel Quality Inventories,Zuni,,,Newman 1965
+2,3A,Average,Consonant-Vowel Ratio,Zuni,,,Newman 1965
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Zuni,,,Newman 1965
+4,5A,Other,Voicing and Gaps in Plosive Systems,Zuni,,,Newman 1965
+5,6A,None,Uvular Consonants,Zuni,,,Newman 1965
+6,7A,Ejectives only,Glottalized Consonants,Zuni,,,Newman 1965
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Zuni,,,Newman 1965
+8,9A,No velar nasal,The Velar Nasal,Zuni,,,Walker 1972
+9,11A,None,Front Rounded Vowels,Zuni,,,Newman 1965
+10,12A,Moderately complex,Syllable Structure,Zuni,,,Newman 1965
+11,13A,No tones,Tone,Zuni,,,Newman 1965
+12,14A,Initial,Fixed Stress Locations,Zuni,,,Bunzel 1933-1938
+13,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Zuni,,,Bunzel 1933-1938
+14,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Zuni,,,Bunzel 1933-1938
+15,18A,All present,Absence of Common Consonants,Zuni,,,Newman 1965
+16,19A,None,Presence of Uncommon Consonants,Zuni,,,Newman 1965
+17,23A,Double marking,Locus of Marking in the Clause,Zuni,,,Newman 1965
+18,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Zuni,,,Newman 1965
+19,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Zuni,,,Newman 1965
+20,25B,Non-zero marking,Zero Marking of A and P Arguments,Zuni,,,Newman 1965
+21,27A,No productive reduplication,Reduplication,Zuni,,,Newman 1965
+22,30A,None,Number of Genders,Zuni,,,Newman 1965
+23,31A,No gender,Sex-based and Non-sex-based Gender Systems,Zuni,,,Newman 1965
+24,32A,No gender,Systems of Gender Assignment,Zuni,,,Newman 1965
+25,33A,Plural suffix,Coding of Nominal Plurality,Zuni,,,Nichols 1997b
+26,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Zuni,,,Newman 1996
+27,35A,Person stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Zuni,,,Bunzel 1933-1938
+28,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Zuni,,,Newman 1965
+29,46A,Interrogative-based,Indefinite Pronouns,Zuni,,,Newman 1996
+30,48A,No adpositions,Person Marking on Adpositions,Zuni,,,Bunzel 1933-1938
+31,49A,No morphological case-marking,Number of Cases,Zuni,,,Newman 1965
+32,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Zuni,,,Newman 1965
+33,51A,Case suffixes,Position of Case Affixes,Zuni,,,Nichols 1997b
+34,55A,Absent,Numeral Classifiers,Zuni,,,Nichols 1992
+35,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Zuni,,,Newman 1965
+36,64A,Differentiation,Nominal and Verbal Conjunction,Zuni,,,Newman 1996
+37,65A,No grammatical marking,Perfective/Imperfective Aspect,Zuni,,,Bybee et al. 1994
+38,66A,"Present, no remoteness distinctions",The Past Tense,Zuni,,,Bybee et al. 1994
+39,67A,No inflectional future,The Future Tense,Zuni,,,Bybee et al. 1994
+40,68A,No perfect,The Perfect,Zuni,,,Bybee et al. 1994
+41,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Zuni,,,Nichols 1997b
+42,70A,No second-person imperatives,The Morphological Imperative,Zuni,,,Newman 1965
+43,71A,Normal imperative + special negative,The Prohibitive,Zuni,,,Newman 1965
+44,72A,Maximal system,Imperative-Hortative Systems,Zuni,,,Newman 1965
+45,73A,Inflectional optative present,The Optative,Zuni,,,Newman 1965
+46,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Zuni,,,Newman 1965
+47,78A,No grammatical evidentials,Coding of Evidentiality,Zuni,,,Newman 1965
+48,79A,None,Suppletion According to Tense and Aspect,Zuni,,,Newman 1996
+49,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Zuni,,,
+50,80A,"Singular-plural pairs, no suppletion",Verbal Number and Suppletion,Zuni,,,Newman 1996
+51,81A,SOV,"Order of Subject, Object and Verb",Zuni,,,Newman 1965
+52,82A,SV,Order of Subject and Verb,Zuni,,,Nichols 1997b
+53,83A,OV,Order of Object and Verb,Zuni,,,Nichols 1997b
+54,85A,Postpositions,Order of Adposition and Noun Phrase,Zuni,,,Newman 1965
+55,86A,Genitive-Noun,Order of Genitive and Noun,Zuni,,,Cook 1975
+56,87A,Noun-Adjective,Order of Adjective and Noun,Zuni,,,Nichols 1997b
+57,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Zuni,,,Nichols 1997b
+58,89A,Numeral-Noun,Order of Numeral and Noun,Zuni,,,Nichols 1999
+59,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Zuni,,,Newman 1965
+60,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Zuni,,,
+61,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Zuni,,,
+62,100A,Neutral,Alignment of Verbal Person Marking,Zuni,,,Bunzel 1933-1938
+63,102A,No person marking,Verbal Person Marking,Zuni,,,Bunzel 1933-1938
+64,103A,No person marking,Third Person Zero of Verbal Person Marking,Zuni,,,Bunzel 1933-1938
+65,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Zuni,,,Bunzel 1933-1938
+66,107A,Present,Passive Constructions,Zuni,,,Bunzel 1933-1938
+67,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Zuni,,,Newman 1965
+68,112A,Double negation,Negative Morphemes,Zuni,,,Nichols 1997b
+69,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Zuni,,,Nichols 1997b
+70,129A,Identical,Hand and Arm,Zuni,,,Newman 1958
+71,130A,Different,Finger and Hand,Zuni,,,Newman 1958
+72,136A,No M-T pronouns,M-T Pronouns,Zuni,,,Newman 1965
+73,136B,No m in first person singular,M in First Person Singular,Zuni,,,Newman 1965
+74,137A,No N-M pronouns,N-M Pronouns,Zuni,,,Newman 1965
+75,137B,No m in second person singular,M in Second Person Singular,Zuni,,,Newman 1965
+76,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Zuni,,,Nichols 1997b
+77,143B,Neg[V-Neg],Obligatory Double Negation,Zuni,,,Nichols 1997b
+78,143E,NegV,Preverbal Negative Morphemes,Zuni,,,Nichols 1997b
+79,143F,[V-Neg],Postverbal Negative Morphemes,Zuni,,,Nichols 1997b
+80,143G,None,Minor morphological means of signaling negation,Zuni,,,Nichols 1997b
+81,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Zuni,,,Nichols 1997b
+82,144B,"Beginning, not immed preverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Zuni,,,Nichols 1997b
+83,144L,ObligDoubleNeg,The Position of Negative Morphemes in SOV Languages,Zuni,,,Nichols 1997b
+84,144N,NegSO[V-Neg],Obligatory Double Negation in SOV languages,Zuni,,,Nichols 1997b
+85,144P,OnlyWithAnotherNeg,NegSOV Order,Zuni,,,Nichols 1997b
+86,144Q,No SNegOV,SNegOV Order,Zuni,,,Nichols 1997b
+87,144R,No SONegV,SONegV Order,Zuni,,,Nichols 1997b
+88,144S,Suffix&OnlyWithAnotherNeg,SOVNeg Order,Zuni,,,Nichols 1997b

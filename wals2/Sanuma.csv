@@ -1,0 +1,125 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Sanuma,,,Aikhenvald and Dixon 1999
+1,2A,Large (7-14),Vowel Quality Inventories,Sanuma,,,Aikhenvald and Dixon 1999
+2,3A,Low,Consonant-Vowel Ratio,Sanuma,,,Aikhenvald and Dixon 1999
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Sanuma,,,Aikhenvald and Dixon 1999
+4,5A,Other,Voicing and Gaps in Plosive Systems,Sanuma,,,Aikhenvald and Dixon 1999
+5,6A,None,Uvular Consonants,Sanuma,,,Aikhenvald and Dixon 1999
+6,7A,No glottalized consonants,Glottalized Consonants,Sanuma,,,Aikhenvald and Dixon 1999
+7,8A,No laterals,Lateral Consonants,Sanuma,,,Aikhenvald and Dixon 1999
+8,9A,No velar nasal,The Velar Nasal,Sanuma,,,Borgman 1990
+9,10A,Contrast present,Vowel Nasalization,Sanuma,,,Borgman 1990
+10,11A,None,Front Rounded Vowels,Sanuma,,,Aikhenvald and Dixon 1999
+11,12A,Moderately complex,Syllable Structure,Sanuma,,,Aikhenvald and Dixon 1999
+12,13A,No tones,Tone,Sanuma,,,Aikhenvald and Dixon 1999
+13,14A,Penultimate,Fixed Stress Locations,Sanuma,,,Borgman 1990
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Sanuma,,,Borgman 1990
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Sanuma,,,Borgman 1990
+16,17A,Trochaic,Rhythm Types,Sanuma,,,Borgman 1990
+17,18A,All present,Absence of Common Consonants,Sanuma,,,Aikhenvald and Dixon 1999
+18,19A,None,Presence of Uncommon Consonants,Sanuma,,,Aikhenvald and Dixon 1999
+19,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Sanuma,,,Borgman 1990
+20,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Sanuma,,,Borgman 1990
+21,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Sanuma,,,Borgman 1990
+22,22A,4-5 categories per word,Inflectional Synthesis of the Verb,Sanuma,,,Borgman 1990
+23,23A,Head marking,Locus of Marking in the Clause,Sanuma,,,Borgman 1990
+24,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Sanuma,,,Borgman 1990
+25,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Sanuma,,,Borgman 1990
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Sanuma,,,Borgman 1990
+27,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Sanuma,,,Borgman 1990
+28,28A,No case marking,Case Syncretism,Sanuma,,,Borgman 1990
+29,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Sanuma,,,Borgman 1990
+30,33A,Plural word,Coding of Nominal Plurality,Sanuma,,,Borgman 1990
+31,35A,Person stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Sanuma,,,Borgman 1990
+32,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Sanuma,,,Borgman 1990
+33,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Sanuma,,,Borgman 1990
+34,41A,Three-way contrast,Distance Contrasts in Demonstratives,Sanuma,,,Borgman 1990
+35,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Sanuma,,,Borgman 1990
+36,45A,No politeness distinction,Politeness Distinctions in Pronouns,Sanuma,,,Borgman 1990
+37,48A,No person marking,Person Marking on Adpositions,Sanuma,,,Borgman 1990
+38,49A,2 cases,Number of Cases,Sanuma,,,Borgman 1990
+39,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Sanuma,,,Borgman 1990
+40,51A,Postpositional clitics,Position of Case Affixes,Sanuma,,,Borgman 1990
+41,55A,Optional,Numeral Classifiers,Sanuma,,,Derbyshire and Payne 1990
+42,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Sanuma,,,Borgman 1990
+43,58A,Absent,Obligatory Possessive Inflection,Sanuma,,,Borgman 1990
+44,58B,None reported,Number of Possessive Nouns,Sanuma,,,Borgman 1990
+45,59A,Two classes,Possessive Classification,Sanuma,,,Borgman 1990
+46,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Sanuma,,,Borgman 1990
+47,62A,No action nominals,Action Nominal Constructions,Sanuma,,,Borgman 1990
+48,64A,Both expressed by juxtaposition,Nominal and Verbal Conjunction,Sanuma,,,Borgman 1990
+49,65A,No grammatical marking,Perfective/Imperfective Aspect,Sanuma,,,Borgman 1990
+50,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Sanuma,,,Borgman 1990
+51,67A,No inflectional future,The Future Tense,Sanuma,,,Borgman 1990
+52,68A,No perfect,The Perfect,Sanuma,,,Borgman 1990
+53,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Sanuma,,,Borgman 1990
+54,70A,No second-person imperatives,The Morphological Imperative,Sanuma,,,Borgman 1990
+55,71A,Normal imperative + special negative,The Prohibitive,Sanuma,,,Borgman 1990
+56,72A,Neither type of system,Imperative-Hortative Systems,Sanuma,,,Borgman 1990
+57,73A,Inflectional optative absent,The Optative,Sanuma,,,Borgman 1990
+58,74A,Verbal constructions,Situational Possibility,Sanuma,,,Borgman 1990
+59,75A,Other,Epistemic Possibility,Sanuma,,,Borgman 1990
+60,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Sanuma,,,Borgman 1990
+61,77A,Direct and indirect,Semantic Distinctions of Evidentiality,Sanuma,,,Borgman 1990
+62,78A,Mixed,Coding of Evidentiality,Sanuma,,,Borgman 1990
+63,79A,None,Suppletion According to Tense and Aspect,Sanuma,,,Borgman 1990
+64,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Sanuma,,,
+65,80A,None,Verbal Number and Suppletion,Sanuma,,,Borgman 1990
+66,81A,SOV,"Order of Subject, Object and Verb",Sanuma,,,Borgman 1990
+67,82A,SV,Order of Subject and Verb,Sanuma,,,Borgman 1990
+68,83A,OV,Order of Object and Verb,Sanuma,,,Borgman 1990
+69,84A,XOV,"Order of Object, Oblique, and Verb",Sanuma,,,Borgman 1990
+70,85A,Postpositions,Order of Adposition and Noun Phrase,Sanuma,,,Borgman 1990
+71,86A,Genitive-Noun,Order of Genitive and Noun,Sanuma,,,Borgman 1990
+72,87A,Noun-Adjective,Order of Adjective and Noun,Sanuma,,,Borgman 1990
+73,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Sanuma,,,Borgman 1990
+74,90A,Mixed,Order of Relative Clause and Noun,Sanuma,,,Borgman 1990
+75,90D,Internally-headed or correlative,Internally-headed relative clauses,Sanuma,,,Borgman 1990
+76,90E,Correlative or internally-headed,Correlative relative clauses,Sanuma,,,Borgman 1990
+77,91A,Adjective-Degree word,Order of Degree Word and Adjective,Sanuma,,,Borgman 1990
+78,92A,No question particle,Position of Polar Question Particles,Sanuma,,,Borgman 1990
+79,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sanuma,,,Borgman 1990
+80,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Sanuma,,,Borgman 1990
+81,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sanuma,,,
+82,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sanuma,,,
+83,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sanuma,,,
+84,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Sanuma,,,Borgman 1990
+85,99A,Ergative - absolutive,Alignment of Case Marking of Pronouns,Sanuma,,,Borgman 1990
+86,100A,Neutral,Alignment of Verbal Person Marking,Sanuma,,,Borgman 1990
+87,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Sanuma,,,Borgman 1990
+88,102A,No person marking,Verbal Person Marking,Sanuma,,,Borgman 1990
+89,103A,No person marking,Third Person Zero of Verbal Person Marking,Sanuma,,,Borgman 1990
+90,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Sanuma,,,Borgman 1990
+91,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Sanuma,,,Borgman 1990
+92,106A,Distinct from reflexive,Reciprocal Constructions,Sanuma,,,Borgman 1990
+93,107A,Present,Passive Constructions,Sanuma,,,Borgman 1990
+94,108A,Oblique patient,Antipassive Constructions,Sanuma,,,Borgman 1990
+95,109A,No applicative construction,Applicative Constructions,Sanuma,,,Borgman 1990
+96,109B,No applicative construction,Other Roles of Applied Objects,Sanuma,,,
+97,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Sanuma,,,Borgman 1990
+98,112A,Negative auxiliary verb,Negative Morphemes,Sanuma,,,Borgman 1990
+99,113A,Both,Symmetric and Asymmetric Standard Negation,Sanuma,,,Borgman 1990
+100,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Sanuma,,,Borgman 1990
+101,116A,Interrogative intonation only,Polar Questions,Sanuma,,,Borgman 1990
+102,118A,Verbal encoding,Predicative Adjectives,Sanuma,,,Borgman 1990
+103,119A,Identical,Nominal and Locational Predication,Sanuma,,,Borgman 1990
+104,120A,Possible,Zero Copula for Predicate Nominals,Sanuma,,,Borgman 1990
+105,122A,Non-reduction,Relativization on Subjects,Sanuma,,,Borgman 1990
+106,125A,Deranked,Purpose Clauses,Sanuma,,,Borgman 1990
+107,126A,Deranked,'When' Clauses,Sanuma,,,Borgman 1990
+108,127A,Deranked,Reason Clauses,Sanuma,,,Borgman 1990
+109,136A,No M-T pronouns,M-T Pronouns,Sanuma,,,Borgman 1990
+110,136B,m in first person singular,M in First Person Singular,Sanuma,,,Borgman 1990
+111,137A,No N-M pronouns,N-M Pronouns,Sanuma,,,Borgman 1990
+112,137B,No m in second person singular,M in Second Person Singular,Sanuma,,,Borgman 1990
+113,143A,VNeg,Order of Negative Morpheme and Verb,Sanuma,,,Borgman 1990
+114,143E,None,Preverbal Negative Morphemes,Sanuma,,,Borgman 1990
+115,143F,VNeg,Postverbal Negative Morphemes,Sanuma,,,Borgman 1990
+116,143G,None,Minor morphological means of signaling negation,Sanuma,,,Borgman 1990
+117,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sanuma,,,Borgman 1990
+118,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sanuma,,,Borgman 1990
+119,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Sanuma,,,Borgman 1990
+120,144P,No NegSOV,NegSOV Order,Sanuma,,,Borgman 1990
+121,144Q,No SNegOV,SNegOV Order,Sanuma,,,Borgman 1990
+122,144R,No SONegV,SONegV Order,Sanuma,,,Borgman 1990
+123,144S,Word&NoDoubleNeg,SOVNeg Order,Sanuma,,,Borgman 1990

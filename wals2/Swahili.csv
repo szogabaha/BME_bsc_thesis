@@ -1,0 +1,143 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Swahili,,,Polomé n.d.
+1,2A,Average (5-6),Vowel Quality Inventories,Swahili,,,Polomé n.d.
+2,3A,Moderately high,Consonant-Vowel Ratio,Swahili,,,Polomé n.d.
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Swahili,,,Polomé n.d.
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Swahili,,,Polomé n.d.
+5,6A,None,Uvular Consonants,Swahili,,,Polomé n.d.
+6,7A,No glottalized consonants,Glottalized Consonants,Swahili,,,Polomé n.d.
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Swahili,,,Polomé n.d.
+8,9A,Initial velar nasal,The Velar Nasal,Swahili,,,Johnson and Madan 1939
+9,10A,Contrast absent,Vowel Nasalization,Swahili,,,Contini-Morava 1997
+10,11A,None,Front Rounded Vowels,Swahili,,,Polomé n.d.
+11,12A,Simple,Syllable Structure,Swahili,,,Polomé n.d.
+12,13A,No tones,Tone,Swahili,,,Polomé n.d.
+13,14A,Penultimate,Fixed Stress Locations,Swahili,,,Ashton 1947
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Swahili,,,Ashton 1947
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Swahili,,,Ashton 1947
+16,18A,All present,Absence of Common Consonants,Swahili,,,Polomé n.d.
+17,19A,'Th' sounds,Presence of Uncommon Consonants,Swahili,,,Polomé n.d.
+18,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Swahili,,,Ashton 1947
+19,21A,No case,Exponence of Selected Inflectional Formatives,Swahili,,,Ashton 1947
+20,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Swahili,,,Ashton 1947
+21,22A,4-5 categories per word,Inflectional Synthesis of the Verb,Swahili,,,Ashton 1947
+22,23A,Head marking,Locus of Marking in the Clause,Swahili,,,
+23,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Swahili,,,
+24,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Swahili,,,
+25,25B,Non-zero marking,Zero Marking of A and P Arguments,Swahili,,,
+26,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Swahili,,,Ashton 1947
+27,27A,Productive full and partial reduplication,Reduplication,Swahili,,,Njogu 2001b
+28,28A,No case marking,Case Syncretism,Swahili,,,Myachina 1981
+29,29A,Syncretic,Syncretism in Verbal Person/Number Marking,Swahili,,,Myachina 1981
+30,30A,Five or more,Number of Genders,Swahili,,,Corbett 1991
+31,31A,Non-sex-based,Sex-based and Non-sex-based Gender Systems,Swahili,,,Corbett 1991
+32,32A,Semantic and formal,Systems of Gender Assignment,Swahili,,,Corbett 1991
+33,33A,Plural prefix,Coding of Nominal Plurality,Swahili,,,Ashton 1947
+34,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Swahili,,,Ashton 1947
+35,35A,Person-number stem,Plurality in Independent Personal Pronouns,Swahili,,,Gromova and Oxotina 1995
+36,36A,Unique periphrastic associative plural,The Associative Plural,Swahili,,,
+37,37A,Demonstrative word used as definite article,Definite Articles,Swahili,,,Ashton 1947
+38,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Swahili,,,Ashton 1947
+39,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Swahili,,,Ashton 1947
+40,41A,Two-way contrast,Distance Contrasts in Demonstratives,Swahili,,,Ashton 1944
+41,42A,Identical,Pronominal and Adnominal Demonstratives,Swahili,,,Ashton 1944
+42,44A,"3rd person only, but also non-singular",Gender Distinctions in Independent Personal Pronouns,Swahili,,,Ashton 1947
+43,45A,No politeness distinction,Politeness Distinctions in Pronouns,Swahili,,,Ashton 1947
+44,46A,Generic-noun-based,Indefinite Pronouns,Swahili,,,Haspelmath 1997
+45,47A,Differentiated,Intensifiers and Reflexive Pronouns,Swahili,,,Myachina 1981
+46,48A,No person marking,Person Marking on Adpositions,Swahili,,,Ashton 1947
+47,49A,No morphological case-marking,Number of Cases,Swahili,,,Ashton 1947
+48,50A,No case-marking,Asymmetrical Case-Marking,Swahili,,,Ashton 1947
+49,51A,Mixed morphological case,Position of Case Affixes,Swahili,,,Ashton 1947
+50,52A,Differentiation,Comitatives and Instrumentals,Swahili,,,Möhlig and Heine 1999
+51,53A,"First, second, three-th",Ordinal Numerals,Swahili,,,Möhlig and Heine 1999
+52,54A,Marked by reduplication,Distributive Numerals,Swahili,,,
+53,55A,Absent,Numeral Classifiers,Swahili,,,Welmers 1973
+54,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Swahili,,,Ashton 1947
+55,58A,Absent,Obligatory Possessive Inflection,Swahili,,,
+56,58B,None reported,Number of Possessive Nouns,Swahili,,,
+57,59A,No possessive classification,Possessive Classification,Swahili,,,
+58,61A,Without marking,Adjectives without Nouns,Swahili,,,
+59,62A,Possessive-Accusative,Action Nominal Constructions,Swahili,,,
+60,63A,'And' identical to 'with',Noun Phrase Conjunction,Swahili,,,Ashton 1944
+61,65A,No grammatical marking,Perfective/Imperfective Aspect,Swahili,,,Ashton 1947
+62,66A,"Present, no remoteness distinctions",The Past Tense,Swahili,,,Ashton 1947
+63,67A,Inflectional future exists,The Future Tense,Swahili,,,Ashton 1947
+64,68A,Other perfect,The Perfect,Swahili,,,Ashton 1947
+65,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Swahili,,,Ashton 1947
+66,70A,Second singular and second plural,The Morphological Imperative,Swahili,,,Ashton 1947
+67,71A,Special imperative + special negative,The Prohibitive,Swahili,,,Wilson 1970
+68,72A,Maximal system,Imperative-Hortative Systems,Swahili,,,Ashton 1947
+69,73A,Inflectional optative absent,The Optative,Swahili,,,Ashton 1969
+70,74A,Affixes on verbs,Situational Possibility,Swahili,,,Ashton 1944
+71,75A,Affixes on verbs,Epistemic Possibility,Swahili,,,Brandon 1974
+72,76A,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Swahili,,,Brandon 1974
+73,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Swahili,,,Ashton 1947
+74,78A,No grammatical evidentials,Coding of Evidentiality,Swahili,,,Ashton 1947
+75,79A,None,Suppletion According to Tense and Aspect,Swahili,,,Ashton 1947
+76,79B,Imperative,Suppletion in Imperatives and Hortatives,Swahili,,,
+77,80A,None,Verbal Number and Suppletion,Swahili,,,Ashton 1947
+78,81A,SVO,"Order of Subject, Object and Verb",Swahili,,,Ashton 1947
+79,82A,SV,Order of Subject and Verb,Swahili,,,Ashton 1947
+80,83A,VO,Order of Object and Verb,Swahili,,,Ashton 1947
+81,85A,Prepositions,Order of Adposition and Noun Phrase,Swahili,,,Ashton 1947
+82,86A,Noun-Genitive,Order of Genitive and Noun,Swahili,,,Ashton 1947
+83,87A,Noun-Adjective,Order of Adjective and Noun,Swahili,,,Ashton 1947
+84,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Swahili,,,Ashton 1947
+85,89A,Noun-Numeral,Order of Numeral and Noun,Swahili,,,Ashton 1947
+86,90A,Noun-Relative clause,Order of Relative Clause and Noun,Swahili,,,Ashton 1947
+87,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Swahili,,,Ashton 1947
+88,92A,Initial,Position of Polar Question Particles,Swahili,,,Ashton 1947
+89,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Swahili,,,Ashton 1947
+90,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Swahili,,,Ashton 1947
+91,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Swahili,,,
+92,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Swahili,,,
+93,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Swahili,,,
+94,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Swahili,,,Ashton 1969
+95,99A,Neutral,Alignment of Case Marking of Pronouns,Swahili,,,Ashton 1969
+96,100A,Accusative,Alignment of Verbal Person Marking,Swahili,,,Ashton 1947
+97,101A,Subject affixes on verb,Expression of Pronominal Subjects,Swahili,,,Ashton 1947
+98,102A,Both the A and P arguments,Verbal Person Marking,Swahili,,,Ashton 1947
+99,103A,No zero realization,Third Person Zero of Verbal Person Marking,Swahili,,,Ashton 1947
+100,104A,A precedes P,Order of Person Markers on the Verb,Swahili,,,Ashton 1947
+101,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Swahili,,,Ashton 1947
+102,106A,Distinct from reflexive,Reciprocal Constructions,Swahili,,,Vitale 1981
+103,107A,Present,Passive Constructions,Swahili,,,Ashton 1947
+104,108A,No antipassive,Antipassive Constructions,Swahili,,,Vitale 1981
+105,108B,no antipassive,Productivity of the Antipassive Construction,Swahili,,,Vitale 1981
+106,109A,Benefactive and other; both bases,Applicative Constructions,Swahili,,,Abdulaziz 1996
+107,109B,Locative,Other Roles of Applied Objects,Swahili,,,
+108,110A,Purposive but no sequential,Periphrastic Causative Constructions,Swahili,,,Myachina 1981
+109,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Swahili,,,Myachina 1981
+110,112A,Negative affix,Negative Morphemes,Swahili,,,Ashton 1947
+111,113A,Both,Symmetric and Asymmetric Standard Negation,Swahili,,,Contini-Morava 1989
+112,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Swahili,,,Contini-Morava 1989
+113,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Swahili,,,Haspelmath 1997
+114,116A,Question particle,Polar Questions,Swahili,,,Ashton 1947
+115,117A,Conjunctional,Predicative Possession,Swahili,,,Ashton 1947
+116,118A,Mixed,Predicative Adjectives,Swahili,,,Ashton 1944
+117,119A,Identical,Nominal and Locational Predication,Swahili,,,Ashton 1944
+118,120A,Impossible,Zero Copula for Predicate Nominals,Swahili,,,Ashton 1944
+119,121A,Exceed,Comparative Constructions,Swahili,,,Ashton 1947
+120,122A,Gap,Relativization on Subjects,Swahili,,,
+121,123A,Not possible,Relativization on Obliques,Swahili,,,
+122,128A,Balanced,Utterance Complement Clauses,Swahili,,,Vitale 1981
+123,129A,Identical,Hand and Arm,Swahili,,,Snoxall 1958
+124,130A,Different,Finger and Hand,Swahili,,,Snoxall 1958
+125,131A,Decimal,Numeral Bases,Swahili,,,Ashton 1969
+126,136A,No M-T pronouns,M-T Pronouns,Swahili,,,Ashton 1947
+127,136B,m in first person singular,M in First Person Singular,Swahili,,,Ashton 1947
+128,137A,No N-M pronouns,N-M Pronouns,Swahili,,,Ashton 1947
+129,137B,No m in second person singular,M in Second Person Singular,Swahili,,,Ashton 1947
+130,138A,Words derived from Sinitic cha,Tea,Swahili,,,Malherbe and Rosenberg 1996
+131,142A,Affective meanings,Para-Linguistic Usages of Clicks,Swahili,,,
+132,143A,[Neg-V],Order of Negative Morpheme and Verb,Swahili,,,Ashton 1947
+133,143E,[Neg-V],Preverbal Negative Morphemes,Swahili,,,Ashton 1947
+134,143F,None,Postverbal Negative Morphemes,Swahili,,,Ashton 1947
+135,143G,None,Minor morphological means of signaling negation,Swahili,,,Ashton 1947
+136,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Swahili,,,Ashton 1947
+137,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Swahili,,,Ashton 1947
+138,144H,No NegSVO,NegSVO Order,Swahili,,,Ashton 1947
+139,144I,Prefix&NoDoubleNeg,SNegVO Order,Swahili,,,Ashton 1947
+140,144J,No SVNegO,SVNegO Order,Swahili,,,Ashton 1947
+141,144K,No SVONeg,SVONeg Order,Swahili,,,Ashton 1947

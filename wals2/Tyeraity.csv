@@ -1,0 +1,18 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,SOV,"Order of Subject, Object and Verb",Tyeraity,,,Tryon 1974
+1,82A,SV,Order of Subject and Verb,Tyeraity,,,Tryon 1974
+2,83A,OV,Order of Object and Verb,Tyeraity,,,Tryon 1974
+3,86A,Genitive-Noun,Order of Genitive and Noun,Tyeraity,,,Tryon 1974
+4,112A,Double negation,Negative Morphemes,Tyeraity,,,Tryon 1974
+5,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Tyeraity,,,Tryon 1974
+6,143B,NegVNeg,Obligatory Double Negation,Tyeraity,,,Tryon 1974
+7,143E,NegV,Preverbal Negative Morphemes,Tyeraity,,,Tryon 1974
+8,143F,VNeg,Postverbal Negative Morphemes,Tyeraity,,,Tryon 1974
+9,143G,None,Minor morphological means of signaling negation,Tyeraity,,,Tryon 1974
+10,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tyeraity,,,Tryon 1974
+11,144L,ObligDoubleNeg,The Position of Negative Morphemes in SOV Languages,Tyeraity,,,Tryon 1974
+12,144N,SONegVNeg,Obligatory Double Negation in SOV languages,Tyeraity,,,Tryon 1974
+13,144P,No NegSOV,NegSOV Order,Tyeraity,,,Tryon 1974
+14,144Q,No SNegOV,SNegOV Order,Tyeraity,,,Tryon 1974
+15,144R,Word&OnlyWithAnotherNeg,SONegV Order,Tyeraity,,,Tryon 1974
+16,144S,Word&OnlyWithAnotherNeg,SOVNeg Order,Tyeraity,,,Tryon 1974

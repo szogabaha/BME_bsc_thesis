@@ -1,0 +1,20 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Yao (in Malawi),,,Whiteley 1966
+1,81A,SVO,"Order of Subject, Object and Verb",Yao (in Malawi),,,Whiteley 1966
+2,82A,No dominant order,Order of Subject and Verb,Yao (in Malawi),,,Whiteley 1966
+3,83A,VO,Order of Object and Verb,Yao (in Malawi),,,Whiteley 1966
+4,87A,Noun-Adjective,Order of Adjective and Noun,Yao (in Malawi),,,Whiteley 1966
+5,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Yao (in Malawi),,,Whiteley 1966
+6,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yao (in Malawi),,,
+7,101A,Subject affixes on verb,Expression of Pronominal Subjects,Yao (in Malawi),,,Whiteley 1966
+8,112A,Negative affix,Negative Morphemes,Yao (in Malawi),,,Whiteley 1966
+9,143A,[Neg-V],Order of Negative Morpheme and Verb,Yao (in Malawi),,,Whiteley 1966
+10,143E,[Neg-V],Preverbal Negative Morphemes,Yao (in Malawi),,,Whiteley 1966
+11,143F,None,Postverbal Negative Morphemes,Yao (in Malawi),,,Whiteley 1966
+12,143G,None,Minor morphological means of signaling negation,Yao (in Malawi),,,Whiteley 1966
+13,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Yao (in Malawi),,,Whiteley 1966
+14,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Yao (in Malawi),,,Whiteley 1966
+15,144H,No NegSVO,NegSVO Order,Yao (in Malawi),,,Whiteley 1966
+16,144I,Prefix&NoDoubleNeg,SNegVO Order,Yao (in Malawi),,,Whiteley 1966
+17,144J,No SVNegO,SVNegO Order,Yao (in Malawi),,,Whiteley 1966
+18,144K,No SVONeg,SVONeg Order,Yao (in Malawi),,,Whiteley 1966

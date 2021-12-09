@@ -1,0 +1,44 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Zapotec (Isthmus),,,Pickett et al. 1998
+1,33A,Plural word,Coding of Nominal Plurality,Zapotec (Isthmus),,,Pickett et al. 1998
+2,37A,"No definite, but indefinite article",Definite Articles,Zapotec (Isthmus),,,Pickett et al. 1998
+3,38A,Indefinite word same as 'one',Indefinite Articles,Zapotec (Isthmus),,,Pickett et al. 1998
+4,51A,No case affixes or adpositional clitics,Position of Case Affixes,Zapotec (Isthmus),,,Pickett et al. 1998
+5,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Zapotec (Isthmus),,,Pickett et al. 1998
+6,63A,'And' identical to 'with',Noun Phrase Conjunction,Zapotec (Isthmus),,,Pickett 1960
+7,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Zapotec (Isthmus),,,Pickett et al. 1998
+8,81A,VSO,"Order of Subject, Object and Verb",Zapotec (Isthmus),,,Pickett et al. 1998
+9,82A,VS,Order of Subject and Verb,Zapotec (Isthmus),,,Pickett et al. 1998
+10,83A,VO,Order of Object and Verb,Zapotec (Isthmus),,,Pickett et al. 1998
+11,85A,Prepositions,Order of Adposition and Noun Phrase,Zapotec (Isthmus),,,Pickett et al. 1998
+12,86A,Noun-Genitive,Order of Genitive and Noun,Zapotec (Isthmus),,,Pickett et al. 1998
+13,87A,Noun-Adjective,Order of Adjective and Noun,Zapotec (Isthmus),,,Pickett et al. 1998
+14,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Zapotec (Isthmus),,,Pickett et al. 1998
+15,89A,Numeral-Noun,Order of Numeral and Noun,Zapotec (Isthmus),,,Pickett et al. 1998
+16,90A,Noun-Relative clause,Order of Relative Clause and Noun,Zapotec (Isthmus),,,Pickett et al. 1998
+17,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Zapotec (Isthmus),,,Pickett et al. 1998
+18,91A,Degree word-Adjective,Order of Degree Word and Adjective,Zapotec (Isthmus),,,Pickett et al. 1998
+19,92A,Final,Position of Polar Question Particles,Zapotec (Isthmus),,,Pickett et al. 1998
+20,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Zapotec (Isthmus),,,Pickett et al. 1998
+21,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Zapotec (Isthmus),,,Pickett et al. 1998
+22,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Zapotec (Isthmus),,,
+23,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Zapotec (Isthmus),,,
+24,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Zapotec (Isthmus),,,
+25,101A,Subject affixes on verb,Expression of Pronominal Subjects,Zapotec (Isthmus),,,Pickett et al. 1998
+26,112A,Negative particle,Negative Morphemes,Zapotec (Isthmus),,,Pickett et al. 1998
+27,116A,Question particle,Polar Questions,Zapotec (Isthmus),,,Pickett et al. 1998
+28,118A,Mixed,Predicative Adjectives,Zapotec (Isthmus),,,Pickett 1960
+29,119A,Different,Nominal and Locational Predication,Zapotec (Isthmus),,,Pickett 1960
+30,120A,Impossible,Zero Copula for Predicate Nominals,Zapotec (Isthmus),,,Pickett 1960
+31,129A,Identical,Hand and Arm,Zapotec (Isthmus),,,Pickett 1971
+32,130A,Different,Finger and Hand,Zapotec (Isthmus),,,Pickett 1971
+33,143A,NegV,Order of Negative Morpheme and Verb,Zapotec (Isthmus),,,Pickett et al. 1998
+34,143E,NegV,Preverbal Negative Morphemes,Zapotec (Isthmus),,,Pickett et al. 1998
+35,143F,None,Postverbal Negative Morphemes,Zapotec (Isthmus),,,Pickett et al. 1998
+36,143G,None,Minor morphological means of signaling negation,Zapotec (Isthmus),,,Pickett et al. 1998
+37,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Zapotec (Isthmus),,,Pickett et al. 1998
+38,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Zapotec (Isthmus),,,Pickett et al. 1998
+39,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Zapotec (Isthmus),,,Pickett et al. 1998
+40,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Zapotec (Isthmus),,,Pickett et al. 1998
+41,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Zapotec (Isthmus),,,Pickett et al. 1998
+42,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Zapotec (Isthmus),,,Pickett et al. 1998

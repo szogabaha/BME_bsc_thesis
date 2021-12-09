@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Sobei,,,Sterner 1976
+1,33A,Plural suffix,Coding of Nominal Plurality,Sobei,,,Sterner and Ross 2002
+2,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sobei,,,Sterner 1976
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Sobei,,,Sterner and Ross 2002
+4,81A,SVO,"Order of Subject, Object and Verb",Sobei,,,Sterner 1976
+5,82A,SV,Order of Subject and Verb,Sobei,,,Sterner 1976
+6,83A,VO,Order of Object and Verb,Sobei,,,Sterner and Ross 2002
+7,84A,VOX,"Order of Object, Oblique, and Verb",Sobei,,,Sterner and Ross 2002
+8,85A,Prepositions,Order of Adposition and Noun Phrase,Sobei,,,Sterner 1976
+9,86A,Genitive-Noun,Order of Genitive and Noun,Sobei,,,Sterner 1976
+10,87A,Noun-Adjective,Order of Adjective and Noun,Sobei,,,Sterner 1976
+11,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sobei,,,Sterner 1976
+12,89A,Noun-Numeral,Order of Numeral and Noun,Sobei,,,Sterner 1976
+13,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sobei,,,Sterner and Ross 2002
+14,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sobei,,,Sterner and Ross 2002
+15,92A,Final,Position of Polar Question Particles,Sobei,,,Sterner and Ross 2002
+16,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sobei,,,Sterner 1976
+17,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sobei,,,
+18,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sobei,,,
+19,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sobei,,,
+20,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sobei,,,Sterner and Ross 2002
+21,112A,Negative particle,Negative Morphemes,Sobei,,,Sterner and Ross 2002
+22,116A,Question particle,Polar Questions,Sobei,,,Sterner and Ross 2002
+23,143A,NegV,Order of Negative Morpheme and Verb,Sobei,,,Sterner and Ross 2002
+24,143E,NegV,Preverbal Negative Morphemes,Sobei,,,Sterner and Ross 2002
+25,143F,None,Postverbal Negative Morphemes,Sobei,,,Sterner and Ross 2002
+26,143G,None,Minor morphological means of signaling negation,Sobei,,,Sterner and Ross 2002
+27,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Sobei,,,Sterner and Ross 2002
+28,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sobei,,,Sterner and Ross 2002
+29,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Sobei,,,Sterner and Ross 2002
+30,144H,No NegSVO,NegSVO Order,Sobei,,,Sterner and Ross 2002
+31,144I,Word&NoDoubleNeg,SNegVO Order,Sobei,,,Sterner and Ross 2002
+32,144J,No SVNegO,SVNegO Order,Sobei,,,Sterner and Ross 2002
+33,144K,No SVONeg,SVONeg Order,Sobei,,,Sterner and Ross 2002

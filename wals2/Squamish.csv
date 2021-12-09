@@ -1,0 +1,113 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Squamish,,,Kuipers 1967
+1,2A,Small (2-4),Vowel Quality Inventories,Squamish,,,Kuipers 1967
+2,3A,High,Consonant-Vowel Ratio,Squamish,,,Kuipers 1967
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Squamish,,,Kuipers 1967
+4,5A,Other,Voicing and Gaps in Plosive Systems,Squamish,,,Kuipers 1967
+5,6A,Uvular stops and continuants,Uvular Consonants,Squamish,,,Kuipers 1967
+6,7A,Ejectives and glottalized resonants,Glottalized Consonants,Squamish,,,Kuipers 1967
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Squamish,,,Kuipers 1967
+8,9A,No velar nasal,The Velar Nasal,Squamish,,,Kuipers 1967
+9,10A,Contrast absent,Vowel Nasalization,Squamish,,,Kuipers 1967
+10,11A,None,Front Rounded Vowels,Squamish,,,Kuipers 1967
+11,12A,Complex,Syllable Structure,Squamish,,,Kuipers 1967
+12,13A,No tones,Tone,Squamish,,,Kuipers 1967
+13,14A,Penultimate,Fixed Stress Locations,Squamish,,,Demers and Horn 1978
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Squamish,,,Demers and Horn 1978
+15,16A,Prominence,Weight Factors in Weight-Sensitive Stress Systems,Squamish,,,Demers and Horn 1978
+16,17A,No rhythmic stress,Rhythm Types,Squamish,,,Demers and Horn 1978
+17,18A,All present,Absence of Common Consonants,Squamish,,,Kuipers 1967
+18,19A,Pharyngeals,Presence of Uncommon Consonants,Squamish,,,Kuipers 1967
+19,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Squamish,,,Kuipers 1967
+20,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Squamish,,,Kuipers 1967
+21,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Squamish,,,Kuipers 1967
+22,22A,8-9 categories per word,Inflectional Synthesis of the Verb,Squamish,,,Kuipers 1967
+23,23A,Double marking,Locus of Marking in the Clause,Squamish,,,Kuipers 1967
+24,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Squamish,,,Kuipers 1967
+25,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Squamish,,,Kuipers 1967
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Squamish,,,Kuipers 1967
+27,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Squamish,,,Kuipers 1967
+28,27A,Productive full and partial reduplication,Reduplication,Squamish,,,Kuipers 1967
+29,28A,No case marking,Case Syncretism,Squamish,,,Kuipers 1967
+30,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Squamish,,,Kuipers 1967
+31,35A,Person-number stem,Plurality in Independent Personal Pronouns,Squamish,,,Kuipers 1967
+32,37A,Definite word distinct from demonstrative,Definite Articles,Squamish,,,Kuipers 1967
+33,38A,Indefinite word distinct from 'one',Indefinite Articles,Squamish,,,Kuipers 1967
+34,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Squamish,,,Kuipers 1967
+35,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Squamish,,,Kuipers 1967
+36,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Squamish,,,Kuipers 1967
+37,46A,Interrogative-based,Indefinite Pronouns,Squamish,,,Kuipers 1967
+38,48A,No adpositions,Person Marking on Adpositions,Squamish,,,Kuipers 1967
+39,49A,2 cases,Number of Cases,Squamish,,,Kuipers 1967
+40,50A,Syncretism in relevant NP-types,Asymmetrical Case-Marking,Squamish,,,Kuipers 1967
+41,51A,Prepositional clitics,Position of Case Affixes,Squamish,,,Kuipers 1967
+42,53A,"First, second, three-th",Ordinal Numerals,Squamish,,,Kuipers 1967
+43,57A,Prefixes and suffixes,Position of Pronominal Possessive Affixes,Squamish,,,Kuipers 1967
+44,58A,Absent,Obligatory Possessive Inflection,Squamish,,,Kuipers 1967
+45,58B,None reported,Number of Possessive Nouns,Squamish,,,Kuipers 1967
+46,59A,No possessive classification,Possessive Classification,Squamish,,,Kuipers 1967
+47,62A,No action nominals,Action Nominal Constructions,Squamish,,,Kuipers 1967
+48,63A,'And' different from 'with',Noun Phrase Conjunction,Squamish,,,Kuipers 1967
+49,64A,Identity,Nominal and Verbal Conjunction,Squamish,,,Kuipers 1967
+50,71A,Special imperative + special negative,The Prohibitive,Squamish,,,Kuipers 1967
+51,72A,Neither type of system,Imperative-Hortative Systems,Squamish,,,Kuipers 1967
+52,73A,Inflectional optative absent,The Optative,Squamish,,,Kuipers 1967
+53,74A,Affixes on verbs,Situational Possibility,Squamish,,,Kuipers 1967
+54,75A,Affixes on verbs,Epistemic Possibility,Squamish,,,Kuipers 1967
+55,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Squamish,,,Kuipers 1967
+56,77A,Direct and indirect,Semantic Distinctions of Evidentiality,Squamish,,,Jacobs 1996
+57,78A,Separate particle,Coding of Evidentiality,Squamish,,,Jacobs 1996
+58,79A,None,Suppletion According to Tense and Aspect,Squamish,,,Kuipers 1967
+59,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Squamish,,,
+60,80A,None,Verbal Number and Suppletion,Squamish,,,Kuipers 1967
+61,81A,VSO,"Order of Subject, Object and Verb",Squamish,,,Kuipers 1967
+62,82A,VS,Order of Subject and Verb,Squamish,,,Kuipers 1967
+63,83A,VO,Order of Object and Verb,Squamish,,,Kuipers 1967
+64,85A,Prepositions,Order of Adposition and Noun Phrase,Squamish,,,Kuipers 1967
+65,86A,Noun-Genitive,Order of Genitive and Noun,Squamish,,,Kuipers 1967
+66,87A,Adjective-Noun,Order of Adjective and Noun,Squamish,,,Kuipers 1967
+67,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Squamish,,,Kuipers 1967
+68,89A,Numeral-Noun,Order of Numeral and Noun,Squamish,,,Kuipers 1967
+69,90A,Mixed,Order of Relative Clause and Noun,Squamish,,,Kuipers 1967
+70,90B,RelN or NRel,Prenominal relative clauses,Squamish,,,Kuipers 1967
+71,90C,NRel or RelN,Postnominal relative clauses,Squamish,,,Kuipers 1967
+72,92A,Second position,Position of Polar Question Particles,Squamish,,,Kuipers 1967
+73,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Squamish,,,Kuipers 1967
+74,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Squamish,,,
+75,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Squamish,,,
+76,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Squamish,,,
+77,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Squamish,,,Kuipers 1967
+78,100A,Accusative,Alignment of Verbal Person Marking,Squamish,,,Kuipers 1967
+79,101A,Subject affixes on verb,Expression of Pronominal Subjects,Squamish,,,Kuipers 1967
+80,102A,Both the A and P arguments,Verbal Person Marking,Squamish,,,Kuipers 1967
+81,103A,Zero in all 3rd person forms,Third Person Zero of Verbal Person Marking,Squamish,,,Kuipers 1967
+82,104A,P precedes A,Order of Person Markers on the Verb,Squamish,,,Kuipers 1967
+83,107A,Present,Passive Constructions,Squamish,,,Kuipers 1967
+84,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Squamish,,,Kuipers 1967
+85,112A,Negative auxiliary verb,Negative Morphemes,Squamish,,,Kuipers 1967
+86,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Squamish,,,Kuipers 1967
+87,114A,A/Fin and A/NonReal,Subtypes of Asymmetric Standard Negation,Squamish,,,Kuipers 1967
+88,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Squamish,,,Kuipers 1967
+89,116A,Question particle,Polar Questions,Squamish,,,Kuipers 1967
+90,118A,Verbal encoding,Predicative Adjectives,Squamish,,,Kuipers 1967
+91,119A,Different,Nominal and Locational Predication,Squamish,,,Kuipers 1967
+92,120A,Impossible,Zero Copula for Predicate Nominals,Squamish,,,Kuipers 1967
+93,124A,Subject is expressed overtly,'Want' Complement Subjects,Squamish,,,Kuipers 1967
+94,126A,Deranked,'When' Clauses,Squamish,,,Kuipers 1967
+95,128A,Deranked,Utterance Complement Clauses,Squamish,,,Kuipers 1967
+96,129A,Identical,Hand and Arm,Squamish,,,Kuipers 1967
+97,130A,Different,Finger and Hand,Squamish,,,Kuipers 1967
+98,136A,No M-T pronouns,M-T Pronouns,Squamish,,,Kuipers 1967
+99,136B,No m in first person singular,M in First Person Singular,Squamish,,,Kuipers 1967
+100,137A,No N-M pronouns,N-M Pronouns,Squamish,,,Kuipers 1967
+101,137B,No m in second person singular,M in Second Person Singular,Squamish,,,Kuipers 1967
+102,143A,NegV,Order of Negative Morpheme and Verb,Squamish,,,Kuipers 1967
+103,143E,NegV,Preverbal Negative Morphemes,Squamish,,,Kuipers 1967
+104,143F,None,Postverbal Negative Morphemes,Squamish,,,Kuipers 1967
+105,143G,None,Minor morphological means of signaling negation,Squamish,,,Kuipers 1967
+106,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Squamish,,,Kuipers 1967
+107,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Squamish,,,Kuipers 1967
+108,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Squamish,,,Kuipers 1967
+109,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Squamish,,,Kuipers 1967
+110,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Squamish,,,Kuipers 1967
+111,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Squamish,,,Kuipers 1967

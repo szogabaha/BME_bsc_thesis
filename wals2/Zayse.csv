@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Zayse,,,Hayward 1990b
+1,33A,Plural suffix,Coding of Nominal Plurality,Zayse,,,Hayward 1990b
+2,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Zayse,,,Hayward 1990b
+3,37A,Definite word distinct from demonstrative,Definite Articles,Zayse,,,Hayward 1990b
+4,38A,"No indefinite, but definite article",Indefinite Articles,Zayse,,,Hayward 1990b
+5,51A,Case suffixes,Position of Case Affixes,Zayse,,,Hayward 1990b
+6,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Zayse,,,Hayward 1990b
+7,81A,SOV,"Order of Subject, Object and Verb",Zayse,,,Hayward 1990b
+8,82A,SV,Order of Subject and Verb,Zayse,,,Hayward 1990b
+9,83A,OV,Order of Object and Verb,Zayse,,,Hayward 1990b
+10,86A,Genitive-Noun,Order of Genitive and Noun,Zayse,,,Hayward 1990b
+11,87A,Adjective-Noun,Order of Adjective and Noun,Zayse,,,Hayward 1990b
+12,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Zayse,,,Hayward 1990b
+13,89A,Numeral-Noun,Order of Numeral and Noun,Zayse,,,Hayward 1990b
+14,90A,Relative clause-Noun,Order of Relative Clause and Noun,Zayse,,,Hayward 1990b
+15,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Zayse,,,Hayward 1990b
+16,92A,No question particle,Position of Polar Question Particles,Zayse,,,Hayward 1990b
+17,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Zayse,,,Hayward 1990b
+18,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Zayse,,,
+19,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Zayse,,,
+20,101A,Subject affixes on verb,Expression of Pronominal Subjects,Zayse,,,Hayward 1990b
+21,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Zayse,,,Hayward 1990b
+22,112A,Negative affix,Negative Morphemes,Zayse,,,Hayward 1990b
+23,116A,Absence of declarative morphemes,Polar Questions,Zayse,,,Hayward 1990b
+24,143A,[V-Neg],Order of Negative Morpheme and Verb,Zayse,,,Hayward 1990b
+25,143E,None,Preverbal Negative Morphemes,Zayse,,,Hayward 1990b
+26,143F,[V-Neg],Postverbal Negative Morphemes,Zayse,,,Hayward 1990b
+27,143G,None,Minor morphological means of signaling negation,Zayse,,,Hayward 1990b
+28,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Zayse,,,Hayward 1990b
+29,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Zayse,,,Hayward 1990b
+30,144P,No NegSOV,NegSOV Order,Zayse,,,Hayward 1990b
+31,144Q,No SNegOV,SNegOV Order,Zayse,,,Hayward 1990b
+32,144R,No SONegV,SONegV Order,Zayse,,,Hayward 1990b
+33,144S,Suffix&NoDoubleNeg,SOVNeg Order,Zayse,,,Hayward 1990b

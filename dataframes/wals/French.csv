@@ -1,0 +1,159 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-fre,Average,Consonant Inventories,French,,,Sten 1963;Fougeron and Smith 1999
+2A-fre,Large (7-14),Vowel Quality Inventories,French,,,Fougeron and Smith 1999;Sten 1963
+3A-fre,Low,Consonant-Vowel Ratio,French,,,Sten 1963;Fougeron and Smith 1999
+4A-fre,In both plosives and fricatives,Voicing in Plosives and Fricatives,French,,,Fougeron and Smith 1999;Sten 1963
+5A-fre,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,French,,,Fougeron and Smith 1999;Sten 1963
+6A-fre,Uvular continuants only,Uvular Consonants,French,,,Fougeron and Smith 1999;Sten 1963
+7A-fre,No glottalized consonants,Glottalized Consonants,French,,,Fougeron and Smith 1999;Sten 1963
+8A-fre,"/l/, no obstruent laterals",Lateral Consonants,French,,,Sten 1963;Fougeron and Smith 1999
+9A-fre,No velar nasal,The Velar Nasal,French,,,Byrne et al. 1986
+10A-fre,Contrast present,Vowel Nasalization,French,,,Harris 1988
+11A-fre,High and mid,Front Rounded Vowels,French,,,Sten 1963;Fougeron and Smith 1999
+12A-fre,Complex,Syllable Structure,French,,,Sten 1963;Fougeron and Smith 1999
+13A-fre,No tones,Tone,French,,,Sten 1963;Fougeron and Smith 1999
+14A-fre,No fixed stress,Fixed Stress Locations,French,,,Dell 1984;Roca 1999;van Oostendorp 1995
+15A-fre,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,French,,,Dell 1984;van Oostendorp 1995;Roca 1999
+16A-fre,Prominence,Weight Factors in Weight-Sensitive Stress Systems,French,,,Dell 1984;Roca 1999;van Oostendorp 1995
+17A-fre,Undetermined,Rhythm Types,French,,,van Oostendorp 1995;Dell 1984;Roca 1999
+18A-fre,All present,Absence of Common Consonants,French,,,Fougeron and Smith 1999;Sten 1963
+19A-fre,None,Presence of Uncommon Consonants,French,,,Fougeron and Smith 1999;Sten 1963
+20A-fre,Exclusively concatenative,Fusion of Selected Inflectional Formatives,French,,,Judge and Healey 1985;Harris 1988
+21A-fre,No case,Exponence of Selected Inflectional Formatives,French,,,Judge and Healey 1985;Harris 1988
+21B-fre,TAM+agreement,Exponence of Tense-Aspect-Mood Inflection,French,,,Harris 1988;Judge and Healey 1985
+22A-fre,4-5 categories per word,Inflectional Synthesis of the Verb,French,,,Judge and Healey 1985;Harris 1988
+23A-fre,No marking,Locus of Marking in the Clause,French,,,
+24A-fre,Dependent marking,Locus of Marking in Possessive Noun Phrases,French,,,
+25A-fre,Inconsistent or other,Locus of Marking: Whole-language Typology,French,,,
+25B-fre,Non-zero marking,Zero Marking of A and P Arguments,French,,,
+26A-fre,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,French,,,Harris 1988
+27A-fre,No productive reduplication,Reduplication,French,,,Fox 2001
+28A-fre,Core and non-core,Case Syncretism,French,,,
+29A-fre,Syncretic,Syncretism in Verbal Person/Number Marking,French,,,
+30A-fre,Two,Number of Genders,French,,,
+31A-fre,Sex-based,Sex-based and Non-sex-based Gender Systems,French,,,
+32A-fre,Semantic and formal,Systems of Gender Assignment,French,,,
+33A-fre,Plural suffix,Coding of Nominal Plurality,French,,,Harris 1988
+34A-fre,"All nouns, always obligatory",Occurrence of Nominal Plurality,French,,,
+35A-fre,Person-number stem + nominal plural affix,Plurality in Independent Personal Pronouns,French,,,
+36A-fre,No associative plural,The Associative Plural,French,,,
+37A-fre,Definite word distinct from demonstrative,Definite Articles,French,,,
+38A-fre,Indefinite word same as 'one',Indefinite Articles,French,,,
+39A-fre,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,French,,,
+40A-fre,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,French,,,
+41A-fre,No distance contrast,Distance Contrasts in Demonstratives,French,,,
+42A-fre,Different stem,Pronominal and Adnominal Demonstratives,French,,,
+43A-fre,Related by gender markers,Third Person Pronouns and Demonstratives,French,,,Harris 1997
+44A-fre,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,French,,,Harris 1988
+45A-fre,Binary politeness distinction,Politeness Distinctions in Pronouns,French,,,Judge and Healey 1985
+46A-fre,Generic-noun-based,Indefinite Pronouns,French,,,
+47A-fre,Differentiated,Intensifiers and Reflexive Pronouns,French,,,Weinrich 1982
+48A-fre,No person marking,Person Marking on Adpositions,French,,,Harris 1988
+49A-fre,No morphological case-marking,Number of Cases,French,,,Judge and Healey 1985
+50A-fre,No case-marking,Asymmetrical Case-Marking,French,,,Judge and Healey 1985
+51A-fre,Prepositional clitics,Position of Case Affixes,French,,,
+52A-fre,Identity,Comitatives and Instrumentals,French,,,Lausberg 1972
+53A-fre,"First, second, three-th",Ordinal Numerals,French,,,Lausberg 1972
+54A-fre,No distributive numerals,Distributive Numerals,French,,,
+55A-fre,Absent,Numeral Classifiers,French,,,
+56A-fre,Formally different,Conjunctions and Universal Quantifiers,French,,,
+57A-fre,No possessive affixes,Position of Pronominal Possessive Affixes,French,,,
+58A-fre,Absent,Obligatory Possessive Inflection,French,,,
+58B-fre,None reported,Number of Possessive Nouns,French,,,
+59A-fre,No possessive classification,Possessive Classification,French,,,
+60A-fre,Highly differentiated,"Genitives, Adjectives and Relative Clauses",French,,,
+61A-fre,Without marking,Adjectives without Nouns,French,,,
+62A-fre,Ergative-Possessive,Action Nominal Constructions,French,,,
+63A-fre,'And' different from 'with',Noun Phrase Conjunction,French,,,
+64A-fre,Identity,Nominal and Verbal Conjunction,French,,,
+65A-fre,Grammatical marking,Perfective/Imperfective Aspect,French,,,Dahl 1985
+66A-fre,"Present, no remoteness distinctions",The Past Tense,French,,,Dahl 1985
+67A-fre,Inflectional future exists,The Future Tense,French,,,Dahl 1985
+68A-fre,From possessive,The Perfect,French,,,Dahl 1985
+69A-fre,Tense-aspect suffixes,Position of Tense-Aspect Affixes,French,,,
+70A-fre,Second singular,The Morphological Imperative,French,,,
+71A-fre,Normal imperative + normal negative,The Prohibitive,French,,,
+72A-fre,Neither type of system,Imperative-Hortative Systems,French,,,
+73A-fre,Inflectional optative absent,The Optative,French,,,
+74A-fre,Verbal constructions,Situational Possibility,French,,,L'Huillier 1999
+75A-fre,Verbal constructions,Epistemic Possibility,French,,,L'Huillier 1999
+76A-fre,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,French,,,L'Huillier 1999
+77A-fre,Indirect only,Semantic Distinctions of Evidentiality,French,,,
+78A-fre,Modal morpheme,Coding of Evidentiality,French,,,
+79A-fre,Tense and aspect,Suppletion According to Tense and Aspect,French,,,
+79B-fre,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,French,,,
+80A-fre,None,Verbal Number and Suppletion,French,,,
+81A-fre,SVO,"Order of Subject, Object and Verb",French,,,
+82A-fre,SV,Order of Subject and Verb,French,,,
+83A-fre,VO,Order of Object and Verb,French,,,
+84A-fre,VOX,"Order of Object, Oblique, and Verb",French,,,
+85A-fre,Prepositions,Order of Adposition and Noun Phrase,French,,,
+86A-fre,Noun-Genitive,Order of Genitive and Noun,French,,,
+87A-fre,Noun-Adjective,Order of Adjective and Noun,French,,,Harris 1988
+88A-fre,Demonstrative-Noun,Order of Demonstrative and Noun,French,,,
+89A-fre,Numeral-Noun,Order of Numeral and Noun,French,,,
+90A-fre,Noun-Relative clause,Order of Relative Clause and Noun,French,,,
+90C-fre,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,French,,,
+91A-fre,Degree word-Adjective,Order of Degree Word and Adjective,French,,,
+92A-fre,Initial,Position of Polar Question Particles,French,,,Harris 1988
+93A-fre,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,French,,,
+94A-fre,Initial subordinator word,Order of Adverbial Subordinator and Clause,French,,,
+95A-fre,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,French,,,
+96A-fre,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,French,,,
+97A-fre,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,French,,,
+98A-fre,Neutral,Alignment of Case Marking of Full Noun Phrases,French,,,
+99A-fre,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,French,,,
+100A-fre,Accusative,Alignment of Verbal Person Marking,French,,,Harris 1988
+101A-fre,Obligatory pronouns in subject position,Expression of Pronominal Subjects,French,,,
+102A-fre,Only the A argument,Verbal Person Marking,French,,,Harris 1988
+103A-fre,No zero realization,Third Person Zero of Verbal Person Marking,French,,,Harris 1988
+104A-fre,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,French,,,Harris 1988
+105A-fre,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',French,,,
+106A-fre,Mixed,Reciprocal Constructions,French,,,Guentchéva and Riviere 2007
+107A-fre,Present,Passive Constructions,French,,,Harris 1988
+108A-fre,No antipassive,Antipassive Constructions,French,,,
+108B-fre,no antipassive,Productivity of the Antipassive Construction,French,,,
+109A-fre,No applicative construction,Applicative Constructions,French,,,
+109B-fre,No applicative construction,Other Roles of Applied Objects,French,,,
+111A-fre,Both,Nonperiphrastic Causative Constructions,French,,,Judge and Healey 1985
+112A-fre,Negative particle,Negative Morphemes,French,,,
+113A-fre,Symmetric,Symmetric and Asymmetric Standard Negation,French,,,
+114A-fre,Non-assignable,Subtypes of Asymmetric Standard Negation,French,,,
+115A-fre,Mixed behaviour,Negative Indefinite Pronouns and Predicate Negation,French,,,Haspelmath 1997
+116A-fre,Question particle,Polar Questions,French,,,Harris 1988
+118A-fre,Nonverbal encoding,Predicative Adjectives,French,,,
+119A-fre,Identical,Nominal and Locational Predication,French,,,
+120A-fre,Impossible,Zero Copula for Predicate Nominals,French,,,
+121A-fre,Particle,Comparative Constructions,French,,,
+122A-fre,Relative pronoun,Relativization on Subjects,French,,,
+123A-fre,Relative pronoun,Relativization on Obliques,French,,,
+124A-fre,Subject is left implicit,'Want' Complement Subjects,French,,,
+125A-fre,Deranked,Purpose Clauses,French,,,
+126A-fre,Balanced/deranked,'When' Clauses,French,,,
+127A-fre,Balanced/deranked,Reason Clauses,French,,,
+128A-fre,Balanced/deranked,Utterance Complement Clauses,French,,,
+129A-fre,Different,Hand and Arm,French,,,Dubois et al. 1955
+130A-fre,Different,Finger and Hand,French,,,Dubois et al. 1955
+131A-fre,Decimal,Numeral Bases,French,,,
+132A-fre,6,Number of Non-Derived Basic Colour Categories,French,,,
+133A-fre,11,Number of Basic Colour Categories,French,,,
+134A-fre,Green vs. blue,Green and Blue,French,,,
+135A-fre,Red vs. yellow,Red and Yellow,French,,,
+136A-fre,"M-T pronouns, paradigmatic",M-T Pronouns,French,,,
+136B-fre,m in first person singular,M in First Person Singular,French,,,
+137A-fre,No N-M pronouns,N-M Pronouns,French,,,
+137B-fre,No m in second person singular,M in Second Person Singular,French,,,
+138A-fre,Words derived from Min Nan Chinese te,Tea,French,,,
+143A-fre,OptDoubleNeg,Order of Negative Morpheme and Verb,French,,,
+143C-fre,(Neg)VNeg,Optional Double Negation,French,,,
+143E-fre,NegV,Preverbal Negative Morphemes,French,,,
+143F-fre,VNeg,Postverbal Negative Morphemes,French,,,
+143G-fre,None,Minor morphological means of signaling negation,French,,,
+144A-fre,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",French,,,
+144B-fre,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,French,,,
+144D-fre,OptNeg,The Position of Negative Morphemes in SVO Languages,French,,,
+144G-fre,S(Neg)VNegO,Optional Double Negation in SVO languages,French,,,
+144H-fre,No NegSVO,NegSVO Order,French,,,
+144I-fre,Word&OnlyWithAnotherNeg,SNegVO Order,French,,,
+144J-fre,Word&OptDoubleNeg,SVNegO Order,French,,,
+144K-fre,No SVONeg,SVONeg Order,French,,,

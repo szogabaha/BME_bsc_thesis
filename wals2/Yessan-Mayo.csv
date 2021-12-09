@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Yessan-Mayo,,,Foreman and Marten 1973
+1,2A,Small (2-4),Vowel Quality Inventories,Yessan-Mayo,,,Foreman and Marten 1973
+2,3A,Average,Consonant-Vowel Ratio,Yessan-Mayo,,,Foreman and Marten 1973
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Yessan-Mayo,,,Foreman and Marten 1973
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yessan-Mayo,,,Foreman and Marten 1973
+5,6A,None,Uvular Consonants,Yessan-Mayo,,,Foreman and Marten 1973
+6,7A,No glottalized consonants,Glottalized Consonants,Yessan-Mayo,,,Foreman and Marten 1973
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yessan-Mayo,,,Foreman and Marten 1973
+8,11A,None,Front Rounded Vowels,Yessan-Mayo,,,Foreman and Marten 1973
+9,12A,Moderately complex,Syllable Structure,Yessan-Mayo,,,Foreman and Marten 1973
+10,13A,No tones,Tone,Yessan-Mayo,,,Foreman and Marten 1973
+11,18A,All present,Absence of Common Consonants,Yessan-Mayo,,,Foreman and Marten 1973
+12,19A,None,Presence of Uncommon Consonants,Yessan-Mayo,,,Foreman and Marten 1973
+13,23A,Head marking,Locus of Marking in the Clause,Yessan-Mayo,,,Foreman 1974
+14,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Yessan-Mayo,,,Foreman 1974
+15,25A,Head-marking,Locus of Marking: Whole-language Typology,Yessan-Mayo,,,Foreman 1974
+16,25B,Non-zero marking,Zero Marking of A and P Arguments,Yessan-Mayo,,,Foreman 1974
+17,44A,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Yessan-Mayo,,,Foreman 1974
+18,48A,Pronouns only,Person Marking on Adpositions,Yessan-Mayo,,,Foreman 1974
+19,54A,Marked by mixed or other strategies,Distributive Numerals,Yessan-Mayo,,,Foreman 1974
+20,55A,Absent,Numeral Classifiers,Yessan-Mayo,,,Foreman 1974
+21,58A,Absent,Obligatory Possessive Inflection,Yessan-Mayo,,,Foreman 1974
+22,58B,None reported,Number of Possessive Nouns,Yessan-Mayo,,,Foreman 1974
+23,59A,No possessive classification,Possessive Classification,Yessan-Mayo,,,Foreman 1974
+24,61A,Without marking,Adjectives without Nouns,Yessan-Mayo,,,Foreman 1974
+25,65A,No grammatical marking,Perfective/Imperfective Aspect,Yessan-Mayo,,,Bybee et al. 1994
+26,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Yessan-Mayo,,,Bybee et al. 1994
+27,67A,Inflectional future exists,The Future Tense,Yessan-Mayo,,,Bybee et al. 1994
+28,68A,No perfect,The Perfect,Yessan-Mayo,,,Bybee et al. 1994
+29,100A,Neutral,Alignment of Verbal Person Marking,Yessan-Mayo,,,Foreman 1974
+30,102A,No person marking,Verbal Person Marking,Yessan-Mayo,,,Foreman 1974
+31,103A,No person marking,Third Person Zero of Verbal Person Marking,Yessan-Mayo,,,Foreman 1974
+32,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Yessan-Mayo,,,Foreman 1974
+33,107A,Absent,Passive Constructions,Yessan-Mayo,,,Foreman 1974

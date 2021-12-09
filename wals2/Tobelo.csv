@@ -1,0 +1,33 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Tobelo,,,Hueting 1908
+1,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Tobelo,,,Hueting 1908
+2,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Tobelo,,,Hueting 1908
+3,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tobelo,,,Holton 2003
+4,33A,No plural,Coding of Nominal Plurality,Tobelo,,,Holton 2003
+5,34A,No nominal plural,Occurrence of Nominal Plurality,Tobelo,,,Holton 2003
+6,36A,Unique periphrastic associative plural,The Associative Plural,Tobelo,,,den Besten 2001
+7,51A,Case suffixes,Position of Case Affixes,Tobelo,,,Holton 2003
+8,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tobelo,,,Holton 2003
+9,64A,Identity,Nominal and Verbal Conjunction,Tobelo,,,Holton 2003
+10,69A,Mixed type,Position of Tense-Aspect Affixes,Tobelo,,,Holton 2003
+11,81A,SOV,"Order of Subject, Object and Verb",Tobelo,,,Holton 2003
+12,82A,SV,Order of Subject and Verb,Tobelo,,,Holton 2003
+13,83A,OV,Order of Object and Verb,Tobelo,,,Holton 2003
+14,85A,Prepositions,Order of Adposition and Noun Phrase,Tobelo,,,Holton 2003
+15,86A,Genitive-Noun,Order of Genitive and Noun,Tobelo,,,Holton 2003
+16,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tobelo,,,Holton 2003
+17,89A,Noun-Numeral,Order of Numeral and Noun,Tobelo,,,Holton 2003
+18,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tobelo,,,Holton 2003
+19,95A,OV and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tobelo,,,
+20,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tobelo,,,Holton 2003
+21,112A,Negative affix,Negative Morphemes,Tobelo,,,Holton 2003
+22,143A,[V-Neg],Order of Negative Morpheme and Verb,Tobelo,,,Holton 2003
+23,143E,None,Preverbal Negative Morphemes,Tobelo,,,Holton 2003
+24,143F,[V-Neg],Postverbal Negative Morphemes,Tobelo,,,Holton 2003
+25,143G,None,Minor morphological means of signaling negation,Tobelo,,,Holton 2003
+26,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tobelo,,,Holton 2003
+27,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tobelo,,,Holton 2003
+28,144P,No NegSOV,NegSOV Order,Tobelo,,,Holton 2003
+29,144Q,No SNegOV,SNegOV Order,Tobelo,,,Holton 2003
+30,144R,No SONegV,SONegV Order,Tobelo,,,Holton 2003
+31,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tobelo,,,Holton 2003

@@ -1,0 +1,33 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Takia,,,Ross 2002h
+1,33A,Plural word,Coding of Nominal Plurality,Takia,,,Ross 2002h
+2,37A,Demonstrative word used as definite article,Definite Articles,Takia,,,Ross 2002h
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Takia,,,Ross 2002h
+4,81A,SOV,"Order of Subject, Object and Verb",Takia,,,Ross 2002h
+5,82A,SV,Order of Subject and Verb,Takia,,,Ross 2002h
+6,83A,OV,Order of Object and Verb,Takia,,,Ross 2002h
+7,84A,OXV,"Order of Object, Oblique, and Verb",Takia,,,Ross 2002h
+8,85A,Postpositions,Order of Adposition and Noun Phrase,Takia,,,Ross 2002h
+9,86A,Genitive-Noun,Order of Genitive and Noun,Takia,,,Ross 2002h
+10,87A,Noun-Adjective,Order of Adjective and Noun,Takia,,,Ross 2002h
+11,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Takia,,,Ross 2002h
+12,90A,Noun-Relative clause,Order of Relative Clause and Noun,Takia,,,Ross 2002h
+13,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Takia,,,Ross 2002h
+14,91A,Adjective-Degree word,Order of Degree Word and Adjective,Takia,,,Ross 2002h
+15,92A,Final,Position of Polar Question Particles,Takia,,,Ross 2002h
+16,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Takia,,,
+17,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Takia,,,
+18,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Takia,,,
+19,112A,Negative particle,Negative Morphemes,Takia,,,Ross 2002h
+20,116A,Question particle,Polar Questions,Takia,,,Ross 2002h
+21,143A,NegV,Order of Negative Morpheme and Verb,Takia,,,Ross 2002h
+22,143E,NegV,Preverbal Negative Morphemes,Takia,,,Ross 2002h
+23,143F,None,Postverbal Negative Morphemes,Takia,,,Ross 2002h
+24,143G,None,Minor morphological means of signaling negation,Takia,,,Ross 2002h
+25,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Takia,,,Ross 2002h
+26,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Takia,,,Ross 2002h
+27,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Takia,,,Ross 2002h
+28,144P,No NegSOV,NegSOV Order,Takia,,,Ross 2002h
+29,144Q,No SNegOV,SNegOV Order,Takia,,,Ross 2002h
+30,144R,Word&NoDoubleNeg,SONegV Order,Takia,,,Ross 2002h
+31,144S,NoSOVNeg,SOVNeg Order,Takia,,,Ross 2002h

@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+1,37A,Definite word distinct from demonstrative,Definite Articles,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+2,46A,Interrogative-based,Indefinite Pronouns,Totonac (Xicotepec de Juárez),,,Reid 1991
+3,52A,Differentiation,Comitatives and Instrumentals,Totonac (Xicotepec de Juárez),,,Reid 1991
+4,53A,"One-th, two-th, three-th",Ordinal Numerals,Totonac (Xicotepec de Juárez),,,Reid 1991
+5,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+6,64A,Identity,Nominal and Verbal Conjunction,Totonac (Xicotepec de Juárez),,,Reid 1991
+7,69A,Mixed type,Position of Tense-Aspect Affixes,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+8,70A,No second-person imperatives,The Morphological Imperative,Totonac (Xicotepec de Juárez),,,Reid 1991
+9,71A,Normal imperative + normal negative,The Prohibitive,Totonac (Xicotepec de Juárez),,,Reid 1991
+10,72A,Maximal system,Imperative-Hortative Systems,Totonac (Xicotepec de Juárez),,,Reid 1991
+11,73A,Inflectional optative absent,The Optative,Totonac (Xicotepec de Juárez),,,Reid 1991
+12,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+13,78A,No grammatical evidentials,Coding of Evidentiality,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+14,81A,SVO,"Order of Subject, Object and Verb",Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+15,82A,SV,Order of Subject and Verb,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+16,83A,VO,Order of Object and Verb,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+17,85A,Prepositions,Order of Adposition and Noun Phrase,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+18,86A,Noun-Genitive,Order of Genitive and Noun,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+19,87A,Adjective-Noun,Order of Adjective and Noun,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+20,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+21,90A,Noun-Relative clause,Order of Relative Clause and Noun,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+22,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+23,91A,Degree word-Adjective,Order of Degree Word and Adjective,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+24,92A,Initial,Position of Polar Question Particles,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+25,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+26,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+27,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Totonac (Xicotepec de Juárez),,,
+28,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Totonac (Xicotepec de Juárez),,,
+29,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Totonac (Xicotepec de Juárez),,,
+30,116A,Question particle,Polar Questions,Totonac (Xicotepec de Juárez),,,Reid et al. 1968
+31,117A,'Have',Predicative Possession,Totonac (Xicotepec de Juárez),,,Reid 1991
+32,129A,Different,Hand and Arm,Totonac (Xicotepec de Juárez),,,Reid and Bishop 1974
+33,130A,Different,Finger and Hand,Totonac (Xicotepec de Juárez),,,Reid and Bishop 1974

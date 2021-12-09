@@ -1,0 +1,58 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,So,,,Tucker and Bryan 1966
+1,33A,Plural suffix,Coding of Nominal Plurality,So,,,Tucker and Bryan 1966
+2,41A,Two-way contrast,Distance Contrasts in Demonstratives,So,,,Carlin 1993
+3,42A,Different stem,Pronominal and Adnominal Demonstratives,So,,,Carlin 1993
+4,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,So,,,Carlin 1993
+5,48A,Pronouns only,Person Marking on Adpositions,So,,,Carlin 1993
+6,51A,Case suffixes,Position of Case Affixes,So,,,Serzisko 1989
+7,52A,Differentiation,Comitatives and Instrumentals,So,,,Carlin 1993
+8,53A,"First, second, three-th",Ordinal Numerals,So,,,Carlin 1993
+9,55A,Obligatory,Numeral Classifiers,So,,,
+10,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,So,,,Serzisko 1989
+11,60A,Adjectives and relative clauses collapsed,"Genitives, Adjectives and Relative Clauses",So,,,Carlin 1993
+12,64A,Differentiation,Nominal and Verbal Conjunction,So,,,Carlin 1993
+13,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,So,,,Tucker and Bryan 1966
+14,70A,Second singular and second plural,The Morphological Imperative,So,,,Carlin 1993
+15,71A,Normal imperative + normal negative,The Prohibitive,So,,,Carlin 1993
+16,72A,Neither type of system,Imperative-Hortative Systems,So,,,Carlin 1993
+17,75A,Other,Epistemic Possibility,So,,,Carlin 1993
+18,81A,VSO,"Order of Subject, Object and Verb",So,,,Tucker and Bryan 1966
+19,82A,VS,Order of Subject and Verb,So,,,Tucker and Bryan 1966
+20,83A,VO,Order of Object and Verb,So,,,Tucker and Bryan 1966
+21,85A,Prepositions,Order of Adposition and Noun Phrase,So,,,Tucker and Bryan 1966
+22,86A,Noun-Genitive,Order of Genitive and Noun,So,,,Tucker and Bryan 1966
+23,87A,Noun-Adjective,Order of Adjective and Noun,So,,,Tucker and Bryan 1966
+24,88A,Noun-Demonstrative,Order of Demonstrative and Noun,So,,,Tucker and Bryan 1966
+25,89A,Noun-Numeral,Order of Numeral and Noun,So,,,Serzisko 1989
+26,90A,Noun-Relative clause,Order of Relative Clause and Noun,So,,,Serzisko 1989
+27,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,So,,,Serzisko 1989
+28,92A,Final,Position of Polar Question Particles,So,,,Serzisko 1989
+29,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,So,,,Tucker and Bryan 1966
+30,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,So,,,
+31,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,So,,,
+32,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,So,,,
+33,100A,Accusative,Alignment of Verbal Person Marking,So,,,Carlin 1993
+34,101A,Subject affixes on verb,Expression of Pronominal Subjects,So,,,Serzisko 1989
+35,102A,Only the A argument,Verbal Person Marking,So,,,Carlin 1993
+36,103A,Zero in all 3rd person forms,Third Person Zero of Verbal Person Marking,So,,,Carlin 1993
+37,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,So,,,Carlin 1993
+38,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',So,,,Carlin 1993
+39,107A,Present,Passive Constructions,So,,,Carlin 1993
+40,112A,Negative particle,Negative Morphemes,So,,,Tucker and Bryan 1966
+41,113A,Both,Symmetric and Asymmetric Standard Negation,So,,,Carlin 1993
+42,114A,A/Cat,Subtypes of Asymmetric Standard Negation,So,,,Carlin 1993
+43,116A,Question particle,Polar Questions,So,,,Serzisko 1989
+44,117A,Conjunctional,Predicative Possession,So,,,Carlin 1993
+45,122A,Gap,Relativization on Subjects,So,,,Carlin 1993
+46,131A,Decimal,Numeral Bases,So,,,Carlin 1993
+47,143A,NegV,Order of Negative Morpheme and Verb,So,,,Tucker and Bryan 1966
+48,143E,NegV,Preverbal Negative Morphemes,So,,,Tucker and Bryan 1966
+49,143F,None,Postverbal Negative Morphemes,So,,,Tucker and Bryan 1966
+50,143G,None,Minor morphological means of signaling negation,So,,,Tucker and Bryan 1966
+51,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",So,,,Tucker and Bryan 1966
+52,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,So,,,Tucker and Bryan 1966
+53,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,So,,,Tucker and Bryan 1966
+54,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,So,,,Tucker and Bryan 1966
+55,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,So,,,Tucker and Bryan 1966
+56,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,So,,,Tucker and Bryan 1966

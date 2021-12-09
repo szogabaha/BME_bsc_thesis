@@ -1,0 +1,27 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural word,Coding of Nominal Plurality,Shabo,,,Teferra 1991
+1,51A,Case suffixes,Position of Case Affixes,Shabo,,,Teferra 1991
+2,70A,Second singular and second plural,The Morphological Imperative,Shabo,,,Teferra 1991
+3,71A,Normal imperative + special negative,The Prohibitive,Shabo,,,Teferra 1991
+4,81A,SOV,"Order of Subject, Object and Verb",Shabo,,,Teferra 1991
+5,82A,SV,Order of Subject and Verb,Shabo,,,Teferra 1991
+6,83A,OV,Order of Object and Verb,Shabo,,,Teferra 1991
+7,85A,Postpositions,Order of Adposition and Noun Phrase,Shabo,,,Teferra 1991
+8,87A,Adjective-Noun,Order of Adjective and Noun,Shabo,,,Teferra 1991
+9,89A,Numeral-Noun,Order of Numeral and Noun,Shabo,,,Teferra 1991
+10,90A,Noun-Relative clause,Order of Relative Clause and Noun,Shabo,,,Teferra and Unseth 1989
+11,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Shabo,,,Teferra and Unseth 1989
+12,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Shabo,,,
+13,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Shabo,,,
+14,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Shabo,,,
+15,143A,VNeg,Order of Negative Morpheme and Verb,Shabo,,,Teferra 1991
+16,143E,None,Preverbal Negative Morphemes,Shabo,,,Teferra 1991
+17,143F,VNeg,Postverbal Negative Morphemes,Shabo,,,Teferra 1991
+18,143G,None,Minor morphological means of signaling negation,Shabo,,,Teferra 1991
+19,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Shabo,,,Teferra 1991
+20,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Shabo,,,Teferra 1991
+21,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Shabo,,,Teferra 1991
+22,144P,No NegSOV,NegSOV Order,Shabo,,,Teferra 1991
+23,144Q,No SNegOV,SNegOV Order,Shabo,,,Teferra 1991
+24,144R,No SONegV,SONegV Order,Shabo,,,Teferra 1991
+25,144S,Word&NoDoubleNeg,SOVNeg Order,Shabo,,,Teferra 1991

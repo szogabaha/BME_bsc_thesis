@@ -1,0 +1,15 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Watam,,,Anonymous 5
+1,82A,SV,Order of Subject and Verb,Watam,,,Anonymous 5
+2,83A,OV,Order of Object and Verb,Watam,,,Anonymous 5
+3,85A,Postpositions,Order of Adposition and Noun Phrase,Watam,,,Anonymous 5
+4,92A,No question particle,Position of Polar Question Particles,Watam,,,Anonymous 5
+5,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Watam,,,
+6,112A,Negative affix,Negative Morphemes,Watam,,,Anonymous 5
+7,116A,Interrogative verb morphology,Polar Questions,Watam,,,Anonymous 5
+8,143A,[Neg-V],Order of Negative Morpheme and Verb,Watam,,,
+9,143E,[Neg-V],Preverbal Negative Morphemes,Watam,,,
+10,143F,None,Postverbal Negative Morphemes,Watam,,,
+11,143G,None,Minor morphological means of signaling negation,Watam,,,
+12,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Watam,,,
+13,144L,SV&OV&[Neg-V],The Position of Negative Morphemes in SOV Languages,Watam,,,

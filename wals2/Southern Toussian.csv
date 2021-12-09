@@ -1,0 +1,25 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Southern Toussian,,,Prost 1964g
+1,33A,Plural suffix,Coding of Nominal Plurality,Southern Toussian,,,Prost 1964g
+2,38A,Indefinite word distinct from 'one',Indefinite Articles,Southern Toussian,,,Prost 1964g
+3,55A,Obligatory,Numeral Classifiers,Southern Toussian,,,
+4,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Southern Toussian,,,Prost 1964g
+5,82A,SV,Order of Subject and Verb,Southern Toussian,,,Prost 1964g
+6,83A,OV,Order of Object and Verb,Southern Toussian,,,Prost 1964g
+7,85A,Postpositions,Order of Adposition and Noun Phrase,Southern Toussian,,,Prost 1964g
+8,86A,Genitive-Noun,Order of Genitive and Noun,Southern Toussian,,,Prost 1964g
+9,88A,Mixed,Order of Demonstrative and Noun,Southern Toussian,,,Prost 1964g
+10,89A,Noun-Numeral,Order of Numeral and Noun,Southern Toussian,,,Prost 1964g
+11,90A,Internally headed,Order of Relative Clause and Noun,Southern Toussian,,,Prost 1964g
+12,90D,Internally-headed relative clause dominant,Internally-headed relative clauses,Southern Toussian,,,Prost 1964g
+13,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Southern Toussian,,,Prost 1964g
+14,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Southern Toussian,,,Prost 1964g
+15,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Southern Toussian,,,
+16,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Southern Toussian,,,
+17,112A,Negative particle,Negative Morphemes,Southern Toussian,,,Prost 1964g
+18,143A,NegV,Order of Negative Morpheme and Verb,Southern Toussian,,,Prost 1964g
+19,143E,NegV,Preverbal Negative Morphemes,Southern Toussian,,,Prost 1964g
+20,143F,None,Postverbal Negative Morphemes,Southern Toussian,,,Prost 1964g
+21,143G,None,Minor morphological means of signaling negation,Southern Toussian,,,Prost 1964g
+22,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Southern Toussian,,,Prost 1964g
+23,144L,SV&OV&NegV,The Position of Negative Morphemes in SOV Languages,Southern Toussian,,,Prost 1964g

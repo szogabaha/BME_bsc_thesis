@@ -1,0 +1,16 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Waimaha,,,Stolte and Stolte 1971
+1,2A,Average (5-6),Vowel Quality Inventories,Waimaha,,,Stolte and Stolte 1971
+2,3A,Low,Consonant-Vowel Ratio,Waimaha,,,Stolte and Stolte 1971
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Waimaha,,,Stolte and Stolte 1971
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Waimaha,,,Stolte and Stolte 1971
+5,6A,None,Uvular Consonants,Waimaha,,,Stolte and Stolte 1971
+6,7A,No glottalized consonants,Glottalized Consonants,Waimaha,,,Stolte and Stolte 1971
+7,8A,No laterals,Lateral Consonants,Waimaha,,,Stolte and Stolte 1971
+8,11A,None,Front Rounded Vowels,Waimaha,,,Stolte and Stolte 1971
+9,12A,Simple,Syllable Structure,Waimaha,,,Stolte and Stolte 1971
+10,13A,Simple tone system,Tone,Waimaha,,,Stolte and Stolte 1971
+11,18A,No nasals,Absence of Common Consonants,Waimaha,,,Stolte and Stolte 1971
+12,19A,None,Presence of Uncommon Consonants,Waimaha,,,Stolte and Stolte 1971
+13,129A,Different,Hand and Arm,Waimaha,,,Huber and Reed 1992
+14,130A,Different,Finger and Hand,Waimaha,,,Huber and Reed 1992

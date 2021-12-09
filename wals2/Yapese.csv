@@ -1,0 +1,70 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Yapese,,,Hsu 1969
+1,2A,Large (7-14),Vowel Quality Inventories,Yapese,,,Hsu 1969
+2,3A,Average,Consonant-Vowel Ratio,Yapese,,,Hsu 1969
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Yapese,,,Hsu 1969
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Yapese,,,Hsu 1969
+5,6A,None,Uvular Consonants,Yapese,,,Hsu 1969
+6,7A,Ejectives and glottalized resonants,Glottalized Consonants,Yapese,,,Hsu 1969
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yapese,,,Hsu 1969
+8,11A,None,Front Rounded Vowels,Yapese,,,Hsu 1969
+9,12A,Moderately complex,Syllable Structure,Yapese,,,Hsu 1969
+10,13A,No tones,Tone,Yapese,,,Hsu 1969
+11,14A,No fixed stress,Fixed Stress Locations,Yapese,,,Jensen et al. 1977
+12,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Yapese,,,Jensen et al. 1977
+13,16A,Combined,Weight Factors in Weight-Sensitive Stress Systems,Yapese,,,Jensen et al. 1977
+14,17A,Undetermined,Rhythm Types,Yapese,,,Jensen et al. 1977
+15,18A,All present,Absence of Common Consonants,Yapese,,,Hsu 1969
+16,19A,'Th' sounds,Presence of Uncommon Consonants,Yapese,,,Hsu 1969
+17,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Yapese,,,Jensen et al. 1977
+18,33A,Plural word,Coding of Nominal Plurality,Yapese,,,Jensen et al. 1977
+19,37A,Definite word distinct from demonstrative,Definite Articles,Yapese,,,Jensen 1977a
+20,38A,Indefinite word distinct from 'one',Indefinite Articles,Yapese,,,Jensen et al. 1977
+21,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yapese,,,Jensen et al. 1977
+22,46A,Generic-noun-based,Indefinite Pronouns,Yapese,,,Jensen et al. 1977
+23,48A,Pronouns only,Person Marking on Adpositions,Yapese,,,Jensen et al. 1977
+24,51A,No case affixes or adpositional clitics,Position of Case Affixes,Yapese,,,Jensen et al. 1977
+25,55A,Optional,Numeral Classifiers,Yapese,,,Jensen et al. 1977
+26,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Yapese,,,Jensen 1977a
+27,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Yapese,,,Jensen et al. 1977
+28,70A,No second-person imperatives,The Morphological Imperative,Yapese,,,Jensen et al. 1977
+29,71A,Normal imperative + special negative,The Prohibitive,Yapese,,,Jensen et al. 1977
+30,81A,VSO,"Order of Subject, Object and Verb",Yapese,,,Jensen 1977a
+31,82A,VS,Order of Subject and Verb,Yapese,,,Jensen 1977a
+32,83A,VO,Order of Object and Verb,Yapese,,,Jensen 1977a
+33,85A,Prepositions,Order of Adposition and Noun Phrase,Yapese,,,Jensen 1977a
+34,86A,Noun-Genitive,Order of Genitive and Noun,Yapese,,,Jensen 1977a
+35,87A,Noun-Adjective,Order of Adjective and Noun,Yapese,,,Jensen 1977a
+36,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Yapese,,,Jensen 1977a
+37,89A,Numeral-Noun,Order of Numeral and Noun,Yapese,,,Jensen 1977a
+38,90A,Noun-Relative clause,Order of Relative Clause and Noun,Yapese,,,Jensen 1977a
+39,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Yapese,,,Jensen 1977a
+40,91A,Degree word-Adjective,Order of Degree Word and Adjective,Yapese,,,Jensen 1977a
+41,92A,No question particle,Position of Polar Question Particles,Yapese,,,Jensen 1977a
+42,93A,Mixed,Position of Interrogative Phrases in Content Questions,Yapese,,,Jensen 1977a
+43,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Yapese,,,Jensen et al. 1977
+44,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yapese,,,
+45,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yapese,,,
+46,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yapese,,,
+47,100A,Accusative,Alignment of Verbal Person Marking,Yapese,,,Jensen et al. 1977
+48,102A,Only the P argument,Verbal Person Marking,Yapese,,,Jensen et al. 1977
+49,103A,Zero in some 3sg forms,Third Person Zero of Verbal Person Marking,Yapese,,,Jensen et al. 1977
+50,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Yapese,,,Jensen et al. 1977
+51,107A,Absent,Passive Constructions,Yapese,,,Jensen et al. 1977
+52,110A,Sequential but no purposive,Periphrastic Causative Constructions,Yapese,,,Jensen et al. 1977
+53,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Yapese,,,Jensen et al. 1977
+54,112A,Negative particle,Negative Morphemes,Yapese,,,Jensen 1977a
+55,116A,Interrogative intonation only,Polar Questions,Yapese,,,Jensen 1977a
+56,121A,Locational,Comparative Constructions,Yapese,,,Jensen et al. 1977
+57,129A,Identical,Hand and Arm,Yapese,,,Jensen et al. 1977
+58,130A,Different,Finger and Hand,Yapese,,,Jensen et al. 1977
+59,143A,NegV,Order of Negative Morpheme and Verb,Yapese,,,Jensen 1977a
+60,143E,NegV,Preverbal Negative Morphemes,Yapese,,,Jensen 1977a
+61,143F,None,Postverbal Negative Morphemes,Yapese,,,Jensen 1977a
+62,143G,None,Minor morphological means of signaling negation,Yapese,,,Jensen 1977a
+63,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Yapese,,,Jensen 1977a
+64,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yapese,,,Jensen 1977a
+65,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Yapese,,,Jensen 1977a
+66,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Yapese,,,Jensen 1977a
+67,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Yapese,,,Jensen 1977a
+68,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Yapese,,,Jensen 1977a

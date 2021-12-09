@@ -1,0 +1,145 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-hin,Large,Consonant Inventories,Hindi,,,Ohala 1983;Kelkar 1968;Ohala 1999
+2A-hin,Average (5-6),Vowel Quality Inventories,Hindi,,,Ohala 1999;Ohala 1983;Kelkar 1968
+3A-hin,Moderately high,Consonant-Vowel Ratio,Hindi,,,Ohala 1983;Ohala 1999;Kelkar 1968
+4A-hin,In both plosives and fricatives,Voicing in Plosives and Fricatives,Hindi,,,Kelkar 1968;Ohala 1983;Ohala 1999
+5A-hin,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Hindi,,,Kelkar 1968;Ohala 1999;Ohala 1983
+6A-hin,None,Uvular Consonants,Hindi,,,Ohala 1983;Ohala 1999;Kelkar 1968
+7A-hin,No glottalized consonants,Glottalized Consonants,Hindi,,,Ohala 1983;Kelkar 1968;Ohala 1999
+8A-hin,"/l/, no obstruent laterals",Lateral Consonants,Hindi,,,Ohala 1999;Ohala 1983;Kelkar 1968
+9A-hin,No velar nasal,The Velar Nasal,Hindi,,,Ohala 1983
+10A-hin,Contrast present,Vowel Nasalization,Hindi,,,Ohala 1999
+11A-hin,None,Front Rounded Vowels,Hindi,,,Kelkar 1968;Ohala 1999;Ohala 1983
+12A-hin,Complex,Syllable Structure,Hindi,,,Ohala 1999;Ohala 1983;Kelkar 1968
+13A-hin,No tones,Tone,Hindi,,,Ohala 1983;Kelkar 1968;Ohala 1999
+14A-hin,No fixed stress,Fixed Stress Locations,Hindi,,,McGregor 1977;Fairbanks 1981
+15A-hin,Right-oriented: One of the last three,Weight-Sensitive Stress,Hindi,,,McGregor 1977;Fairbanks 1981
+16A-hin,Long vowel or coda consonant,Weight Factors in Weight-Sensitive Stress Systems,Hindi,,,Fairbanks 1981;McGregor 1977
+18A-hin,All present,Absence of Common Consonants,Hindi,,,Ohala 1983;Kelkar 1968;Ohala 1999
+19A-hin,None,Presence of Uncommon Consonants,Hindi,,,Ohala 1983;Kelkar 1968;Ohala 1999
+20A-hin,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Hindi,,,Snell and Weightman 1989;McGregor 1977;Butt 1994;Sandahl 2000
+21A-hin,Monoexponential case,Exponence of Selected Inflectional Formatives,Hindi,,,Sandahl 2000;Butt 1994;McGregor 1977;Snell and Weightman 1989
+21B-hin,TAM+agreement,Exponence of Tense-Aspect-Mood Inflection,Hindi,,,McGregor 1977;Snell and Weightman 1989;Sandahl 2000;Butt 1994
+22A-hin,2-3 categories per word,Inflectional Synthesis of the Verb,Hindi,,,Snell and Weightman 1989
+23A-hin,Double marking,Locus of Marking in the Clause,Hindi,,,
+24A-hin,Dependent marking,Locus of Marking in Possessive Noun Phrases,Hindi,,,
+25A-hin,Inconsistent or other,Locus of Marking: Whole-language Typology,Hindi,,,
+25B-hin,Non-zero marking,Zero Marking of A and P Arguments,Hindi,,,
+26A-hin,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Hindi,,,McGregor 1977;McGregor 1995
+27A-hin,Productive full and partial reduplication,Reduplication,Hindi,,,McGregor 1977
+28A-hin,Core and non-core,Case Syncretism,Hindi,,,McGregor 1977
+29A-hin,Syncretic,Syncretism in Verbal Person/Number Marking,Hindi,,,McGregor 1977
+30A-hin,Two,Number of Genders,Hindi,,,McGregor 1995
+31A-hin,Sex-based,Sex-based and Non-sex-based Gender Systems,Hindi,,,McGregor 1995
+32A-hin,Semantic and formal,Systems of Gender Assignment,Hindi,,,McGregor 1995
+33A-hin,Plural suffix,Coding of Nominal Plurality,Hindi,,,McGregor 1977
+34A-hin,"All nouns, always obligatory",Occurrence of Nominal Plurality,Hindi,,,
+35A-hin,Person-number stem,Plurality in Independent Personal Pronouns,Hindi,,,Kachru 1980
+36A-hin,No associative plural,The Associative Plural,Hindi,,,
+37A-hin,No definite or indefinite article,Definite Articles,Hindi,,,McGregor 1977
+38A-hin,No definite or indefinite article,Indefinite Articles,Hindi,,,McGregor 1977
+39A-hin,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Hindi,,,McGregor 1995
+40A-hin,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Hindi,,,McGregor 1995
+43A-hin,Related for all demonstratives,Third Person Pronouns and Demonstratives,Hindi,,,McGregor 1995
+44A-hin,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Hindi,,,McGregor 1977
+45A-hin,Multiple politeness distinctions,Politeness Distinctions in Pronouns,Hindi,,,Sharma and Vermeer 1963
+46A-hin,Special,Indefinite Pronouns,Hindi,,,
+47A-hin,Identical,Intensifiers and Reflexive Pronouns,Hindi,,,Davison 2000
+48A-hin,No person marking,Person Marking on Adpositions,Hindi,,,McGregor 1977
+51A-hin,Case suffixes,Position of Case Affixes,Hindi,,,McGregor 1977
+52A-hin,Differentiation,Comitatives and Instrumentals,Hindi,,,McGregor 1977
+53A-hin,"First, two-th, three-th",Ordinal Numerals,Hindi,,,McGregor 1977
+54A-hin,Marked by reduplication,Distributive Numerals,Hindi,,,Abbi 1992
+55A-hin,Absent,Numeral Classifiers,Hindi,,,
+56A-hin,"Formally similar, with interrogative",Conjunctions and Universal Quantifiers,Hindi,,,Emeneau 1980;Gil 1994b
+58A-hin,Absent,Obligatory Possessive Inflection,Hindi,,,
+58B-hin,None reported,Number of Possessive Nouns,Hindi,,,
+59A-hin,No possessive classification,Possessive Classification,Hindi,,,
+60A-hin,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Hindi,,,
+61A-hin,Marked by following word,Adjectives without Nouns,Hindi,,,
+62A-hin,Possessive-Accusative,Action Nominal Constructions,Hindi,,,
+63A-hin,'And' different from 'with',Noun Phrase Conjunction,Hindi,,,McGregor 1977
+64A-hin,Identity,Nominal and Verbal Conjunction,Hindi,,,
+65A-hin,Grammatical marking,Perfective/Imperfective Aspect,Hindi,,,Dahl 1985
+66A-hin,"Present, no remoteness distinctions",The Past Tense,Hindi,,,Dahl 1985
+67A-hin,Inflectional future exists,The Future Tense,Hindi,,,Dahl 1985
+68A-hin,Other perfect,The Perfect,Hindi,,,Dahl 1985
+69A-hin,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Hindi,,,McGregor 1977
+70A-hin,Second singular and second plural,The Morphological Imperative,Hindi,,,Kachru 1980;McGregor 1992a
+71A-hin,Normal imperative + special negative,The Prohibitive,Hindi,,,Kachru 1980;McGregor 1992a
+72A-hin,Neither type of system,Imperative-Hortative Systems,Hindi,,,Kachru 1980;McGregor 1992a
+73A-hin,Inflectional optative absent,The Optative,Hindi,,,McGregor 1977
+74A-hin,Verbal constructions,Situational Possibility,Hindi,,,Kachru 1980
+75A-hin,Verbal constructions,Epistemic Possibility,Hindi,,,
+76A-hin,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Hindi,,,Kachru 1980
+77A-hin,No grammatical evidentials,Semantic Distinctions of Evidentiality,Hindi,,,McGregor 1977
+78A-hin,No grammatical evidentials,Coding of Evidentiality,Hindi,,,McGregor 1977
+79A-hin,Tense and aspect,Suppletion According to Tense and Aspect,Hindi,,,Harley 1944
+79B-hin,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Hindi,,,
+80A-hin,None,Verbal Number and Suppletion,Hindi,,,Harley 1944
+81A-hin,SOV,"Order of Subject, Object and Verb",Hindi,,,McGregor 1977
+82A-hin,SV,Order of Subject and Verb,Hindi,,,McGregor 1977
+83A-hin,OV,Order of Object and Verb,Hindi,,,McGregor 1977
+85A-hin,Postpositions,Order of Adposition and Noun Phrase,Hindi,,,McGregor 1977
+86A-hin,Genitive-Noun,Order of Genitive and Noun,Hindi,,,McGregor 1977
+87A-hin,Adjective-Noun,Order of Adjective and Noun,Hindi,,,McGregor 1977
+88A-hin,Demonstrative-Noun,Order of Demonstrative and Noun,Hindi,,,McGregor 1977
+89A-hin,Numeral-Noun,Order of Numeral and Noun,Hindi,,,McGregor 1977
+90A-hin,Correlative,Order of Relative Clause and Noun,Hindi,,,McGregor 1977
+90E-hin,Correlative relative clause dominant,Correlative relative clauses,Hindi,,,McGregor 1977
+91A-hin,Degree word-Adjective,Order of Degree Word and Adjective,Hindi,,,McGregor 1977
+92A-hin,Initial,Position of Polar Question Particles,Hindi,,,McGregor 1977
+93A-hin,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Hindi,,,McGregor 1977
+94A-hin,Initial subordinator word,Order of Adverbial Subordinator and Clause,Hindi,,,McGregor 1977
+95A-hin,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Hindi,,,
+96A-hin,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Hindi,,,
+97A-hin,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Hindi,,,
+98A-hin,Tripartite,Alignment of Case Marking of Full Noun Phrases,Hindi,,,
+99A-hin,Tripartite,Alignment of Case Marking of Pronouns,Hindi,,,
+100A-hin,Accusative,Alignment of Verbal Person Marking,Hindi,,,McGregor 1977
+102A-hin,Only the A argument,Verbal Person Marking,Hindi,,,McGregor 1977
+103A-hin,No zero realization,Third Person Zero of Verbal Person Marking,Hindi,,,McGregor 1977
+104A-hin,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Hindi,,,McGregor 1977
+105A-hin,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Hindi,,,
+106A-hin,Distinct from reflexive,Reciprocal Constructions,Hindi,,,Davison 2000
+107A-hin,Present,Passive Constructions,Hindi,,,McGregor 1977
+108A-hin,No antipassive,Antipassive Constructions,Hindi,,,
+108B-hin,no antipassive,Productivity of the Antipassive Construction,Hindi,,,
+109A-hin,No applicative construction,Applicative Constructions,Hindi,,,McGregor 1995
+109B-hin,No applicative construction,Other Roles of Applied Objects,Hindi,,,
+110A-hin,Purposive but no sequential,Periphrastic Causative Constructions,Hindi,,,McGregor 1977
+111A-hin,Morphological but no compound,Nonperiphrastic Causative Constructions,Hindi,,,McGregor 1977
+112A-hin,Negative particle,Negative Morphemes,Hindi,,,McGregor 1977
+113A-hin,Both,Symmetric and Asymmetric Standard Negation,Hindi,,,McGregor 1977;Tikkanen 1991
+114A-hin,A/Cat,Subtypes of Asymmetric Standard Negation,Hindi,,,McGregor 1977;Tikkanen 1991
+115A-hin,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Hindi,,,Haspelmath 1997
+116A-hin,Question particle,Polar Questions,Hindi,,,McGregor 1977
+117A-hin,Locational,Predicative Possession,Hindi,,,McGregor 1972
+118A-hin,Nonverbal encoding,Predicative Adjectives,Hindi,,,McGregor 1977
+119A-hin,Identical,Nominal and Locational Predication,Hindi,,,McGregor 1977
+120A-hin,Impossible,Zero Copula for Predicate Nominals,Hindi,,,McGregor 1977
+121A-hin,Locational,Comparative Constructions,Hindi,,,McGregor 1977
+122A-hin,Non-reduction,Relativization on Subjects,Hindi,,,McGregor 1995
+123A-hin,Non-reduction,Relativization on Obliques,Hindi,,,McGregor 1995
+124A-hin,Subject is left implicit,'Want' Complement Subjects,Hindi,,,
+126A-hin,Balanced/deranked,'When' Clauses,Hindi,,,McGregor 1995
+127A-hin,Balanced/deranked,Reason Clauses,Hindi,,,McGregor 1995
+128A-hin,Balanced,Utterance Complement Clauses,Hindi,,,McGregor 1995
+131A-hin,Decimal,Numeral Bases,Hindi,,,McGregor 1995
+136A-hin,"M-T pronouns, paradigmatic",M-T Pronouns,Hindi,,,McGregor 1977
+136B-hin,m in first person singular,M in First Person Singular,Hindi,,,McGregor 1977
+137A-hin,No N-M pronouns,N-M Pronouns,Hindi,,,McGregor 1977
+137B-hin,No m in second person singular,M in Second Person Singular,Hindi,,,McGregor 1977
+138A-hin,Words derived from Sinitic cha,Tea,Hindi,,,Malherbe and Rosenberg 1996
+142A-hin,Logical meanings,Para-Linguistic Usages of Clicks,Hindi,,,
+143A-hin,NegV,Order of Negative Morpheme and Verb,Hindi,,,McGregor 1977
+143E-hin,NegV,Preverbal Negative Morphemes,Hindi,,,McGregor 1977
+143F-hin,None,Postverbal Negative Morphemes,Hindi,,,McGregor 1977
+143G-hin,None,Minor morphological means of signaling negation,Hindi,,,McGregor 1977
+144A-hin,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Hindi,,,McGregor 1977
+144B-hin,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Hindi,,,McGregor 1977
+144L-hin,SONegV,The Position of Negative Morphemes in SOV Languages,Hindi,,,McGregor 1977
+144P-hin,No NegSOV,NegSOV Order,Hindi,,,McGregor 1977
+144Q-hin,No SNegOV,SNegOV Order,Hindi,,,McGregor 1977
+144R-hin,Word&NoDoubleNeg,SONegV Order,Hindi,,,McGregor 1977
+144S-hin,NoSOVNeg,SOVNeg Order,Hindi,,,McGregor 1977

@@ -1,0 +1,27 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Mixed morphological plural,Coding of Nominal Plurality,Sudest,,,Anderson and Ross 2002
+1,34A,"Only human nouns, obligatory",Occurrence of Nominal Plurality,Sudest,,,Anderson and Ross 2002
+2,64A,Identity,Nominal and Verbal Conjunction,Sudest,,,Anderson and Ross 2002
+3,81A,SVO,"Order of Subject, Object and Verb",Sudest,,,Anderson and Ross 2002
+4,82A,SV,Order of Subject and Verb,Sudest,,,Anderson and Ross 2002
+5,83A,VO,Order of Object and Verb,Sudest,,,Anderson and Ross 2002
+6,86A,Genitive-Noun,Order of Genitive and Noun,Sudest,,,Anderson and Ross 2002
+7,87A,Noun-Adjective,Order of Adjective and Noun,Sudest,,,Anderson and Ross 2002
+8,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sudest,,,Anderson and Ross 2002
+9,89A,Noun-Numeral,Order of Numeral and Noun,Sudest,,,Anderson and Ross 2002
+10,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sudest,,,Anderson and Ross 2002
+11,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sudest,,,Anderson and Ross 2002
+12,92A,No question particle,Position of Polar Question Particles,Sudest,,,Anderson and Ross 2002
+13,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Sudest,,,Anderson and Ross 2002
+14,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sudest,,,
+15,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sudest,,,
+16,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Sudest,,,Anderson and Ross 2002
+17,116A,Interrogative intonation only,Polar Questions,Sudest,,,Anderson and Ross 2002
+18,143A,NegV,Order of Negative Morpheme and Verb,Sudest,,,Anderson and Ross 2002
+19,143E,NegV,Preverbal Negative Morphemes,Sudest,,,Anderson and Ross 2002
+20,143F,None,Postverbal Negative Morphemes,Sudest,,,Anderson and Ross 2002
+21,143G,None,Minor morphological means of signaling negation,Sudest,,,Anderson and Ross 2002
+22,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Sudest,,,Anderson and Ross 2002
+23,144D,Other NegV,The Position of Negative Morphemes in SVO Languages,Sudest,,,Anderson and Ross 2002
+24,144J,No SVNegO,SVNegO Order,Sudest,,,Anderson and Ross 2002
+25,144K,No SVONeg,SVONeg Order,Sudest,,,Anderson and Ross 2002

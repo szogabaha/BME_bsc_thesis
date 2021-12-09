@@ -1,0 +1,70 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Penultimate,Fixed Stress Locations,Welsh,,,Ball 1993
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Welsh,,,Ball 1993
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Welsh,,,Ball 1993
+3,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Welsh,,,Jones and Thomas 1977
+4,27A,No productive reduplication,Reduplication,Welsh,,,Kibre 2001
+5,33A,Plural suffix,Coding of Nominal Plurality,Welsh,,,Williams 1980b
+6,37A,Definite word distinct from demonstrative,Definite Articles,Welsh,,,Jones and Thomas 1977
+7,38A,"No indefinite, but definite article",Indefinite Articles,Welsh,,,Jones and Thomas 1977
+8,41A,Two-way contrast,Distance Contrasts in Demonstratives,Welsh,,,King 1993a
+9,42A,Different stem,Pronominal and Adnominal Demonstratives,Welsh,,,King 1993a
+10,44A,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Welsh,,,King 1993a
+11,45A,Binary politeness distinction,Politeness Distinctions in Pronouns,Welsh,,,Thorne 1993
+12,47A,Identical,Intensifiers and Reflexive Pronouns,Welsh,,,King 1993a
+13,48A,Pronouns only,Person Marking on Adpositions,Welsh,,,King 1993a
+14,49A,No morphological case-marking,Number of Cases,Welsh,,,King 1993a
+15,50A,No case-marking,Asymmetrical Case-Marking,Welsh,,,King 1993a
+16,51A,No case affixes or adpositional clitics,Position of Case Affixes,Welsh,,,Williams 1980b
+17,52A,Mixed,Comitatives and Instrumentals,Welsh,,,Williams 1980b
+18,53A,"First, second, three-th",Ordinal Numerals,Welsh,,,Williams 1980b
+19,62A,Ergative-Possessive,Action Nominal Constructions,Welsh,,,Comrie and Thompson 1985
+20,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Welsh,,,Williams 1980b
+21,70A,Second singular and second plural,The Morphological Imperative,Welsh,,,King 1993a
+22,71A,Normal imperative + special negative,The Prohibitive,Welsh,,,King 1993a
+23,72A,Neither type of system,Imperative-Hortative Systems,Welsh,,,King 1993a
+24,74A,Verbal constructions,Situational Possibility,Welsh,,,King 1993a
+25,75A,Other,Epistemic Possibility,Welsh,,,Fife 1990
+26,76A,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Welsh,,,King 1993a
+27,81A,VSO,"Order of Subject, Object and Verb",Welsh,,,Williams 1980b
+28,82A,VS,Order of Subject and Verb,Welsh,,,Williams 1980b
+29,83A,VO,Order of Object and Verb,Welsh,,,Williams 1980b
+30,84A,VOX,"Order of Object, Oblique, and Verb",Welsh,,,Williams 1980b
+31,85A,Prepositions,Order of Adposition and Noun Phrase,Welsh,,,Williams 1980b
+32,86A,Noun-Genitive,Order of Genitive and Noun,Welsh,,,Jones and Thomas 1977
+33,87A,Noun-Adjective,Order of Adjective and Noun,Welsh,,,Jones and Thomas 1977
+34,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Welsh,,,Jones and Thomas 1977
+35,89A,Numeral-Noun,Order of Numeral and Noun,Welsh,,,Williams 1980b
+36,90A,Noun-Relative clause,Order of Relative Clause and Noun,Welsh,,,Jones and Thomas 1977
+37,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Welsh,,,Jones and Thomas 1977
+38,91A,No dominant order,Order of Degree Word and Adjective,Welsh,,,Jones and Thomas 1977
+39,92A,Initial,Position of Polar Question Particles,Welsh,,,Jones and Thomas 1977
+40,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Welsh,,,Jones and Thomas 1977
+41,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Welsh,,,Williams 1980b
+42,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Welsh,,,
+43,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Welsh,,,
+44,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Welsh,,,
+45,100A,Accusative,Alignment of Verbal Person Marking,Welsh,,,King 1993a
+46,102A,Only the A argument,Verbal Person Marking,Welsh,,,King 1993a
+47,103A,No zero realization,Third Person Zero of Verbal Person Marking,Welsh,,,King 1993a
+48,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Welsh,,,King 1993a
+49,107A,Present,Passive Constructions,Welsh,,,King 1993a
+50,112A,Negative particle,Negative Morphemes,Welsh,,,Jones and Thomas 1977
+51,116A,Question particle,Polar Questions,Welsh,,,Jones and Thomas 1977
+52,117A,Locational,Predicative Possession,Welsh,,,Rhys Jones 1985
+53,118A,Nonverbal encoding,Predicative Adjectives,Welsh,,,Rhys Jones 1985
+54,119A,Different,Nominal and Locational Predication,Welsh,,,Rhys Jones 1985
+55,120A,Impossible,Zero Copula for Predicate Nominals,Welsh,,,Rhys Jones 1985
+56,129A,Different,Hand and Arm,Welsh,,,Evans and Thomas 1958
+57,130A,Different,Finger and Hand,Welsh,,,Evans and Thomas 1958
+58,138A,Words derived from Min Nan Chinese te,Tea,Welsh,,,Malherbe and Rosenberg 1996
+59,143A,NegV,Order of Negative Morpheme and Verb,Welsh,,,Jones and Thomas 1977
+60,143E,NegV,Preverbal Negative Morphemes,Welsh,,,Jones and Thomas 1977
+61,143F,None,Postverbal Negative Morphemes,Welsh,,,Jones and Thomas 1977
+62,143G,None,Minor morphological means of signaling negation,Welsh,,,Jones and Thomas 1977
+63,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Welsh,,,Jones and Thomas 1977
+64,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Welsh,,,Jones and Thomas 1977
+65,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Welsh,,,Jones and Thomas 1977
+66,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Welsh,,,Jones and Thomas 1977
+67,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Welsh,,,Jones and Thomas 1977
+68,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Welsh,,,Jones and Thomas 1977

@@ -1,0 +1,60 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+14A-por,No fixed stress,Fixed Stress Locations,Portuguese,,,Abaurre and Wetzels 1992;Camara and Mattoso 1979;Martins 1982;Mateus et al. 1989;Parkinson 1988;Roca 1999
+15A-por,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Portuguese,,,Abaurre and Wetzels 1992;Camara and Mattoso 1979;Martins 1982;Mateus et al. 1989;Parkinson 1988;Roca 1999
+16A-por,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Portuguese,,,Abaurre and Wetzels 1992;Camara and Mattoso 1979;Martins 1982;Mateus et al. 1989;Parkinson 1988;Roca 1999
+26A-por,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Portuguese,,,Hutchinson and Lloyd 1996;Parkinson 1988
+27A-por,No productive reduplication,Reduplication,Portuguese,,,Schmitt 2001
+33A-por,Plural suffix,Coding of Nominal Plurality,Portuguese,,,Hutchinson and Lloyd 1996
+34A-por,"All nouns, always obligatory",Occurrence of Nominal Plurality,Portuguese,,,Parkinson 1988
+36A-por,No associative plural,The Associative Plural,Portuguese,,,
+37A-por,Definite word distinct from demonstrative,Definite Articles,Portuguese,,,Parkinson 1988
+38A-por,Indefinite word same as 'one',Indefinite Articles,Portuguese,,,Parkinson 1988
+45A-por,Binary politeness distinction,Politeness Distinctions in Pronouns,Portuguese,,,Mühlhäusler and Harré 1990
+46A-por,Mixed,Indefinite Pronouns,Portuguese,,,Haspelmath 1997
+47A-por,Differentiated,Intensifiers and Reflexive Pronouns,Portuguese,,,Gärtner 1998
+51A-por,No case affixes or adpositional clitics,Position of Case Affixes,Portuguese,,,Parkinson 1988
+52A-por,Identity,Comitatives and Instrumentals,Portuguese,,,Lausberg 1972
+53A-por,"First, second, three-th",Ordinal Numerals,Portuguese,,,Lausberg 1972
+65A-por,Grammatical marking,Perfective/Imperfective Aspect,Portuguese,,,Dahl 1985
+66A-por,"Present, no remoteness distinctions",The Past Tense,Portuguese,,,Dahl 1985
+67A-por,No inflectional future,The Future Tense,Portuguese,,,Dahl 1985
+68A-por,No perfect,The Perfect,Portuguese,,,Dahl 1985
+69A-por,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Portuguese,,,Parkinson 1988
+70A-por,Second singular,The Morphological Imperative,Portuguese,,,
+71A-por,Special imperative + normal negative,The Prohibitive,Portuguese,,,
+72A-por,Neither type of system,Imperative-Hortative Systems,Portuguese,,,
+74A-por,Verbal constructions,Situational Possibility,Portuguese,,,Gärtner 1998
+75A-por,Verbal constructions,Epistemic Possibility,Portuguese,,,Gärtner 1998
+76A-por,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Portuguese,,,Gärtner 1998
+81A-por,SVO,"Order of Subject, Object and Verb",Portuguese,,,Parkinson 1988
+82A-por,SV,Order of Subject and Verb,Portuguese,,,Parkinson 1988
+83A-por,VO,Order of Object and Verb,Portuguese,,,Parkinson 1988
+85A-por,Prepositions,Order of Adposition and Noun Phrase,Portuguese,,,Hutchinson and Lloyd 1996
+86A-por,Noun-Genitive,Order of Genitive and Noun,Portuguese,,,Parkinson 1988
+87A-por,Noun-Adjective,Order of Adjective and Noun,Portuguese,,,Parkinson 1988
+88A-por,Demonstrative-Noun,Order of Demonstrative and Noun,Portuguese,,,Parkinson 1988
+90A-por,Noun-Relative clause,Order of Relative Clause and Noun,Portuguese,,,Parkinson 1988
+90C-por,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Portuguese,,,Parkinson 1988
+91A-por,Degree word-Adjective,Order of Degree Word and Adjective,Portuguese,,,Hutchinson and Lloyd 1996
+92A-por,Initial,Position of Polar Question Particles,Portuguese,,,Parkinson 1988
+95A-por,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Portuguese,,,
+96A-por,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Portuguese,,,
+97A-por,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Portuguese,,,
+101A-por,Subject affixes on verb,Expression of Pronominal Subjects,Portuguese,,,Hutchinson and Lloyd 1996
+112A-por,Negative particle,Negative Morphemes,Portuguese,,,Parkinson 1988
+115A-por,Mixed behaviour,Negative Indefinite Pronouns and Predicate Negation,Portuguese,,,Haspelmath 1997
+116A-por,Question particle,Polar Questions,Portuguese,,,Parkinson 1988
+129A-por,Different,Hand and Arm,Portuguese,,,Lamb 1964
+130A-por,Different,Finger and Hand,Portuguese,,,Lamb 1964
+138A-por,Words derived from Sinitic cha,Tea,Portuguese,,,Malherbe and Rosenberg 1996
+143A-por,NegV,Order of Negative Morpheme and Verb,Portuguese,,,Parkinson 1988
+143E-por,NegV,Preverbal Negative Morphemes,Portuguese,,,Parkinson 1988
+143F-por,None,Postverbal Negative Morphemes,Portuguese,,,Parkinson 1988
+143G-por,None,Minor morphological means of signaling negation,Portuguese,,,Parkinson 1988
+144A-por,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Portuguese,,,Parkinson 1988
+144B-por,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Portuguese,,,Parkinson 1988
+144D-por,SNegVO,The Position of Negative Morphemes in SVO Languages,Portuguese,,,Parkinson 1988
+144H-por,No NegSVO,NegSVO Order,Portuguese,,,Parkinson 1988
+144I-por,Word&NoDoubleNeg,SNegVO Order,Portuguese,,,Parkinson 1988
+144J-por,No SVNegO,SVNegO Order,Portuguese,,,Parkinson 1988
+144K-por,No SVONeg,SVONeg Order,Portuguese,,,Parkinson 1988

@@ -1,0 +1,17 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yelmek,,,Boelaars 1950
+1,81A,SOV,"Order of Subject, Object and Verb",Yelmek,,,Boelaars 1950
+2,82A,SV,Order of Subject and Verb,Yelmek,,,Boelaars 1950
+3,83A,OV,Order of Object and Verb,Yelmek,,,Boelaars 1950
+4,85A,Postpositions,Order of Adposition and Noun Phrase,Yelmek,,,Boelaars 1950
+5,86A,No dominant order,Order of Genitive and Noun,Yelmek,,,Boelaars 1950
+6,89A,Noun-Numeral,Order of Numeral and Noun,Yelmek,,,Boelaars 1950
+7,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yelmek,,,
+8,112A,Negative particle,Negative Morphemes,Yelmek,,,Boelaars 1950
+9,143A,NegV,Order of Negative Morpheme and Verb,Yelmek,,,Boelaars 1950
+10,143E,NegV,Preverbal Negative Morphemes,Yelmek,,,Boelaars 1950
+11,143F,None,Postverbal Negative Morphemes,Yelmek,,,Boelaars 1950
+12,143G,None,Minor morphological means of signaling negation,Yelmek,,,Boelaars 1950
+13,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Yelmek,,,Boelaars 1950
+14,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Yelmek,,,Boelaars 1950
+15,144S,NoSOVNeg,SOVNeg Order,Yelmek,,,Boelaars 1950

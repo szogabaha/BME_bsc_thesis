@@ -1,0 +1,45 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Santali,,,Macphail 1953
+1,27A,Productive full and partial reduplication,Reduplication,Santali,,,Anderson 2001
+2,33A,Plural suffix,Coding of Nominal Plurality,Santali,,,Neukom 2001
+3,37A,"No definite, but indefinite article",Definite Articles,Santali,,,Macphail 1953
+4,38A,Indefinite word same as 'one',Indefinite Articles,Santali,,,Neukom 2001
+5,46A,Interrogative-based,Indefinite Pronouns,Santali,,,Vermeer 1969
+6,51A,Case suffixes,Position of Case Affixes,Santali,,,Neukom 2001
+7,54A,Marked by mixed or other strategies,Distributive Numerals,Santali,,,Neukom 2001
+8,55A,Optional,Numeral Classifiers,Santali,,,Neukom 2001
+9,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Santali,,,Neukom 2001
+10,61A,Marked by suffix,Adjectives without Nouns,Santali,,,Neukom 2001
+11,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Santali,,,Macphail 1953
+12,73A,Inflectional optative present,The Optative,Santali,,,Neukom 2001
+13,81A,SOV,"Order of Subject, Object and Verb",Santali,,,Neukom 2001
+14,82A,SV,Order of Subject and Verb,Santali,,,Neukom 2001
+15,83A,OV,Order of Object and Verb,Santali,,,Neukom 2001
+16,85A,Postpositions,Order of Adposition and Noun Phrase,Santali,,,Neukom 2001
+17,86A,Genitive-Noun,Order of Genitive and Noun,Santali,,,Neukom 2001
+18,87A,Adjective-Noun,Order of Adjective and Noun,Santali,,,Neukom 2001
+19,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Santali,,,Macphail 1953
+20,89A,Numeral-Noun,Order of Numeral and Noun,Santali,,,Macphail 1953
+21,90A,Mixed,Order of Relative Clause and Noun,Santali,,,Neukom 2001
+22,90B,RelN or correlative,Prenominal relative clauses,Santali,,,Neukom 2001
+23,90E,Correlative or RelN,Correlative relative clauses,Santali,,,Neukom 2001
+24,92A,No question particle,Position of Polar Question Particles,Santali,,,Neukom 2001
+25,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Santali,,,Macphail 1953
+26,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Santali,,,
+27,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Santali,,,
+28,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Santali,,,
+29,116A,Interrogative verb morphology,Polar Questions,Santali,,,Neukom 2001
+30,121A,Locational,Comparative Constructions,Santali,,,Neukom 2001
+31,129A,Identical,Hand and Arm,Santali,,,Macphail 1983
+32,130A,Different,Finger and Hand,Santali,,,Macphail 1983
+33,143A,NegV,Order of Negative Morpheme and Verb,Santali,,,Macphail 1953
+34,143E,NegV,Preverbal Negative Morphemes,Santali,,,Macphail 1953
+35,143F,None,Postverbal Negative Morphemes,Santali,,,Macphail 1953
+36,143G,None,Minor morphological means of signaling negation,Santali,,,Macphail 1953
+37,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Santali,,,Neukom 2001
+38,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Santali,,,Neukom 2001
+39,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Santali,,,Neukom 2001
+40,144P,No NegSOV,NegSOV Order,Santali,,,Neukom 2001
+41,144Q,No SNegOV,SNegOV Order,Santali,,,Neukom 2001
+42,144R,Word&NoDoubleNeg,SONegV Order,Santali,,,Neukom 2001
+43,144S,NoSOVNeg,SOVNeg Order,Santali,,,Neukom 2001

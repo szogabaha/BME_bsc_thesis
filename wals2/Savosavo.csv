@@ -1,0 +1,47 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Savosavo,,,Todd 1975
+1,2A,Average (5-6),Vowel Quality Inventories,Savosavo,,,Todd 1975
+2,3A,Average,Consonant-Vowel Ratio,Savosavo,,,Todd 1975
+3,4A,In fricatives alone,Voicing in Plosives and Fricatives,Savosavo,,,Todd 1975
+4,5A,Other,Voicing and Gaps in Plosive Systems,Savosavo,,,Todd 1975
+5,6A,None,Uvular Consonants,Savosavo,,,Todd 1975
+6,7A,No glottalized consonants,Glottalized Consonants,Savosavo,,,Todd 1975
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Savosavo,,,Todd 1975
+8,11A,None,Front Rounded Vowels,Savosavo,,,Todd 1975
+9,12A,Simple,Syllable Structure,Savosavo,,,Todd 1975
+10,13A,No tones,Tone,Savosavo,,,Todd 1975
+11,18A,All present,Absence of Common Consonants,Savosavo,,,Todd 1975
+12,19A,None,Presence of Uncommon Consonants,Savosavo,,,Todd 1975
+13,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Savosavo,,,Wegener 2008
+14,33A,Plural clitic,Coding of Nominal Plurality,Savosavo,,,Wegener 2008
+15,37A,Definite word distinct from demonstrative,Definite Articles,Savosavo,,,Wegener 2008
+16,38A,"No indefinite, but definite article",Indefinite Articles,Savosavo,,,Wegener 2008
+17,51A,Postpositional clitics,Position of Case Affixes,Savosavo,,,Wegener 2008
+18,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Savosavo,,,Wegener 2008
+19,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Savosavo,,,Wegener 2008
+20,81A,SOV,"Order of Subject, Object and Verb",Savosavo,,,Wegener 2008
+21,82A,SV,Order of Subject and Verb,Savosavo,,,Wegener 2008
+22,83A,OV,Order of Object and Verb,Savosavo,,,Wegener 2008
+23,84A,OVX,"Order of Object, Oblique, and Verb",Savosavo,,,Wegener 2008
+24,85A,Postpositions,Order of Adposition and Noun Phrase,Savosavo,,,Wegener 2008
+25,86A,Genitive-Noun,Order of Genitive and Noun,Savosavo,,,Wegener 2008
+26,87A,Adjective-Noun,Order of Adjective and Noun,Savosavo,,,Wegener 2008
+27,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Savosavo,,,Wegener 2008
+28,89A,Numeral-Noun,Order of Numeral and Noun,Savosavo,,,Wegener 2008
+29,90A,Relative clause-Noun,Order of Relative Clause and Noun,Savosavo,,,Wegener 2008
+30,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Savosavo,,,Wegener 2008
+31,91A,No dominant order,Order of Degree Word and Adjective,Savosavo,,,Wegener 2008
+32,92A,No question particle,Position of Polar Question Particles,Savosavo,,,Wegener 2008
+33,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Savosavo,,,Wegener 2008
+34,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Savosavo,,,Wegener 2008
+35,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Savosavo,,,
+36,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Savosavo,,,
+37,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Savosavo,,,
+38,116A,Interrogative intonation only,Polar Questions,Savosavo,,,Wegener 2008
+39,143A,NegV,Order of Negative Morpheme and Verb,Savosavo,,,Wegener 2008
+40,143E,NegV,Preverbal Negative Morphemes,Savosavo,,,Wegener 2008
+41,143F,None,Postverbal Negative Morphemes,Savosavo,,,Wegener 2008
+42,143G,None,Minor morphological means of signaling negation,Savosavo,,,Wegener 2008
+43,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Savosavo,,,Wegener 2008
+44,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Savosavo,,,Wegener 2008
+45,144S,NoSOVNeg,SOVNeg Order,Savosavo,,,Wegener 2008

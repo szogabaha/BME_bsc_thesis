@@ -1,0 +1,15 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,51A,Case suffixes,Position of Case Affixes,Uru,,,Vellard 1967
+1,82A,SV,Order of Subject and Verb,Uru,,,Vellard 1967
+2,83A,OV,Order of Object and Verb,Uru,,,Vellard 1967
+3,87A,No dominant order,Order of Adjective and Noun,Uru,,,Vellard 1967
+4,88A,Mixed,Order of Demonstrative and Noun,Uru,,,Vellard 1967
+5,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Uru,,,Vellard 1967
+6,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Uru,,,Vellard 1967
+7,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Uru,,,
+8,143A,NegV,Order of Negative Morpheme and Verb,Uru,,,Vellard 1967
+9,143E,NegV,Preverbal Negative Morphemes,Uru,,,Vellard 1967
+10,143F,None,Postverbal Negative Morphemes,Uru,,,Vellard 1967
+11,143G,None,Minor morphological means of signaling negation,Uru,,,Vellard 1967
+12,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Uru,,,Vellard 1967
+13,144L,SV&OV&NegV,The Position of Negative Morphemes in SOV Languages,Uru,,,Vellard 1967

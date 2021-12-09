@@ -1,0 +1,48 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,Initial velar nasal,The Velar Nasal,Sulka,,,Tharp 1996
+1,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Sulka,,,Tharp 1996
+2,33A,Plural prefix,Coding of Nominal Plurality,Sulka,,,Tharp 1996
+3,37A,No definite or indefinite article,Definite Articles,Sulka,,,Tharp 1996
+4,38A,No definite or indefinite article,Indefinite Articles,Sulka,,,Tharp 1996
+5,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sulka,,,Tharp 1996
+6,55A,Absent,Numeral Classifiers,Sulka,,,Nichols 1992
+7,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Sulka,,,Tharp 1996
+8,58A,Absent,Obligatory Possessive Inflection,Sulka,,,Müller 1916
+9,58B,None reported,Number of Possessive Nouns,Sulka,,,Müller 1916
+10,59A,Two classes,Possessive Classification,Sulka,,,Müller 1916
+11,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Sulka,,,Tharp 1996
+12,81A,SVO,"Order of Subject, Object and Verb",Sulka,,,Tharp 1996
+13,82A,SV,Order of Subject and Verb,Sulka,,,Tharp 1996
+14,83A,VO,Order of Object and Verb,Sulka,,,Tharp 1996
+15,84A,VOX,"Order of Object, Oblique, and Verb",Sulka,,,Tharp 1996
+16,85A,Prepositions,Order of Adposition and Noun Phrase,Sulka,,,Tharp 1996
+17,86A,No dominant order,Order of Genitive and Noun,Sulka,,,Tharp 1996
+18,87A,Noun-Adjective,Order of Adjective and Noun,Sulka,,,Tharp 1996
+19,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sulka,,,Tharp 1996
+20,89A,Noun-Numeral,Order of Numeral and Noun,Sulka,,,Tharp 1996
+21,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sulka,,,Tharp 1996
+22,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sulka,,,Tharp 1996
+23,91A,Adjective-Degree word,Order of Degree Word and Adjective,Sulka,,,Tharp 1996
+24,92A,No question particle,Position of Polar Question Particles,Sulka,,,Tharp 1996
+25,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sulka,,,Tharp 1996
+26,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Sulka,,,Tharp 1996
+27,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sulka,,,
+28,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sulka,,,
+29,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sulka,,,
+30,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sulka,,,Tharp 1996
+31,112A,Negative affix,Negative Morphemes,Sulka,,,Tharp 1996
+32,116A,Interrogative intonation only,Polar Questions,Sulka,,,Tharp 1996
+33,136A,No M-T pronouns,M-T Pronouns,Sulka,,,Müller 1916
+34,136B,No m in first person singular,M in First Person Singular,Sulka,,,Müller 1916
+35,137A,No N-M pronouns,N-M Pronouns,Sulka,,,Müller 1916
+36,137B,No m in second person singular,M in Second Person Singular,Sulka,,,Müller 1916
+37,143A,[Neg-V],Order of Negative Morpheme and Verb,Sulka,,,Tharp 1996
+38,143E,[Neg-V],Preverbal Negative Morphemes,Sulka,,,Tharp 1996
+39,143F,None,Postverbal Negative Morphemes,Sulka,,,Tharp 1996
+40,143G,None,Minor morphological means of signaling negation,Sulka,,,Tharp 1996
+41,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sulka,,,Tharp 1996
+42,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Sulka,,,Tharp 1996
+43,144H,No NegSVO,NegSVO Order,Sulka,,,Tharp 1996
+44,144I,Prefix&NoDoubleNeg,SNegVO Order,Sulka,,,Tharp 1996
+45,144J,No SVNegO,SVNegO Order,Sulka,,,Tharp 1996
+46,144K,No SVONeg,SVONeg Order,Sulka,,,Tharp 1996

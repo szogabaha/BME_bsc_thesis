@@ -1,0 +1,40 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Tulu,,,Bhat 1967
+1,2A,Large (7-14),Vowel Quality Inventories,Tulu,,,Bhat 1967
+2,3A,Average,Consonant-Vowel Ratio,Tulu,,,Bhat 1967
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tulu,,,Bhat 1967
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Tulu,,,Bhat 1967
+5,6A,None,Uvular Consonants,Tulu,,,Bhat 1967
+6,7A,No glottalized consonants,Glottalized Consonants,Tulu,,,Bhat 1967
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tulu,,,Bhat 1967
+8,11A,None,Front Rounded Vowels,Tulu,,,Bhat 1967
+9,12A,Complex,Syllable Structure,Tulu,,,Bhat 1967
+10,13A,No tones,Tone,Tulu,,,Bhat 1967
+11,18A,All present,Absence of Common Consonants,Tulu,,,Bhat 1967
+12,19A,None,Presence of Uncommon Consonants,Tulu,,,Bhat 1967
+13,33A,Plural suffix,Coding of Nominal Plurality,Tulu,,,Brigel 1982
+14,37A,No definite or indefinite article,Definite Articles,Tulu,,,Brigel 1982
+15,38A,No definite or indefinite article,Indefinite Articles,Tulu,,,Brigel 1982
+16,51A,Case suffixes,Position of Case Affixes,Tulu,,,Brigel 1982
+17,81A,SOV,"Order of Subject, Object and Verb",Tulu,,,Brigel 1982
+18,82A,SV,Order of Subject and Verb,Tulu,,,Brigel 1982
+19,83A,OV,Order of Object and Verb,Tulu,,,Brigel 1982
+20,85A,Postpositions,Order of Adposition and Noun Phrase,Tulu,,,Brigel 1982
+21,86A,Genitive-Noun,Order of Genitive and Noun,Tulu,,,Brigel 1982
+22,87A,Adjective-Noun,Order of Adjective and Noun,Tulu,,,Brigel 1982
+23,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tulu,,,Brigel 1982
+24,89A,Numeral-Noun,Order of Numeral and Noun,Tulu,,,Brigel 1982
+25,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tulu,,,Brigel 1982
+26,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tulu,,,
+27,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tulu,,,
+28,112A,Negative affix,Negative Morphemes,Tulu,,,Brigel 1982
+29,143A,[V-Neg],Order of Negative Morpheme and Verb,Tulu,,,Brigel 1982
+30,143E,None,Preverbal Negative Morphemes,Tulu,,,Brigel 1982
+31,143F,[V-Neg],Postverbal Negative Morphemes,Tulu,,,Brigel 1982
+32,143G,None,Minor morphological means of signaling negation,Tulu,,,Brigel 1982
+33,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tulu,,,Brigel 1982
+34,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tulu,,,Brigel 1982
+35,144P,No NegSOV,NegSOV Order,Tulu,,,Brigel 1982
+36,144Q,No SNegOV,SNegOV Order,Tulu,,,Brigel 1982
+37,144R,No SONegV,SONegV Order,Tulu,,,Brigel 1982
+38,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tulu,,,Brigel 1982

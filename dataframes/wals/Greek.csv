@@ -1,0 +1,156 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-grk,Average,Consonant Inventories,Greek (Modern),,,Householder et al. 1964
+2A-grk,Average (5-6),Vowel Quality Inventories,Greek (Modern),,,Householder et al. 1964
+3A-grk,Average,Consonant-Vowel Ratio,Greek (Modern),,,Householder et al. 1964
+4A-grk,In both plosives and fricatives,Voicing in Plosives and Fricatives,Greek (Modern),,,Householder et al. 1964
+5A-grk,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Greek (Modern),,,Householder et al. 1964
+6A-grk,None,Uvular Consonants,Greek (Modern),,,Householder et al. 1964
+7A-grk,No glottalized consonants,Glottalized Consonants,Greek (Modern),,,Householder et al. 1964
+8A-grk,"/l/, no obstruent laterals",Lateral Consonants,Greek (Modern),,,Householder et al. 1964
+9A-grk,No velar nasal,The Velar Nasal,Greek (Modern),,,
+10A-grk,Contrast absent,Vowel Nasalization,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+11A-grk,None,Front Rounded Vowels,Greek (Modern),,,Householder et al. 1964
+12A-grk,Complex,Syllable Structure,Greek (Modern),,,Householder et al. 1964
+13A-grk,No tones,Tone,Greek (Modern),,,Householder et al. 1964
+14A-grk,Antepenultimate,Fixed Stress Locations,Greek (Modern),,,Drachman and Malikouti-Drachman 1999;Malikouti-Drachman and Drachman 1981
+15A-grk,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Greek (Modern),,,Drachman and Malikouti-Drachman 1999;Malikouti-Drachman and Drachman 1981
+16A-grk,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Greek (Modern),,,Drachman and Malikouti-Drachman 1999;Malikouti-Drachman and Drachman 1981
+17A-grk,Trochaic,Rhythm Types,Greek (Modern),,,Drachman and Malikouti-Drachman 1999;Malikouti-Drachman and Drachman 1981
+18A-grk,All present,Absence of Common Consonants,Greek (Modern),,,Householder et al. 1964
+19A-grk,'Th' sounds,Presence of Uncommon Consonants,Greek (Modern),,,Householder et al. 1964
+20A-grk,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Greek (Modern),,,Holton et al. 1997;Mackridge 1985;Joseph and Philippaki-Warburton 1987
+21A-grk,Case + number,Exponence of Selected Inflectional Formatives,Greek (Modern),,,Holton et al. 1997;Mackridge 1985;Joseph and Philippaki-Warburton 1987
+21B-grk,TAM+agreement+diathesis,Exponence of Tense-Aspect-Mood Inflection,Greek (Modern),,,Holton et al. 1997;Joseph and Philippaki-Warburton 1987;Mackridge 1985
+22A-grk,4-5 categories per word,Inflectional Synthesis of the Verb,Greek (Modern),,,Mackridge 1985;Holton et al. 1997
+23A-grk,Double marking,Locus of Marking in the Clause,Greek (Modern),,,Holton et al. 1997;Joseph and Philippaki-Warburton 1987
+24A-grk,Double marking,Locus of Marking in Possessive Noun Phrases,Greek (Modern),,,Holton et al. 1997;Joseph and Philippaki-Warburton 1987
+25A-grk,Double-marking,Locus of Marking: Whole-language Typology,Greek (Modern),,,Holton et al. 1997;Joseph and Philippaki-Warburton 1987
+25B-grk,Non-zero marking,Zero Marking of A and P Arguments,Greek (Modern),,,Holton et al. 1997;Joseph and Philippaki-Warburton 1987
+26A-grk,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Greek (Modern),,,Joseph and Philippaki-Warburton 1987;Mackridge 1985;Holton et al. 1997
+27A-grk,No productive reduplication,Reduplication,Greek (Modern),,,
+28A-grk,Core and non-core,Case Syncretism,Greek (Modern),,,Sofroniou 1962
+29A-grk,Not syncretic,Syncretism in Verbal Person/Number Marking,Greek (Modern),,,Sofroniou 1962
+30A-grk,Three,Number of Genders,Greek (Modern),,,Mackridge 1985
+31A-grk,Sex-based,Sex-based and Non-sex-based Gender Systems,Greek (Modern),,,Mackridge 1985
+32A-grk,Semantic and formal,Systems of Gender Assignment,Greek (Modern),,,Mackridge 1985
+33A-grk,Plural suffix,Coding of Nominal Plurality,Greek (Modern),,,Mackridge 1985
+34A-grk,"All nouns, always obligatory",Occurrence of Nominal Plurality,Greek (Modern),,,Holton et al. 1997
+35A-grk,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Greek (Modern),,,Mackridge 1985
+36A-grk,No associative plural,The Associative Plural,Greek (Modern),,,
+37A-grk,Definite word distinct from demonstrative,Definite Articles,Greek (Modern),,,Mackridge 1985
+38A-grk,Indefinite word same as 'one',Indefinite Articles,Greek (Modern),,,Mackridge 1985
+39A-grk,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Greek (Modern),,,Ruge 1986
+40A-grk,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Greek (Modern),,,Ruge 1986
+41A-grk,Three-way contrast,Distance Contrasts in Demonstratives,Greek (Modern),,,Holton et al. 1997
+42A-grk,Identical,Pronominal and Adnominal Demonstratives,Greek (Modern),,,Holton et al. 1997
+44A-grk,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Greek (Modern),,,Mackridge 1985
+45A-grk,Binary politeness distinction,Politeness Distinctions in Pronouns,Greek (Modern),,,Mackridge 1985
+46A-grk,Interrogative-based,Indefinite Pronouns,Greek (Modern),,,Holton et al. 1997
+47A-grk,Differentiated,Intensifiers and Reflexive Pronouns,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+48A-grk,No person marking,Person Marking on Adpositions,Greek (Modern),,,Mackridge 1985
+49A-grk,3 cases,Number of Cases,Greek (Modern),,,Holton et al. 1997
+50A-grk,Syncretism in relevant NP-types,Asymmetrical Case-Marking,Greek (Modern),,,Holton et al. 1997
+51A-grk,Case suffixes,Position of Case Affixes,Greek (Modern),,,Mackridge 1985
+52A-grk,Identity,Comitatives and Instrumentals,Greek (Modern),,,
+53A-grk,"First, second, three-th",Ordinal Numerals,Greek (Modern),,,
+54A-grk,Marked by preceding word,Distributive Numerals,Greek (Modern),,,
+57A-grk,No possessive affixes,Position of Pronominal Possessive Affixes,Greek (Modern),,,Mackridge 1985
+58A-grk,Absent,Obligatory Possessive Inflection,Greek (Modern),,,Holton et al. 1997;Joseph and Philippaki-Warburton 1987
+58B-grk,None reported,Number of Possessive Nouns,Greek (Modern),,,Joseph and Philippaki-Warburton 1987;Holton et al. 1997
+59A-grk,No possessive classification,Possessive Classification,Greek (Modern),,,Holton et al. 1997;Joseph and Philippaki-Warburton 1987
+62A-grk,Ergative-Possessive,Action Nominal Constructions,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+63A-grk,'And' different from 'with',Noun Phrase Conjunction,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+64A-grk,Identity,Nominal and Verbal Conjunction,Greek (Modern),,,Holton et al. 1997
+65A-grk,Grammatical marking,Perfective/Imperfective Aspect,Greek (Modern),,,Dahl 1985
+66A-grk,"Present, no remoteness distinctions",The Past Tense,Greek (Modern),,,Dahl 1985
+67A-grk,No inflectional future,The Future Tense,Greek (Modern),,,Dahl 1985
+68A-grk,From possessive,The Perfect,Greek (Modern),,,Dahl 1985
+69A-grk,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Greek (Modern),,,Mackridge 1985
+70A-grk,Second singular and second plural,The Morphological Imperative,Greek (Modern),,,Hedin 1995;Joseph and Philippaki-Warburton 1987
+71A-grk,Special imperative + special negative,The Prohibitive,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+72A-grk,Maximal system,Imperative-Hortative Systems,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+73A-grk,Inflectional optative absent,The Optative,Greek (Modern),,,Mackridge 1985
+74A-grk,Verbal constructions,Situational Possibility,Greek (Modern),,,Joseph and Philippaki-Warburton 1987;Palmer 1986
+75A-grk,Verbal constructions,Epistemic Possibility,Greek (Modern),,,Palmer 1986;Joseph and Philippaki-Warburton 1987
+76A-grk,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Greek (Modern),,,Palmer 1986;Joseph and Philippaki-Warburton 1987
+77A-grk,No grammatical evidentials,Semantic Distinctions of Evidentiality,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+78A-grk,No grammatical evidentials,Coding of Evidentiality,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+79A-grk,Tense and aspect,Suppletion According to Tense and Aspect,Greek (Modern),,,Joseph and Philippaki-Warburton 1987;Christiades 1980
+79B-grk,Imperative,Suppletion in Imperatives and Hortatives,Greek (Modern),,,
+80A-grk,None,Verbal Number and Suppletion,Greek (Modern),,,Christiades 1980;Joseph and Philippaki-Warburton 1987
+81A-grk,No dominant order,"Order of Subject, Object and Verb",Greek (Modern),,,Mackridge 1985
+81B-grk,SVO or VSO,"Languages with two Dominant Orders of Subject, Object, and Verb",Greek (Modern),,,Mackridge 1985
+82A-grk,No dominant order,Order of Subject and Verb,Greek (Modern),,,Holton et al. 1997
+83A-grk,VO,Order of Object and Verb,Greek (Modern),,,Mackridge 1985
+85A-grk,Prepositions,Order of Adposition and Noun Phrase,Greek (Modern),,,Mackridge 1985
+86A-grk,Noun-Genitive,Order of Genitive and Noun,Greek (Modern),,,Mackridge 1985
+87A-grk,Adjective-Noun,Order of Adjective and Noun,Greek (Modern),,,Mackridge 1985
+88A-grk,Demonstrative-Noun,Order of Demonstrative and Noun,Greek (Modern),,,Mackridge 1985
+89A-grk,Numeral-Noun,Order of Numeral and Noun,Greek (Modern),,,Mackridge 1985
+90A-grk,Noun-Relative clause,Order of Relative Clause and Noun,Greek (Modern),,,Mackridge 1985
+90C-grk,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Greek (Modern),,,Mackridge 1985
+91A-grk,Degree word-Adjective,Order of Degree Word and Adjective,Greek (Modern),,,Mackridge 1985
+92A-grk,Initial,Position of Polar Question Particles,Greek (Modern),,,Mackridge 1985
+93A-grk,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Greek (Modern),,,Mackridge 1985
+94A-grk,Initial subordinator word,Order of Adverbial Subordinator and Clause,Greek (Modern),,,Mackridge 1985
+95A-grk,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Greek (Modern),,,
+96A-grk,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Greek (Modern),,,
+97A-grk,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Greek (Modern),,,
+98A-grk,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Greek (Modern),,,Holton et al. 1997
+99A-grk,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Greek (Modern),,,Holton et al. 1997
+100A-grk,Accusative,Alignment of Verbal Person Marking,Greek (Modern),,,Mackridge 1985
+101A-grk,Subject affixes on verb,Expression of Pronominal Subjects,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+102A-grk,Both the A and P arguments,Verbal Person Marking,Greek (Modern),,,Mackridge 1985
+103A-grk,No zero realization,Third Person Zero of Verbal Person Marking,Greek (Modern),,,Mackridge 1985
+104A-grk,P precedes A,Order of Person Markers on the Verb,Greek (Modern),,,Mackridge 1985
+105A-grk,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Greek (Modern),,,Holton et al. 1997
+106A-grk,Mixed,Reciprocal Constructions,Greek (Modern),,,Everaert 2000
+107A-grk,Present,Passive Constructions,Greek (Modern),,,Mackridge 1985
+108A-grk,No antipassive,Antipassive Constructions,Greek (Modern),,,Mackridge 1985
+108B-grk,no antipassive,Productivity of the Antipassive Construction,Greek (Modern),,,Mackridge 1985
+109A-grk,No applicative construction,Applicative Constructions,Greek (Modern),,,Mackridge 1985
+109B-grk,No applicative construction,Other Roles of Applied Objects,Greek (Modern),,,
+110A-grk,Purposive but no sequential,Periphrastic Causative Constructions,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+111A-grk,Neither,Nonperiphrastic Causative Constructions,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+112A-grk,Negative particle,Negative Morphemes,Greek (Modern),,,Mackridge 1985
+113A-grk,Symmetric,Symmetric and Asymmetric Standard Negation,Greek (Modern),,,Mackridge 1985
+114A-grk,Non-assignable,Subtypes of Asymmetric Standard Negation,Greek (Modern),,,Mackridge 1985
+115A-grk,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Greek (Modern),,,Holton et al. 1997;Haspelmath 1997
+116A-grk,Question particle,Polar Questions,Greek (Modern),,,Mackridge 1985
+117A-grk,'Have',Predicative Possession,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+118A-grk,Nonverbal encoding,Predicative Adjectives,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+119A-grk,Identical,Nominal and Locational Predication,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+120A-grk,Impossible,Zero Copula for Predicate Nominals,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+121A-grk,Particle,Comparative Constructions,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+122A-grk,Relative pronoun,Relativization on Subjects,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+123A-grk,Relative pronoun,Relativization on Obliques,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+124A-grk,Subject is expressed overtly,'Want' Complement Subjects,Greek (Modern),,,Holton et al. 1997
+125A-grk,Deranked,Purpose Clauses,Greek (Modern),,,Holton et al. 1997
+126A-grk,Balanced,'When' Clauses,Greek (Modern),,,Holton et al. 1997
+127A-grk,Balanced,Reason Clauses,Greek (Modern),,,Holton et al. 1997
+128A-grk,Balanced,Utterance Complement Clauses,Greek (Modern),,,Joseph and Philippaki-Warburton 1987
+129A-grk,Different,Hand and Arm,Greek (Modern),,,Bergman 1968
+130A-grk,Different,Finger and Hand,Greek (Modern),,,Bergman 1968
+131A-grk,Decimal,Numeral Bases,Greek (Modern),,,Holton et al. 1997
+136A-grk,"M-T pronouns, paradigmatic",M-T Pronouns,Greek (Modern),,,Joseph 1998
+136B-grk,m in first person singular,M in First Person Singular,Greek (Modern),,,Joseph 1998
+137A-grk,No N-M pronouns,N-M Pronouns,Greek (Modern),,,Joseph 1998
+137B-grk,No m in second person singular,M in Second Person Singular,Greek (Modern),,,Joseph 1998
+138A-grk,Words derived from Sinitic cha,Tea,Greek (Modern),,,Malherbe and Rosenberg 1996
+142A-grk,Logical meanings,Para-Linguistic Usages of Clicks,Greek (Modern),,,Haberland and Macrakis 1992
+143A-grk,NegV,Order of Negative Morpheme and Verb,Greek (Modern),,,Mackridge 1985
+143E-grk,NegV,Preverbal Negative Morphemes,Greek (Modern),,,Mackridge 1985
+143F-grk,None,Postverbal Negative Morphemes,Greek (Modern),,,Mackridge 1985
+143G-grk,None,Minor morphological means of signaling negation,Greek (Modern),,,Mackridge 1985
+144A-grk,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Greek (Modern),,,Mackridge 1985
+144B-grk,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Greek (Modern),,,Mackridge 1985
+144D-grk,More than one construction,The Position of Negative Morphemes in SVO Languages,Greek (Modern),,,Mackridge 1985
+144E-grk,SNegVO/NegVSO,Multiple Negative Constructions in SVO Languages,Greek (Modern),,,Mackridge 1985
+144H-grk,No NegSVO,NegSVO Order,Greek (Modern),,,Mackridge 1985
+144I-grk,Word&NoDoubleNeg,SNegVO Order,Greek (Modern),,,Mackridge 1985
+144J-grk,No SVNegO,SVNegO Order,Greek (Modern),,,Mackridge 1985
+144K-grk,No SVONeg,SVONeg Order,Greek (Modern),,,Mackridge 1985
+144T-grk,NegVSO/SNegVO,The Position of Negative Morphemes in Verb-Initial Languages,Greek (Modern),,,Mackridge 1985
+144V-grk,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Greek (Modern),,,Mackridge 1985
+144W-grk,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Greek (Modern),,,Mackridge 1985
+144X-grk,No clause-final neg,Verb-Initial with Clause-Final Negative,Greek (Modern),,,Mackridge 1985

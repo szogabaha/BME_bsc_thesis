@@ -1,0 +1,156 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-fin,Moderately small,Consonant Inventories,Finnish,,,Harms 1964;Lehtinen 1970;Wiik 1965
+2A-fin,Large (7-14),Vowel Quality Inventories,Finnish,,,Harms 1964;Lehtinen 1970;Wiik 1965
+3A-fin,Moderately low,Consonant-Vowel Ratio,Finnish,,,Lehtinen 1970;Wiik 1965;Harms 1964
+4A-fin,In both plosives and fricatives,Voicing in Plosives and Fricatives,Finnish,,,Harms 1964;Lehtinen 1970;Wiik 1965
+5A-fin,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Finnish,,,Wiik 1965;Harms 1964;Lehtinen 1970
+6A-fin,None,Uvular Consonants,Finnish,,,Harms 1964;Lehtinen 1970;Wiik 1965
+7A-fin,No glottalized consonants,Glottalized Consonants,Finnish,,,Lehtinen 1970;Wiik 1965;Harms 1964
+8A-fin,"/l/, no obstruent laterals",Lateral Consonants,Finnish,,,Lehtinen 1970;Harms 1964;Wiik 1965
+9A-fin,No initial velar nasal,The Velar Nasal,Finnish,,,Sulkala and Karjalainen 1992
+10A-fin,Contrast absent,Vowel Nasalization,Finnish,,,Sulkala and Karjalainen 1992
+11A-fin,High and mid,Front Rounded Vowels,Finnish,,,Harms 1964;Lehtinen 1970;Wiik 1965
+12A-fin,Moderately complex,Syllable Structure,Finnish,,,Wiik 1965;Harms 1964;Lehtinen 1970
+13A-fin,No tones,Tone,Finnish,,,Lehtinen 1970;Harms 1964;Wiik 1965
+14A-fin,Initial,Fixed Stress Locations,Finnish,,,Fromm 1982
+15A-fin,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Finnish,,,Fromm 1982
+16A-fin,No weight,Weight Factors in Weight-Sensitive Stress Systems,Finnish,,,Fromm 1982
+17A-fin,Trochaic,Rhythm Types,Finnish,,,Fromm 1982
+18A-fin,All present,Absence of Common Consonants,Finnish,,,Harms 1964;Lehtinen 1970;Wiik 1965
+19A-fin,None,Presence of Uncommon Consonants,Finnish,,,Lehtinen 1970;Harms 1964;Wiik 1965
+20A-fin,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Finnish,,,Whitney 1973;Karlsson 1999
+21A-fin,Case + number,Exponence of Selected Inflectional Formatives,Finnish,,,Karlsson 1999;Sulkala and Karjalainen 1992;Whitney 1973
+21B-fin,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Finnish,,,Sulkala and Karjalainen 1992;Whitney 1973;Karlsson 1999
+22A-fin,2-3 categories per word,Inflectional Synthesis of the Verb,Finnish,,,Whitney 1973
+23A-fin,Dependent marking,Locus of Marking in the Clause,Finnish,,,Karlsson 1999
+24A-fin,Double marking,Locus of Marking in Possessive Noun Phrases,Finnish,,,Karlsson 1999
+25A-fin,Inconsistent or other,Locus of Marking: Whole-language Typology,Finnish,,,Karlsson 1999
+25B-fin,Non-zero marking,Zero Marking of A and P Arguments,Finnish,,,Karlsson 1999
+26A-fin,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Finnish,,,Whitney 1973;Sulkala and Karjalainen 1992;Neuvonen 1935
+27A-fin,No productive reduplication,Reduplication,Finnish,,,Mitchell 2001
+28A-fin,Core and non-core,Case Syncretism,Finnish,,,Sulkala and Karjalainen 1992
+29A-fin,Not syncretic,Syncretism in Verbal Person/Number Marking,Finnish,,,Sulkala and Karjalainen 1992
+30A-fin,None,Number of Genders,Finnish,,,Karlsson 1999
+31A-fin,No gender,Sex-based and Non-sex-based Gender Systems,Finnish,,,Karlsson 1999
+32A-fin,No gender,Systems of Gender Assignment,Finnish,,,Karlsson 1999
+33A-fin,Plural suffix,Coding of Nominal Plurality,Finnish,,,Whitney 1973;Sulkala and Karjalainen 1992
+34A-fin,"All nouns, always obligatory",Occurrence of Nominal Plurality,Finnish,,,Karlsson 1999
+35A-fin,Person-number stem,Plurality in Independent Personal Pronouns,Finnish,,,Jeliseev 1993
+36A-fin,No associative plural,The Associative Plural,Finnish,,,
+37A-fin,No definite or indefinite article,Definite Articles,Finnish,,,Sulkala and Karjalainen 1992
+38A-fin,No definite or indefinite article,Indefinite Articles,Finnish,,,Sulkala and Karjalainen 1992
+39A-fin,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Finnish,,,Karlsson 1982
+40A-fin,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Finnish,,,Karlsson 1982
+41A-fin,Two-way contrast,Distance Contrasts in Demonstratives,Finnish,,,Laury 1995
+42A-fin,Identical,Pronominal and Adnominal Demonstratives,Finnish,,,Laury 1995
+43A-fin,Unrelated,Third Person Pronouns and Demonstratives,Finnish,,,Sulkala and Karjalainen 1992
+44A-fin,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Finnish,,,Sulkala and Karjalainen 1992
+45A-fin,Binary politeness distinction,Politeness Distinctions in Pronouns,Finnish,,,Karlsson 1999
+46A-fin,Special,Indefinite Pronouns,Finnish,,,Karlsson 1999
+47A-fin,Identical,Intensifiers and Reflexive Pronouns,Finnish,,,
+48A-fin,Pronouns only,Person Marking on Adpositions,Finnish,,,Sulkala and Karjalainen 1992
+49A-fin,10 or more cases,Number of Cases,Finnish,,,Karlsson 1999
+50A-fin,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Finnish,,,Karlsson 1999
+51A-fin,Case suffixes,Position of Case Affixes,Finnish,,,Whitney 1973;Sulkala and Karjalainen 1992
+52A-fin,Differentiation,Comitatives and Instrumentals,Finnish,,,Laanest 1982
+53A-fin,"First, second, three-th",Ordinal Numerals,Finnish,,,Laanest 1982
+54A-fin,No distributive numerals,Distributive Numerals,Finnish,,,
+55A-fin,Absent,Numeral Classifiers,Finnish,,,
+56A-fin,"Formally similar, with interrogative",Conjunctions and Universal Quantifiers,Finnish,,,Karlsson 1999
+57A-fin,Possessive suffixes,Position of Pronominal Possessive Affixes,Finnish,,,Whitney 1973;Sulkala and Karjalainen 1992
+58A-fin,Absent,Obligatory Possessive Inflection,Finnish,,,Karlsson 1999
+58B-fin,None reported,Number of Possessive Nouns,Finnish,,,Karlsson 1999
+59A-fin,No possessive classification,Possessive Classification,Finnish,,,Karlsson 1999
+60A-fin,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Finnish,,,
+61A-fin,Without marking,Adjectives without Nouns,Finnish,,,
+62A-fin,Double-Possessive,Action Nominal Constructions,Finnish,,,Hakulinen and Karlsson 1979
+63A-fin,'And' different from 'with',Noun Phrase Conjunction,Finnish,,,Fromm and Sadeniemi 1956
+64A-fin,Identity,Nominal and Verbal Conjunction,Finnish,,,Karlsson 1999
+65A-fin,No grammatical marking,Perfective/Imperfective Aspect,Finnish,,,Dahl 1985
+66A-fin,"Present, no remoteness distinctions",The Past Tense,Finnish,,,Dahl 1985
+67A-fin,No inflectional future,The Future Tense,Finnish,,,Dahl 1985
+68A-fin,Other perfect,The Perfect,Finnish,,,Dahl 1985
+69A-fin,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Finnish,,,Sulkala and Karjalainen 1992;Neuvonen 1935
+70A-fin,Second singular and second plural,The Morphological Imperative,Finnish,,,Sulkala and Karjalainen 1992;Karlsson 2000
+71A-fin,Normal imperative + special negative,The Prohibitive,Finnish,,,Karlsson 2000;Sulkala and Karjalainen 1992
+72A-fin,Maximal system,Imperative-Hortative Systems,Finnish,,,Karlsson 2000
+73A-fin,Inflectional optative absent,The Optative,Finnish,,,Sulkala and Karjalainen 1992
+74A-fin,Verbal constructions,Situational Possibility,Finnish,,,Sulkala and Karjalainen 1992;Kangasniemi 1992
+75A-fin,Verbal constructions,Epistemic Possibility,Finnish,,,Sulkala and Karjalainen 1992;Kangasniemi 1992
+76A-fin,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Finnish,,,Kangasniemi 1992;Sulkala and Karjalainen 1992
+77A-fin,Indirect only,Semantic Distinctions of Evidentiality,Finnish,,,Kangasniemi 1992
+78A-fin,Modal morpheme,Coding of Evidentiality,Finnish,,,Kangasniemi 1992
+79A-fin,None,Suppletion According to Tense and Aspect,Finnish,,,Karlsson 1978
+79B-fin,Imperative,Suppletion in Imperatives and Hortatives,Finnish,,,
+80A-fin,None,Verbal Number and Suppletion,Finnish,,,Karlsson 1978
+81A-fin,SVO,"Order of Subject, Object and Verb",Finnish,,,Whitney 1973;Sulkala and Karjalainen 1992
+82A-fin,SV,Order of Subject and Verb,Finnish,,,Sulkala and Karjalainen 1992;Whitney 1973
+83A-fin,VO,Order of Object and Verb,Finnish,,,Sulkala and Karjalainen 1992;Whitney 1973
+84A-fin,VOX,"Order of Object, Oblique, and Verb",Finnish,,,Sulkala and Karjalainen 1992
+85A-fin,Postpositions,Order of Adposition and Noun Phrase,Finnish,,,Sulkala and Karjalainen 1992;Neuvonen 1935
+86A-fin,Genitive-Noun,Order of Genitive and Noun,Finnish,,,Whitney 1973;Sulkala and Karjalainen 1992
+87A-fin,Adjective-Noun,Order of Adjective and Noun,Finnish,,,Whitney 1973;Sulkala and Karjalainen 1992
+88A-fin,Demonstrative-Noun,Order of Demonstrative and Noun,Finnish,,,Sulkala and Karjalainen 1992
+89A-fin,Numeral-Noun,Order of Numeral and Noun,Finnish,,,Sulkala and Karjalainen 1992
+90A-fin,Noun-Relative clause,Order of Relative Clause and Noun,Finnish,,,Sulkala and Karjalainen 1992
+90C-fin,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Finnish,,,Sulkala and Karjalainen 1992
+91A-fin,Degree word-Adjective,Order of Degree Word and Adjective,Finnish,,,Whitney 1973;Sulkala and Karjalainen 1992
+92A-fin,Second position,Position of Polar Question Particles,Finnish,,,Sulkala and Karjalainen 1992;Whitney 1973
+93A-fin,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Finnish,,,Sulkala and Karjalainen 1992
+94A-fin,Initial subordinator word,Order of Adverbial Subordinator and Clause,Finnish,,,Sulkala and Karjalainen 1992
+95A-fin,VO and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Finnish,,,
+96A-fin,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Finnish,,,
+97A-fin,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Finnish,,,
+98A-fin,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Finnish,,,
+99A-fin,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Finnish,,,
+100A-fin,Accusative,Alignment of Verbal Person Marking,Finnish,,,Sulkala and Karjalainen 1992
+101A-fin,Mixed,Expression of Pronominal Subjects,Finnish,,,Sulkala and Karjalainen 1992
+102A-fin,Only the A argument,Verbal Person Marking,Finnish,,,Sulkala and Karjalainen 1992
+103A-fin,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Finnish,,,Sulkala and Karjalainen 1992
+104A-fin,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Finnish,,,Sulkala and Karjalainen 1992
+105A-fin,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Finnish,,,Karlsson 1999
+106A-fin,Distinct from reflexive,Reciprocal Constructions,Finnish,,,Sulkala and Karjalainen 1992
+107A-fin,Present,Passive Constructions,Finnish,,,Sulkala and Karjalainen 1992
+108A-fin,No antipassive,Antipassive Constructions,Finnish,,,Sulkala and Karjalainen 1992;Karlsson 1999
+108B-fin,no antipassive,Productivity of the Antipassive Construction,Finnish,,,Karlsson 1999;Sulkala and Karjalainen 1992
+109A-fin,No applicative construction,Applicative Constructions,Finnish,,,Sulkala and Karjalainen 1992;Karlsson 1999
+109B-fin,No applicative construction,Other Roles of Applied Objects,Finnish,,,
+110A-fin,Purposive but no sequential,Periphrastic Causative Constructions,Finnish,,,Sulkala and Karjalainen 1992
+111A-fin,Morphological but no compound,Nonperiphrastic Causative Constructions,Finnish,,,Sulkala and Karjalainen 1992
+112A-fin,Negative auxiliary verb,Negative Morphemes,Finnish,,,Sulkala and Karjalainen 1992
+113A-fin,Asymmetric,Symmetric and Asymmetric Standard Negation,Finnish,,,
+114A-fin,A/Fin,Subtypes of Asymmetric Standard Negation,Finnish,,,
+115A-fin,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Finnish,,,Haspelmath 1997;Karlsson 1999
+116A-fin,Question particle,Polar Questions,Finnish,,,Sulkala and Karjalainen 1992;Whitney 1973
+117A-fin,Locational,Predicative Possession,Finnish,,,Karlsson 1983
+118A-fin,Nonverbal encoding,Predicative Adjectives,Finnish,,,Fromm and Sadeniemi 1956
+119A-fin,Identical,Nominal and Locational Predication,Finnish,,,Fromm and Sadeniemi 1956
+120A-fin,Impossible,Zero Copula for Predicate Nominals,Finnish,,,Fromm and Sadeniemi 1956
+121A-fin,Particle,Comparative Constructions,Finnish,,,Fromm and Sadeniemi 1956
+122A-fin,Relative pronoun,Relativization on Subjects,Finnish,,,Fromm 1982
+123A-fin,Relative pronoun,Relativization on Obliques,Finnish,,,Fromm 1982
+124A-fin,Subject is left implicit,'Want' Complement Subjects,Finnish,,,Karlsson 1999
+125A-fin,Balanced/deranked,Purpose Clauses,Finnish,,,Sulkala and Karjalainen 1992
+126A-fin,Balanced/deranked,'When' Clauses,Finnish,,,Sulkala and Karjalainen 1992
+127A-fin,Balanced/deranked,Reason Clauses,Finnish,,,Sulkala and Karjalainen 1992
+128A-fin,Balanced/deranked,Utterance Complement Clauses,Finnish,,,Sulkala and Karjalainen 1992
+129A-fin,Different,Hand and Arm,Finnish,,,Wuolle 1967
+130A-fin,Different,Finger and Hand,Finnish,,,Wuolle 1967
+131A-fin,Decimal,Numeral Bases,Finnish,,,
+136A-fin,"M-T pronouns, paradigmatic",M-T Pronouns,Finnish,,,Karlsson 1999
+136B-fin,m in first person singular,M in First Person Singular,Finnish,,,Karlsson 1999
+137A-fin,No N-M pronouns,N-M Pronouns,Finnish,,,Karlsson 1999
+137B-fin,No m in second person singular,M in Second Person Singular,Finnish,,,Karlsson 1999
+138A-fin,Words derived from Min Nan Chinese te,Tea,Finnish,,,
+142A-fin,Affective meanings,Para-Linguistic Usages of Clicks,Finnish,,,
+143A-fin,NegV,Order of Negative Morpheme and Verb,Finnish,,,Sulkala and Karjalainen 1992
+143E-fin,NegV,Preverbal Negative Morphemes,Finnish,,,Sulkala and Karjalainen 1992
+143F-fin,None,Postverbal Negative Morphemes,Finnish,,,Sulkala and Karjalainen 1992
+143G-fin,None,Minor morphological means of signaling negation,Finnish,,,Sulkala and Karjalainen 1992
+144A-fin,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Finnish,,,Sulkala and Karjalainen 1992
+144B-fin,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Finnish,,,Sulkala and Karjalainen 1992
+144D-fin,SNegVO,The Position of Negative Morphemes in SVO Languages,Finnish,,,Sulkala and Karjalainen 1992
+144H-fin,No NegSVO,NegSVO Order,Finnish,,,Sulkala and Karjalainen 1992
+144I-fin,Word&NoDoubleNeg,SNegVO Order,Finnish,,,Sulkala and Karjalainen 1992
+144J-fin,No SVNegO,SVNegO Order,Finnish,,,Sulkala and Karjalainen 1992
+144K-fin,No SVONeg,SVONeg Order,Finnish,,,Sulkala and Karjalainen 1992

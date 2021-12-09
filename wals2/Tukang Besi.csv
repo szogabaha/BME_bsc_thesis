@@ -1,0 +1,143 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Tukang Besi,,,Donohue 1999a
+1,2A,Average (5-6),Vowel Quality Inventories,Tukang Besi,,,Donohue 1999a
+2,3A,Average,Consonant-Vowel Ratio,Tukang Besi,,,Donohue 1999a
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Tukang Besi,,,Donohue 1999a
+4,5A,Other,Voicing and Gaps in Plosive Systems,Tukang Besi,,,Donohue 1999a
+5,6A,None,Uvular Consonants,Tukang Besi,,,Donohue 1999a
+6,7A,Implosives only,Glottalized Consonants,Tukang Besi,,,Donohue 1999a
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tukang Besi,,,Donohue 1999a
+8,9A,Initial velar nasal,The Velar Nasal,Tukang Besi,,,Donohue 1999a
+9,10A,Contrast absent,Vowel Nasalization,Tukang Besi,,,Donohue 1999a
+10,11A,None,Front Rounded Vowels,Tukang Besi,,,Donohue 1999a
+11,12A,Simple,Syllable Structure,Tukang Besi,,,Donohue 1999a
+12,13A,No tones,Tone,Tukang Besi,,,Donohue 1999a
+13,14A,Penultimate,Fixed Stress Locations,Tukang Besi,,,Donohue 1999a
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tukang Besi,,,Donohue 1999a
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tukang Besi,,,Donohue 1999a
+16,17A,Trochaic,Rhythm Types,Tukang Besi,,,Donohue 1999a
+17,18A,All present,Absence of Common Consonants,Tukang Besi,,,Donohue 1999a
+18,19A,None,Presence of Uncommon Consonants,Tukang Besi,,,Donohue 1999a
+19,20A,Isolating/concatenative,Fusion of Selected Inflectional Formatives,Tukang Besi,,,Donohue 1999a
+20,21A,Case + referentiality,Exponence of Selected Inflectional Formatives,Tukang Besi,,,Donohue 1999a
+21,21B,TAM+agreement,Exponence of Tense-Aspect-Mood Inflection,Tukang Besi,,,Donohue 1999a
+22,22A,6-7 categories per word,Inflectional Synthesis of the Verb,Tukang Besi,,,Donohue 1999a
+23,23A,No marking,Locus of Marking in the Clause,Tukang Besi,,,Donohue 1999a
+24,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Tukang Besi,,,Donohue 1999a
+25,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Tukang Besi,,,Donohue 1999a
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Tukang Besi,,,Donohue 1999a
+27,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tukang Besi,,,Donohue 1999a
+28,27A,Productive full and partial reduplication,Reduplication,Tukang Besi,,,Donohue 1999a
+29,28A,No case marking,Case Syncretism,Tukang Besi,,,Donohue 1999a
+30,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Tukang Besi,,,Donohue 1999a
+31,30A,None,Number of Genders,Tukang Besi,,,Donohue 1999a
+32,31A,No gender,Sex-based and Non-sex-based Gender Systems,Tukang Besi,,,Donohue 1999a
+33,32A,No gender,Systems of Gender Assignment,Tukang Besi,,,Donohue 1999a
+34,33A,No plural,Coding of Nominal Plurality,Tukang Besi,,,Donohue 1999a
+35,35A,Person-number stem,Plurality in Independent Personal Pronouns,Tukang Besi,,,Donohue 1999a
+36,36A,Unique periphrastic associative plural,The Associative Plural,Tukang Besi,,,Donohue 1999a
+37,37A,Demonstrative word used as definite article,Definite Articles,Tukang Besi,,,Donohue 1999a
+38,38A,"No indefinite, but definite article",Indefinite Articles,Tukang Besi,,,Donohue 1999a
+39,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Tukang Besi,,,Donohue 1999a
+40,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Tukang Besi,,,Donohue 1999a
+41,41A,Three-way contrast,Distance Contrasts in Demonstratives,Tukang Besi,,,Donohue 1999a
+42,42A,Identical,Pronominal and Adnominal Demonstratives,Tukang Besi,,,Donohue 1999a
+43,43A,Unrelated,Third Person Pronouns and Demonstratives,Tukang Besi,,,Donohue 1999a
+44,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tukang Besi,,,Donohue 1999a
+45,45A,Multiple politeness distinctions,Politeness Distinctions in Pronouns,Tukang Besi,,,Donohue 1999a
+46,47A,Identical,Intensifiers and Reflexive Pronouns,Tukang Besi,,,Donohue 1999a
+47,48A,No person marking,Person Marking on Adpositions,Tukang Besi,,,Donohue 1999a
+48,49A,No morphological case-marking,Number of Cases,Tukang Besi,,,Donohue 1999a
+49,50A,No case-marking,Asymmetrical Case-Marking,Tukang Besi,,,Donohue 1999a
+50,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tukang Besi,,,Donohue 1999a
+51,53A,"First, two, three",Ordinal Numerals,Tukang Besi,,,
+52,54A,No distributive numerals,Distributive Numerals,Tukang Besi,,,Donohue 1999a
+53,55A,Optional,Numeral Classifiers,Tukang Besi,,,Donohue 1999a
+54,56A,Formally different,Conjunctions and Universal Quantifiers,Tukang Besi,,,Donohue 1999a
+55,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tukang Besi,,,Donohue 1999a
+56,58A,Absent,Obligatory Possessive Inflection,Tukang Besi,,,Donohue 1999a
+57,58B,None reported,Number of Possessive Nouns,Tukang Besi,,,Donohue 1999a
+58,59A,Two classes,Possessive Classification,Tukang Besi,,,Donohue 1999a
+59,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Tukang Besi,,,Donohue 1999a
+60,61A,Without marking,Adjectives without Nouns,Tukang Besi,,,Donohue 1999a
+61,62A,Double-Possessive,Action Nominal Constructions,Tukang Besi,,,Donohue 1999a
+62,64A,Identity,Nominal and Verbal Conjunction,Tukang Besi,,,Donohue 1999a
+63,65A,No grammatical marking,Perfective/Imperfective Aspect,Tukang Besi,,,Donohue 1999a
+64,66A,No past tense,The Past Tense,Tukang Besi,,,Donohue 1999a
+65,67A,Inflectional future exists,The Future Tense,Tukang Besi,,,Donohue 1999a
+66,68A,No perfect,The Perfect,Tukang Besi,,,Donohue 1999a
+67,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tukang Besi,,,Donohue 1999a
+68,70A,Second singular,The Morphological Imperative,Tukang Besi,,,Donohue 1999a
+69,71A,Special imperative + special negative,The Prohibitive,Tukang Besi,,,Donohue 1999a
+70,72A,Neither type of system,Imperative-Hortative Systems,Tukang Besi,,,Donohue 1999a
+71,73A,Inflectional optative absent,The Optative,Tukang Besi,,,Donohue 1999a
+72,74A,Verbal constructions,Situational Possibility,Tukang Besi,,,Donohue 1999a
+73,75A,Verbal constructions,Epistemic Possibility,Tukang Besi,,,
+74,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Tukang Besi,,,
+75,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Tukang Besi,,,Donohue 1999a
+76,78A,No grammatical evidentials,Coding of Evidentiality,Tukang Besi,,,Donohue 1999a
+77,79A,Tense,Suppletion According to Tense and Aspect,Tukang Besi,,,
+78,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Tukang Besi,,,
+79,80A,None,Verbal Number and Suppletion,Tukang Besi,,,
+80,81A,VOS,"Order of Subject, Object and Verb",Tukang Besi,,,Donohue 1999a
+81,82A,VS,Order of Subject and Verb,Tukang Besi,,,Donohue 1999a
+82,83A,VO,Order of Object and Verb,Tukang Besi,,,Donohue 1999a
+83,85A,Prepositions,Order of Adposition and Noun Phrase,Tukang Besi,,,Donohue 1999a
+84,86A,Noun-Genitive,Order of Genitive and Noun,Tukang Besi,,,Donohue 1999a
+85,87A,Noun-Adjective,Order of Adjective and Noun,Tukang Besi,,,Donohue 1999a
+86,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tukang Besi,,,Donohue 1999a
+87,89A,Noun-Numeral,Order of Numeral and Noun,Tukang Besi,,,Donohue 1999a
+88,90A,Mixed,Order of Relative Clause and Noun,Tukang Besi,,,Donohue 1999a
+89,90C,NRel or internally-headed,Postnominal relative clauses,Tukang Besi,,,Donohue 1999a
+90,90D,Internally-headed or NRel,Internally-headed relative clauses,Tukang Besi,,,Donohue 1999a
+91,92A,Final,Position of Polar Question Particles,Tukang Besi,,,Donohue 1999a
+92,93A,Mixed,Position of Interrogative Phrases in Content Questions,Tukang Besi,,,Donohue 1999a
+93,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tukang Besi,,,Donohue 1999a
+94,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tukang Besi,,,
+95,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tukang Besi,,,
+96,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tukang Besi,,,
+97,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Tukang Besi,,,Donohue 1999a
+98,99A,Ergative - absolutive,Alignment of Case Marking of Pronouns,Tukang Besi,,,Donohue 1999a
+99,100A,Accusative,Alignment of Verbal Person Marking,Tukang Besi,,,Donohue 1999a
+100,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tukang Besi,,,Donohue 1999a
+101,102A,Both the A and P arguments,Verbal Person Marking,Tukang Besi,,,Donohue 1999a
+102,103A,No zero realization,Third Person Zero of Verbal Person Marking,Tukang Besi,,,Donohue 1999a
+103,104A,A precedes P,Order of Person Markers on the Verb,Tukang Besi,,,Donohue 1999a
+104,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Tukang Besi,,,Donohue 1999a
+105,106A,Distinct from reflexive,Reciprocal Constructions,Tukang Besi,,,Donohue 1999a
+106,107A,Present,Passive Constructions,Tukang Besi,,,Donohue 1999a
+107,108A,No antipassive,Antipassive Constructions,Tukang Besi,,,Donohue 1999a
+108,108B,no antipassive,Productivity of the Antipassive Construction,Tukang Besi,,,Donohue 1999a
+109,109A,Benefactive and other; both bases,Applicative Constructions,Tukang Besi,,,Donohue 1999a
+110,109B,Instrument and locative,Other Roles of Applied Objects,Tukang Besi,,,
+111,110A,Both,Periphrastic Causative Constructions,Tukang Besi,,,Donohue 1999a
+112,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tukang Besi,,,Donohue 1999a
+113,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Tukang Besi,,,Donohue 1999a
+114,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Tukang Besi,,,Donohue 1999a
+115,116A,Question particle,Polar Questions,Tukang Besi,,,Donohue 1999a
+116,118A,Verbal encoding,Predicative Adjectives,Tukang Besi,,,
+117,119A,Different,Nominal and Locational Predication,Tukang Besi,,,
+118,120A,Possible,Zero Copula for Predicate Nominals,Tukang Besi,,,
+119,122A,Gap,Relativization on Subjects,Tukang Besi,,,Donohue 1999a
+120,123A,Gap,Relativization on Obliques,Tukang Besi,,,Donohue 1999a
+121,124A,Both construction types exist,'Want' Complement Subjects,Tukang Besi,,,Donohue 1999a
+122,125A,Balanced/deranked,Purpose Clauses,Tukang Besi,,,Donohue 1999a
+123,126A,Balanced/deranked,'When' Clauses,Tukang Besi,,,Donohue 1999a
+124,127A,Balanced,Reason Clauses,Tukang Besi,,,Donohue 1999a
+125,128A,Balanced,Utterance Complement Clauses,Tukang Besi,,,Donohue 1999a
+126,131A,Decimal,Numeral Bases,Tukang Besi,,,Donohue 1999a
+127,136A,No M-T pronouns,M-T Pronouns,Tukang Besi,,,Donohue 1999a
+128,136B,No m in first person singular,M in First Person Singular,Tukang Besi,,,Donohue 1999a
+129,137A,No N-M pronouns,N-M Pronouns,Tukang Besi,,,Donohue 1999a
+130,137B,No m in second person singular,M in Second Person Singular,Tukang Besi,,,Donohue 1999a
+131,142A,Affective meanings,Para-Linguistic Usages of Clicks,Tukang Besi,,,
+132,143A,NegV,Order of Negative Morpheme and Verb,Tukang Besi,,,Donohue 1999a
+133,143E,NegV,Preverbal Negative Morphemes,Tukang Besi,,,Donohue 1999a
+134,143F,None,Postverbal Negative Morphemes,Tukang Besi,,,Donohue 1999a
+135,143G,None,Minor morphological means of signaling negation,Tukang Besi,,,Donohue 1999a
+136,144A,NegVOS,"Position of Negative Word With Respect to Subject, Object, and Verb",Tukang Besi,,,Donohue 1999a
+137,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tukang Besi,,,Donohue 1999a
+138,144T,NegVOS,The Position of Negative Morphemes in Verb-Initial Languages,Tukang Besi,,,Donohue 1999a
+139,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tukang Besi,,,Donohue 1999a
+140,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tukang Besi,,,Donohue 1999a
+141,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tukang Besi,,,Donohue 1999a

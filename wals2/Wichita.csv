@@ -1,0 +1,126 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Wichita,,,Rood 1976
+1,2A,Small (2-4),Vowel Quality Inventories,Wichita,,,Rood 1976
+2,3A,Average,Consonant-Vowel Ratio,Wichita,,,Rood 1976
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Wichita,,,Rood 1976
+4,5A,Other,Voicing and Gaps in Plosive Systems,Wichita,,,Rood 1976
+5,6A,None,Uvular Consonants,Wichita,,,Rood 1976
+6,7A,Ejectives and glottalized resonants,Glottalized Consonants,Wichita,,,Rood 1976
+7,8A,No laterals,Lateral Consonants,Wichita,,,Rood 1976
+8,9A,No velar nasal,The Velar Nasal,Wichita,,,Rood 1976
+9,10A,Contrast absent,Vowel Nasalization,Wichita,,,Rood 1996
+10,11A,None,Front Rounded Vowels,Wichita,,,Rood 1976
+11,13A,No tones,Tone,Wichita,,,Rood 1976
+12,14A,No fixed stress,Fixed Stress Locations,Wichita,,,Rood 1996
+13,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Wichita,,,Rood 1996
+14,16A,Prominence,Weight Factors in Weight-Sensitive Stress Systems,Wichita,,,Rood 1996
+15,17A,Dual: both trochaic and iambic,Rhythm Types,Wichita,,,Rood 1996
+16,18A,No bilabials,Absence of Common Consonants,Wichita,,,Rood 1976
+17,19A,None,Presence of Uncommon Consonants,Wichita,,,Rood 1976
+18,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Wichita,,,Rood 1976
+19,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Wichita,,,Rood 1976
+20,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Wichita,,,Rood 1976
+21,22A,12-13 categories per word,Inflectional Synthesis of the Verb,Wichita,,,Rood 1976
+22,23A,Head marking,Locus of Marking in the Clause,Wichita,,,Rood 1976
+23,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Wichita,,,Rood 1976
+24,25A,Head-marking,Locus of Marking: Whole-language Typology,Wichita,,,Rood 1976
+25,25B,Non-zero marking,Zero Marking of A and P Arguments,Wichita,,,Rood 1976
+26,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Wichita,,,Rood 1976
+27,27A,No productive reduplication,Reduplication,Wichita,,,Rood 1976
+28,28A,No case marking,Case Syncretism,Wichita,,,Rood 1996
+29,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Wichita,,,Rood 1996
+30,30A,None,Number of Genders,Wichita,,,Rood 1976
+31,31A,No gender,Sex-based and Non-sex-based Gender Systems,Wichita,,,Rood 1976
+32,32A,No gender,Systems of Gender Assignment,Wichita,,,Rood 1976
+33,33A,No plural,Coding of Nominal Plurality,Wichita,,,Rood 1976
+34,35A,Person-number affixes,Plurality in Independent Personal Pronouns,Wichita,,,Rood 1976
+35,36A,No associative plural,The Associative Plural,Wichita,,,
+36,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Wichita,,,Rood 1996
+37,40A,Only inclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Wichita,,,Rood 1996
+38,41A,Two-way contrast,Distance Contrasts in Demonstratives,Wichita,,,Rood 1976
+39,42A,Identical,Pronominal and Adnominal Demonstratives,Wichita,,,
+40,43A,Unrelated,Third Person Pronouns and Demonstratives,Wichita,,,Rood 1976
+41,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Wichita,,,Rood 1976
+42,45A,No politeness distinction,Politeness Distinctions in Pronouns,Wichita,,,Rood 1976
+43,46A,Interrogative-based,Indefinite Pronouns,Wichita,,,Rood 1976
+44,47A,Differentiated,Intensifiers and Reflexive Pronouns,Wichita,,,
+45,48A,No adpositions,Person Marking on Adpositions,Wichita,,,Rood 1976
+46,49A,Exclusively borderline case-marking,Number of Cases,Wichita,,,Rood 1976
+47,50A,Symmetrical,Asymmetrical Case-Marking,Wichita,,,Rood 1976
+48,51A,Case suffixes,Position of Case Affixes,Wichita,,,Rood 1976
+49,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Wichita,,,Rood 1976
+50,58A,Absent,Obligatory Possessive Inflection,Wichita,,,Rood 1976
+51,58B,None reported,Number of Possessive Nouns,Wichita,,,Rood 1976
+52,59A,No possessive classification,Possessive Classification,Wichita,,,Rood 1976
+53,62A,No action nominals,Action Nominal Constructions,Wichita,,,Rood 1976
+54,65A,Grammatical marking,Perfective/Imperfective Aspect,Wichita,,,Rood 1976
+55,66A,No past tense,The Past Tense,Wichita,,,Rood 1976
+56,67A,Inflectional future exists,The Future Tense,Wichita,,,Rood 1976
+57,68A,No perfect,The Perfect,Wichita,,,Rood 1976
+58,69A,Mixed type,Position of Tense-Aspect Affixes,Wichita,,,Rood 1996
+59,70A,Second singular and second plural,The Morphological Imperative,Wichita,,,Rood 1996
+60,71A,Normal imperative + normal negative,The Prohibitive,Wichita,,,
+61,73A,Inflectional optative present,The Optative,Wichita,,,Rood 1976
+62,74A,Verbal constructions,Situational Possibility,Wichita,,,Rood 1976
+63,77A,Indirect only,Semantic Distinctions of Evidentiality,Wichita,,,Rood 1976
+64,78A,Verbal affix or clitic,Coding of Evidentiality,Wichita,,,Rood 1976
+65,79A,Aspect,Suppletion According to Tense and Aspect,Wichita,,,Rood 1976
+66,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Wichita,,,
+67,80A,"Singular-dual-plural triples, no suppletion",Verbal Number and Suppletion,Wichita,,,Rood 1976
+68,81A,No dominant order,"Order of Subject, Object and Verb",Wichita,,,Rood 1976
+69,81B,SOV or OVS,"Languages with two Dominant Orders of Subject, Object, and Verb",Wichita,,,Rood 1976
+70,82A,No dominant order,Order of Subject and Verb,Wichita,,,Rood 1996
+71,83A,OV,Order of Object and Verb,Wichita,,,Rood 1976
+72,84A,No dominant order,"Order of Object, Oblique, and Verb",Wichita,,,Rood 1996
+73,85A,No adpositions,Order of Adposition and Noun Phrase,Wichita,,,Rood 1976
+74,87A,Noun-Adjective,Order of Adjective and Noun,Wichita,,,Rood 1976
+75,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wichita,,,Rood 1976
+76,89A,Numeral-Noun,Order of Numeral and Noun,Wichita,,,Rood 1976
+77,90A,Noun-Relative clause,Order of Relative Clause and Noun,Wichita,,,Rood 1976
+78,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Wichita,,,Rood 1976
+79,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Wichita,,,Rood 1976
+80,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wichita,,,
+81,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wichita,,,
+82,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Wichita,,,Rood 1976
+83,99A,None,Alignment of Case Marking of Pronouns,Wichita,,,Rood 1976
+84,100A,Active,Alignment of Verbal Person Marking,Wichita,,,Rood 1976
+85,101A,Subject affixes on verb,Expression of Pronominal Subjects,Wichita,,,Rood 1976
+86,102A,Both the A and P arguments,Verbal Person Marking,Wichita,,,Rood 1976
+87,103A,Zero in all 3rd person forms,Third Person Zero of Verbal Person Marking,Wichita,,,Rood 1976
+88,104A,A precedes P,Order of Person Markers on the Verb,Wichita,,,Rood 1976
+89,106A,No reciprocals,Reciprocal Constructions,Wichita,,,Rood 1976
+90,107A,Absent,Passive Constructions,Wichita,,,Rood 1976
+91,108A,No antipassive,Antipassive Constructions,Wichita,,,Rood 1976
+92,108B,no antipassive,Productivity of the Antipassive Construction,Wichita,,,Rood 1976
+93,109A,Benefactive and other; both bases,Applicative Constructions,Wichita,,,Rood 1976
+94,109B,Instrument,Other Roles of Applied Objects,Wichita,,,
+95,110A,Purposive but no sequential,Periphrastic Causative Constructions,Wichita,,,Rood 1976
+96,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Wichita,,,Rood 1976
+97,112A,Negative particle,Negative Morphemes,Wichita,,,Rood 1996
+98,113A,Both,Symmetric and Asymmetric Standard Negation,Wichita,,,Rood 1976
+99,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Wichita,,,Rood 1976
+100,116A,Question particle,Polar Questions,Wichita,,,Rood 1976
+101,117A,Locational,Predicative Possession,Wichita,,,Rood 1976
+102,118A,Mixed,Predicative Adjectives,Wichita,,,Rood 1976
+103,119A,Identical,Nominal and Locational Predication,Wichita,,,Rood 1976
+104,120A,Impossible,Zero Copula for Predicate Nominals,Wichita,,,Rood 1976
+105,122A,Gap,Relativization on Subjects,Wichita,,,Rood 1976
+106,129A,Different,Hand and Arm,Wichita,,,Rood 1996
+107,130A,Different,Finger and Hand,Wichita,,,Rood 1996
+108,136A,No M-T pronouns,M-T Pronouns,Wichita,,,Rood 1976
+109,136B,No m in first person singular,M in First Person Singular,Wichita,,,Rood 1976
+110,137A,No N-M pronouns,N-M Pronouns,Wichita,,,Rood 1976
+111,137B,No m in second person singular,M in Second Person Singular,Wichita,,,Rood 1976
+112,143A,NegV,Order of Negative Morpheme and Verb,Wichita,,,Rood 1976
+113,143E,NegV,Preverbal Negative Morphemes,Wichita,,,Rood 1976
+114,143F,None,Postverbal Negative Morphemes,Wichita,,,Rood 1976
+115,143G,None,Minor morphological means of signaling negation,Wichita,,,Rood 1976
+116,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Wichita,,,Rood 1976
+117,144B,"Beginning, not immed preverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wichita,,,Rood 1976
+118,144L,More than one construction,The Position of Negative Morphemes in SOV Languages,Wichita,,,Rood 1976
+119,144M,NegSOV/NegOVS,Multiple Negative Constructions in SOV Languages,Wichita,,,Rood 1976
+120,144P,NoDoubleNeg,NegSOV Order,Wichita,,,Rood 1976
+121,144Q,No SNegOV,SNegOV Order,Wichita,,,Rood 1976
+122,144R,No SONegV,SONegV Order,Wichita,,,Rood 1976
+123,144S,NoSOVNeg,SOVNeg Order,Wichita,,,Rood 1976
+124,144Y,NegOVS/NegSOV,The Position of Negative Morphemes in Object-Initial Languages,Wichita,,,Rood 1976

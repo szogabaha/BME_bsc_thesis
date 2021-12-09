@@ -1,0 +1,100 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Wardaman,,,Merlan 1994
+1,2A,Average (5-6),Vowel Quality Inventories,Wardaman,,,Merlan 1994
+2,3A,Average,Consonant-Vowel Ratio,Wardaman,,,Merlan 1994
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Wardaman,,,Merlan 1994
+4,5A,Other,Voicing and Gaps in Plosive Systems,Wardaman,,,Merlan 1994
+5,6A,None,Uvular Consonants,Wardaman,,,Merlan 1994
+6,7A,No glottalized consonants,Glottalized Consonants,Wardaman,,,Merlan 1994
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Wardaman,,,Merlan 1994
+8,9A,Initial velar nasal,The Velar Nasal,Wardaman,,,Merlan 1994
+9,10A,Contrast absent,Vowel Nasalization,Wardaman,,,Merlan 1994
+10,11A,None,Front Rounded Vowels,Wardaman,,,Merlan 1994
+11,12A,Complex,Syllable Structure,Wardaman,,,Merlan 1994
+12,13A,No tones,Tone,Wardaman,,,Merlan 1994
+13,14A,Penultimate,Fixed Stress Locations,Wardaman,,,Merlan 1994
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Wardaman,,,Merlan 1994
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Wardaman,,,Merlan 1994
+16,17A,Trochaic,Rhythm Types,Wardaman,,,Merlan 1994
+17,18A,No fricatives,Absence of Common Consonants,Wardaman,,,Merlan 1994
+18,19A,None,Presence of Uncommon Consonants,Wardaman,,,Merlan 1994
+19,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Wardaman,,,Merlan 1994
+20,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Wardaman,,,Merlan 1994
+21,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Wardaman,,,Merlan 1994
+22,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wardaman,,,Merlan 1994
+23,27A,Productive full and partial reduplication,Reduplication,Wardaman,,,Merlan 1994
+24,28A,No syncretism,Case Syncretism,Wardaman,,,Merlan 1994
+25,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Wardaman,,,Merlan 1994
+26,30A,Three,Number of Genders,Wardaman,,,Merlan 1994
+27,31A,Non-sex-based,Sex-based and Non-sex-based Gender Systems,Wardaman,,,Merlan 1994
+28,32A,Semantic,Systems of Gender Assignment,Wardaman,,,Merlan 1994
+29,33A,Plural suffix,Coding of Nominal Plurality,Wardaman,,,Merlan 1994
+30,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Wardaman,,,Merlan 1994
+31,35A,Person-number stem + nominal plural affix,Plurality in Independent Personal Pronouns,Wardaman,,,Merlan 1994
+32,36A,Unique affixal associative plural,The Associative Plural,Wardaman,,,Merlan 1994
+33,37A,Definite affix,Definite Articles,Wardaman,,,Merlan 1994
+34,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Wardaman,,,Merlan 1994
+35,40A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Wardaman,,,Merlan 1994
+36,41A,Three-way contrast,Distance Contrasts in Demonstratives,Wardaman,,,Merlan 1994
+37,42A,Identical,Pronominal and Adnominal Demonstratives,Wardaman,,,Merlan 1994
+38,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Wardaman,,,Merlan 1994
+39,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Wardaman,,,Merlan 1994
+40,46A,Interrogative-based,Indefinite Pronouns,Wardaman,,,Merlan 1994
+41,48A,No adpositions,Person Marking on Adpositions,Wardaman,,,Merlan 1994
+42,49A,8-9 cases,Number of Cases,Wardaman,,,Merlan 1994
+43,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Wardaman,,,Merlan 1994
+44,51A,Case suffixes,Position of Case Affixes,Wardaman,,,Merlan 1994
+45,53A,None,Ordinal Numerals,Wardaman,,,Merlan 1994
+46,64A,Differentiation,Nominal and Verbal Conjunction,Wardaman,,,Merlan 1994
+47,70A,Second singular and second plural,The Morphological Imperative,Wardaman,,,Merlan 1994
+48,71A,Special imperative + normal negative,The Prohibitive,Wardaman,,,Merlan 1994
+49,73A,Inflectional optative absent,The Optative,Wardaman,,,Merlan 1994
+50,75A,Affixes on verbs,Epistemic Possibility,Wardaman,,,Merlan 1994
+51,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Wardaman,,,Merlan 1994
+52,78A,No grammatical evidentials,Coding of Evidentiality,Wardaman,,,Merlan 1994
+53,81A,No dominant order,"Order of Subject, Object and Verb",Wardaman,,,Merlan 1994
+54,82A,No dominant order,Order of Subject and Verb,Wardaman,,,Merlan 1994
+55,83A,No dominant order,Order of Object and Verb,Wardaman,,,Merlan 1994
+56,84A,No dominant order,"Order of Object, Oblique, and Verb",Wardaman,,,Merlan 1994
+57,85A,Postpositions,Order of Adposition and Noun Phrase,Wardaman,,,Merlan 1994
+58,86A,No dominant order,Order of Genitive and Noun,Wardaman,,,Merlan 1994
+59,87A,Noun-Adjective,Order of Adjective and Noun,Wardaman,,,Merlan 1994
+60,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wardaman,,,Merlan 1994
+61,89A,Numeral-Noun,Order of Numeral and Noun,Wardaman,,,Merlan 1994
+62,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wardaman,,,Merlan 1994
+63,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wardaman,,,
+64,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wardaman,,,
+65,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wardaman,,,
+66,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Wardaman,,,Merlan 1994
+67,99A,Ergative - absolutive,Alignment of Case Marking of Pronouns,Wardaman,,,Merlan 1994
+68,100A,Accusative,Alignment of Verbal Person Marking,Wardaman,,,Merlan 1994
+69,101A,Subject affixes on verb,Expression of Pronominal Subjects,Wardaman,,,Merlan 1994
+70,102A,Both the A and P arguments,Verbal Person Marking,Wardaman,,,Merlan 1994
+71,103A,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Wardaman,,,Merlan 1994
+72,104A,A and P are fused,Order of Person Markers on the Verb,Wardaman,,,Merlan 1994
+73,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Wardaman,,,Merlan 1994
+74,107A,Absent,Passive Constructions,Wardaman,,,Merlan 1994
+75,108A,Oblique patient,Antipassive Constructions,Wardaman,,,Merlan 1994
+76,108B,productive,Productivity of the Antipassive Construction,Wardaman,,,Merlan 1994
+77,109A,No applicative construction,Applicative Constructions,Wardaman,,,Merlan 1994
+78,109B,No applicative construction,Other Roles of Applied Objects,Wardaman,,,
+79,111A,Compound but no morphological,Nonperiphrastic Causative Constructions,Wardaman,,,Merlan 1994
+80,112A,Negative particle,Negative Morphemes,Wardaman,,,Merlan 1994
+81,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Wardaman,,,Merlan 1994
+82,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Wardaman,,,Merlan 1994
+83,122A,Gap,Relativization on Subjects,Wardaman,,,Merlan 1994
+84,125A,Deranked,Purpose Clauses,Wardaman,,,Merlan 1994
+85,126A,Deranked,'When' Clauses,Wardaman,,,Merlan 1994
+86,127A,Balanced,Reason Clauses,Wardaman,,,Merlan 1994
+87,129A,Different,Hand and Arm,Wardaman,,,Merlan 1994
+88,130A,Different,Finger and Hand,Wardaman,,,Merlan 1994
+89,136A,No M-T pronouns,M-T Pronouns,Wardaman,,,Merlan 1994
+90,136B,No m in first person singular,M in First Person Singular,Wardaman,,,Merlan 1994
+91,137A,No N-M pronouns,N-M Pronouns,Wardaman,,,Merlan 1994
+92,137B,No m in second person singular,M in Second Person Singular,Wardaman,,,Merlan 1994
+93,143A,NegV,Order of Negative Morpheme and Verb,Wardaman,,,Merlan 1994
+94,143E,NegV,Preverbal Negative Morphemes,Wardaman,,,Merlan 1994
+95,143F,None,Postverbal Negative Morphemes,Wardaman,,,Merlan 1994
+96,143G,None,Minor morphological means of signaling negation,Wardaman,,,Merlan 1994
+97,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Wardaman,,,Merlan 1994
+98,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wardaman,,,Merlan 1994

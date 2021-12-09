@@ -1,0 +1,23 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,70A,Second singular,The Morphological Imperative,Sengele,,,Mangulu 2001
+1,71A,Special imperative + normal negative,The Prohibitive,Sengele,,,Mangulu 2001
+2,81A,SVO,"Order of Subject, Object and Verb",Sengele,,,Mangulu 2001
+3,82A,SV,Order of Subject and Verb,Sengele,,,Mangulu 2001
+4,83A,VO,Order of Object and Verb,Sengele,,,Mangulu 2001
+5,85A,Prepositions,Order of Adposition and Noun Phrase,Sengele,,,Mangulu 2001
+6,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sengele,,,
+7,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sengele,,,Mangulu 2001
+8,112A,Double negation,Negative Morphemes,Sengele,,,Mangulu 2001
+9,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Sengele,,,Mangulu 2001
+10,143B,[Neg-V]Neg,Obligatory Double Negation,Sengele,,,Mangulu 2001
+11,143E,[Neg-V],Preverbal Negative Morphemes,Sengele,,,Mangulu 2001
+12,143F,VNeg,Postverbal Negative Morphemes,Sengele,,,Mangulu 2001
+13,143G,None,Minor morphological means of signaling negation,Sengele,,,Mangulu 2001
+14,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sengele,,,Mangulu 2001
+15,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sengele,,,Mangulu 2001
+16,144D,ObligNeg,The Position of Negative Morphemes in SVO Languages,Sengele,,,Mangulu 2001
+17,144F,S[Neg-V]ONeg,Obligatory Double Negation in SVO languages,Sengele,,,Mangulu 2001
+18,144H,No NegSVO,NegSVO Order,Sengele,,,Mangulu 2001
+19,144I,Prefix&OnlyWithAnotherNeg,SNegVO Order,Sengele,,,Mangulu 2001
+20,144J,No SVNegO,SVNegO Order,Sengele,,,Mangulu 2001
+21,144K,OnlyWithAnotherNeg,SVONeg Order,Sengele,,,Mangulu 2001

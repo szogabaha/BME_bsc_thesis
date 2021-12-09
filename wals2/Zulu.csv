@@ -1,0 +1,143 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Zulu,,,Canonici 1989
+1,2A,Average (5-6),Vowel Quality Inventories,Zulu,,,Canonici 1989
+2,3A,High,Consonant-Vowel Ratio,Zulu,,,Canonici 1989
+3,4A,In fricatives alone,Voicing in Plosives and Fricatives,Zulu,,,Canonici 1989
+4,5A,Other,Voicing and Gaps in Plosive Systems,Zulu,,,Canonici 1989
+5,6A,None,Uvular Consonants,Zulu,,,Canonici 1989
+6,7A,Ejectives and implosives,Glottalized Consonants,Zulu,,,Canonici 1989
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Zulu,,,Canonici 1989
+8,10A,Contrast absent,Vowel Nasalization,Zulu,,,Doke 1967
+9,11A,None,Front Rounded Vowels,Zulu,,,Canonici 1989
+10,12A,Moderately complex,Syllable Structure,Zulu,,,Canonici 1989
+11,13A,Simple tone system,Tone,Zulu,,,Canonici 1989
+12,14A,Penultimate,Fixed Stress Locations,Zulu,,,Doke 1945
+13,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Zulu,,,Doke 1945
+14,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Zulu,,,Doke 1945
+15,17A,Trochaic,Rhythm Types,Zulu,,,Doke 1945
+16,18A,All present,Absence of Common Consonants,Zulu,,,Canonici 1989
+17,19A,Clicks,Presence of Uncommon Consonants,Zulu,,,Canonici 1989
+18,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Zulu,,,Poulos and Bosch 1997
+19,21A,No case,Exponence of Selected Inflectional Formatives,Zulu,,,Poulos and Bosch 1997
+20,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Zulu,,,Poulos and Bosch 1997
+21,22A,4-5 categories per word,Inflectional Synthesis of the Verb,Zulu,,,Ziervogel et al. 1981
+22,23A,Head marking,Locus of Marking in the Clause,Zulu,,,Poulos and Msimang 1998
+23,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Zulu,,,Poulos and Msimang 1998
+24,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Zulu,,,Poulos and Msimang 1998
+25,25B,Non-zero marking,Zero Marking of A and P Arguments,Zulu,,,Poulos and Msimang 1998
+26,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Zulu,,,Poulos and Bosch 1997
+27,27A,Full reduplication only,Reduplication,Zulu,,,Canonici 1995
+28,28A,No case marking,Case Syncretism,Zulu,,,Oxotina 1961
+29,29A,Syncretic,Syncretism in Verbal Person/Number Marking,Zulu,,,Oxotina 1961
+30,30A,Five or more,Number of Genders,Zulu,,,Ziervogel et al. 1981
+31,31A,Non-sex-based,Sex-based and Non-sex-based Gender Systems,Zulu,,,Ziervogel et al. 1981
+32,32A,Semantic and formal,Systems of Gender Assignment,Zulu,,,Ziervogel et al. 1981
+33,33A,Plural prefix,Coding of Nominal Plurality,Zulu,,,Ziervogel et al. 1981
+34,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Zulu,,,Ziervogel et al. 1981
+35,35A,Person-number stem,Plurality in Independent Personal Pronouns,Zulu,,,Canonici 1995
+36,36A,Associative same as additive plural,The Associative Plural,Zulu,,,Sibusiso Nyembezi 1972
+37,37A,No definite or indefinite article,Definite Articles,Zulu,,,Ziervogel et al. 1981
+38,38A,No definite or indefinite article,Indefinite Articles,Zulu,,,Ziervogel et al. 1981
+39,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Zulu,,,Poulos and Bosch 1997
+40,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Zulu,,,Poulos and Bosch 1997
+41,43A,Related by gender markers,Third Person Pronouns and Demonstratives,Zulu,,,Poulos and Bosch 1997
+42,44A,"3rd person only, but also non-singular",Gender Distinctions in Independent Personal Pronouns,Zulu,,,Ziervogel et al. 1967
+43,45A,No politeness distinction,Politeness Distinctions in Pronouns,Zulu,,,Poulos and Bosch 1997
+44,47A,Differentiated,Intensifiers and Reflexive Pronouns,Zulu,,,Doke 1954
+45,48A,No person marking,Person Marking on Adpositions,Zulu,,,Ziervogel et al. 1967
+46,49A,No morphological case-marking,Number of Cases,Zulu,,,Poulos and Msimang 1998
+47,50A,No case-marking,Asymmetrical Case-Marking,Zulu,,,Poulos and Msimang 1998
+48,51A,Case prefixes,Position of Case Affixes,Zulu,,,Ziervogel et al. 1981
+49,53A,"First, two-th, three-th",Ordinal Numerals,Zulu,,,Ziervogel et al. 1967
+50,55A,Absent,Numeral Classifiers,Zulu,,,Doke 1927
+51,56A,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Zulu,,,Gil 1996b
+52,58A,Absent,Obligatory Possessive Inflection,Zulu,,,Poulos and Msimang 1998
+53,58B,None reported,Number of Possessive Nouns,Zulu,,,Poulos and Msimang 1998
+54,59A,No possessive classification,Possessive Classification,Zulu,,,Poulos and Msimang 1998
+55,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Zulu,,,Doke 1927
+56,61A,Without marking,Adjectives without Nouns,Zulu,,,Doke 1927
+57,63A,'And' identical to 'with',Noun Phrase Conjunction,Zulu,,,Doke 1945
+58,64A,Differentiation,Nominal and Verbal Conjunction,Zulu,,,Ziervogel et al. 1981
+59,65A,Grammatical marking,Perfective/Imperfective Aspect,Zulu,,,Dahl 1985
+60,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Zulu,,,Dahl 1985
+61,67A,Inflectional future exists,The Future Tense,Zulu,,,Dahl 1985
+62,68A,Other perfect,The Perfect,Zulu,,,Dahl 1985
+63,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Zulu,,,Ziervogel et al. 1981
+64,70A,Second singular and second plural,The Morphological Imperative,Zulu,,,Doke 1927
+65,71A,Special imperative + special negative,The Prohibitive,Zulu,,,Doke 1927
+66,72A,Maximal system,Imperative-Hortative Systems,Zulu,,,Doke 1927
+67,73A,Inflectional optative absent,The Optative,Zulu,,,Canonici 1995
+68,74A,Affixes on verbs,Situational Possibility,Zulu,,,Poulos and Bosch 1997
+69,75A,Affixes on verbs,Epistemic Possibility,Zulu,,,Canonici 1995
+70,76A,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Zulu,,,Canonici 1995
+71,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Zulu,,,Doke 1927
+72,78A,No grammatical evidentials,Coding of Evidentiality,Zulu,,,Doke 1927
+73,79A,None,Suppletion According to Tense and Aspect,Zulu,,,Ziervogel et al. 1967
+74,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Zulu,,,
+75,80A,None,Verbal Number and Suppletion,Zulu,,,Ziervogel et al. 1967
+76,81A,SVO,"Order of Subject, Object and Verb",Zulu,,,Ziervogel et al. 1981
+77,82A,SV,Order of Subject and Verb,Zulu,,,Ziervogel et al. 1981
+78,83A,VO,Order of Object and Verb,Zulu,,,Ziervogel et al. 1981
+79,85A,Prepositions,Order of Adposition and Noun Phrase,Zulu,,,Ziervogel et al. 1981
+80,86A,Noun-Genitive,Order of Genitive and Noun,Zulu,,,Ziervogel et al. 1981
+81,87A,Noun-Adjective,Order of Adjective and Noun,Zulu,,,Ziervogel et al. 1981
+82,88A,Mixed,Order of Demonstrative and Noun,Zulu,,,Ziervogel et al. 1981
+83,90A,Noun-Relative clause,Order of Relative Clause and Noun,Zulu,,,Ziervogel et al. 1981
+84,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Zulu,,,Ziervogel et al. 1981
+85,92A,Final,Position of Polar Question Particles,Zulu,,,Ziervogel et al. 1981
+86,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Zulu,,,Ziervogel et al. 1981
+87,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Zulu,,,Ziervogel et al. 1981
+88,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Zulu,,,
+89,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Zulu,,,
+90,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Zulu,,,
+91,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Zulu,,,Poulos and Msimang 1998
+92,99A,Neutral,Alignment of Case Marking of Pronouns,Zulu,,,Poulos and Msimang 1998
+93,100A,Accusative,Alignment of Verbal Person Marking,Zulu,,,Ziervogel et al. 1967
+94,101A,Subject affixes on verb,Expression of Pronominal Subjects,Zulu,,,Ziervogel et al. 1981
+95,102A,Both the A and P arguments,Verbal Person Marking,Zulu,,,Ziervogel et al. 1967
+96,103A,No zero realization,Third Person Zero of Verbal Person Marking,Zulu,,,Ziervogel et al. 1967
+97,104A,A precedes P,Order of Person Markers on the Verb,Zulu,,,Ziervogel et al. 1967
+98,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Zulu,,,Ziervogel et al. 1981
+99,106A,Distinct from reflexive,Reciprocal Constructions,Zulu,,,Cope 1982
+100,107A,Present,Passive Constructions,Zulu,,,Ziervogel et al. 1967
+101,108A,No antipassive,Antipassive Constructions,Zulu,,,Doke 1931
+102,108B,no antipassive,Productivity of the Antipassive Construction,Zulu,,,Doke 1931
+103,109A,Benefactive and other; both bases,Applicative Constructions,Zulu,,,Doke 1931
+104,109B,Instrument,Other Roles of Applied Objects,Zulu,,,
+105,110A,Purposive but no sequential,Periphrastic Causative Constructions,Zulu,,,Doke 1927
+106,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Zulu,,,Doke 1927
+107,112A,Negative affix,Negative Morphemes,Zulu,,,Poulos and Bosch 1997
+108,113A,Both,Symmetric and Asymmetric Standard Negation,Zulu,,,Poulos and Bosch 1997
+109,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Zulu,,,Poulos and Bosch 1997
+110,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Zulu,,,Ziervogel et al. 1981
+111,116A,Question particle,Polar Questions,Zulu,,,Ziervogel et al. 1981
+112,117A,Conjunctional,Predicative Possession,Zulu,,,Doke 1945
+113,118A,Mixed,Predicative Adjectives,Zulu,,,Doke 1945
+114,119A,Identical,Nominal and Locational Predication,Zulu,,,Doke 1945
+115,120A,Impossible,Zero Copula for Predicate Nominals,Zulu,,,Doke 1945
+116,121A,Exceed,Comparative Constructions,Zulu,,,Doke 1945
+117,122A,Gap,Relativization on Subjects,Zulu,,,
+118,124A,Subject is left implicit,'Want' Complement Subjects,Zulu,,,Ziervogel et al. 1981
+119,125A,Deranked,Purpose Clauses,Zulu,,,Poulos and Msimang 1998
+120,126A,Deranked,'When' Clauses,Zulu,,,Poulos and Msimang 1998
+121,127A,Deranked,Reason Clauses,Zulu,,,Poulos and Msimang 1998
+122,129A,Different,Hand and Arm,Zulu,,,Doke et al. 1982
+123,130A,Different,Finger and Hand,Zulu,,,Doke et al. 1982
+124,131A,Decimal,Numeral Bases,Zulu,,,Doke 1927
+125,136A,No M-T pronouns,M-T Pronouns,Zulu,,,Poulos and Bosch 1997
+126,136B,m in first person singular,M in First Person Singular,Zulu,,,Poulos and Bosch 1997
+127,137A,No N-M pronouns,N-M Pronouns,Zulu,,,Poulos and Bosch 1997
+128,137B,No m in second person singular,M in Second Person Singular,Zulu,,,Poulos and Bosch 1997
+129,138A,Others,Tea,Zulu,,,Malherbe and Rosenberg 1996
+130,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Zulu,,,Poulos and Bosch 1997
+131,143C,[Neg-V(-Neg)],Optional Double Negation,Zulu,,,Poulos and Bosch 1997
+132,143E,[Neg-V],Preverbal Negative Morphemes,Zulu,,,Poulos and Bosch 1997
+133,143F,[V-Neg],Postverbal Negative Morphemes,Zulu,,,Poulos and Bosch 1997
+134,143G,None,Minor morphological means of signaling negation,Zulu,,,Poulos and Bosch 1997
+135,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Zulu,,,Poulos and Bosch 1997
+136,144D,OptNeg,The Position of Negative Morphemes in SVO Languages,Zulu,,,Poulos and Bosch 1997
+137,144G,S[Neg-V(-Neg)]O,Optional Double Negation in SVO languages,Zulu,,,Poulos and Bosch 1997
+138,144H,No NegSVO,NegSVO Order,Zulu,,,Poulos and Bosch 1997
+139,144I,Prefix&OptDoubleNeg,SNegVO Order,Zulu,,,Poulos and Bosch 1997
+140,144J,Suffix&OnlyWithAnotherNeg,SVNegO Order,Zulu,,,Poulos and Bosch 1997
+141,144K,No SVONeg,SVONeg Order,Zulu,,,Poulos and Bosch 1997

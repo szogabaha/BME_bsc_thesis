@@ -1,0 +1,32 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No velar nasal,The Velar Nasal,Warembori,,,Donohue 1999b
+1,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Warembori,,,Donohue 1999b
+2,21A,No case,Exponence of Selected Inflectional Formatives,Warembori,,,Donohue 1999b
+3,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Warembori,,,Donohue 1999b
+4,70A,No second-person imperatives,The Morphological Imperative,Warembori,,,
+5,71A,Normal imperative + normal negative,The Prohibitive,Warembori,,,
+6,81A,SVO,"Order of Subject, Object and Verb",Warembori,,,Donohue 1999b
+7,82A,SV,Order of Subject and Verb,Warembori,,,Donohue 1999b
+8,83A,VO,Order of Object and Verb,Warembori,,,Donohue 1999b
+9,85A,Prepositions,Order of Adposition and Noun Phrase,Warembori,,,Donohue 1999b
+10,86A,Genitive-Noun,Order of Genitive and Noun,Warembori,,,Donohue 1999b
+11,87A,Noun-Adjective,Order of Adjective and Noun,Warembori,,,Donohue 1999b
+12,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Warembori,,,
+13,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Warembori,,,
+14,101A,Subject affixes on verb,Expression of Pronominal Subjects,Warembori,,,Donohue 1999b
+15,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Warembori,,,Donohue 1999b
+16,112A,Negative particle,Negative Morphemes,Warembori,,,Donohue 1999b
+17,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Warembori,,,Donohue 1999b
+18,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Warembori,,,Donohue 1999b
+19,124A,Subject is expressed overtly,'Want' Complement Subjects,Warembori,,,Donohue 1999b
+20,143A,VNeg,Order of Negative Morpheme and Verb,Warembori,,,Donohue 1999b
+21,143E,None,Preverbal Negative Morphemes,Warembori,,,Donohue 1999b
+22,143F,VNeg,Postverbal Negative Morphemes,Warembori,,,Donohue 1999b
+23,143G,None,Minor morphological means of signaling negation,Warembori,,,Donohue 1999b
+24,144A,SVONeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Warembori,,,Donohue 1999b
+25,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Warembori,,,Donohue 1999b
+26,144D,SVONeg,The Position of Negative Morphemes in SVO Languages,Warembori,,,Donohue 1999b
+27,144H,No NegSVO,NegSVO Order,Warembori,,,Donohue 1999b
+28,144I,No SNegVO,SNegVO Order,Warembori,,,Donohue 1999b
+29,144J,No SVNegO,SVNegO Order,Warembori,,,Donohue 1999b
+30,144K,NoDoubleNeg,SVONeg Order,Warembori,,,Donohue 1999b

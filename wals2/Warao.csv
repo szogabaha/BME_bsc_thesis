@@ -1,0 +1,124 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Warao,,,Osborn 1966
+1,2A,Average (5-6),Vowel Quality Inventories,Warao,,,Osborn 1966
+2,3A,Moderately low,Consonant-Vowel Ratio,Warao,,,Osborn 1966
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Warao,,,Osborn 1966
+4,5A,Other,Voicing and Gaps in Plosive Systems,Warao,,,Osborn 1966
+5,6A,None,Uvular Consonants,Warao,,,Osborn 1966
+6,7A,No glottalized consonants,Glottalized Consonants,Warao,,,Osborn 1966
+7,8A,"Laterals, but no /l/, no obstruent laterals",Lateral Consonants,Warao,,,Osborn 1966
+8,9A,No velar nasal,The Velar Nasal,Warao,,,Romero-Figueroa 1997
+9,10A,Contrast present,Vowel Nasalization,Warao,,,Osborn 1966
+10,11A,None,Front Rounded Vowels,Warao,,,Osborn 1966
+11,12A,Simple,Syllable Structure,Warao,,,Osborn 1966
+12,13A,No tones,Tone,Warao,,,Osborn 1966
+13,14A,Penultimate,Fixed Stress Locations,Warao,,,Osborn 1966
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Warao,,,Osborn 1966
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Warao,,,Osborn 1966
+16,17A,Trochaic,Rhythm Types,Warao,,,Osborn 1966
+17,18A,All present,Absence of Common Consonants,Warao,,,Osborn 1966
+18,19A,None,Presence of Uncommon Consonants,Warao,,,Osborn 1966
+19,20A,Isolating/concatenative,Fusion of Selected Inflectional Formatives,Warao,,,Romero-Figueroa 1997
+20,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Warao,,,Romero-Figueroa 1997
+21,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Warao,,,Romero-Figueroa 1997
+22,22A,4-5 categories per word,Inflectional Synthesis of the Verb,Warao,,,Romero-Figueroa 1997
+23,23A,Dependent marking,Locus of Marking in the Clause,Warao,,,Romero-Figueroa 1997
+24,24A,Other,Locus of Marking in Possessive Noun Phrases,Warao,,,Romero-Figueroa 1997
+25,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Warao,,,Romero-Figueroa 1997
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Warao,,,Romero-Figueroa 1997
+27,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Warao,,,Romero-Figueroa 1997
+28,28A,Core cases only,Case Syncretism,Warao,,,Romero-Figueroa 1997
+29,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Warao,,,Romero-Figueroa 1997
+30,30A,None,Number of Genders,Warao,,,Romero-Figueroa 1997
+31,31A,No gender,Sex-based and Non-sex-based Gender Systems,Warao,,,Romero-Figueroa 1997
+32,32A,No gender,Systems of Gender Assignment,Warao,,,Romero-Figueroa 1997
+33,33A,Plural suffix,Coding of Nominal Plurality,Warao,,,Romero-Figueroa 1997
+34,35A,Person-number stem,Plurality in Independent Personal Pronouns,Warao,,,Romero-Figueroa 1997
+35,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Warao,,,Romero-Figueroa 1997
+36,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Warao,,,Romero-Figueroa 1997
+37,41A,Three-way contrast,Distance Contrasts in Demonstratives,Warao,,,Romero-Figueroa 1997
+38,42A,Different stem,Pronominal and Adnominal Demonstratives,Warao,,,Romero-Figueroa 1997
+39,43A,Related to non-remote demonstratives,Third Person Pronouns and Demonstratives,Warao,,,Romero-Figueroa 1997
+40,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Warao,,,Romero-Figueroa 1997
+41,45A,No politeness distinction,Politeness Distinctions in Pronouns,Warao,,,Romero-Figueroa 1997
+42,46A,Mixed,Indefinite Pronouns,Warao,,,Romero-Figueroa 1997
+43,47A,Identical,Intensifiers and Reflexive Pronouns,Warao,,,Romero-Figueroa 1997
+44,48A,No person marking,Person Marking on Adpositions,Warao,,,Romero-Figueroa 1997
+45,49A,5 cases,Number of Cases,Warao,,,Romero-Figueroa 1997
+46,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Warao,,,Romero-Figueroa 1997
+47,52A,Differentiation,Comitatives and Instrumentals,Warao,,,Vaquero 1965
+48,53A,"First, two, three",Ordinal Numerals,Warao,,,Vaquero 1965
+49,54A,No distributive numerals,Distributive Numerals,Warao,,,Romero-Figueroa 1997
+50,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Warao,,,Romero-Figueroa 1997
+51,58A,Absent,Obligatory Possessive Inflection,Warao,,,Romero-Figueroa 1997
+52,58B,None reported,Number of Possessive Nouns,Warao,,,Romero-Figueroa 1997
+53,59A,No possessive classification,Possessive Classification,Warao,,,Romero-Figueroa 1997
+54,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Warao,,,Romero-Figueroa 1997
+55,62A,Other,Action Nominal Constructions,Warao,,,
+56,64A,Both expressed by juxtaposition,Nominal and Verbal Conjunction,Warao,,,Romero-Figueroa 1997
+57,65A,No grammatical marking,Perfective/Imperfective Aspect,Warao,,,Romero-Figueroa 1997
+58,66A,"Present, no remoteness distinctions",The Past Tense,Warao,,,Romero-Figueroa 1997
+59,67A,No inflectional future,The Future Tense,Warao,,,Romero-Figueroa 1997
+60,68A,No perfect,The Perfect,Warao,,,Romero-Figueroa 1997
+61,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Warao,,,Romero-Figueroa 1997
+62,70A,Second singular and second plural,The Morphological Imperative,Warao,,,Romero-Figueroa 1997
+63,71A,Normal imperative + normal negative,The Prohibitive,Warao,,,Romero-Figueroa 1997
+64,73A,Inflectional optative absent,The Optative,Warao,,,Romero-Figueroa 1997
+65,74A,Affixes on verbs,Situational Possibility,Warao,,,Romero-Figueroa 1997
+66,75A,Affixes on verbs,Epistemic Possibility,Warao,,,Romero-Figueroa 1997
+67,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Warao,,,Romero-Figueroa 1997
+68,77A,Indirect only,Semantic Distinctions of Evidentiality,Warao,,,Osborn 1967
+69,78A,Verbal affix or clitic,Coding of Evidentiality,Warao,,,Osborn 1967
+70,79A,None,Suppletion According to Tense and Aspect,Warao,,,Romero-Figueroa 1997
+71,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Warao,,,
+72,80A,None,Verbal Number and Suppletion,Warao,,,Romero-Figueroa 1997
+73,82A,SV,Order of Subject and Verb,Warao,,,Romero-Figueroa 1997
+74,83A,OV,Order of Object and Verb,Warao,,,Romero-Figueroa 1997
+75,85A,Postpositions,Order of Adposition and Noun Phrase,Warao,,,Romero-Figueroa 1997
+76,86A,Genitive-Noun,Order of Genitive and Noun,Warao,,,Romero-Figueroa 1997
+77,87A,Noun-Adjective,Order of Adjective and Noun,Warao,,,Vaquero 1965
+78,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Warao,,,Romero-Figueroa 1997
+79,89A,Noun-Numeral,Order of Numeral and Noun,Warao,,,de Goeje 1930
+80,91A,Adjective-Degree word,Order of Degree Word and Adjective,Warao,,,de Goeje 1930
+81,92A,No question particle,Position of Polar Question Particles,Warao,,,Romero-Figueroa 1997
+82,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Warao,,,de Goeje 1930
+83,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Warao,,,
+84,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Warao,,,
+85,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Warao,,,Romero-Figueroa 1997
+86,99A,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Warao,,,Romero-Figueroa 1997
+87,100A,Accusative,Alignment of Verbal Person Marking,Warao,,,Romero-Figueroa 1997
+88,102A,Only the P argument,Verbal Person Marking,Warao,,,Romero-Figueroa 1997
+89,103A,No person marking,Third Person Zero of Verbal Person Marking,Warao,,,Romero-Figueroa 1997
+90,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Warao,,,Romero-Figueroa 1997
+91,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Warao,,,Romero-Figueroa 1997
+92,106A,Identical to reflexive,Reciprocal Constructions,Warao,,,Romero-Figueroa 1997
+93,107A,Present,Passive Constructions,Warao,,,Romero-Figueroa 1997
+94,108A,No antipassive,Antipassive Constructions,Warao,,,Romero-Figueroa 1997
+95,108B,no antipassive,Productivity of the Antipassive Construction,Warao,,,Romero-Figueroa 1986
+96,109A,No applicative construction,Applicative Constructions,Warao,,,Romero-Figueroa 1997
+97,109B,No applicative construction,Other Roles of Applied Objects,Warao,,,
+98,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Warao,,,Romero-Figueroa 1997
+99,112A,Negative affix,Negative Morphemes,Warao,,,Romero-Figueroa 1997
+100,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Warao,,,Romero-Figueroa 1997
+101,114A,A/Fin,Subtypes of Asymmetric Standard Negation,Warao,,,Romero-Figueroa 1997
+102,116A,Interrogative verb morphology,Polar Questions,Warao,,,Romero-Figueroa 1997
+103,122A,Non-reduction,Relativization on Subjects,Warao,,,Romero-Figueroa 1997
+104,123A,Not possible,Relativization on Obliques,Warao,,,Romero-Figueroa 1997
+105,124A,Subject is left implicit,'Want' Complement Subjects,Warao,,,Romero-Figueroa 1997
+106,125A,Deranked,Purpose Clauses,Warao,,,Romero-Figueroa 1997
+107,126A,Deranked,'When' Clauses,Warao,,,Romero-Figueroa 1997
+108,127A,Balanced,Reason Clauses,Warao,,,Romero-Figueroa 1997
+109,128A,Balanced,Utterance Complement Clauses,Warao,,,Romero-Figueroa 1997
+110,129A,Different,Hand and Arm,Warao,,,de Barral 1979
+111,130A,Different,Finger and Hand,Warao,,,de Barral 1979
+112,131A,Pure vigesimal,Numeral Bases,Warao,,,Romero-Figueroa 1997
+113,136A,No M-T pronouns,M-T Pronouns,Warao,,,Romero-Figueroa 1997
+114,136B,m in first person singular,M in First Person Singular,Warao,,,Romero-Figueroa 1997
+115,137A,No N-M pronouns,N-M Pronouns,Warao,,,Romero-Figueroa 1997
+116,137B,No m in second person singular,M in Second Person Singular,Warao,,,Romero-Figueroa 1997
+117,143A,[V-Neg],Order of Negative Morpheme and Verb,Warao,,,Romero-Figueroa 1997
+118,143E,None,Preverbal Negative Morphemes,Warao,,,Romero-Figueroa 1997
+119,143F,[V-Neg],Postverbal Negative Morphemes,Warao,,,Romero-Figueroa 1997
+120,143G,None,Minor morphological means of signaling negation,Warao,,,Romero-Figueroa 1997
+121,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Warao,,,Romero-Figueroa 1997
+122,144L,SV&OV&[V-Neg],The Position of Negative Morphemes in SOV Languages,Warao,,,Romero-Figueroa 1997

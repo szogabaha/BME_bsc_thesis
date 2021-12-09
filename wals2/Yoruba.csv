@@ -1,0 +1,141 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Yoruba,,,Bamgbose 1966
+1,2A,Large (7-14),Vowel Quality Inventories,Yoruba,,,Bamgbose 1966
+2,3A,Moderately low,Consonant-Vowel Ratio,Yoruba,,,Bamgbose 1966
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Yoruba,,,Bamgbose 1966
+4,5A,Missing /p/,Voicing and Gaps in Plosive Systems,Yoruba,,,Bamgbose 1966
+5,6A,None,Uvular Consonants,Yoruba,,,Bamgbose 1966
+6,7A,No glottalized consonants,Glottalized Consonants,Yoruba,,,Bamgbose 1966
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yoruba,,,Bamgbose 1966
+8,9A,No velar nasal,The Velar Nasal,Yoruba,,,Bamgbose 1966
+9,10A,Contrast present,Vowel Nasalization,Yoruba,,,Ogunbowale 1970
+10,11A,None,Front Rounded Vowels,Yoruba,,,Bamgbose 1966
+11,12A,Simple,Syllable Structure,Yoruba,,,Bamgbose 1966
+12,13A,Complex tone system,Tone,Yoruba,,,Bamgbose 1966
+13,18A,All present,Absence of Common Consonants,Yoruba,,,Bamgbose 1966
+14,19A,Labial-velars,Presence of Uncommon Consonants,Yoruba,,,Bamgbose 1966
+15,20A,Tonal/isolating,Fusion of Selected Inflectional Formatives,Yoruba,,,Bamgbose 1966
+16,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Yoruba,,,Bamgbose 1966
+17,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Yoruba,,,Bamgbose 1966
+18,22A,6-7 categories per word,Inflectional Synthesis of the Verb,Yoruba,,,Awobuluyi 1978
+19,23A,Double marking,Locus of Marking in the Clause,Yoruba,,,Awobuluyi 1978
+20,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Yoruba,,,Awobuluyi 1978
+21,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Yoruba,,,Awobuluyi 1978
+22,25B,Non-zero marking,Zero Marking of A and P Arguments,Yoruba,,,Awobuluyi 1978
+23,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Yoruba,,,Bamgbose 1966
+24,27A,Productive full and partial reduplication,Reduplication,Yoruba,,,Akinlabi 2001
+25,28A,No syncretism,Case Syncretism,Yoruba,,,Rowlands 1969
+26,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Yoruba,,,Rowlands 1969
+27,30A,None,Number of Genders,Yoruba,,,Ogunbowale 1970
+28,31A,No gender,Sex-based and Non-sex-based Gender Systems,Yoruba,,,Ogunbowale 1970
+29,32A,No gender,Systems of Gender Assignment,Yoruba,,,Ogunbowale 1970
+30,33A,Plural word,Coding of Nominal Plurality,Yoruba,,,Rowlands 1969
+31,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Yoruba,,,Rowlands 1969
+32,35A,Person-number stem,Plurality in Independent Personal Pronouns,Yoruba,,,Jakovleva 1963
+33,36A,Associative same as additive plural,The Associative Plural,Yoruba,,,Rowlands 1969
+34,37A,No definite or indefinite article,Definite Articles,Yoruba,,,Bamgbose 1966
+35,38A,No definite or indefinite article,Indefinite Articles,Yoruba,,,Bamgbose 1966
+36,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Yoruba,,,Awobuluyi 1978
+37,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Yoruba,,,Awobuluyi 1978
+38,41A,Two-way contrast,Distance Contrasts in Demonstratives,Yoruba,,,Awobuluyi 1978
+39,42A,Identical,Pronominal and Adnominal Demonstratives,Yoruba,,,Awobuluyi 1978
+40,43A,Unrelated,Third Person Pronouns and Demonstratives,Yoruba,,,Awobuluyi 1978
+41,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yoruba,,,Bamgbose 1966
+42,45A,Binary politeness distinction,Politeness Distinctions in Pronouns,Yoruba,,,Bamgbose 1966
+43,46A,Generic-noun-based,Indefinite Pronouns,Yoruba,,,Rowlands 1969
+44,47A,Differentiated,Intensifiers and Reflexive Pronouns,Yoruba,,,Rowlands 1969
+45,48A,No person marking,Person Marking on Adpositions,Yoruba,,,Rowlands 1969
+46,49A,No morphological case-marking,Number of Cases,Yoruba,,,Awobuluyi 1978
+47,50A,No case-marking,Asymmetrical Case-Marking,Yoruba,,,Awobuluyi 1978
+48,51A,No case affixes or adpositional clitics,Position of Case Affixes,Yoruba,,,Bamgbose 1966
+49,52A,Differentiation,Comitatives and Instrumentals,Yoruba,,,Ashiwaju 1968
+50,53A,"One-th, two-th, three-th",Ordinal Numerals,Yoruba,,,Ashiwaju 1968
+51,54A,Marked by reduplication,Distributive Numerals,Yoruba,,,Bamgbose 1966
+52,55A,Absent,Numeral Classifiers,Yoruba,,,Welmers 1973
+53,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Yoruba,,,Bamgbose 1966
+54,58A,Absent,Obligatory Possessive Inflection,Yoruba,,,Awobuluyi 1978
+55,58B,None reported,Number of Possessive Nouns,Yoruba,,,Awobuluyi 1978
+56,59A,No possessive classification,Possessive Classification,Yoruba,,,Awobuluyi 1978
+57,62A,Restricted,Action Nominal Constructions,Yoruba,,,
+58,63A,'And' identical to 'with',Noun Phrase Conjunction,Yoruba,,,Rowlands 1969
+59,64A,Differentiation,Nominal and Verbal Conjunction,Yoruba,,,Rowlands 1969
+60,65A,No grammatical marking,Perfective/Imperfective Aspect,Yoruba,,,Dahl 1985
+61,66A,No past tense,The Past Tense,Yoruba,,,Dahl 1985
+62,67A,No inflectional future,The Future Tense,Yoruba,,,Dahl 1985
+63,68A,"From 'finish', 'already'",The Perfect,Yoruba,,,Dahl 1985
+64,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Yoruba,,,Rowlands 1969
+65,70A,No second-person imperatives,The Morphological Imperative,Yoruba,,,Ashiwaju 1968
+66,73A,Inflectional optative absent,The Optative,Yoruba,,,
+67,74A,Verbal constructions,Situational Possibility,Yoruba,,,Bamgbose 1966
+68,75A,Verbal constructions,Epistemic Possibility,Yoruba,,,Bamgbose 1966
+69,76A,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Yoruba,,,Bamgbose 1966
+70,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Yoruba,,,Bamgbose 1966
+71,78A,No grammatical evidentials,Coding of Evidentiality,Yoruba,,,Bamgbose 1966
+72,79A,None,Suppletion According to Tense and Aspect,Yoruba,,,Ward 1952
+73,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Yoruba,,,
+74,80A,None,Verbal Number and Suppletion,Yoruba,,,Ward 1952
+75,81A,SVO,"Order of Subject, Object and Verb",Yoruba,,,Bamgbose 1966
+76,82A,SV,Order of Subject and Verb,Yoruba,,,Bamgbose 1966
+77,83A,VO,Order of Object and Verb,Yoruba,,,Bamgbose 1966
+78,85A,Prepositions,Order of Adposition and Noun Phrase,Yoruba,,,Ogunbowale 1970
+79,86A,Noun-Genitive,Order of Genitive and Noun,Yoruba,,,Rowlands 1969
+80,87A,Noun-Adjective,Order of Adjective and Noun,Yoruba,,,Ogunbowale 1970
+81,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Yoruba,,,Bamgbose 1966
+82,89A,Noun-Numeral,Order of Numeral and Noun,Yoruba,,,Rowlands 1969
+83,90A,Noun-Relative clause,Order of Relative Clause and Noun,Yoruba,,,Rowlands 1969
+84,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Yoruba,,,Rowlands 1969
+85,92A,No question particle,Position of Polar Question Particles,Yoruba,,,Rowlands 1969
+86,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yoruba,,,Rowlands 1969
+87,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Yoruba,,,Ogunbowale 1970
+88,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yoruba,,,
+89,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yoruba,,,
+90,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yoruba,,,
+91,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Yoruba,,,Rowlands 1969
+92,99A,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Yoruba,,,Rowlands 1969
+93,100A,Neutral,Alignment of Verbal Person Marking,Yoruba,,,Bamgbose 1966
+94,101A,Optional pronouns in subject position,Expression of Pronominal Subjects,Yoruba,,,Awobuluyi 1978
+95,102A,No person marking,Verbal Person Marking,Yoruba,,,Bamgbose 1966
+96,103A,No person marking,Third Person Zero of Verbal Person Marking,Yoruba,,,Bamgbose 1966
+97,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Yoruba,,,Bamgbose 1966
+98,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Yoruba,,,Rowlands 1969
+99,106A,Identical to reflexive,Reciprocal Constructions,Yoruba,,,Ashiwaju 1968
+100,107A,Absent,Passive Constructions,Yoruba,,,Bamgbose 1966
+101,108A,No antipassive,Antipassive Constructions,Yoruba,,,Bamgbose 1966
+102,108B,no antipassive,Productivity of the Antipassive Construction,Yoruba,,,Bamgbose 1966
+103,109A,No applicative construction,Applicative Constructions,Yoruba,,,Bamgbose 1966
+104,109B,No applicative construction,Other Roles of Applied Objects,Yoruba,,,
+105,110A,Both,Periphrastic Causative Constructions,Yoruba,,,Bamgbose 1966
+106,111A,Neither,Nonperiphrastic Causative Constructions,Yoruba,,,Bamgbose 1966
+107,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Yoruba,,,Bamgbose 1966
+108,113A,Both,Symmetric and Asymmetric Standard Negation,Yoruba,,,Bamgbose 1966
+109,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Yoruba,,,Bamgbose 1966
+110,116A,Interrogative intonation only,Polar Questions,Yoruba,,,Rowlands 1969
+111,117A,'Have',Predicative Possession,Yoruba,,,Bamgbose 1966
+112,118A,Verbal encoding,Predicative Adjectives,Yoruba,,,Ashiwaju 1968
+113,119A,Different,Nominal and Locational Predication,Yoruba,,,Ashiwaju 1968
+114,120A,Impossible,Zero Copula for Predicate Nominals,Yoruba,,,Ashiwaju 1968
+115,121A,Exceed,Comparative Constructions,Yoruba,,,Bamgbose 1966
+116,122A,Pronoun-retention,Relativization on Subjects,Yoruba,,,Awobuluyi 1978
+117,124A,Subject is left implicit,'Want' Complement Subjects,Yoruba,,,Rowlands 1969
+118,125A,Balanced,Purpose Clauses,Yoruba,,,Rowlands 1965
+119,126A,Balanced,'When' Clauses,Yoruba,,,Rowlands 1965
+120,127A,Balanced,Reason Clauses,Yoruba,,,Rowlands 1965
+121,128A,Balanced,Utterance Complement Clauses,Yoruba,,,Rowlands 1965
+122,131A,Pure vigesimal,Numeral Bases,Yoruba,,,Rowlands 1969
+123,136A,No M-T pronouns,M-T Pronouns,Yoruba,,,Awobuluyi 1978
+124,136B,m in first person singular,M in First Person Singular,Yoruba,,,Awobuluyi 1978
+125,137A,No N-M pronouns,N-M Pronouns,Yoruba,,,Awobuluyi 1978
+126,137B,No m in second person singular,M in Second Person Singular,Yoruba,,,Awobuluyi 1978
+127,138A,Words derived from Min Nan Chinese te,Tea,Yoruba,,,Malherbe and Rosenberg 1996
+128,142A,Affective meanings,Para-Linguistic Usages of Clicks,Yoruba,,,
+129,143A,NegV,Order of Negative Morpheme and Verb,Yoruba,,,Bamgbose 1966
+130,143E,NegV,Preverbal Negative Morphemes,Yoruba,,,Bamgbose 1966
+131,143F,None,Postverbal Negative Morphemes,Yoruba,,,Bamgbose 1966
+132,143G,None,Minor morphological means of signaling negation,Yoruba,,,Bamgbose 1966
+133,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Yoruba,,,Bamgbose 1966
+134,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yoruba,,,Bamgbose 1966
+135,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Yoruba,,,Bamgbose 1966
+136,144H,No NegSVO,NegSVO Order,Yoruba,,,Bamgbose 1966
+137,144I,Word&NoDoubleNeg,SNegVO Order,Yoruba,,,Bamgbose 1966
+138,144J,No SVNegO,SVNegO Order,Yoruba,,,Bamgbose 1966
+139,144K,No SVONeg,SVONeg Order,Yoruba,,,Bamgbose 1966

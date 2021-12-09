@@ -1,0 +1,65 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Tera,,,Newman 1970
+1,2A,Average (5-6),Vowel Quality Inventories,Tera,,,Newman 1970
+2,3A,High,Consonant-Vowel Ratio,Tera,,,Newman 1970
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Tera,,,Newman 1970
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Tera,,,Newman 1970
+5,6A,None,Uvular Consonants,Tera,,,Newman 1970
+6,7A,Implosives only,Glottalized Consonants,Tera,,,Newman 1970
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Tera,,,Newman 1970
+8,11A,None,Front Rounded Vowels,Tera,,,Newman 1970
+9,12A,Moderately complex,Syllable Structure,Tera,,,Newman 1970
+10,13A,Complex tone system,Tone,Tera,,,Newman 1970
+11,18A,All present,Absence of Common Consonants,Tera,,,Newman 1970
+12,19A,None,Presence of Uncommon Consonants,Tera,,,Newman 1970
+13,20A,Exclusively isolating,Fusion of Selected Inflectional Formatives,Tera,,,Newman 1970
+14,21A,No case,Exponence of Selected Inflectional Formatives,Tera,,,Newman 1970
+15,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Tera,,,Newman 1970
+16,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tera,,,Newman 1970
+17,33A,Plural clitic,Coding of Nominal Plurality,Tera,,,Newman 1970
+18,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tera,,,Newman 1970
+19,52A,Identity,Comitatives and Instrumentals,Tera,,,Stolz 1996
+20,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tera,,,Newman 1970
+21,58A,Absent,Obligatory Possessive Inflection,Tera,,,Newman 1970
+22,58B,None reported,Number of Possessive Nouns,Tera,,,Newman 1970
+23,59A,Two classes,Possessive Classification,Tera,,,Newman 1970
+24,63A,'And' identical to 'with',Noun Phrase Conjunction,Tera,,,Newman 1970
+25,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Tera,,,Newman 1970
+26,70A,Second singular and second plural,The Morphological Imperative,Tera,,,Newman 1970
+27,71A,Special imperative + normal negative,The Prohibitive,Tera,,,Newman 1970
+28,81A,SVO,"Order of Subject, Object and Verb",Tera,,,Newman 1970
+29,82A,SV,Order of Subject and Verb,Tera,,,Newman 1970
+30,83A,VO,Order of Object and Verb,Tera,,,Newman 1970
+31,84A,VOX,"Order of Object, Oblique, and Verb",Tera,,,Newman 1970
+32,85A,Prepositions,Order of Adposition and Noun Phrase,Tera,,,Newman 1970
+33,86A,Noun-Genitive,Order of Genitive and Noun,Tera,,,Newman 1970
+34,87A,Noun-Adjective,Order of Adjective and Noun,Tera,,,Newman 1970
+35,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tera,,,Newman 1970
+36,89A,Noun-Numeral,Order of Numeral and Noun,Tera,,,Newman 1970
+37,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tera,,,Newman 1970
+38,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tera,,,Newman 1970
+39,92A,Final,Position of Polar Question Particles,Tera,,,Newman 1970
+40,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tera,,,Newman 1970
+41,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tera,,,Newman 1970
+42,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tera,,,
+43,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tera,,,
+44,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tera,,,
+45,112A,Negative particle,Negative Morphemes,Tera,,,Newman 1970
+46,113A,Both,Symmetric and Asymmetric Standard Negation,Tera,,,Newman 1970
+47,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Tera,,,Newman 1970
+48,116A,Question particle,Polar Questions,Tera,,,Newman 1970
+49,117A,Conjunctional,Predicative Possession,Tera,,,Newman 1970
+50,142A,Affective meanings,Para-Linguistic Usages of Clicks,Tera,,,
+51,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Tera,,,Newman 1970
+52,143C,(Neg)VNeg,Optional Double Negation,Tera,,,Newman 1970
+53,143E,NegV,Preverbal Negative Morphemes,Tera,,,Newman 1970
+54,143F,VNeg,Postverbal Negative Morphemes,Tera,,,Newman 1970
+55,143G,None,Minor morphological means of signaling negation,Tera,,,Newman 1970
+56,144A,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tera,,,Newman 1970
+57,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tera,,,Newman 1970
+58,144D,OptNeg,The Position of Negative Morphemes in SVO Languages,Tera,,,Newman 1970
+59,144G,S(Neg)VONeg,Optional Double Negation in SVO languages,Tera,,,Newman 1970
+60,144H,No NegSVO,NegSVO Order,Tera,,,Newman 1970
+61,144I,Word&OnlyWithAnotherNeg,SNegVO Order,Tera,,,Newman 1970
+62,144J,No SVNegO,SVNegO Order,Tera,,,Newman 1970
+63,144K,OptDoubleNeg,SVONeg Order,Tera,,,Newman 1970

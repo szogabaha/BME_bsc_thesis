@@ -1,0 +1,14 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,51A,No case affixes or adpositional clitics,Position of Case Affixes,Simeulue,,,Kahler 1963
+1,55A,Obligatory,Numeral Classifiers,Simeulue,,,Abdullah Faridan et al. 1983
+2,82A,VS,Order of Subject and Verb,Simeulue,,,Kahler 1963
+3,83A,VO,Order of Object and Verb,Simeulue,,,Kahler 1963
+4,85A,Prepositions,Order of Adposition and Noun Phrase,Simeulue,,,Kahler 1963
+5,86A,Noun-Genitive,Order of Genitive and Noun,Simeulue,,,Kahler 1963
+6,87A,Noun-Adjective,Order of Adjective and Noun,Simeulue,,,Kahler 1963
+7,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Simeulue,,,Kahler 1963
+8,91A,Adjective-Degree word,Order of Degree Word and Adjective,Simeulue,,,Kahler 1963
+9,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Simeulue,,,Kahler 1963
+10,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Simeulue,,,
+11,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Simeulue,,,
+12,112A,Negative particle,Negative Morphemes,Simeulue,,,Kahler 1963

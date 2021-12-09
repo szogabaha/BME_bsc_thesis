@@ -1,0 +1,25 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,10A,Contrast absent,Vowel Nasalization,Xasonga,,,Koite-Herschel 1981-1982
+1,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Xasonga,,,Koite-Herschel 1981-1982
+2,33A,Plural suffix,Coding of Nominal Plurality,Xasonga,,,Koite-Herschel 1981-1982
+3,38A,"No indefinite, but definite article",Indefinite Articles,Xasonga,,,Koite-Herschel 1981-1982
+4,51A,No case affixes or adpositional clitics,Position of Case Affixes,Xasonga,,,Koite-Herschel 1981-1982
+5,81A,SOV,"Order of Subject, Object and Verb",Xasonga,,,Koite-Herschel 1981-1982
+6,82A,SV,Order of Subject and Verb,Xasonga,,,Koite-Herschel 1981-1982
+7,83A,OV,Order of Object and Verb,Xasonga,,,Koite-Herschel 1981-1982
+8,84A,OVX,"Order of Object, Oblique, and Verb",Xasonga,,,Koite-Herschel 1981-1982
+9,85A,Postpositions,Order of Adposition and Noun Phrase,Xasonga,,,Koite-Herschel 1981-1982
+10,86A,Genitive-Noun,Order of Genitive and Noun,Xasonga,,,Koite-Herschel 1981-1982
+11,87A,Noun-Adjective,Order of Adjective and Noun,Xasonga,,,Koite-Herschel 1981-1982
+12,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Xasonga,,,Koite-Herschel 1981-1982
+13,89A,Noun-Numeral,Order of Numeral and Noun,Xasonga,,,Koite-Herschel 1981-1982
+14,90A,Mixed,Order of Relative Clause and Noun,Xasonga,,,Koite-Herschel 1981-1982
+15,90E,Correlative or adjoined,Correlative relative clauses,Xasonga,,,Koite-Herschel 1981-1982
+16,90F,Adjoined or correlative,Adjoined relative clauses,Xasonga,,,Koite-Herschel 1981-1982
+17,92A,In either of two positions,Position of Polar Question Particles,Xasonga,,,Koite-Herschel 1981-1982
+18,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Xasonga,,,Koite-Herschel 1981-1982
+19,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Xasonga,,,Koite-Herschel 1981-1982
+20,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Xasonga,,,
+21,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Xasonga,,,
+22,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Xasonga,,,
+23,116A,Question particle,Polar Questions,Xasonga,,,Koite-Herschel 1981-1982

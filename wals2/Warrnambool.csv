@@ -1,0 +1,20 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Warrnambool,,,Blake 2003
+1,51A,Case suffixes,Position of Case Affixes,Warrnambool,,,Blake 2003
+2,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Warrnambool,,,Blake 2003
+3,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Warrnambool,,,Blake 2003
+4,82A,VS,Order of Subject and Verb,Warrnambool,,,Blake 2003
+5,83A,VO,Order of Object and Verb,Warrnambool,,,Blake 2003
+6,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Warrnambool,,,Blake 2003
+7,101A,Subject clitics on variable host,Expression of Pronominal Subjects,Warrnambool,,,Blake 2003
+8,112A,Negative particle,Negative Morphemes,Warrnambool,,,Blake 2003
+9,143A,NegV,Order of Negative Morpheme and Verb,Warrnambool,,,Blake 2003
+10,143E,NegV,Preverbal Negative Morphemes,Warrnambool,,,Blake 2003
+11,143F,None,Postverbal Negative Morphemes,Warrnambool,,,Blake 2003
+12,143G,None,Minor morphological means of signaling negation,Warrnambool,,,Blake 2003
+13,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Warrnambool,,,Blake 2003
+14,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Warrnambool,,,Blake 2003
+15,144T,NegV & VS & VO,The Position of Negative Morphemes in Verb-Initial Languages,Warrnambool,,,Blake 2003
+16,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Warrnambool,,,Blake 2003
+17,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Warrnambool,,,Blake 2003
+18,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Warrnambool,,,Blake 2003

@@ -1,0 +1,16 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,37A,No definite or indefinite article,Definite Articles,Worora,,,Love 2000
+1,38A,No definite or indefinite article,Indefinite Articles,Worora,,,Love 2000
+2,55A,Absent,Numeral Classifiers,Worora,,,Love 2000
+3,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Worora,,,Love 2000
+4,65A,Grammatical marking,Perfective/Imperfective Aspect,Worora,,,Bybee et al. 1994
+5,66A,"Present, no remoteness distinctions",The Past Tense,Worora,,,Bybee et al. 1994
+6,67A,No inflectional future,The Future Tense,Worora,,,Bybee et al. 1994
+7,68A,No perfect,The Perfect,Worora,,,Bybee et al. 1994
+8,85A,Postpositions,Order of Adposition and Noun Phrase,Worora,,,Love 2000
+9,91A,Adjective-Degree word,Order of Degree Word and Adjective,Worora,,,Love 2000
+10,112A,Negative particle,Negative Morphemes,Worora,,,Love 2000
+11,143A,NegV,Order of Negative Morpheme and Verb,Worora,,,Love 2000
+12,143E,NegV,Preverbal Negative Morphemes,Worora,,,Love 2000
+13,143F,None,Postverbal Negative Morphemes,Worora,,,Love 2000
+14,143G,None,Minor morphological means of signaling negation,Worora,,,Love 2000

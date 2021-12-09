@@ -1,0 +1,23 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wedau,,,King 1901a
+1,33A,Plural prefix,Coding of Nominal Plurality,Wedau,,,King 1901a
+2,51A,Case suffixes,Position of Case Affixes,Wedau,,,King 1901a
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Wedau,,,King 1901a
+4,81A,SOV,"Order of Subject, Object and Verb",Wedau,,,King 1901a
+5,82A,SV,Order of Subject and Verb,Wedau,,,King 1901a
+6,83A,OV,Order of Object and Verb,Wedau,,,King 1901a
+7,85A,No dominant order,Order of Adposition and Noun Phrase,Wedau,,,King 1901a
+8,86A,Genitive-Noun,Order of Genitive and Noun,Wedau,,,King 1901a
+9,87A,Noun-Adjective,Order of Adjective and Noun,Wedau,,,King 1901a
+10,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wedau,,,King 1901a
+11,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wedau,,,King 1901a
+12,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wedau,,,
+13,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wedau,,,
+14,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Wedau,,,King 1901a
+15,143A,NegV,Order of Negative Morpheme and Verb,Wedau,,,King 1901a
+16,143E,NegV,Preverbal Negative Morphemes,Wedau,,,King 1901a
+17,143F,None,Postverbal Negative Morphemes,Wedau,,,King 1901a
+18,143G,None,Minor morphological means of signaling negation,Wedau,,,King 1901a
+19,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Wedau,,,King 1901a
+20,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Wedau,,,King 1901a
+21,144S,NoSOVNeg,SOVNeg Order,Wedau,,,King 1901a

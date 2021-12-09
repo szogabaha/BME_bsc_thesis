@@ -1,0 +1,71 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No velar nasal,The Velar Nasal,Tinrin,,,Osumi 1995
+1,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Tinrin,,,Osumi 1995
+2,27A,Productive full and partial reduplication,Reduplication,Tinrin,,,Osumi 1995
+3,33A,Plural word,Coding of Nominal Plurality,Tinrin,,,Osumi 1995
+4,34A,"Only human nouns, obligatory",Occurrence of Nominal Plurality,Tinrin,,,Osumi 1995
+5,35A,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Tinrin,,,Osumi 1995
+6,37A,Definite word distinct from demonstrative,Definite Articles,Tinrin,,,Osumi 1995
+7,38A,"No indefinite, but definite article",Indefinite Articles,Tinrin,,,Osumi 1995
+8,41A,Three-way contrast,Distance Contrasts in Demonstratives,Tinrin,,,Osumi 1995
+9,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tinrin,,,Osumi 1995
+10,48A,No person marking,Person Marking on Adpositions,Tinrin,,,Osumi 1995
+11,49A,No morphological case-marking,Number of Cases,Tinrin,,,Osumi 1995
+12,50A,No case-marking,Asymmetrical Case-Marking,Tinrin,,,Osumi 1995
+13,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tinrin,,,Osumi 1995
+14,52A,Differentiation,Comitatives and Instrumentals,Tinrin,,,Osumi 1995
+15,53A,"One-th, two-th, three-th",Ordinal Numerals,Tinrin,,,Osumi 1995
+16,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tinrin,,,Osumi 1995
+17,64A,Identity,Nominal and Verbal Conjunction,Tinrin,,,Osumi 1995
+18,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Tinrin,,,Osumi 1995
+19,70A,No second-person imperatives,The Morphological Imperative,Tinrin,,,Osumi 1995
+20,71A,Normal imperative + special negative,The Prohibitive,Tinrin,,,Osumi 1995
+21,75A,Other,Epistemic Possibility,Tinrin,,,Osumi 1995
+22,81A,No dominant order,"Order of Subject, Object and Verb",Tinrin,,,Osumi 1995
+23,81B,SVO or VOS,"Languages with two Dominant Orders of Subject, Object, and Verb",Tinrin,,,Osumi 1995
+24,82A,No dominant order,Order of Subject and Verb,Tinrin,,,Osumi 1995
+25,83A,VO,Order of Object and Verb,Tinrin,,,Osumi 1995
+26,84A,No dominant order,"Order of Object, Oblique, and Verb",Tinrin,,,Osumi 1995
+27,85A,Prepositions,Order of Adposition and Noun Phrase,Tinrin,,,Osumi 1995
+28,86A,Noun-Genitive,Order of Genitive and Noun,Tinrin,,,Osumi 1995
+29,87A,Adjective-Noun,Order of Adjective and Noun,Tinrin,,,Osumi 1995
+30,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tinrin,,,Osumi 1995
+31,89A,Numeral-Noun,Order of Numeral and Noun,Tinrin,,,Osumi 1995
+32,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tinrin,,,Osumi 1995
+33,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tinrin,,,Osumi 1995
+34,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tinrin,,,Osumi 1995
+35,92A,Other position,Position of Polar Question Particles,Tinrin,,,Osumi 1995
+36,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tinrin,,,Osumi 1995
+37,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tinrin,,,Osumi 1995
+38,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tinrin,,,
+39,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tinrin,,,
+40,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tinrin,,,
+41,100A,Accusative,Alignment of Verbal Person Marking,Tinrin,,,Osumi 1995
+42,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Tinrin,,,Osumi 1995
+43,102A,Only the A argument,Verbal Person Marking,Tinrin,,,Osumi 1995
+44,103A,No zero realization,Third Person Zero of Verbal Person Marking,Tinrin,,,Osumi 1995
+45,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Tinrin,,,Osumi 1995
+46,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Tinrin,,,Osumi 1995
+47,107A,Present,Passive Constructions,Tinrin,,,Osumi 1995
+48,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Tinrin,,,Osumi 1995
+49,116A,Question particle,Polar Questions,Tinrin,,,Osumi 1995
+50,117A,Genitive,Predicative Possession,Tinrin,,,Osumi 1995
+51,125A,Balanced,Purpose Clauses,Tinrin,,,Osumi 1995
+52,126A,Balanced,'When' Clauses,Tinrin,,,Osumi 1995
+53,127A,Balanced,Reason Clauses,Tinrin,,,Osumi 1995
+54,143A,NegV,Order of Negative Morpheme and Verb,Tinrin,,,Osumi 1995
+55,143E,NegV,Preverbal Negative Morphemes,Tinrin,,,Osumi 1995
+56,143F,None,Postverbal Negative Morphemes,Tinrin,,,Osumi 1995
+57,143G,None,Minor morphological means of signaling negation,Tinrin,,,Osumi 1995
+58,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Tinrin,,,Osumi 1995
+59,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tinrin,,,Osumi 1995
+60,144D,More than one construction,The Position of Negative Morphemes in SVO Languages,Tinrin,,,Osumi 1995
+61,144E,SNegVO/NegVOS,Multiple Negative Constructions in SVO Languages,Tinrin,,,Osumi 1995
+62,144H,No NegSVO,NegSVO Order,Tinrin,,,Osumi 1995
+63,144I,Word&NoDoubleNeg,SNegVO Order,Tinrin,,,Osumi 1995
+64,144J,No SVNegO,SVNegO Order,Tinrin,,,Osumi 1995
+65,144K,No SVONeg,SVONeg Order,Tinrin,,,Osumi 1995
+66,144T,NegVOS/SNegVO,The Position of Negative Morphemes in Verb-Initial Languages,Tinrin,,,Osumi 1995
+67,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tinrin,,,Osumi 1995
+68,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tinrin,,,Osumi 1995
+69,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tinrin,,,Osumi 1995

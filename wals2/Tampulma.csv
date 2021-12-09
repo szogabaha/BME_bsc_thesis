@@ -1,0 +1,14 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Tampulma,,,Bergman et al. 1969
+1,2A,Large (7-14),Vowel Quality Inventories,Tampulma,,,Bergman et al. 1969
+2,3A,Moderately low,Consonant-Vowel Ratio,Tampulma,,,Bergman et al. 1969
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Tampulma,,,Bergman et al. 1969
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Tampulma,,,Bergman et al. 1969
+5,6A,None,Uvular Consonants,Tampulma,,,Bergman et al. 1969
+6,7A,No glottalized consonants,Glottalized Consonants,Tampulma,,,Bergman et al. 1969
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tampulma,,,Bergman et al. 1969
+8,11A,None,Front Rounded Vowels,Tampulma,,,Bergman et al. 1969
+9,12A,Complex,Syllable Structure,Tampulma,,,Bergman et al. 1969
+10,13A,Simple tone system,Tone,Tampulma,,,Bergman et al. 1969
+11,18A,All present,Absence of Common Consonants,Tampulma,,,Bergman et al. 1969
+12,19A,Labial-velars,Presence of Uncommon Consonants,Tampulma,,,Bergman et al. 1969

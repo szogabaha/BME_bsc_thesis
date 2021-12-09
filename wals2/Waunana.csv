@@ -1,0 +1,21 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Waunana,,,Loewen 1954
+1,33A,Plural suffix,Coding of Nominal Plurality,Waunana,,,Loewen 1954
+2,51A,Case suffixes,Position of Case Affixes,Waunana,,,Loewen 1954
+3,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Waunana,,,Loewen 1954
+4,70A,Second singular and second plural,The Morphological Imperative,Waunana,,,Sanchez et al. 1977
+5,71A,Normal imperative + special negative,The Prohibitive,Waunana,,,Sanchez et al. 1977
+6,72A,Neither type of system,Imperative-Hortative Systems,Waunana,,,Sanchez et al. 1977
+7,82A,SV,Order of Subject and Verb,Waunana,,,Loewen 1954
+8,83A,OV,Order of Object and Verb,Waunana,,,Loewen 1954
+9,94A,Mixed,Order of Adverbial Subordinator and Clause,Waunana,,,Loewen 1954
+10,112A,Negative affix,Negative Morphemes,Waunana,,,Loewen 1954
+11,118A,Nonverbal encoding,Predicative Adjectives,Waunana,,,Sanchez et al. 1977
+12,119A,Identical,Nominal and Locational Predication,Waunana,,,Sanchez et al. 1977
+13,120A,Impossible,Zero Copula for Predicate Nominals,Waunana,,,Sanchez et al. 1977
+14,143A,[V-Neg],Order of Negative Morpheme and Verb,Waunana,,,Loewen 1954
+15,143E,None,Preverbal Negative Morphemes,Waunana,,,Loewen 1954
+16,143F,[V-Neg],Postverbal Negative Morphemes,Waunana,,,Loewen 1954
+17,143G,None,Minor morphological means of signaling negation,Waunana,,,Loewen 1954
+18,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Waunana,,,Loewen 1954
+19,144L,SV&OV&[V-Neg],The Position of Negative Morphemes in SOV Languages,Waunana,,,Loewen 1954

@@ -1,0 +1,36 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No initial velar nasal,The Velar Nasal,Uyghur,,,Comrie 1997b
+1,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Uyghur,,,Hahn 1998
+2,27A,Productive full and partial reduplication,Reduplication,Uyghur,,,Dwyer 2001
+3,33A,Plural suffix,Coding of Nominal Plurality,Uyghur,,,Hahn 1998
+4,36A,Associative same as additive plural,The Associative Plural,Uyghur,,,Nadzhip 1960
+5,51A,Case suffixes,Position of Case Affixes,Uyghur,,,Hahn 1998
+6,53A,"One-th, two-th, three-th",Ordinal Numerals,Uyghur,,,Hahn 1991
+7,54A,Marked by suffix,Distributive Numerals,Uyghur,,,Nadzhip 1960
+8,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Uyghur,,,Hahn 1998
+9,65A,Grammatical marking,Perfective/Imperfective Aspect,Uyghur,,,Bybee et al. 1994
+10,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Uyghur,,,Bybee et al. 1994
+11,67A,No inflectional future,The Future Tense,Uyghur,,,Bybee et al. 1994
+12,68A,Other perfect,The Perfect,Uyghur,,,Bybee et al. 1994
+13,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Uyghur,,,Hahn 1998
+14,81A,SOV,"Order of Subject, Object and Verb",Uyghur,,,Hahn 1998
+15,82A,SV,Order of Subject and Verb,Uyghur,,,Hahn 1998
+16,83A,OV,Order of Object and Verb,Uyghur,,,Hahn 1998
+17,87A,Adjective-Noun,Order of Adjective and Noun,Uyghur,,,Hahn 1998
+18,90A,Relative clause-Noun,Order of Relative Clause and Noun,Uyghur,,,Hahn 1998
+19,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Uyghur,,,Hahn 1998
+20,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Uyghur,,,
+21,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Uyghur,,,
+22,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Uyghur,,,Hahn 1998
+23,112A,Negative affix,Negative Morphemes,Uyghur,,,Hahn 1998
+24,138A,Words derived from Sinitic cha,Tea,Uyghur,,,Malherbe and Rosenberg 1996
+25,143A,[V-Neg],Order of Negative Morpheme and Verb,Uyghur,,,Hahn 1998
+26,143E,None,Preverbal Negative Morphemes,Uyghur,,,Hahn 1998
+27,143F,[V-Neg],Postverbal Negative Morphemes,Uyghur,,,Hahn 1998
+28,143G,None,Minor morphological means of signaling negation,Uyghur,,,Hahn 1998
+29,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Uyghur,,,Hahn 1998
+30,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Uyghur,,,Hahn 1998
+31,144P,No NegSOV,NegSOV Order,Uyghur,,,Hahn 1998
+32,144Q,No SNegOV,SNegOV Order,Uyghur,,,Hahn 1998
+33,144R,No SONegV,SONegV Order,Uyghur,,,Hahn 1998
+34,144S,Suffix&NoDoubleNeg,SOVNeg Order,Uyghur,,,Hahn 1998

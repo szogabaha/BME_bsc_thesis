@@ -1,0 +1,109 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Urubú-Kaapor,,,Kakumasu 1986
+1,2A,Average (5-6),Vowel Quality Inventories,Urubú-Kaapor,,,Kakumasu 1986
+2,3A,Moderately low,Consonant-Vowel Ratio,Urubú-Kaapor,,,Kakumasu 1986
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Urubú-Kaapor,,,Kakumasu 1986
+4,5A,Other,Voicing and Gaps in Plosive Systems,Urubú-Kaapor,,,Kakumasu 1986
+5,6A,None,Uvular Consonants,Urubú-Kaapor,,,Kakumasu 1986
+6,7A,No glottalized consonants,Glottalized Consonants,Urubú-Kaapor,,,Kakumasu 1986
+7,8A,No laterals,Lateral Consonants,Urubú-Kaapor,,,Kakumasu 1986
+8,9A,No initial velar nasal,The Velar Nasal,Urubú-Kaapor,,,Kakumasu 1986
+9,10A,Contrast present,Vowel Nasalization,Urubú-Kaapor,,,Kakumasu 1986
+10,11A,None,Front Rounded Vowels,Urubú-Kaapor,,,Kakumasu 1986
+11,12A,Moderately complex,Syllable Structure,Urubú-Kaapor,,,Kakumasu 1986
+12,13A,No tones,Tone,Urubú-Kaapor,,,Kakumasu 1986
+13,14A,Ultimate,Fixed Stress Locations,Urubú-Kaapor,,,Kakumasu 1986
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Urubú-Kaapor,,,Kakumasu 1986
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Urubú-Kaapor,,,Kakumasu 1986
+16,17A,Iambic,Rhythm Types,Urubú-Kaapor,,,Kakumasu 1986
+17,18A,All present,Absence of Common Consonants,Urubú-Kaapor,,,Kakumasu 1986
+18,19A,None,Presence of Uncommon Consonants,Urubú-Kaapor,,,Kakumasu 1986
+19,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Urubú-Kaapor,,,Kakumasu 1986
+20,28A,No case marking,Case Syncretism,Urubú-Kaapor,,,Kakumasu 1986
+21,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Urubú-Kaapor,,,Kakumasu 1986
+22,30A,None,Number of Genders,Urubú-Kaapor,,,Kakumasu 1986
+23,31A,No gender,Sex-based and Non-sex-based Gender Systems,Urubú-Kaapor,,,Kakumasu 1986
+24,32A,No gender,Systems of Gender Assignment,Urubú-Kaapor,,,Kakumasu 1986
+25,33A,Plural suffix,Coding of Nominal Plurality,Urubú-Kaapor,,,Kakumasu 1986
+26,35A,Person-number stem,Plurality in Independent Personal Pronouns,Urubú-Kaapor,,,Kakumasu 1986
+27,36A,Associative same as additive plural,The Associative Plural,Urubú-Kaapor,,,Kakumasu 1986
+28,37A,No definite or indefinite article,Definite Articles,Urubú-Kaapor,,,Kakumasu 1986
+29,38A,No definite or indefinite article,Indefinite Articles,Urubú-Kaapor,,,Kakumasu 1986
+30,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Urubú-Kaapor,,,Kakumasu 1986
+31,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Urubú-Kaapor,,,Kakumasu 1986
+32,41A,Three-way contrast,Distance Contrasts in Demonstratives,Urubú-Kaapor,,,Kakumasu 1986
+33,42A,Identical,Pronominal and Adnominal Demonstratives,Urubú-Kaapor,,,Kakumasu 1986
+34,43A,Unrelated,Third Person Pronouns and Demonstratives,Urubú-Kaapor,,,Kakumasu 1986
+35,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Urubú-Kaapor,,,Kakumasu 1986
+36,46A,Mixed,Indefinite Pronouns,Urubú-Kaapor,,,Kakumasu 1986
+37,47A,Differentiated,Intensifiers and Reflexive Pronouns,Urubú-Kaapor,,,Kakumasu 1986
+38,48A,Pronouns only,Person Marking on Adpositions,Urubú-Kaapor,,,Kakumasu 1986
+39,49A,No morphological case-marking,Number of Cases,Urubú-Kaapor,,,Kakumasu 1986
+40,50A,No case-marking,Asymmetrical Case-Marking,Urubú-Kaapor,,,Kakumasu 1986
+41,52A,Differentiation,Comitatives and Instrumentals,Urubú-Kaapor,,,Stolz 1996
+42,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Urubú-Kaapor,,,Kakumasu 1986
+43,63A,'And' identical to 'with',Noun Phrase Conjunction,Urubú-Kaapor,,,Kakumasu 1986
+44,64A,Differentiation,Nominal and Verbal Conjunction,Urubú-Kaapor,,,Kakumasu 1986
+45,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Urubú-Kaapor,,,Kakumasu 1986
+46,70A,Second singular,The Morphological Imperative,Urubú-Kaapor,,,Kakumasu 1986
+47,71A,Normal imperative + normal negative,The Prohibitive,Urubú-Kaapor,,,Kakumasu 1986
+48,72A,Neither type of system,Imperative-Hortative Systems,Urubú-Kaapor,,,Kakumasu 1986
+49,73A,Inflectional optative absent,The Optative,Urubú-Kaapor,,,Kakumasu 1986
+50,75A,Other,Epistemic Possibility,Urubú-Kaapor,,,Kakumasu 1986
+51,77A,Indirect only,Semantic Distinctions of Evidentiality,Urubú-Kaapor,,,Kakumasu 1986
+52,78A,Separate particle,Coding of Evidentiality,Urubú-Kaapor,,,Kakumasu 1986
+53,81A,SOV,"Order of Subject, Object and Verb",Urubú-Kaapor,,,Kakumasu 1986
+54,82A,SV,Order of Subject and Verb,Urubú-Kaapor,,,Kakumasu 1986
+55,83A,OV,Order of Object and Verb,Urubú-Kaapor,,,Kakumasu 1986
+56,84A,No dominant order,"Order of Object, Oblique, and Verb",Urubú-Kaapor,,,Kakumasu 1986
+57,85A,Postpositions,Order of Adposition and Noun Phrase,Urubú-Kaapor,,,Kakumasu 1986
+58,86A,Genitive-Noun,Order of Genitive and Noun,Urubú-Kaapor,,,Kakumasu 1986
+59,87A,Noun-Adjective,Order of Adjective and Noun,Urubú-Kaapor,,,Kakumasu 1986
+60,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Urubú-Kaapor,,,Kakumasu 1986
+61,89A,Numeral-Noun,Order of Numeral and Noun,Urubú-Kaapor,,,Kakumasu 1986
+62,91A,Adjective-Degree word,Order of Degree Word and Adjective,Urubú-Kaapor,,,Kakumasu 1986
+63,92A,Final,Position of Polar Question Particles,Urubú-Kaapor,,,Kakumasu 1986
+64,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Urubú-Kaapor,,,Kakumasu 1986
+65,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Urubú-Kaapor,,,Kakumasu 1986
+66,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Urubú-Kaapor,,,
+67,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Urubú-Kaapor,,,
+68,98A,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Urubú-Kaapor,,,Kakumasu 1986
+69,99A,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Urubú-Kaapor,,,Kakumasu 1986
+70,100A,Accusative,Alignment of Verbal Person Marking,Urubú-Kaapor,,,Kakumasu 1986
+71,101A,Subject affixes on verb,Expression of Pronominal Subjects,Urubú-Kaapor,,,Kakumasu 1986
+72,102A,Only the A argument,Verbal Person Marking,Urubú-Kaapor,,,Kakumasu 1986
+73,103A,Zero in some 3sg forms,Third Person Zero of Verbal Person Marking,Urubú-Kaapor,,,Kakumasu 1986
+74,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Urubú-Kaapor,,,Kakumasu 1986
+75,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Urubú-Kaapor,,,Kakumasu 1986
+76,107A,Absent,Passive Constructions,Urubú-Kaapor,,,Kakumasu 1986
+77,109A,Benefactive and other; both bases,Applicative Constructions,Urubú-Kaapor,,,Kakumasu 1986
+78,109B,Instrument,Other Roles of Applied Objects,Urubú-Kaapor,,,
+79,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Urubú-Kaapor,,,Kakumasu 1986
+80,112A,Negative particle,Negative Morphemes,Urubú-Kaapor,,,Kakumasu 1986
+81,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Urubú-Kaapor,,,Kakumasu 1986
+82,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Urubú-Kaapor,,,Kakumasu 1986
+83,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Urubú-Kaapor,,,Kakumasu 1986
+84,116A,Question particle,Polar Questions,Urubú-Kaapor,,,Kakumasu 1986
+85,117A,Topic,Predicative Possession,Urubú-Kaapor,,,Kakumasu 1986
+86,118A,Verbal encoding,Predicative Adjectives,Urubú-Kaapor,,,Kakumasu 1986
+87,119A,Different,Nominal and Locational Predication,Urubú-Kaapor,,,Kakumasu 1986
+88,120A,Possible,Zero Copula for Predicate Nominals,Urubú-Kaapor,,,Kakumasu 1986
+89,121A,Conjoined,Comparative Constructions,Urubú-Kaapor,,,Kakumasu 1986
+90,124A,Desiderative particle,'Want' Complement Subjects,Urubú-Kaapor,,,Kakumasu 1986
+91,126A,Balanced,'When' Clauses,Urubú-Kaapor,,,Kakumasu 1986
+92,127A,Balanced,Reason Clauses,Urubú-Kaapor,,,Kakumasu 1986
+93,128A,Balanced,Utterance Complement Clauses,Urubú-Kaapor,,,Kakumasu 1986
+94,129A,Different,Hand and Arm,Urubú-Kaapor,,,Kakumasu and Kakumasu 1988
+95,130A,Identical,Finger and Hand,Urubú-Kaapor,,,Kakumasu and Kakumasu 1988
+96,130B,Farmer-foragers,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',Urubú-Kaapor,,,
+97,143A,VNeg,Order of Negative Morpheme and Verb,Urubú-Kaapor,,,Kakumasu 1986
+98,143E,None,Preverbal Negative Morphemes,Urubú-Kaapor,,,Kakumasu 1986
+99,143F,VNeg,Postverbal Negative Morphemes,Urubú-Kaapor,,,Kakumasu 1986
+100,143G,None,Minor morphological means of signaling negation,Urubú-Kaapor,,,Kakumasu 1986
+101,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Urubú-Kaapor,,,Kakumasu 1986
+102,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Urubú-Kaapor,,,Kakumasu 1986
+103,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Urubú-Kaapor,,,Kakumasu 1986
+104,144P,No NegSOV,NegSOV Order,Urubú-Kaapor,,,Kakumasu 1986
+105,144Q,No SNegOV,SNegOV Order,Urubú-Kaapor,,,Kakumasu 1986
+106,144R,No SONegV,SONegV Order,Urubú-Kaapor,,,Kakumasu 1986
+107,144S,Word&NoDoubleNeg,SOVNeg Order,Urubú-Kaapor,,,Kakumasu 1986

@@ -1,0 +1,47 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Penultimate,Fixed Stress Locations,Wambon,,,de Vries and de Vries-Wiersma 1992
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Wambon,,,de Vries and de Vries-Wiersma 1992
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Wambon,,,de Vries and de Vries-Wiersma 1992
+3,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wambon,,,de Vries 1989
+4,33A,Plural suffix,Coding of Nominal Plurality,Wambon,,,de Vries 1989
+5,37A,No definite or indefinite article,Definite Articles,Wambon,,,de Vries 1989
+6,38A,No definite or indefinite article,Indefinite Articles,Wambon,,,de Vries 1989
+7,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Wambon,,,de Vries 1989
+8,48A,No person marking,Person Marking on Adpositions,Wambon,,,de Vries 1989
+9,51A,Postpositional clitics,Position of Case Affixes,Wambon,,,de Vries 1989
+10,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Wambon,,,de Vries 1989
+11,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Wambon,,,de Vries 1989
+12,81A,SOV,"Order of Subject, Object and Verb",Wambon,,,de Vries 1989
+13,82A,SV,Order of Subject and Verb,Wambon,,,de Vries 1989
+14,83A,OV,Order of Object and Verb,Wambon,,,de Vries 1989
+15,85A,Postpositions,Order of Adposition and Noun Phrase,Wambon,,,de Vries 1989
+16,86A,Genitive-Noun,Order of Genitive and Noun,Wambon,,,de Vries 1989
+17,87A,Noun-Adjective,Order of Adjective and Noun,Wambon,,,de Vries 1989
+18,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wambon,,,de Vries 1989
+19,89A,No dominant order,Order of Numeral and Noun,Wambon,,,de Vries 1989
+20,90A,Mixed,Order of Relative Clause and Noun,Wambon,,,de Vries 1989
+21,90B,RelN or internally-headed,Prenominal relative clauses,Wambon,,,de Vries 1989
+22,90D,Internally-headed or RelN,Internally-headed relative clauses,Wambon,,,de Vries 1989
+23,91A,Adjective-Degree word,Order of Degree Word and Adjective,Wambon,,,de Vries 1989
+24,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wambon,,,de Vries 1989
+25,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Wambon,,,de Vries 1989
+26,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wambon,,,
+27,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wambon,,,
+28,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wambon,,,
+29,100A,Accusative,Alignment of Verbal Person Marking,Wambon,,,de Vries 1989
+30,102A,Only the A argument,Verbal Person Marking,Wambon,,,de Vries 1989
+31,103A,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Wambon,,,de Vries 1989
+32,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Wambon,,,de Vries 1989
+33,107A,Absent,Passive Constructions,Wambon,,,de Vries 1989
+34,112A,Negative affix,Negative Morphemes,Wambon,,,de Vries 1989
+35,116A,Question particle,Polar Questions,Wambon,,,de Vries 1989
+36,143A,[V-Neg],Order of Negative Morpheme and Verb,Wambon,,,de Vries 1989
+37,143E,None,Preverbal Negative Morphemes,Wambon,,,de Vries 1989
+38,143F,[V-Neg],Postverbal Negative Morphemes,Wambon,,,de Vries 1989
+39,143G,None,Minor morphological means of signaling negation,Wambon,,,de Vries 1989
+40,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Wambon,,,de Vries 1989
+41,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Wambon,,,de Vries 1989
+42,144P,No NegSOV,NegSOV Order,Wambon,,,de Vries 1989
+43,144Q,No SNegOV,SNegOV Order,Wambon,,,de Vries 1989
+44,144R,No SONegV,SONegV Order,Wambon,,,de Vries 1989
+45,144S,Suffix&NoDoubleNeg,SOVNeg Order,Wambon,,,de Vries 1989

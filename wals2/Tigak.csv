@@ -1,0 +1,72 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Tigak,,,Beaumont 1979
+1,2A,Average (5-6),Vowel Quality Inventories,Tigak,,,Beaumont 1979
+2,3A,Moderately low,Consonant-Vowel Ratio,Tigak,,,Beaumont 1979
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tigak,,,Beaumont 1979
+4,5A,Other,Voicing and Gaps in Plosive Systems,Tigak,,,Beaumont 1979
+5,6A,None,Uvular Consonants,Tigak,,,Beaumont 1979
+6,7A,No glottalized consonants,Glottalized Consonants,Tigak,,,Beaumont 1979
+7,8A,"No /l/, but lateral obstruents",Lateral Consonants,Tigak,,,Beaumont 1979
+8,11A,None,Front Rounded Vowels,Tigak,,,Beaumont 1979
+9,12A,Moderately complex,Syllable Structure,Tigak,,,Beaumont 1979
+10,13A,No tones,Tone,Tigak,,,Beaumont 1979
+11,14A,Initial,Fixed Stress Locations,Tigak,,,Beaumont 1979
+12,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tigak,,,Beaumont 1979
+13,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tigak,,,Beaumont 1979
+14,17A,No rhythmic stress,Rhythm Types,Tigak,,,Beaumont 1979
+15,18A,All present,Absence of Common Consonants,Tigak,,,Beaumont 1979
+16,19A,None,Presence of Uncommon Consonants,Tigak,,,Beaumont 1979
+17,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Tigak,,,Beaumont 1979
+18,27A,Productive full and partial reduplication,Reduplication,Tigak,,,Beaumont 1979
+19,33A,Plural word,Coding of Nominal Plurality,Tigak,,,Beaumont 1979
+20,37A,Definite word distinct from demonstrative,Definite Articles,Tigak,,,Beaumont 1979
+21,38A,Indefinite word distinct from 'one',Indefinite Articles,Tigak,,,Beaumont 1979
+22,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tigak,,,Beaumont 1979
+23,48A,Pronouns only,Person Marking on Adpositions,Tigak,,,Beaumont 1979
+24,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tigak,,,Beaumont 1979
+25,52A,Identity,Comitatives and Instrumentals,Tigak,,,Stolz 1996
+26,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tigak,,,Beaumont 1979
+27,63A,'And' different from 'with',Noun Phrase Conjunction,Tigak,,,Beaumont 1979
+28,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Tigak,,,Beaumont 1979
+29,81A,SVO,"Order of Subject, Object and Verb",Tigak,,,Beaumont 1979
+30,82A,SV,Order of Subject and Verb,Tigak,,,Beaumont 1979
+31,83A,VO,Order of Object and Verb,Tigak,,,Beaumont 1979
+32,84A,VOX,"Order of Object, Oblique, and Verb",Tigak,,,Beaumont 1979
+33,85A,Prepositions,Order of Adposition and Noun Phrase,Tigak,,,Beaumont 1979
+34,86A,Noun-Genitive,Order of Genitive and Noun,Tigak,,,Beaumont 1979
+35,87A,Noun-Adjective,Order of Adjective and Noun,Tigak,,,Beaumont 1979
+36,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tigak,,,Beaumont 1979
+37,89A,Numeral-Noun,Order of Numeral and Noun,Tigak,,,Beaumont 1979
+38,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tigak,,,Beaumont 1979
+39,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tigak,,,Beaumont 1979
+40,91A,Adjective-Degree word,Order of Degree Word and Adjective,Tigak,,,Beaumont 1979
+41,92A,Final,Position of Polar Question Particles,Tigak,,,Beaumont 1979
+42,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tigak,,,Beaumont 1979
+43,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tigak,,,Beaumont 1979
+44,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tigak,,,
+45,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tigak,,,
+46,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tigak,,,
+47,100A,Accusative,Alignment of Verbal Person Marking,Tigak,,,Beaumont 1979
+48,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Tigak,,,Beaumont 1979
+49,102A,Only the P argument,Verbal Person Marking,Tigak,,,Beaumont 1979
+50,103A,No person marking,Third Person Zero of Verbal Person Marking,Tigak,,,Beaumont 1979
+51,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Tigak,,,Beaumont 1979
+52,107A,Absent,Passive Constructions,Tigak,,,Beaumont 1979
+53,111A,Both,Nonperiphrastic Causative Constructions,Tigak,,,Beaumont 1979
+54,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Tigak,,,Beaumont 1979
+55,116A,Question particle,Polar Questions,Tigak,,,Beaumont 1979
+56,117A,'Have',Predicative Possession,Tigak,,,Beaumont 1979
+57,118A,Verbal encoding,Predicative Adjectives,Tigak,,,Beaumont 1979
+58,119A,Different,Nominal and Locational Predication,Tigak,,,Beaumont 1979
+59,120A,Possible,Zero Copula for Predicate Nominals,Tigak,,,Beaumont 1979
+60,143A,NegV,Order of Negative Morpheme and Verb,Tigak,,,Beaumont 1979
+61,143E,NegV,Preverbal Negative Morphemes,Tigak,,,Beaumont 1979
+62,143F,None,Postverbal Negative Morphemes,Tigak,,,Beaumont 1979
+63,143G,None,Minor morphological means of signaling negation,Tigak,,,Beaumont 1979
+64,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Tigak,,,Beaumont 1979
+65,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tigak,,,Beaumont 1979
+66,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Tigak,,,Beaumont 1979
+67,144H,No NegSVO,NegSVO Order,Tigak,,,Beaumont 1979
+68,144I,Word&NoDoubleNeg,SNegVO Order,Tigak,,,Beaumont 1979
+69,144J,No SVNegO,SVNegO Order,Tigak,,,Beaumont 1979
+70,144K,No SVONeg,SVONeg Order,Tigak,,,Beaumont 1979

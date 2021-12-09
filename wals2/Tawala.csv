@@ -1,0 +1,49 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Penultimate,Fixed Stress Locations,Tawala,,,Ezard 1991
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tawala,,,Ezard 1991
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tawala,,,Ezard 1991
+3,17A,Trochaic,Rhythm Types,Tawala,,,Ezard 1991
+4,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tawala,,,Ezard 1997
+5,37A,Definite word distinct from demonstrative,Definite Articles,Tawala,,,Ezard 1991
+6,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tawala,,,Ezard 1997
+7,45A,No politeness distinction,Politeness Distinctions in Pronouns,Tawala,,,Ezard 1997
+8,48A,Pronouns only,Person Marking on Adpositions,Tawala,,,Ezard 1997
+9,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tawala,,,Ezard 1991
+10,54A,Marked by mixed or other strategies,Distributive Numerals,Tawala,,,Ezard 1997
+11,55A,Absent,Numeral Classifiers,Tawala,,,Ezard 1997
+12,56A,"Formally similar, with interrogative",Conjunctions and Universal Quantifiers,Tawala,,,Ezard 1997
+13,58A,Absent,Obligatory Possessive Inflection,Tawala,,,Ezard 1997
+14,58B,None reported,Number of Possessive Nouns,Tawala,,,Ezard 1997
+15,59A,Two classes,Possessive Classification,Tawala,,,Ezard 1997
+16,60A,Adjectives and relative clauses collapsed,"Genitives, Adjectives and Relative Clauses",Tawala,,,Ezard 1997
+17,61A,Without marking,Adjectives without Nouns,Tawala,,,Ezard 1997
+18,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tawala,,,Ezard 1991
+19,81A,SOV,"Order of Subject, Object and Verb",Tawala,,,Ezard 1991
+20,82A,SV,Order of Subject and Verb,Tawala,,,Ezard 1991
+21,83A,OV,Order of Object and Verb,Tawala,,,Ezard 1991
+22,85A,No dominant order,Order of Adposition and Noun Phrase,Tawala,,,Ezard 1991
+23,86A,Genitive-Noun,Order of Genitive and Noun,Tawala,,,Ezard 1991
+24,87A,Noun-Adjective,Order of Adjective and Noun,Tawala,,,Ezard 1991
+25,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tawala,,,Ezard 1991
+26,89A,Noun-Numeral,Order of Numeral and Noun,Tawala,,,Ezard 1991
+27,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tawala,,,Ezard 1991
+28,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tawala,,,Ezard 1991
+29,91A,Adjective-Degree word,Order of Degree Word and Adjective,Tawala,,,Ezard 1991
+30,94A,Mixed,Order of Adverbial Subordinator and Clause,Tawala,,,Ezard 1991
+31,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tawala,,,
+32,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tawala,,,
+33,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tawala,,,
+34,100A,Accusative,Alignment of Verbal Person Marking,Tawala,,,Ezard 1997
+35,102A,Both the A and P arguments,Verbal Person Marking,Tawala,,,Ezard 1997
+36,103A,No zero realization,Third Person Zero of Verbal Person Marking,Tawala,,,Ezard 1997
+37,104A,A precedes P,Order of Person Markers on the Verb,Tawala,,,Ezard 1997
+38,107A,Absent,Passive Constructions,Tawala,,,Ezard 1997
+39,112A,Negative particle,Negative Morphemes,Tawala,,,Ezard 1991
+40,131A,Pure vigesimal,Numeral Bases,Tawala,,,Ezard 1997
+41,143A,NegV,Order of Negative Morpheme and Verb,Tawala,,,Ezard 1991
+42,143E,NegV,Preverbal Negative Morphemes,Tawala,,,Ezard 1991
+43,143F,None,Postverbal Negative Morphemes,Tawala,,,Ezard 1991
+44,143G,None,Minor morphological means of signaling negation,Tawala,,,Ezard 1991
+45,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Tawala,,,Ezard 1991
+46,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Tawala,,,Ezard 1991
+47,144S,NoSOVNeg,SOVNeg Order,Tawala,,,Ezard 1991

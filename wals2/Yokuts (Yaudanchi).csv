@@ -1,0 +1,32 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yokuts (Yaudanchi),,,Kroeber 1904
+1,33A,Plural suffix,Coding of Nominal Plurality,Yokuts (Yaudanchi),,,Kroeber 1904
+2,37A,No definite or indefinite article,Definite Articles,Yokuts (Yaudanchi),,,Kroeber 1904
+3,38A,No definite or indefinite article,Indefinite Articles,Yokuts (Yaudanchi),,,Kroeber 1904
+4,51A,Case suffixes,Position of Case Affixes,Yokuts (Yaudanchi),,,Kroeber 1904
+5,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Yokuts (Yaudanchi),,,Kroeber 1904
+6,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yokuts (Yaudanchi),,,Kroeber 1904
+7,81A,No dominant order,"Order of Subject, Object and Verb",Yokuts (Yaudanchi),,,Kroeber 1904
+8,82A,VS,Order of Subject and Verb,Yokuts (Yaudanchi),,,Kroeber 1904
+9,83A,VO,Order of Object and Verb,Yokuts (Yaudanchi),,,Kroeber 1904
+10,85A,Prepositions,Order of Adposition and Noun Phrase,Yokuts (Yaudanchi),,,Kroeber 1904
+11,86A,No dominant order,Order of Genitive and Noun,Yokuts (Yaudanchi),,,Kroeber 1904
+12,87A,Adjective-Noun,Order of Adjective and Noun,Yokuts (Yaudanchi),,,Kroeber 1904
+13,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yokuts (Yaudanchi),,,Kroeber 1904
+14,89A,Numeral-Noun,Order of Numeral and Noun,Yokuts (Yaudanchi),,,Kroeber 1904
+15,92A,Initial,Position of Polar Question Particles,Yokuts (Yaudanchi),,,Kroeber 1904
+16,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yokuts (Yaudanchi),,,Kroeber 1904
+17,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yokuts (Yaudanchi),,,
+18,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yokuts (Yaudanchi),,,
+19,112A,Negative particle,Negative Morphemes,Yokuts (Yaudanchi),,,Kroeber 1904
+20,116A,Question particle,Polar Questions,Yokuts (Yaudanchi),,,Kroeber 1904
+21,143A,NegV,Order of Negative Morpheme and Verb,Yokuts (Yaudanchi),,,Kroeber 1904
+22,143E,NegV,Preverbal Negative Morphemes,Yokuts (Yaudanchi),,,Kroeber 1904
+23,143F,None,Postverbal Negative Morphemes,Yokuts (Yaudanchi),,,Kroeber 1904
+24,143G,None,Minor morphological means of signaling negation,Yokuts (Yaudanchi),,,Kroeber 1904
+25,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Yokuts (Yaudanchi),,,Kroeber 1904
+26,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yokuts (Yaudanchi),,,Kroeber 1904
+27,144T,NegV & VS & VO,The Position of Negative Morphemes in Verb-Initial Languages,Yokuts (Yaudanchi),,,Kroeber 1904
+28,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Yokuts (Yaudanchi),,,Kroeber 1904
+29,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Yokuts (Yaudanchi),,,Kroeber 1904
+30,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Yokuts (Yaudanchi),,,Kroeber 1904

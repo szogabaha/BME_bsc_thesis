@@ -1,0 +1,115 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Taba,,,Bowden 1997a
+1,2A,Average (5-6),Vowel Quality Inventories,Taba,,,Bowden 1997a
+2,3A,Average,Consonant-Vowel Ratio,Taba,,,Bowden 1997a
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Taba,,,Bowden 1997a
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Taba,,,Bowden 1997a
+5,6A,None,Uvular Consonants,Taba,,,Bowden 1997a
+6,7A,No glottalized consonants,Glottalized Consonants,Taba,,,Bowden 1997a
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Taba,,,Bowden 1997a
+8,9A,Initial velar nasal,The Velar Nasal,Taba,,,
+9,10A,Contrast absent,Vowel Nasalization,Taba,,,Bowden 1997a
+10,11A,None,Front Rounded Vowels,Taba,,,Bowden 1997a
+11,12A,Complex,Syllable Structure,Taba,,,Bowden 1997a
+12,13A,No tones,Tone,Taba,,,Bowden 1997a
+13,14A,Penultimate,Fixed Stress Locations,Taba,,,Bowden 1997a
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Taba,,,Bowden 1997a
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Taba,,,Bowden 1997a
+16,17A,Trochaic,Rhythm Types,Taba,,,Bowden 1997a
+17,18A,All present,Absence of Common Consonants,Taba,,,Bowden 1997a
+18,19A,None,Presence of Uncommon Consonants,Taba,,,Bowden 1997a
+19,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Taba,,,Bowden 1997a
+20,28A,No case marking,Case Syncretism,Taba,,,Bowden 1997a
+21,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Taba,,,Bowden 1997a
+22,30A,None,Number of Genders,Taba,,,Bowden 1997a
+23,31A,No gender,Sex-based and Non-sex-based Gender Systems,Taba,,,Bowden 1997a
+24,32A,No gender,Systems of Gender Assignment,Taba,,,Bowden 1997a
+25,33A,Plural clitic,Coding of Nominal Plurality,Taba,,,Bowden 1997a
+26,34A,"Only human nouns, obligatory",Occurrence of Nominal Plurality,Taba,,,Bowden 1997a
+27,35A,Person-number stem,Plurality in Independent Personal Pronouns,Taba,,,Bowden 1997a
+28,37A,No definite or indefinite article,Definite Articles,Taba,,,Bowden 1997a
+29,38A,No definite or indefinite article,Indefinite Articles,Taba,,,Bowden 1997a
+30,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Taba,,,Bowden 1997a
+31,40A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Taba,,,Bowden 1997a
+32,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Taba,,,Bowden 1997a
+33,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Taba,,,Bowden 1997a
+34,45A,Binary politeness distinction,Politeness Distinctions in Pronouns,Taba,,,Bowden 1997a
+35,46A,Interrogative-based,Indefinite Pronouns,Taba,,,Bowden 1997a
+36,48A,No person marking,Person Marking on Adpositions,Taba,,,Bowden 1997a
+37,49A,No morphological case-marking,Number of Cases,Taba,,,Bowden 1997a
+38,50A,No case-marking,Asymmetrical Case-Marking,Taba,,,Bowden 1997a
+39,51A,No case affixes or adpositional clitics,Position of Case Affixes,Taba,,,Bowden 1997a
+40,53A,"First/one-th, two-th, three-th",Ordinal Numerals,Taba,,,Bowden 1997a
+41,55A,Obligatory,Numeral Classifiers,Taba,,,Bowden 1997a
+42,56A,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Taba,,,Bowden 1997a
+43,60A,Adjectives and relative clauses collapsed,"Genitives, Adjectives and Relative Clauses",Taba,,,Bowden 1997a
+44,62A,No action nominals,Action Nominal Constructions,Taba,,,Bowden 1997a
+45,64A,Identity,Nominal and Verbal Conjunction,Taba,,,Bowden 1997a
+46,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Taba,,,Bowden 1997a
+47,70A,No second-person imperatives,The Morphological Imperative,Taba,,,Bowden 1997a
+48,71A,Normal imperative + special negative,The Prohibitive,Taba,,,Bowden 1997a
+49,73A,Inflectional optative absent,The Optative,Taba,,,Bowden 1997a
+50,74A,Verbal constructions,Situational Possibility,Taba,,,Bowden 1997a
+51,75A,Affixes on verbs,Epistemic Possibility,Taba,,,Bowden 1997a
+52,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Taba,,,Bowden 1997a
+53,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Taba,,,Bowden 1997a
+54,78A,No grammatical evidentials,Coding of Evidentiality,Taba,,,Bowden 1997a
+55,79A,None,Suppletion According to Tense and Aspect,Taba,,,Bowden 1997a
+56,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Taba,,,
+57,80A,None,Verbal Number and Suppletion,Taba,,,Bowden 1997a
+58,81A,SVO,"Order of Subject, Object and Verb",Taba,,,Bowden 1997a
+59,82A,SV,Order of Subject and Verb,Taba,,,Bowden 1997a
+60,83A,VO,Order of Object and Verb,Taba,,,Bowden 1997a
+61,84A,VOX,"Order of Object, Oblique, and Verb",Taba,,,Bowden 1997a
+62,85A,Prepositions,Order of Adposition and Noun Phrase,Taba,,,Bowden 1997a
+63,86A,Genitive-Noun,Order of Genitive and Noun,Taba,,,Bowden 1997a
+64,87A,Noun-Adjective,Order of Adjective and Noun,Taba,,,Bowden 1997a
+65,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Taba,,,Bowden 1997a
+66,89A,Noun-Numeral,Order of Numeral and Noun,Taba,,,Bowden 1997a
+67,90A,Noun-Relative clause,Order of Relative Clause and Noun,Taba,,,Bowden 1997a
+68,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Taba,,,Bowden 1997a
+69,91A,No dominant order,Order of Degree Word and Adjective,Taba,,,Bowden 1997a
+70,92A,No question particle,Position of Polar Question Particles,Taba,,,Bowden 1997a
+71,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Taba,,,Bowden 1997a
+72,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Taba,,,Bowden 1997a
+73,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Taba,,,
+74,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Taba,,,
+75,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Taba,,,
+76,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Taba,,,Bowden 1997a
+77,99A,Neutral,Alignment of Case Marking of Pronouns,Taba,,,Bowden 1997a
+78,100A,Active,Alignment of Verbal Person Marking,Taba,,,Bowden 1997a
+79,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Taba,,,Bowden 1997a
+80,102A,Only the A argument,Verbal Person Marking,Taba,,,Bowden 1997a
+81,103A,No zero realization,Third Person Zero of Verbal Person Marking,Taba,,,Bowden 1997a
+82,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Taba,,,Bowden 1997a
+83,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Taba,,,Bowden 1997a
+84,107A,Present,Passive Constructions,Taba,,,Bowden 1997a
+85,108A,No antipassive,Antipassive Constructions,Taba,,,Bowden 1997a
+86,108B,no antipassive,Productivity of the Antipassive Construction,Taba,,,Bowden 1997a
+87,109A,Non-benefactive object; both bases,Applicative Constructions,Taba,,,Bowden 1997a
+88,109B,No other roles (= Only benefactive),Other Roles of Applied Objects,Taba,,,
+89,110A,Sequential but no purposive,Periphrastic Causative Constructions,Taba,,,Bowden 1997a
+90,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Taba,,,Bowden 1997a
+91,112A,Negative particle,Negative Morphemes,Taba,,,Bowden 1997a
+92,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Taba,,,Bowden 1997a
+93,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Taba,,,Bowden 1997a
+94,115A,Mixed behaviour,Negative Indefinite Pronouns and Predicate Negation,Taba,,,Bowden 1997a
+95,116A,Interrogative intonation only,Polar Questions,Taba,,,Bowden 1997a
+96,124A,Subject is expressed overtly,'Want' Complement Subjects,Taba,,,Bowden 1997a
+97,125A,Balanced,Purpose Clauses,Taba,,,Bowden 1997a
+98,126A,Balanced,'When' Clauses,Taba,,,Bowden 1997a
+99,127A,Balanced,Reason Clauses,Taba,,,Bowden 1997a
+100,128A,Balanced,Utterance Complement Clauses,Taba,,,Bowden 1997a
+101,131A,Decimal,Numeral Bases,Taba,,,Bowden 1997a
+102,142A,Affective meanings,Para-Linguistic Usages of Clicks,Taba,,,
+103,143A,VNeg,Order of Negative Morpheme and Verb,Taba,,,Bowden 1997a
+104,143E,None,Preverbal Negative Morphemes,Taba,,,Bowden 1997a
+105,143F,VNeg,Postverbal Negative Morphemes,Taba,,,Bowden 1997a
+106,143G,None,Minor morphological means of signaling negation,Taba,,,Bowden 1997a
+107,144A,SVONeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Taba,,,Bowden 1997a
+108,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Taba,,,Bowden 1997a
+109,144D,SVONeg,The Position of Negative Morphemes in SVO Languages,Taba,,,Bowden 1997a
+110,144H,No NegSVO,NegSVO Order,Taba,,,Bowden 1997a
+111,144I,No SNegVO,SNegVO Order,Taba,,,Bowden 1997a
+112,144J,No SVNegO,SVNegO Order,Taba,,,Bowden 1997a
+113,144K,NoDoubleNeg,SVONeg Order,Taba,,,Bowden 1997a

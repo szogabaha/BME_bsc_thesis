@@ -1,0 +1,46 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,Initial velar nasal,The Velar Nasal,Temiar,,,Carey 1961
+1,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Temiar,,,Benjamin 1976
+2,27A,Productive full and partial reduplication,Reduplication,Temiar,,,Benjamin 1976
+3,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Temiar,,,Benjamin 1976
+4,48A,Pronouns only,Person Marking on Adpositions,Temiar,,,Benjamin 1976
+5,51A,Case prefixes,Position of Case Affixes,Temiar,,,Benjamin 1976
+6,55A,Absent,Numeral Classifiers,Temiar,,,Nichols 1992
+7,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Temiar,,,Benjamin 1976
+8,81A,SVO,"Order of Subject, Object and Verb",Temiar,,,Benjamin 1976
+9,82A,SV,Order of Subject and Verb,Temiar,,,Benjamin 1976
+10,83A,VO,Order of Object and Verb,Temiar,,,Benjamin 1976
+11,85A,Prepositions,Order of Adposition and Noun Phrase,Temiar,,,Benjamin 1976
+12,87A,Noun-Adjective,Order of Adjective and Noun,Temiar,,,Benjamin 1976
+13,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Temiar,,,Benjamin 1976
+14,90A,Noun-Relative clause,Order of Relative Clause and Noun,Temiar,,,Benjamin 1976
+15,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Temiar,,,Benjamin 1976
+16,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Temiar,,,
+17,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Temiar,,,
+18,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Temiar,,,
+19,100A,Accusative,Alignment of Verbal Person Marking,Temiar,,,Benjamin 1976
+20,101A,Subject affixes on verb,Expression of Pronominal Subjects,Temiar,,,Benjamin 1976
+21,102A,Only the A argument,Verbal Person Marking,Temiar,,,Benjamin 1976
+22,103A,No zero realization,Third Person Zero of Verbal Person Marking,Temiar,,,Benjamin 1976
+23,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Temiar,,,Benjamin 1976
+24,107A,Absent,Passive Constructions,Temiar,,,Benjamin 1976
+25,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Temiar,,,Benjamin 1976
+26,112A,Negative particle,Negative Morphemes,Temiar,,,Benjamin 1976
+27,118A,Verbal encoding,Predicative Adjectives,Temiar,,,Carey 1961
+28,119A,Different,Nominal and Locational Predication,Temiar,,,Carey 1961
+29,120A,Possible,Zero Copula for Predicate Nominals,Temiar,,,Carey 1961
+30,136A,No M-T pronouns,M-T Pronouns,Temiar,,,Benjamin 1976
+31,136B,No m in first person singular,M in First Person Singular,Temiar,,,Benjamin 1976
+32,137A,No N-M pronouns,N-M Pronouns,Temiar,,,Benjamin 1976
+33,137B,No m in second person singular,M in Second Person Singular,Temiar,,,Benjamin 1976
+34,143A,NegV,Order of Negative Morpheme and Verb,Temiar,,,Benjamin 1976
+35,143E,NegV,Preverbal Negative Morphemes,Temiar,,,Benjamin 1976
+36,143F,None,Postverbal Negative Morphemes,Temiar,,,Benjamin 1976
+37,143G,None,Minor morphological means of signaling negation,Temiar,,,Benjamin 1976
+38,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Temiar,,,Benjamin 1976
+39,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Temiar,,,Benjamin 1976
+40,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Temiar,,,Benjamin 1976
+41,144H,No NegSVO,NegSVO Order,Temiar,,,Benjamin 1976
+42,144I,Word&NoDoubleNeg,SNegVO Order,Temiar,,,Benjamin 1976
+43,144J,No SVNegO,SVNegO Order,Temiar,,,Benjamin 1976
+44,144K,No SVONeg,SVONeg Order,Temiar,,,Benjamin 1976

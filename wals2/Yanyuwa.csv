@@ -1,0 +1,28 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Yanyuwa,,,Huttar and Kirton 1981
+1,2A,Small (2-4),Vowel Quality Inventories,Yanyuwa,,,Huttar and Kirton 1981
+2,3A,High,Consonant-Vowel Ratio,Yanyuwa,,,Huttar and Kirton 1981
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Yanyuwa,,,Huttar and Kirton 1981
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yanyuwa,,,Huttar and Kirton 1981
+5,6A,None,Uvular Consonants,Yanyuwa,,,Huttar and Kirton 1981
+6,7A,No glottalized consonants,Glottalized Consonants,Yanyuwa,,,Huttar and Kirton 1981
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yanyuwa,,,Huttar and Kirton 1981
+8,11A,None,Front Rounded Vowels,Yanyuwa,,,Huttar and Kirton 1981
+9,12A,Moderately complex,Syllable Structure,Yanyuwa,,,Huttar and Kirton 1981
+10,13A,No tones,Tone,Yanyuwa,,,Huttar and Kirton 1981
+11,14A,Penultimate,Fixed Stress Locations,Yanyuwa,,,Kirton 1977
+12,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Yanyuwa,,,Kirton 1977
+13,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Yanyuwa,,,Kirton 1977
+14,17A,Trochaic,Rhythm Types,Yanyuwa,,,Kirton 1977
+15,18A,No fricatives,Absence of Common Consonants,Yanyuwa,,,Huttar and Kirton 1981
+16,19A,None,Presence of Uncommon Consonants,Yanyuwa,,,Huttar and Kirton 1981
+17,27A,Productive full and partial reduplication,Reduplication,Yanyuwa,,,Fabricius 1998
+18,33A,Plural prefix,Coding of Nominal Plurality,Yanyuwa,,,Kirton 1971b
+19,34A,"Only human nouns, optional",Occurrence of Nominal Plurality,Yanyuwa,,,Kirton and Charlie 1996
+20,39B,Inclusive and exclusive differentiated,Inclusive/Exclusive Forms in Pama-Nyungan,Yanyuwa,,,
+21,70A,Second singular and second plural,The Morphological Imperative,Yanyuwa,,,Kirton and Charlie 1996
+22,71A,Special imperative + special negative,The Prohibitive,Yanyuwa,,,Kirton and Charlie 1996
+23,87A,Adjective-Noun,Order of Adjective and Noun,Yanyuwa,,,Kirton 1971a
+24,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yanyuwa,,,Kirton 1971a
+25,89A,Numeral-Noun,Order of Numeral and Noun,Yanyuwa,,,Kirton 1971a
+26,105A,Mixed,Ditransitive Constructions: The Verb 'Give',Yanyuwa,,,Kirton and Charlie 1996

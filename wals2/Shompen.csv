@@ -1,0 +1,9 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,No plural,Coding of Nominal Plurality,Shompen,,,Chattopadhyay and Mukhopadhyay 2003
+1,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Shompen,,,Chattopadhyay and Mukhopadhyay 2003
+2,81A,VSO,"Order of Subject, Object and Verb",Shompen,,,Chattopadhyay and Mukhopadhyay 2003
+3,82A,VS,Order of Subject and Verb,Shompen,,,Chattopadhyay and Mukhopadhyay 2003
+4,83A,VO,Order of Object and Verb,Shompen,,,Chattopadhyay and Mukhopadhyay 2003
+5,87A,Adjective-Noun,Order of Adjective and Noun,Shompen,,,Chattopadhyay and Mukhopadhyay 2003
+6,89A,Numeral-Noun,Order of Numeral and Noun,Shompen,,,Chattopadhyay and Mukhopadhyay 2003
+7,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Shompen,,,

@@ -1,0 +1,90 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+14A-dut,No fixed stress,Fixed Stress Locations,Dutch,,,Kager 1989;Trommelen and Zonneveld 1999a;van der Hulst 1984
+15A-dut,Right-oriented: One of the last three,Weight-Sensitive Stress,Dutch,,,Kager 1989;Trommelen and Zonneveld 1999a;van der Hulst 1984
+16A-dut,Coda consonant,Weight Factors in Weight-Sensitive Stress Systems,Dutch,,,Kager 1989;Trommelen and Zonneveld 1999a;van der Hulst 1984
+17A-dut,Trochaic,Rhythm Types,Dutch,,,Kager 1989;Trommelen and Zonneveld 1999a;van der Hulst 1984
+26A-dut,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Dutch,,,Koolhoven 1968;Donaldson 1997b;Shetter 1958
+33A-dut,Plural suffix,Coding of Nominal Plurality,Dutch,,,Shetter 1958
+34A-dut,"All nouns, always obligatory",Occurrence of Nominal Plurality,Dutch,,,
+36A-dut,No associative plural,The Associative Plural,Dutch,,,
+37A-dut,Definite word distinct from demonstrative,Definite Articles,Dutch,,,Shetter 1958
+38A-dut,Indefinite word distinct from 'one',Indefinite Articles,Dutch,,,Shetter 1958
+44A-dut,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Dutch,,,Donaldson 1997b
+45A-dut,Binary politeness distinction,Politeness Distinctions in Pronouns,Dutch,,,Donaldson 1987
+46A-dut,Special,Indefinite Pronouns,Dutch,,,
+47A-dut,Identical,Intensifiers and Reflexive Pronouns,Dutch,,,Donaldson 1997b
+48A-dut,No person marking,Person Marking on Adpositions,Dutch,,,Donaldson 1997b
+49A-dut,No morphological case-marking,Number of Cases,Dutch,,,Donaldson 1997b
+50A-dut,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Dutch,,,Donaldson 1997b
+51A-dut,No case affixes or adpositional clitics,Position of Case Affixes,Dutch,,,Shetter 1958
+53A-dut,"First, two-th, three-th",Ordinal Numerals,Dutch,,,
+54A-dut,No distributive numerals,Distributive Numerals,Dutch,,,
+56A-dut,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Dutch,,,Haspelmath 1997
+57A-dut,No possessive affixes,Position of Pronominal Possessive Affixes,Dutch,,,Shetter 1958
+62A-dut,Ergative-Possessive,Action Nominal Constructions,Dutch,,,Dik 1985
+63A-dut,'And' different from 'with',Noun Phrase Conjunction,Dutch,,,
+69A-dut,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Dutch,,,Shetter 1958
+70A-dut,Second person number-neutral,The Morphological Imperative,Dutch,,,
+71A-dut,Normal imperative + normal negative,The Prohibitive,Dutch,,,
+72A-dut,Neither type of system,Imperative-Hortative Systems,Dutch,,,
+74A-dut,Verbal constructions,Situational Possibility,Dutch,,,Haeseryn et al. 1997
+75A-dut,Verbal constructions,Epistemic Possibility,Dutch,,,Haeseryn et al. 1997
+76A-dut,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Dutch,,,Haeseryn et al. 1997
+77A-dut,Indirect only,Semantic Distinctions of Evidentiality,Dutch,,,
+78A-dut,Modal morpheme,Coding of Evidentiality,Dutch,,,
+79A-dut,Tense,Suppletion According to Tense and Aspect,Dutch,,,Donaldson 1981
+79B-dut,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Dutch,,,
+80A-dut,None,Verbal Number and Suppletion,Dutch,,,Donaldson 1981
+81A-dut,No dominant order,"Order of Subject, Object and Verb",Dutch,,,Shetter 1958
+81B-dut,SOV or SVO,"Languages with two Dominant Orders of Subject, Object, and Verb",Dutch,,,Shetter 1958
+82A-dut,SV,Order of Subject and Verb,Dutch,,,Shetter 1958
+83A-dut,No dominant order,Order of Object and Verb,Dutch,,,Shetter 1958
+84A-dut,No dominant order,"Order of Object, Oblique, and Verb",Dutch,,,Shetter 1958
+85A-dut,Prepositions,Order of Adposition and Noun Phrase,Dutch,,,Shetter 1958
+86A-dut,Noun-Genitive,Order of Genitive and Noun,Dutch,,,Shetter 1958
+87A-dut,Adjective-Noun,Order of Adjective and Noun,Dutch,,,Shetter 1958
+88A-dut,Demonstrative-Noun,Order of Demonstrative and Noun,Dutch,,,Shetter 1958
+89A-dut,Numeral-Noun,Order of Numeral and Noun,Dutch,,,Shetter 1958
+90A-dut,Noun-Relative clause,Order of Relative Clause and Noun,Dutch,,,Shetter 1958
+90C-dut,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Dutch,,,Shetter 1958
+92A-dut,No question particle,Position of Polar Question Particles,Dutch,,,Donaldson 1997b
+94A-dut,Initial subordinator word,Order of Adverbial Subordinator and Clause,Dutch,,,Shetter 1958
+95A-dut,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Dutch,,,
+96A-dut,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Dutch,,,
+97A-dut,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Dutch,,,
+100A-dut,Accusative,Alignment of Verbal Person Marking,Dutch,,,Donaldson 1997b
+101A-dut,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Dutch,,,Shetter 1958
+102A-dut,Only the A argument,Verbal Person Marking,Dutch,,,Donaldson 1997b
+103A-dut,No zero realization,Third Person Zero of Verbal Person Marking,Dutch,,,Donaldson 1997b
+104A-dut,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Dutch,,,Donaldson 1997b
+107A-dut,Present,Passive Constructions,Dutch,,,Donaldson 1997b
+112A-dut,Negative particle,Negative Morphemes,Dutch,,,Shetter 1958
+115A-dut,No predicate negation,Negative Indefinite Pronouns and Predicate Negation,Dutch,,,Haspelmath 1997
+116A-dut,Interrogative word order,Polar Questions,Dutch,,,Donaldson 1997b
+117A-dut,'Have',Predicative Possession,Dutch,,,
+118A-dut,Nonverbal encoding,Predicative Adjectives,Dutch,,,
+119A-dut,Identical,Nominal and Locational Predication,Dutch,,,
+120A-dut,Impossible,Zero Copula for Predicate Nominals,Dutch,,,
+121A-dut,Particle,Comparative Constructions,Dutch,,,
+129A-dut,Different,Hand and Arm,Dutch,,,van Wely 1951
+130A-dut,Different,Finger and Hand,Dutch,,,van Wely 1951
+138A-dut,Words derived from Min Nan Chinese te,Tea,Dutch,,,Malherbe and Rosenberg 1996
+142A-dut,Affective meanings,Para-Linguistic Usages of Clicks,Dutch,,,
+143A-dut,Type 1 / Type 2,Order of Negative Morpheme and Verb,Dutch,,,Shetter 1958
+143E-dut,NegV,Preverbal Negative Morphemes,Dutch,,,Shetter 1958
+143F-dut,VNeg,Postverbal Negative Morphemes,Dutch,,,Shetter 1958
+143G-dut,None,Minor morphological means of signaling negation,Dutch,,,Shetter 1958
+144A-dut,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Dutch,,,Shetter 1958
+144B-dut,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Dutch,,,Shetter 1958
+144D-dut,More than one construction,The Position of Negative Morphemes in SVO Languages,Dutch,,,Shetter 1958
+144E-dut,SVONeg/SONegV,Multiple Negative Constructions in SVO Languages,Dutch,,,Shetter 1958
+144H-dut,No NegSVO,NegSVO Order,Dutch,,,Shetter 1958
+144I-dut,No SNegVO,SNegVO Order,Dutch,,,Shetter 1958
+144J-dut,No SVNegO,SVNegO Order,Dutch,,,Shetter 1958
+144K-dut,NoDoubleNeg,SVONeg Order,Dutch,,,Shetter 1958
+144L-dut,More than one construction,The Position of Negative Morphemes in SOV Languages,Dutch,,,Shetter 1958
+144M-dut,SONegV/SVONeg,Multiple Negative Constructions in SOV Languages,Dutch,,,Shetter 1958
+144P-dut,No NegSOV,NegSOV Order,Dutch,,,Shetter 1958
+144Q-dut,No SNegOV,SNegOV Order,Dutch,,,Shetter 1958
+144R-dut,Word&NoDoubleNeg,SONegV Order,Dutch,,,Shetter 1958
+144S-dut,NoSOVNeg,SOVNeg Order,Dutch,,,Shetter 1958

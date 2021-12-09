@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Timugon,,,Prentice 1971
+1,27A,Productive full and partial reduplication,Reduplication,Timugon,,,Prentice 1971
+2,33A,Plural clitic,Coding of Nominal Plurality,Timugon,,,Prentice 1971
+3,37A,Definite word distinct from demonstrative,Definite Articles,Timugon,,,Prentice 1971
+4,51A,No case affixes or adpositional clitics,Position of Case Affixes,Timugon,,,Prentice 1971
+5,55A,Absent,Numeral Classifiers,Timugon,,,Omar 1983
+6,69A,Mixed type,Position of Tense-Aspect Affixes,Timugon,,,Prentice 1971
+7,81A,VSO,"Order of Subject, Object and Verb",Timugon,,,Prentice 1971
+8,82A,VS,Order of Subject and Verb,Timugon,,,Prentice 1971
+9,83A,VO,Order of Object and Verb,Timugon,,,Prentice 1971
+10,85A,Prepositions,Order of Adposition and Noun Phrase,Timugon,,,Prentice 1971
+11,86A,Noun-Genitive,Order of Genitive and Noun,Timugon,,,Prentice 1971
+12,87A,Noun-Adjective,Order of Adjective and Noun,Timugon,,,Prentice 1971
+13,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Timugon,,,Prentice 1971
+14,89A,Numeral-Noun,Order of Numeral and Noun,Timugon,,,Prentice 1971
+15,90A,Noun-Relative clause,Order of Relative Clause and Noun,Timugon,,,Prentice 1971
+16,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Timugon,,,Prentice 1971
+17,91A,Adjective-Degree word,Order of Degree Word and Adjective,Timugon,,,Prentice 1971
+18,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Timugon,,,Prentice 1971
+19,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Timugon,,,
+20,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Timugon,,,
+21,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Timugon,,,
+22,101A,Optional pronouns in subject position,Expression of Pronominal Subjects,Timugon,,,Prentice 1971
+23,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Timugon,,,Prentice 1971
+24,112A,Negative particle,Negative Morphemes,Timugon,,,Prentice 1971
+25,116A,Question particle,Polar Questions,Timugon,,,Prentice 1971
+26,143A,NegV,Order of Negative Morpheme and Verb,Timugon,,,Prentice 1971
+27,143E,NegV,Preverbal Negative Morphemes,Timugon,,,Prentice 1971
+28,143F,None,Postverbal Negative Morphemes,Timugon,,,Prentice 1971
+29,143G,None,Minor morphological means of signaling negation,Timugon,,,Prentice 1971
+30,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Timugon,,,Prentice 1971
+31,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Timugon,,,Prentice 1971
+32,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Timugon,,,Prentice 1971
+33,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Timugon,,,Prentice 1971
+34,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Timugon,,,Prentice 1971
+35,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Timugon,,,Prentice 1971

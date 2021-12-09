@@ -1,0 +1,122 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Trumai,,,Guirardello 1992
+1,2A,Average (5-6),Vowel Quality Inventories,Trumai,,,Guirardello 1992
+2,3A,Average,Consonant-Vowel Ratio,Trumai,,,Guirardello 1992
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Trumai,,,Guirardello 1992
+4,5A,Other,Voicing and Gaps in Plosive Systems,Trumai,,,Guirardello 1992
+5,6A,None,Uvular Consonants,Trumai,,,Guirardello 1992
+6,7A,Ejectives only,Glottalized Consonants,Trumai,,,Guirardello 1992
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Trumai,,,Guirardello 1992
+8,9A,No velar nasal,The Velar Nasal,Trumai,,,Aikhenvald and Dixon 1999
+9,10A,Contrast absent,Vowel Nasalization,Trumai,,,Guirardello 1999a
+10,11A,None,Front Rounded Vowels,Trumai,,,Guirardello 1992
+11,12A,Moderately complex,Syllable Structure,Trumai,,,Guirardello 1992
+12,13A,No tones,Tone,Trumai,,,Guirardello 1992
+13,14A,Ultimate,Fixed Stress Locations,Trumai,,,Guirardello 1999a
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Trumai,,,Guirardello 1999a
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Trumai,,,Guirardello 1999a
+16,18A,All present,Absence of Common Consonants,Trumai,,,Guirardello 1992
+17,19A,None,Presence of Uncommon Consonants,Trumai,,,Guirardello 1992
+18,20A,Isolating/concatenative,Fusion of Selected Inflectional Formatives,Trumai,,,Guirardello 1999b
+19,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Trumai,,,Monod-Becquelin 1975
+20,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Trumai,,,Monod-Becquelin 1975
+21,22A,8-9 categories per word,Inflectional Synthesis of the Verb,Trumai,,,Monod-Becquelin 1975
+22,23A,Dependent marking,Locus of Marking in the Clause,Trumai,,,Guirardello 1999a
+23,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Trumai,,,Guirardello 1999a
+24,25A,Dependent-marking,Locus of Marking: Whole-language Typology,Trumai,,,Guirardello 1999a
+25,25B,Non-zero marking,Zero Marking of A and P Arguments,Trumai,,,Guirardello 1999a
+26,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Trumai,,,Monod-Becquelin 1975
+27,27A,Productive full and partial reduplication,Reduplication,Trumai,,,Guirardello 1999a
+28,28A,No syncretism,Case Syncretism,Trumai,,,Guirardello 1999a
+29,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Trumai,,,Guirardello 1999a
+30,33A,Plural word,Coding of Nominal Plurality,Trumai,,,Monod-Becquelin 1975
+31,34A,"Only human nouns, obligatory",Occurrence of Nominal Plurality,Trumai,,,Guirardello 1999a
+32,35A,Person stem + nominal plural affix,Plurality in Independent Personal Pronouns,Trumai,,,Guirardello 1999a
+33,39A,'We' the same as 'I',Inclusive/Exclusive Distinction in Independent Pronouns,Trumai,,,Monod-Becquelin 1975
+34,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Trumai,,,Monod-Becquelin 1975
+35,41A,Two-way contrast,Distance Contrasts in Demonstratives,Trumai,,,Guirardello 1999a
+36,42A,Identical,Pronominal and Adnominal Demonstratives,Trumai,,,Guirardello 1999a
+37,43A,Related by gender markers,Third Person Pronouns and Demonstratives,Trumai,,,Guirardello 1999a
+38,44A,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Trumai,,,Guirardello 1999a
+39,46A,Generic-noun-based,Indefinite Pronouns,Trumai,,,Guirardello 1999a
+40,47A,Identical,Intensifiers and Reflexive Pronouns,Trumai,,,Guirardello 1999a
+41,48A,No person marking,Person Marking on Adpositions,Trumai,,,Guirardello 1999a
+42,49A,5 cases,Number of Cases,Trumai,,,Guirardello 1999a
+43,50A,Symmetrical,Asymmetrical Case-Marking,Trumai,,,Guirardello 1999a
+44,51A,Case suffixes,Position of Case Affixes,Trumai,,,Monod-Becquelin 1975
+45,52A,Differentiation,Comitatives and Instrumentals,Trumai,,,Guirardello 1999a
+46,53A,None,Ordinal Numerals,Trumai,,,Guirardello 1999a
+47,57A,Prefixes and suffixes,Position of Pronominal Possessive Affixes,Trumai,,,Monod-Becquelin 1975
+48,58A,Absent,Obligatory Possessive Inflection,Trumai,,,Guirardello 1999a
+49,58B,One,Number of Possessive Nouns,Trumai,,,Guirardello 1999a
+50,59A,Three to five classes,Possessive Classification,Trumai,,,Guirardello 1999a
+51,62A,No action nominals,Action Nominal Constructions,Trumai,,,Guirardello 1999a
+52,64A,Differentiation,Nominal and Verbal Conjunction,Trumai,,,Guirardello 1999a
+53,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Trumai,,,Monod-Becquelin 1975
+54,70A,No second-person imperatives,The Morphological Imperative,Trumai,,,Monod-Becquelin 1975
+55,71A,Special imperative + normal negative,The Prohibitive,Trumai,,,Monod-Becquelin 1975
+56,73A,Inflectional optative absent,The Optative,Trumai,,,Guirardello 1999a
+57,74A,Verbal constructions,Situational Possibility,Trumai,,,Guirardello 1999a
+58,75A,Affixes on verbs,Epistemic Possibility,Trumai,,,Monod-Becquelin 1975
+59,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Trumai,,,Monod-Becquelin 1975
+60,77A,Indirect only,Semantic Distinctions of Evidentiality,Trumai,,,Guirardello 1999a
+61,78A,Separate particle,Coding of Evidentiality,Trumai,,,Guirardello 1999a
+62,79A,None,Suppletion According to Tense and Aspect,Trumai,,,Guirardello 1999a
+63,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Trumai,,,
+64,80A,None,Verbal Number and Suppletion,Trumai,,,Guirardello 1999a
+65,81A,No dominant order,"Order of Subject, Object and Verb",Trumai,,,Monod-Becquelin 1975
+66,81B,SOV or SVO,"Languages with two Dominant Orders of Subject, Object, and Verb",Trumai,,,Monod-Becquelin 1975
+67,82A,SV,Order of Subject and Verb,Trumai,,,Monod-Becquelin 1975
+68,83A,No dominant order,Order of Object and Verb,Trumai,,,Monod-Becquelin 1975
+69,84A,No dominant order,"Order of Object, Oblique, and Verb",Trumai,,,Monod-Becquelin 1975
+70,85A,Postpositions,Order of Adposition and Noun Phrase,Trumai,,,Monod-Becquelin 1975
+71,86A,Genitive-Noun,Order of Genitive and Noun,Trumai,,,Monod-Becquelin 1975
+72,87A,No dominant order,Order of Adjective and Noun,Trumai,,,Monod-Becquelin 1975
+73,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Trumai,,,Guirardello 1999a
+74,89A,Numeral-Noun,Order of Numeral and Noun,Trumai,,,Monod-Becquelin 1975
+75,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Trumai,,,Monod-Becquelin 1975
+76,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Trumai,,,Monod-Becquelin 1975
+77,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Trumai,,,
+78,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Trumai,,,
+79,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Trumai,,,
+80,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Trumai,,,Guirardello 1999a
+81,99A,Ergative - absolutive,Alignment of Case Marking of Pronouns,Trumai,,,Guirardello 1999a
+82,100A,Ergative,Alignment of Verbal Person Marking,Trumai,,,Guirardello 1999a
+83,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Trumai,,,Guirardello 1999a
+84,102A,Only the P argument,Verbal Person Marking,Trumai,,,Guirardello 1999a
+85,103A,No zero realization,Third Person Zero of Verbal Person Marking,Trumai,,,Guirardello 1999a
+86,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Trumai,,,Guirardello 1999a
+87,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Trumai,,,Guirardello 1999a
+88,107A,Absent,Passive Constructions,Trumai,,,Guirardello 1999a
+89,111A,Compound but no morphological,Nonperiphrastic Causative Constructions,Trumai,,,Monod-Becquelin 1975
+90,112A,Negative particle,Negative Morphemes,Trumai,,,Monod-Becquelin 1975
+91,113A,Both,Symmetric and Asymmetric Standard Negation,Trumai,,,Guirardello 1999a
+92,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Trumai,,,Guirardello 1999a
+93,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Trumai,,,Guirardello 1999a
+94,124A,Subject is left implicit,'Want' Complement Subjects,Trumai,,,Guirardello 1999a
+95,125A,Balanced/deranked,Purpose Clauses,Trumai,,,Guirardello 1999a
+96,126A,Balanced/deranked,'When' Clauses,Trumai,,,Guirardello 1999a
+97,127A,Balanced,Reason Clauses,Trumai,,,Guirardello 1999a
+98,128A,Deranked,Utterance Complement Clauses,Trumai,,,Guirardello 1999a
+99,136A,No M-T pronouns,M-T Pronouns,Trumai,,,Guirardello 1999a
+100,136B,No m in first person singular,M in First Person Singular,Trumai,,,Guirardello 1999a
+101,137A,No N-M pronouns,N-M Pronouns,Trumai,,,Guirardello 1999a
+102,137B,No m in second person singular,M in Second Person Singular,Trumai,,,Guirardello 1999a
+103,143A,VNeg,Order of Negative Morpheme and Verb,Trumai,,,Monod-Becquelin 1975
+104,143E,None,Preverbal Negative Morphemes,Trumai,,,Monod-Becquelin 1975
+105,143F,VNeg,Postverbal Negative Morphemes,Trumai,,,Monod-Becquelin 1975
+106,143G,None,Minor morphological means of signaling negation,Trumai,,,Monod-Becquelin 1975
+107,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Trumai,,,Monod-Becquelin 1975
+108,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Trumai,,,Monod-Becquelin 1975
+109,144D,More than one construction,The Position of Negative Morphemes in SVO Languages,Trumai,,,Monod-Becquelin 1975
+110,144E,SVNegO/SOVNeg,Multiple Negative Constructions in SVO Languages,Trumai,,,Monod-Becquelin 1975
+111,144H,No NegSVO,NegSVO Order,Trumai,,,Monod-Becquelin 1975
+112,144I,No SNegVO,SNegVO Order,Trumai,,,Monod-Becquelin 1975
+113,144J,Word&NoDoubleNeg,SVNegO Order,Trumai,,,Monod-Becquelin 1975
+114,144K,No SVONeg,SVONeg Order,Trumai,,,Monod-Becquelin 1975
+115,144L,More than one construction,The Position of Negative Morphemes in SOV Languages,Trumai,,,Monod-Becquelin 1975
+116,144M,SOVNeg/SVNegO,Multiple Negative Constructions in SOV Languages,Trumai,,,Monod-Becquelin 1975
+117,144P,No NegSOV,NegSOV Order,Trumai,,,Monod-Becquelin 1975
+118,144Q,No SNegOV,SNegOV Order,Trumai,,,Monod-Becquelin 1975
+119,144R,No SONegV,SONegV Order,Trumai,,,Monod-Becquelin 1975
+120,144S,Word&NoDoubleNeg,SOVNeg Order,Trumai,,,Monod-Becquelin 1975

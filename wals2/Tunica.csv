@@ -1,0 +1,97 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Tunica,,,Haas 1940
+1,2A,Large (7-14),Vowel Quality Inventories,Tunica,,,Haas 1940
+2,3A,Moderately low,Consonant-Vowel Ratio,Tunica,,,Haas 1940
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tunica,,,Haas 1940
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Tunica,,,Haas 1940
+5,6A,None,Uvular Consonants,Tunica,,,Haas 1940
+6,7A,No glottalized consonants,Glottalized Consonants,Tunica,,,Haas 1940
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tunica,,,Haas 1940
+8,9A,No velar nasal,The Velar Nasal,Tunica,,,Haas 1940
+9,10A,Contrast absent,Vowel Nasalization,Tunica,,,Haas 1940
+10,11A,None,Front Rounded Vowels,Tunica,,,Haas 1940
+11,14A,Initial,Fixed Stress Locations,Tunica,,,Haas 1953
+12,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tunica,,,Haas 1953
+13,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tunica,,,Haas 1953
+14,17A,No rhythmic stress,Rhythm Types,Tunica,,,Haas 1953
+15,18A,All present,Absence of Common Consonants,Tunica,,,Haas 1940
+16,19A,None,Presence of Uncommon Consonants,Tunica,,,Haas 1940
+17,23A,Head marking,Locus of Marking in the Clause,Tunica,,,Haas 1940
+18,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Tunica,,,Haas 1940
+19,25A,Head-marking,Locus of Marking: Whole-language Typology,Tunica,,,Haas 1940
+20,25B,Non-zero marking,Zero Marking of A and P Arguments,Tunica,,,Haas 1940
+21,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tunica,,,Haas 1940
+22,28A,No case marking,Case Syncretism,Tunica,,,Haas 1940
+23,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Tunica,,,Haas 1940
+24,30A,Two,Number of Genders,Tunica,,,Haas 1940
+25,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Tunica,,,Haas 1940
+26,32A,Semantic,Systems of Gender Assignment,Tunica,,,Haas 1940
+27,33A,Plural suffix,Coding of Nominal Plurality,Tunica,,,Haas 1940
+28,35A,Person-number affixes,Plurality in Independent Personal Pronouns,Tunica,,,Haas 1940
+29,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Tunica,,,Swanton 1919
+30,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Tunica,,,Swanton 1919
+31,43A,Unrelated,Third Person Pronouns and Demonstratives,Tunica,,,Haas 1940
+32,44A,In 3rd person + 1st and/or 2nd person,Gender Distinctions in Independent Personal Pronouns,Tunica,,,Swanton 1921
+33,46A,Interrogative-based,Indefinite Pronouns,Tunica,,,Haas 1953
+34,48A,No person marking,Person Marking on Adpositions,Tunica,,,Swanton 1921
+35,49A,Exclusively borderline case-marking,Number of Cases,Tunica,,,Haas 1940
+36,50A,Symmetrical,Asymmetrical Case-Marking,Tunica,,,Haas 1940
+37,51A,Case suffixes,Position of Case Affixes,Tunica,,,Haas 1940
+38,55A,Absent,Numeral Classifiers,Tunica,,,Nichols 1992
+39,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tunica,,,Haas 1940
+40,58A,Exists,Obligatory Possessive Inflection,Tunica,,,Haas 1940
+41,58B,None reported,Number of Possessive Nouns,Tunica,,,Haas 1940
+42,59A,Two classes,Possessive Classification,Tunica,,,Haas 1940
+43,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tunica,,,Haas 1940
+44,70A,Second singular and second plural,The Morphological Imperative,Tunica,,,Haas 1940
+45,71A,Special imperative + special negative,The Prohibitive,Tunica,,,Haas 1940
+46,73A,Inflectional optative absent,The Optative,Tunica,,,Haas 1940
+47,74A,Verbal constructions,Situational Possibility,Tunica,,,Haas 1940
+48,77A,Indirect only,Semantic Distinctions of Evidentiality,Tunica,,,Haas 1940
+49,78A,Verbal affix or clitic,Coding of Evidentiality,Tunica,,,Haas 1940
+50,81A,SOV,"Order of Subject, Object and Verb",Tunica,,,Haas 1940
+51,82A,SV,Order of Subject and Verb,Tunica,,,Haas 1940
+52,83A,OV,Order of Object and Verb,Tunica,,,Haas 1940
+53,84A,No dominant order,"Order of Object, Oblique, and Verb",Tunica,,,Haas 1940
+54,85A,Postpositions,Order of Adposition and Noun Phrase,Tunica,,,Haas 1940
+55,86A,Genitive-Noun,Order of Genitive and Noun,Tunica,,,Haas 1940
+56,87A,Noun-Adjective,Order of Adjective and Noun,Tunica,,,Haas 1940
+57,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tunica,,,Haas 1940
+58,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tunica,,,Haas 1940
+59,91A,Adjective-Degree word,Order of Degree Word and Adjective,Tunica,,,Haas 1940
+60,92A,No question particle,Position of Polar Question Particles,Tunica,,,Haas 1940
+61,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Tunica,,,Haas 1940
+62,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tunica,,,
+63,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tunica,,,
+64,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tunica,,,
+65,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Tunica,,,Haas 1940
+66,99A,Neutral,Alignment of Case Marking of Pronouns,Tunica,,,Haas 1940
+67,100A,Active,Alignment of Verbal Person Marking,Tunica,,,Swanton 1921
+68,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tunica,,,Haas 1940
+69,102A,Both the A and P arguments,Verbal Person Marking,Tunica,,,Swanton 1921
+70,103A,No zero realization,Third Person Zero of Verbal Person Marking,Tunica,,,Swanton 1921
+71,104A,P precedes A,Order of Person Markers on the Verb,Tunica,,,Swanton 1921
+72,107A,Absent,Passive Constructions,Tunica,,,Swanton 1921
+73,111A,Both,Nonperiphrastic Causative Constructions,Tunica,,,Haas 1940
+74,112A,Negative affix,Negative Morphemes,Tunica,,,Haas 1940
+75,113A,Both,Symmetric and Asymmetric Standard Negation,Tunica,,,Haas 1940
+76,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Tunica,,,Haas 1940
+77,116A,Interrogative verb morphology,Polar Questions,Tunica,,,Haas 1940
+78,129A,Different,Hand and Arm,Tunica,,,Haas 1953
+79,130A,Identical,Finger and Hand,Tunica,,,Haas 1953
+80,130B,Farmer-foragers,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',Tunica,,,
+81,136A,No M-T pronouns,M-T Pronouns,Tunica,,,Haas 1940
+82,136B,No m in first person singular,M in First Person Singular,Tunica,,,Haas 1940
+83,137A,"N-M pronouns, non-paradigmatic",N-M Pronouns,Tunica,,,Haas 1940
+84,137B,m in second person singular,M in Second Person Singular,Tunica,,,Haas 1940
+85,138A,Others,Tea,Tunica,,,Haas 1953
+86,143A,[V-Neg],Order of Negative Morpheme and Verb,Tunica,,,Haas 1940
+87,143E,None,Preverbal Negative Morphemes,Tunica,,,Haas 1940
+88,143F,[V-Neg],Postverbal Negative Morphemes,Tunica,,,Haas 1940
+89,143G,None,Minor morphological means of signaling negation,Tunica,,,Haas 1940
+90,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tunica,,,Haas 1940
+91,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tunica,,,Haas 1940
+92,144P,No NegSOV,NegSOV Order,Tunica,,,Haas 1940
+93,144Q,No SNegOV,SNegOV Order,Tunica,,,Haas 1940
+94,144R,No SONegV,SONegV Order,Tunica,,,Haas 1940
+95,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tunica,,,Haas 1940

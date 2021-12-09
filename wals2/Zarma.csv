@@ -1,0 +1,25 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural clitic,Coding of Nominal Plurality,Zarma,,,Tersis 1972
+1,37A,Definite word distinct from demonstrative,Definite Articles,Zarma,,,Tersis 1972
+2,38A,Indefinite word same as 'one',Indefinite Articles,Zarma,,,Tersis 1972
+3,63A,'And' identical to 'with',Noun Phrase Conjunction,Zarma,,,Ardant du Picq 1933
+4,81A,No dominant order,"Order of Subject, Object and Verb",Zarma,,,Tersis 1972
+5,82A,SV,Order of Subject and Verb,Zarma,,,Tersis 1972
+6,83A,No dominant order,Order of Object and Verb,Zarma,,,Tersis 1972
+7,84A,No dominant order,"Order of Object, Oblique, and Verb",Zarma,,,Tersis 1972
+8,85A,Postpositions,Order of Adposition and Noun Phrase,Zarma,,,Tersis 1972
+9,86A,Genitive-Noun,Order of Genitive and Noun,Zarma,,,Tersis 1972
+10,87A,Noun-Adjective,Order of Adjective and Noun,Zarma,,,Tersis 1972
+11,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Zarma,,,Tersis 1972
+12,89A,Noun-Numeral,Order of Numeral and Noun,Zarma,,,Tersis 1972
+13,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Zarma,,,
+14,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Zarma,,,
+15,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Zarma,,,
+16,118A,Mixed,Predicative Adjectives,Zarma,,,Ardant du Picq 1933
+17,119A,Different,Nominal and Locational Predication,Zarma,,,Ardant du Picq 1933
+18,120A,Impossible,Zero Copula for Predicate Nominals,Zarma,,,Ardant du Picq 1933
+19,138A,Others,Tea,Zarma,,,Malherbe and Rosenberg 1996
+20,143A,NegV,Order of Negative Morpheme and Verb,Zarma,,,Westermann 1921b
+21,143E,NegV,Preverbal Negative Morphemes,Zarma,,,Westermann 1921b
+22,143F,None,Postverbal Negative Morphemes,Zarma,,,Westermann 1921b
+23,143G,None,Minor morphological means of signaling negation,Zarma,,,Westermann 1921b

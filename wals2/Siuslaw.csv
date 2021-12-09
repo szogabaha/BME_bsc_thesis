@@ -1,0 +1,55 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,23A,Double marking,Locus of Marking in the Clause,Siuslaw,,,Frachtenberg 1922b
+1,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Siuslaw,,,Frachtenberg 1922b
+2,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Siuslaw,,,Frachtenberg 1922b
+3,25B,Non-zero marking,Zero Marking of A and P Arguments,Siuslaw,,,Frachtenberg 1922b
+4,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Siuslaw,,,Frachtenberg 1914
+5,27A,Productive full and partial reduplication,Reduplication,Siuslaw,,,Mithun 1999
+6,33A,Plural suffix,Coding of Nominal Plurality,Siuslaw,,,Frachtenberg 1914
+7,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Siuslaw,,,Frachtenberg 1922b
+8,46A,Interrogative-based,Indefinite Pronouns,Siuslaw,,,Frachtenberg 1922b
+9,48A,No adpositions,Person Marking on Adpositions,Siuslaw,,,Frachtenberg 1922b
+10,51A,Mixed morphological case,Position of Case Affixes,Siuslaw,,,Frachtenberg 1914
+11,52A,Differentiation,Comitatives and Instrumentals,Siuslaw,,,Stolz 1996
+12,55A,Absent,Numeral Classifiers,Siuslaw,,,Nichols 1992
+13,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Siuslaw,,,Frachtenberg 1914
+14,58A,Absent,Obligatory Possessive Inflection,Siuslaw,,,Frachtenberg 1922b
+15,58B,None reported,Number of Possessive Nouns,Siuslaw,,,Frachtenberg 1922b
+16,59A,Three to five classes,Possessive Classification,Siuslaw,,,Frachtenberg 1922b
+17,63A,'And' different from 'with',Noun Phrase Conjunction,Siuslaw,,,Frachtenberg 1922b
+18,64A,Identity,Nominal and Verbal Conjunction,Siuslaw,,,Frachtenberg 1922b
+19,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Siuslaw,,,Frachtenberg 1914
+20,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Siuslaw,,,Frachtenberg 1922b
+21,78A,No grammatical evidentials,Coding of Evidentiality,Siuslaw,,,Frachtenberg 1922b
+22,81A,No dominant order,"Order of Subject, Object and Verb",Siuslaw,,,Frachtenberg 1914
+23,82A,No dominant order,Order of Subject and Verb,Siuslaw,,,Frachtenberg 1914
+24,83A,VO,Order of Object and Verb,Siuslaw,,,Frachtenberg 1914
+25,84A,No dominant order,"Order of Object, Oblique, and Verb",Siuslaw,,,Frachtenberg 1914
+26,85A,No adpositions,Order of Adposition and Noun Phrase,Siuslaw,,,Frachtenberg 1914
+27,86A,No dominant order,Order of Genitive and Noun,Siuslaw,,,Frachtenberg 1914
+28,87A,Adjective-Noun,Order of Adjective and Noun,Siuslaw,,,Frachtenberg 1914
+29,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Siuslaw,,,Frachtenberg 1914
+30,89A,Numeral-Noun,Order of Numeral and Noun,Siuslaw,,,Frachtenberg 1914
+31,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Siuslaw,,,Frachtenberg 1914
+32,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Siuslaw,,,Frachtenberg 1914
+33,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Siuslaw,,,
+34,100A,Accusative,Alignment of Verbal Person Marking,Siuslaw,,,Frachtenberg 1922b
+35,101A,Subject affixes on verb,Expression of Pronominal Subjects,Siuslaw,,,Frachtenberg 1914
+36,102A,Both the A and P arguments,Verbal Person Marking,Siuslaw,,,Frachtenberg 1922b
+37,103A,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Siuslaw,,,Frachtenberg 1922b
+38,104A,Both orders of A and P occur,Order of Person Markers on the Verb,Siuslaw,,,Frachtenberg 1922b
+39,107A,Present,Passive Constructions,Siuslaw,,,Frachtenberg 1922b
+40,112A,Negative particle,Negative Morphemes,Siuslaw,,,Frachtenberg 1914
+41,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Siuslaw,,,Frachtenberg 1922b
+42,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Siuslaw,,,Frachtenberg 1922b
+43,116A,Question particle,Polar Questions,Siuslaw,,,Frachtenberg 1914
+44,117A,Conjunctional,Predicative Possession,Siuslaw,,,Frachtenberg 1922b
+45,118A,Verbal encoding,Predicative Adjectives,Siuslaw,,,Frachtenberg 1922b
+46,119A,Different,Nominal and Locational Predication,Siuslaw,,,Frachtenberg 1922b
+47,120A,Impossible,Zero Copula for Predicate Nominals,Siuslaw,,,Frachtenberg 1922b
+48,121A,Locational,Comparative Constructions,Siuslaw,,,Frachtenberg 1922b
+49,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Siuslaw,,,Frachtenberg 1914
+50,143C,Neg[V(-Neg)],Optional Double Negation,Siuslaw,,,Frachtenberg 1914
+51,143E,NegV,Preverbal Negative Morphemes,Siuslaw,,,Frachtenberg 1914
+52,143F,[V-Neg],Postverbal Negative Morphemes,Siuslaw,,,Frachtenberg 1914
+53,143G,None,Minor morphological means of signaling negation,Siuslaw,,,Frachtenberg 1914

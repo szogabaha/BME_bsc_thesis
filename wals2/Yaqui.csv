@@ -1,0 +1,142 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Yaqui,,,Dedrick and Casad 1999
+1,2A,Average (5-6),Vowel Quality Inventories,Yaqui,,,Dedrick and Casad 1999
+2,3A,Average,Consonant-Vowel Ratio,Yaqui,,,Dedrick and Casad 1999
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Yaqui,,,Dedrick and Casad 1999
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yaqui,,,Dedrick and Casad 1999
+5,6A,None,Uvular Consonants,Yaqui,,,Dedrick and Casad 1999
+6,7A,No glottalized consonants,Glottalized Consonants,Yaqui,,,Dedrick and Casad 1999
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yaqui,,,Dedrick and Casad 1999
+8,9A,No velar nasal,The Velar Nasal,Yaqui,,,Dedrick and Casad 1999
+9,10A,Contrast absent,Vowel Nasalization,Yaqui,,,Escalante 1990
+10,11A,None,Front Rounded Vowels,Yaqui,,,Dedrick and Casad 1999
+11,12A,Moderately complex,Syllable Structure,Yaqui,,,Dedrick and Casad 1999
+12,13A,Simple tone system,Tone,Yaqui,,,Dedrick and Casad 1999
+13,14A,Initial,Fixed Stress Locations,Yaqui,,,Johnson 1962
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Yaqui,,,Johnson 1962
+15,16A,Combined,Weight Factors in Weight-Sensitive Stress Systems,Yaqui,,,Johnson 1962
+16,17A,Trochaic,Rhythm Types,Yaqui,,,Johnson 1962
+17,18A,All present,Absence of Common Consonants,Yaqui,,,Dedrick and Casad 1999
+18,19A,None,Presence of Uncommon Consonants,Yaqui,,,Dedrick and Casad 1999
+19,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Yaqui,,,Dedrick and Casad 1999
+20,21A,Case + number,Exponence of Selected Inflectional Formatives,Yaqui,,,Dedrick and Casad 1999
+21,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Yaqui,,,Dedrick and Casad 1999
+22,22A,4-5 categories per word,Inflectional Synthesis of the Verb,Yaqui,,,Dedrick and Casad 1999
+23,23A,Double marking,Locus of Marking in the Clause,Yaqui,,,Dedrick and Casad 1999
+24,24A,Double marking,Locus of Marking in Possessive Noun Phrases,Yaqui,,,Dedrick and Casad 1999
+25,25A,Double-marking,Locus of Marking: Whole-language Typology,Yaqui,,,Dedrick and Casad 1999
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Yaqui,,,Dedrick and Casad 1999
+27,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yaqui,,,Dedrick and Casad 1999
+28,27A,Productive full and partial reduplication,Reduplication,Yaqui,,,Shaul 1999
+29,28A,Core cases only,Case Syncretism,Yaqui,,,Dedrick and Casad 1999
+30,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Yaqui,,,Dedrick and Casad 1999
+31,30A,None,Number of Genders,Yaqui,,,Lindenfeld 1973
+32,31A,No gender,Sex-based and Non-sex-based Gender Systems,Yaqui,,,Lindenfeld 1973
+33,32A,No gender,Systems of Gender Assignment,Yaqui,,,Lindenfeld 1973
+34,33A,Plural suffix,Coding of Nominal Plurality,Yaqui,,,Lindenfeld 1973
+35,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Yaqui,,,Lindenfeld 1973
+36,35A,Person-number stem,Plurality in Independent Personal Pronouns,Yaqui,,,Dedrick and Casad 1999
+37,36A,Unique affixal associative plural,The Associative Plural,Yaqui,,,Dedrick and Casad 1999
+38,37A,"No definite, but indefinite article",Definite Articles,Yaqui,,,Lindenfeld 1973
+39,38A,Indefinite word distinct from 'one',Indefinite Articles,Yaqui,,,Lindenfeld 1973
+40,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Yaqui,,,Lindenfeld 1973
+41,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Yaqui,,,Lindenfeld 1973
+42,43A,Unrelated,Third Person Pronouns and Demonstratives,Yaqui,,,Dedrick and Casad 1999
+43,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yaqui,,,Lindenfeld 1973
+44,45A,No politeness distinction,Politeness Distinctions in Pronouns,Yaqui,,,Lindenfeld 1973
+45,46A,Interrogative-based,Indefinite Pronouns,Yaqui,,,Lindenfeld 1973
+46,47A,Differentiated,Intensifiers and Reflexive Pronouns,Yaqui,,,Lindenfeld 1973
+47,48A,No person marking,Person Marking on Adpositions,Yaqui,,,Lindenfeld 1973
+48,49A,2 cases,Number of Cases,Yaqui,,,Dedrick and Casad 1999
+49,50A,Symmetrical,Asymmetrical Case-Marking,Yaqui,,,Dedrick and Casad 1999
+50,51A,Case suffixes,Position of Case Affixes,Yaqui,,,Lindenfeld 1973
+51,52A,Differentiation,Comitatives and Instrumentals,Yaqui,,,Johnson 1962
+52,53A,"One-th, two-th, three-th",Ordinal Numerals,Yaqui,,,Johnson 1962
+53,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Yaqui,,,Lindenfeld 1973
+54,58A,Absent,Obligatory Possessive Inflection,Yaqui,,,Dedrick and Casad 1999
+55,58B,None reported,Number of Possessive Nouns,Yaqui,,,Dedrick and Casad 1999
+56,59A,No possessive classification,Possessive Classification,Yaqui,,,Dedrick and Casad 1999
+57,62A,No action nominals,Action Nominal Constructions,Yaqui,,,Lindenfeld 1973
+58,63A,'And' different from 'with',Noun Phrase Conjunction,Yaqui,,,Lindenfeld 1973
+59,64A,Identity,Nominal and Verbal Conjunction,Yaqui,,,Lindenfeld 1973
+60,65A,Grammatical marking,Perfective/Imperfective Aspect,Yaqui,,,Dedrick and Casad 1999
+61,66A,"Present, no remoteness distinctions",The Past Tense,Yaqui,,,Dedrick and Casad 1999
+62,67A,Inflectional future exists,The Future Tense,Yaqui,,,Dedrick and Casad 1999
+63,68A,No perfect,The Perfect,Yaqui,,,Dedrick and Casad 1999
+64,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yaqui,,,Lindenfeld 1973
+65,70A,Second singular and second plural,The Morphological Imperative,Yaqui,,,Dedrick and Casad 1999
+66,71A,Special imperative + special negative,The Prohibitive,Yaqui,,,Dedrick and Casad 1999
+67,72A,Neither type of system,Imperative-Hortative Systems,Yaqui,,,Dedrick and Casad 1999
+68,73A,Inflectional optative absent,The Optative,Yaqui,,,Lindenfeld 1973
+69,74A,Verbal constructions,Situational Possibility,Yaqui,,,Dedrick and Casad 1999
+70,75A,Affixes on verbs,Epistemic Possibility,Yaqui,,,Dedrick and Casad 1999
+71,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Yaqui,,,Dedrick and Casad 1999
+72,77A,Indirect only,Semantic Distinctions of Evidentiality,Yaqui,,,Dedrick and Casad 1999
+73,78A,Verbal affix or clitic,Coding of Evidentiality,Yaqui,,,Dedrick and Casad 1999
+74,79A,None,Suppletion According to Tense and Aspect,Yaqui,,,Dedrick and Casad 1999
+75,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Yaqui,,,
+76,80A,"Singular-plural pairs, no suppletion",Verbal Number and Suppletion,Yaqui,,,Dedrick and Casad 1999
+77,81A,SOV,"Order of Subject, Object and Verb",Yaqui,,,Lindenfeld 1973
+78,82A,SV,Order of Subject and Verb,Yaqui,,,Lindenfeld 1973
+79,83A,OV,Order of Object and Verb,Yaqui,,,Lindenfeld 1973
+80,85A,Postpositions,Order of Adposition and Noun Phrase,Yaqui,,,Lindenfeld 1973
+81,86A,Genitive-Noun,Order of Genitive and Noun,Yaqui,,,Lindenfeld 1973
+82,87A,Adjective-Noun,Order of Adjective and Noun,Yaqui,,,Lindenfeld 1973
+83,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yaqui,,,Lindenfeld 1973
+84,89A,Numeral-Noun,Order of Numeral and Noun,Yaqui,,,Lindenfeld 1973
+85,90A,Noun-Relative clause,Order of Relative Clause and Noun,Yaqui,,,Lindenfeld 1973
+86,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Yaqui,,,Lindenfeld 1973
+87,91A,Degree word-Adjective,Order of Degree Word and Adjective,Yaqui,,,Lindenfeld 1973
+88,92A,Initial,Position of Polar Question Particles,Yaqui,,,Lindenfeld 1973
+89,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yaqui,,,Lindenfeld 1973
+90,94A,Mixed,Order of Adverbial Subordinator and Clause,Yaqui,,,Lindenfeld 1973
+91,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yaqui,,,
+92,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yaqui,,,
+93,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yaqui,,,
+94,98A,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Yaqui,,,Dedrick and Casad 1999
+95,99A,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Yaqui,,,Dedrick and Casad 1999
+96,100A,Neutral,Alignment of Verbal Person Marking,Yaqui,,,Lindenfeld 1973
+97,101A,Mixed,Expression of Pronominal Subjects,Yaqui,,,Lindenfeld 1973
+98,102A,No person marking,Verbal Person Marking,Yaqui,,,Lindenfeld 1973
+99,103A,No person marking,Third Person Zero of Verbal Person Marking,Yaqui,,,Lindenfeld 1973
+100,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Yaqui,,,Lindenfeld 1973
+101,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Yaqui,,,Lindenfeld 1973
+102,106A,Identical to reflexive,Reciprocal Constructions,Yaqui,,,Dedrick and Casad 1999
+103,107A,Present,Passive Constructions,Yaqui,,,Lindenfeld 1973
+104,108A,No antipassive,Antipassive Constructions,Yaqui,,,Jelinek 1998
+105,108B,no antipassive,Productivity of the Antipassive Construction,Yaqui,,,Jelinek 1998
+106,109A,Benefactive object; both bases,Applicative Constructions,Yaqui,,,Jelinek 1998
+107,109B,No other roles (= Only benefactive),Other Roles of Applied Objects,Yaqui,,,
+108,110A,Purposive but no sequential,Periphrastic Causative Constructions,Yaqui,,,Dedrick and Casad 1999
+109,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Yaqui,,,Dedrick and Casad 1999
+110,112A,Negative particle,Negative Morphemes,Yaqui,,,Lindenfeld 1973
+111,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Yaqui,,,Lindenfeld 1973
+112,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Yaqui,,,Lindenfeld 1973
+113,115A,Mixed behaviour,Negative Indefinite Pronouns and Predicate Negation,Yaqui,,,Lindenfeld 1973
+114,116A,Question particle,Polar Questions,Yaqui,,,Lindenfeld 1973
+115,117A,'Have',Predicative Possession,Yaqui,,,Lindenfeld 1973
+116,118A,Verbal encoding,Predicative Adjectives,Yaqui,,,Lindenfeld 1973
+117,119A,Different,Nominal and Locational Predication,Yaqui,,,Lindenfeld 1973
+118,120A,Possible,Zero Copula for Predicate Nominals,Yaqui,,,Lindenfeld 1973
+119,122A,Gap,Relativization on Subjects,Yaqui,,,Lindenfeld 1973
+120,124A,Desiderative verbal affix,'Want' Complement Subjects,Yaqui,,,Lindenfeld 1973
+121,125A,Balanced,Purpose Clauses,Yaqui,,,Lindenfeld 1973
+122,126A,Balanced,'When' Clauses,Yaqui,,,Lindenfeld 1973
+123,127A,Balanced,Reason Clauses,Yaqui,,,Lindenfeld 1973
+124,128A,Balanced,Utterance Complement Clauses,Yaqui,,,Lindenfeld 1973
+125,131A,Hybrid vigesimal-decimal,Numeral Bases,Yaqui,,,Dedrick and Casad 1999
+126,136A,No M-T pronouns,M-T Pronouns,Yaqui,,,Dedrick and Casad 1999
+127,136B,No m in first person singular,M in First Person Singular,Yaqui,,,Dedrick and Casad 1999
+128,137A,"N-M pronouns, paradigmatic",N-M Pronouns,Yaqui,,,Dedrick and Casad 1999
+129,137B,m in second person singular,M in Second Person Singular,Yaqui,,,Dedrick and Casad 1999
+130,143A,NegV,Order of Negative Morpheme and Verb,Yaqui,,,Lindenfeld 1973
+131,143E,NegV,Preverbal Negative Morphemes,Yaqui,,,Lindenfeld 1973
+132,143F,None,Postverbal Negative Morphemes,Yaqui,,,Lindenfeld 1973
+133,143G,None,Minor morphological means of signaling negation,Yaqui,,,Lindenfeld 1973
+134,144A,SNegOV,"Position of Negative Word With Respect to Subject, Object, and Verb",Yaqui,,,Lindenfeld 1973
+135,144B,"Preverbal, not beginning or immed",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yaqui,,,Lindenfeld 1973
+136,144L,SNegOV,The Position of Negative Morphemes in SOV Languages,Yaqui,,,Lindenfeld 1973
+137,144P,No NegSOV,NegSOV Order,Yaqui,,,Lindenfeld 1973
+138,144Q,NoDoubleNeg,SNegOV Order,Yaqui,,,Lindenfeld 1973
+139,144R,No SONegV,SONegV Order,Yaqui,,,Lindenfeld 1973
+140,144S,NoSOVNeg,SOVNeg Order,Yaqui,,,Lindenfeld 1973

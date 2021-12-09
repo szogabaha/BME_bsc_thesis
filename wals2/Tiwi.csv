@@ -1,0 +1,139 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Tiwi,,,Anderson and Maddieson 1994
+1,2A,Small (2-4),Vowel Quality Inventories,Tiwi,,,Anderson and Maddieson 1994
+2,3A,Moderately high,Consonant-Vowel Ratio,Tiwi,,,Anderson and Maddieson 1994
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Tiwi,,,Anderson and Maddieson 1994
+4,5A,Other,Voicing and Gaps in Plosive Systems,Tiwi,,,Anderson and Maddieson 1994
+5,6A,None,Uvular Consonants,Tiwi,,,Anderson and Maddieson 1994
+6,7A,No glottalized consonants,Glottalized Consonants,Tiwi,,,Anderson and Maddieson 1994
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tiwi,,,Anderson and Maddieson 1994
+8,9A,Initial velar nasal,The Velar Nasal,Tiwi,,,Lee 1993
+9,10A,Contrast absent,Vowel Nasalization,Tiwi,,,Lee 1987
+10,11A,None,Front Rounded Vowels,Tiwi,,,Anderson and Maddieson 1994
+11,12A,Moderately complex,Syllable Structure,Tiwi,,,Anderson and Maddieson 1994
+12,13A,No tones,Tone,Tiwi,,,Anderson and Maddieson 1994
+13,14A,Penultimate,Fixed Stress Locations,Tiwi,,,Osborne 1974
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tiwi,,,Osborne 1974
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tiwi,,,Osborne 1974
+16,17A,Trochaic,Rhythm Types,Tiwi,,,Osborne 1974
+17,18A,All present,Absence of Common Consonants,Tiwi,,,Anderson and Maddieson 1994
+18,19A,None,Presence of Uncommon Consonants,Tiwi,,,Anderson and Maddieson 1994
+19,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Tiwi,,,Osborne 1974
+20,21A,No case,Exponence of Selected Inflectional Formatives,Tiwi,,,Osborne 1974
+21,21B,no TAM,Exponence of Tense-Aspect-Mood Inflection,Tiwi,,,Osborne 1974
+22,22A,4-5 categories per word,Inflectional Synthesis of the Verb,Tiwi,,,Osborne 1974
+23,23A,Head marking,Locus of Marking in the Clause,Tiwi,,,Osborne 1974
+24,24A,No marking,Locus of Marking in Possessive Noun Phrases,Tiwi,,,Osborne 1974
+25,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Tiwi,,,Osborne 1974
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Tiwi,,,Osborne 1974
+27,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tiwi,,,Osborne 1974
+28,27A,Productive full and partial reduplication,Reduplication,Tiwi,,,Fabricius 1998
+29,28A,No case marking,Case Syncretism,Tiwi,,,Osborne 1974
+30,29A,Syncretic,Syncretism in Verbal Person/Number Marking,Tiwi,,,Osborne 1974
+31,30A,Two,Number of Genders,Tiwi,,,Osborne 1974
+32,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Tiwi,,,Osborne 1974
+33,32A,Semantic,Systems of Gender Assignment,Tiwi,,,Osborne 1974
+34,33A,Plural suffix,Coding of Nominal Plurality,Tiwi,,,Osborne 1974
+35,34A,"Only human nouns, obligatory",Occurrence of Nominal Plurality,Tiwi,,,Osborne 1974
+36,35A,Person-number stem,Plurality in Independent Personal Pronouns,Tiwi,,,Osborne 1974
+37,37A,No definite or indefinite article,Definite Articles,Tiwi,,,Osborne 1974
+38,38A,No definite or indefinite article,Indefinite Articles,Tiwi,,,Osborne 1974
+39,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Tiwi,,,Lee 1987
+40,40A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Tiwi,,,Lee 1987
+41,41A,Two-way contrast,Distance Contrasts in Demonstratives,Tiwi,,,Osborne 1974
+42,42A,Identical,Pronominal and Adnominal Demonstratives,Tiwi,,,Osborne 1974
+43,44A,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Tiwi,,,Osborne 1974
+44,45A,No politeness distinction,Politeness Distinctions in Pronouns,Tiwi,,,Osborne 1974
+45,46A,Interrogative-based,Indefinite Pronouns,Tiwi,,,Osborne 1974
+46,47A,Identical,Intensifiers and Reflexive Pronouns,Tiwi,,,Osborne 1974
+47,48A,No person marking,Person Marking on Adpositions,Tiwi,,,Osborne 1974
+48,49A,No morphological case-marking,Number of Cases,Tiwi,,,Osborne 1974
+49,50A,No case-marking,Asymmetrical Case-Marking,Tiwi,,,Osborne 1974
+50,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tiwi,,,Osborne 1974
+51,53A,None,Ordinal Numerals,Tiwi,,,Osborne 1974
+52,54A,Marked by suffix,Distributive Numerals,Tiwi,,,Osborne 1974
+53,55A,Absent,Numeral Classifiers,Tiwi,,,Nichols 1992
+54,56A,Formally different,Conjunctions and Universal Quantifiers,Tiwi,,,Osborne 1974
+55,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tiwi,,,Osborne 1974
+56,58A,Exists,Obligatory Possessive Inflection,Tiwi,,,Osborne 1974
+57,58B,None reported,Number of Possessive Nouns,Tiwi,,,Osborne 1974
+58,59A,Two classes,Possessive Classification,Tiwi,,,Osborne 1974
+59,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Tiwi,,,Osborne 1974
+60,61A,Without marking,Adjectives without Nouns,Tiwi,,,Osborne 1974
+61,63A,'And' different from 'with',Noun Phrase Conjunction,Tiwi,,,Osborne 1974
+62,64A,Both expressed by juxtaposition,Nominal and Verbal Conjunction,Tiwi,,,Osborne 1974
+63,65A,No grammatical marking,Perfective/Imperfective Aspect,Tiwi,,,Osborne 1974
+64,66A,"Present, no remoteness distinctions",The Past Tense,Tiwi,,,Osborne 1974
+65,67A,Inflectional future exists,The Future Tense,Tiwi,,,Osborne 1974
+66,68A,No perfect,The Perfect,Tiwi,,,Osborne 1974
+67,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tiwi,,,Osborne 1974
+68,70A,Second singular and second plural,The Morphological Imperative,Tiwi,,,Osborne 1974
+69,71A,Special imperative + special negative,The Prohibitive,Tiwi,,,Osborne 1974
+70,72A,Neither type of system,Imperative-Hortative Systems,Tiwi,,,Osborne 1974
+71,73A,Inflectional optative absent,The Optative,Tiwi,,,Osborne 1974
+72,75A,Affixes on verbs,Epistemic Possibility,Tiwi,,,Osborne 1974
+73,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Tiwi,,,Osborne 1974
+74,78A,No grammatical evidentials,Coding of Evidentiality,Tiwi,,,Osborne 1974
+75,79A,None,Suppletion According to Tense and Aspect,Tiwi,,,Osborne 1974
+76,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Tiwi,,,
+77,80A,None,Verbal Number and Suppletion,Tiwi,,,Osborne 1974
+78,81A,SVO,"Order of Subject, Object and Verb",Tiwi,,,Osborne 1974
+79,82A,SV,Order of Subject and Verb,Tiwi,,,Osborne 1974
+80,83A,VO,Order of Object and Verb,Tiwi,,,Osborne 1974
+81,84A,VOX,"Order of Object, Oblique, and Verb",Tiwi,,,Osborne 1974
+82,85A,Prepositions,Order of Adposition and Noun Phrase,Tiwi,,,Osborne 1974
+83,86A,Genitive-Noun,Order of Genitive and Noun,Tiwi,,,Osborne 1974
+84,87A,Adjective-Noun,Order of Adjective and Noun,Tiwi,,,Osborne 1974
+85,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tiwi,,,Osborne 1974
+86,89A,Numeral-Noun,Order of Numeral and Noun,Tiwi,,,Osborne 1974
+87,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tiwi,,,Osborne 1974
+88,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tiwi,,,Osborne 1974
+89,92A,Final,Position of Polar Question Particles,Tiwi,,,Osborne 1974
+90,93A,Mixed,Position of Interrogative Phrases in Content Questions,Tiwi,,,Osborne 1974
+91,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tiwi,,,Osborne 1974
+92,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tiwi,,,
+93,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tiwi,,,
+94,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tiwi,,,
+95,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Tiwi,,,Osborne 1974
+96,99A,Neutral,Alignment of Case Marking of Pronouns,Tiwi,,,Osborne 1974
+97,100A,Accusative,Alignment of Verbal Person Marking,Tiwi,,,Osborne 1974
+98,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tiwi,,,Osborne 1974
+99,102A,Both the A and P arguments,Verbal Person Marking,Tiwi,,,Osborne 1974
+100,103A,No zero realization,Third Person Zero of Verbal Person Marking,Tiwi,,,Osborne 1974
+101,104A,Both orders of A and P occur,Order of Person Markers on the Verb,Tiwi,,,Osborne 1974
+102,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Tiwi,,,Osborne 1974
+103,106A,Distinct from reflexive,Reciprocal Constructions,Tiwi,,,Osborne 1974
+104,107A,Absent,Passive Constructions,Tiwi,,,Osborne 1974
+105,108A,No antipassive,Antipassive Constructions,Tiwi,,,Osborne 1974
+106,108B,no antipassive,Productivity of the Antipassive Construction,Tiwi,,,Osborne 1974
+107,109A,Non-benefactive object; both bases,Applicative Constructions,Tiwi,,,Osborne 1974
+108,109B,Instrument,Other Roles of Applied Objects,Tiwi,,,
+109,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tiwi,,,Osborne 1974
+110,112A,Negative particle,Negative Morphemes,Tiwi,,,Osborne 1974
+111,113A,Both,Symmetric and Asymmetric Standard Negation,Tiwi,,,Osborne 1974
+112,114A,A/NonReal,Subtypes of Asymmetric Standard Negation,Tiwi,,,Osborne 1974
+113,115A,No predicate negation,Negative Indefinite Pronouns and Predicate Negation,Tiwi,,,Osborne 1974
+114,116A,Question particle,Polar Questions,Tiwi,,,Osborne 1974
+115,117A,Topic,Predicative Possession,Tiwi,,,Osborne 1974
+116,118A,Nonverbal encoding,Predicative Adjectives,Tiwi,,,Osborne 1974
+117,119A,Different,Nominal and Locational Predication,Tiwi,,,Osborne 1974
+118,120A,Possible,Zero Copula for Predicate Nominals,Tiwi,,,Osborne 1974
+119,126A,Balanced,'When' Clauses,Tiwi,,,Osborne 1974
+120,127A,Balanced,Reason Clauses,Tiwi,,,Osborne 1974
+121,129A,Different,Hand and Arm,Tiwi,,,Osborne 1974
+122,136A,No M-T pronouns,M-T Pronouns,Tiwi,,,Osborne 1974
+123,136B,No m in first person singular,M in First Person Singular,Tiwi,,,Osborne 1974
+124,137A,No N-M pronouns,N-M Pronouns,Tiwi,,,Osborne 1974
+125,137B,No m in second person singular,M in Second Person Singular,Tiwi,,,Osborne 1974
+126,138A,Others,Tea,Tiwi,,,Osborne 1974
+127,143A,NegV,Order of Negative Morpheme and Verb,Tiwi,,,Osborne 1974
+128,143E,NegV,Preverbal Negative Morphemes,Tiwi,,,Osborne 1974
+129,143F,None,Postverbal Negative Morphemes,Tiwi,,,Osborne 1974
+130,143G,None,Minor morphological means of signaling negation,Tiwi,,,Osborne 1974
+131,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Tiwi,,,Osborne 1974
+132,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tiwi,,,Osborne 1974
+133,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Tiwi,,,Osborne 1974
+134,144H,No NegSVO,NegSVO Order,Tiwi,,,Osborne 1974
+135,144I,Word&NoDoubleNeg,SNegVO Order,Tiwi,,,Osborne 1974
+136,144J,No SVNegO,SVNegO Order,Tiwi,,,Osborne 1974
+137,144K,No SVONeg,SVONeg Order,Tiwi,,,Osborne 1974

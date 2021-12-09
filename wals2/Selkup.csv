@@ -1,0 +1,43 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Selkup,,,Katz 1975b
+1,2A,Large (7-14),Vowel Quality Inventories,Selkup,,,Katz 1975b
+2,3A,Low,Consonant-Vowel Ratio,Selkup,,,Katz 1975b
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Selkup,,,Katz 1975b
+4,5A,Other,Voicing and Gaps in Plosive Systems,Selkup,,,Katz 1975b
+5,6A,Uvular stops only,Uvular Consonants,Selkup,,,Katz 1975b
+6,7A,No glottalized consonants,Glottalized Consonants,Selkup,,,Katz 1975b
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Selkup,,,Katz 1975b
+8,9A,No initial velar nasal,The Velar Nasal,Selkup,,,Kuznecova et al. 1980
+9,11A,High and mid,Front Rounded Vowels,Selkup,,,Katz 1975b
+10,12A,Moderately complex,Syllable Structure,Selkup,,,Katz 1975b
+11,14A,No fixed stress,Fixed Stress Locations,Selkup,,,McNaughton 1976
+12,15A,Left-edge: First or second,Weight-Sensitive Stress,Selkup,,,McNaughton 1976
+13,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Selkup,,,McNaughton 1976
+14,17A,Trochaic,Rhythm Types,Selkup,,,McNaughton 1976
+15,18A,All present,Absence of Common Consonants,Selkup,,,Katz 1975b
+16,19A,None,Presence of Uncommon Consonants,Selkup,,,Katz 1975b
+17,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Selkup,,,Helimski 1998b
+18,33A,Plural suffix,Coding of Nominal Plurality,Selkup,,,Helimski 1998b
+19,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Selkup,,,Kuznecova et al. 1980
+20,46A,Interrogative-based,Indefinite Pronouns,Selkup,,,Kuznecova et al. 1980
+21,51A,Case suffixes,Position of Case Affixes,Selkup,,,Helimski 1998b
+22,54A,Marked by following word,Distributive Numerals,Selkup,,,Prokofjeva 1966
+23,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Selkup,,,Helimski 1998b
+24,62A,Possessive-Accusative,Action Nominal Constructions,Selkup,,,Kuznecova et al. 1980
+25,64A,Identity,Nominal and Verbal Conjunction,Selkup,,,Kuznecova et al. 1980
+26,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Selkup,,,Helimski 1998b
+27,81A,SOV,"Order of Subject, Object and Verb",Selkup,,,Helimski 1998b
+28,82A,SV,Order of Subject and Verb,Selkup,,,Helimski 1998b
+29,83A,OV,Order of Object and Verb,Selkup,,,Helimski 1998b
+30,86A,Genitive-Noun,Order of Genitive and Noun,Selkup,,,Helimski 1998b
+31,87A,Adjective-Noun,Order of Adjective and Noun,Selkup,,,Helimski 1998b
+32,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Selkup,,,Helimski 1998b
+33,89A,Numeral-Noun,Order of Numeral and Noun,Selkup,,,Helimski 1998b
+34,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Selkup,,,Helimski 1998b
+35,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Selkup,,,
+36,101A,Subject affixes on verb,Expression of Pronominal Subjects,Selkup,,,Helimski 1998b
+37,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Selkup,,,Kuznecova et al. 1980
+38,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Selkup,,,Kuznecova et al. 1980
+39,118A,Nonverbal encoding,Predicative Adjectives,Selkup,,,Décsy 1970
+40,119A,Identical,Nominal and Locational Predication,Selkup,,,Rédei 1970
+41,120A,Possible,Zero Copula for Predicate Nominals,Selkup,,,Rédei 1970

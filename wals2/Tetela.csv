@@ -1,0 +1,29 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tetela,,,Wetshemongo 1996
+1,70A,Second singular and second plural,The Morphological Imperative,Tetela,,,Wetshemongo 1998
+2,71A,Normal imperative + normal negative,The Prohibitive,Tetela,,,Wetshemongo 1998
+3,72A,Both types of system,Imperative-Hortative Systems,Tetela,,,Labaere 1984
+4,81A,SVO,"Order of Subject, Object and Verb",Tetela,,,Wetshemongo 1996
+5,82A,SV,Order of Subject and Verb,Tetela,,,Wetshemongo 1996
+6,83A,VO,Order of Object and Verb,Tetela,,,Wetshemongo 1996
+7,84A,VOX,"Order of Object, Oblique, and Verb",Tetela,,,Wetshemongo 1996
+8,85A,Prepositions,Order of Adposition and Noun Phrase,Tetela,,,Wetshemongo 1996
+9,86A,Noun-Genitive,Order of Genitive and Noun,Tetela,,,Wetshemongo 1996
+10,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tetela,,,Wetshemongo 1996
+11,89A,Noun-Numeral,Order of Numeral and Noun,Tetela,,,Wetshemongo 1996
+12,92A,Final,Position of Polar Question Particles,Tetela,,,Wetshemongo 1996
+13,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tetela,,,Wetshemongo 1996
+14,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tetela,,,
+15,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tetela,,,Wetshemongo 1996
+16,112A,Negative affix,Negative Morphemes,Tetela,,,Wetshemongo 1996
+17,116A,Question particle,Polar Questions,Tetela,,,Wetshemongo 1996
+18,143A,[Neg-V],Order of Negative Morpheme and Verb,Tetela,,,Wetshemongo 1996
+19,143E,[Neg-V],Preverbal Negative Morphemes,Tetela,,,Wetshemongo 1996
+20,143F,None,Postverbal Negative Morphemes,Tetela,,,Wetshemongo 1996
+21,143G,None,Minor morphological means of signaling negation,Tetela,,,Wetshemongo 1996
+22,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tetela,,,Wetshemongo 1996
+23,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Tetela,,,Wetshemongo 1996
+24,144H,No NegSVO,NegSVO Order,Tetela,,,Wetshemongo 1996
+25,144I,Prefix&NoDoubleNeg,SNegVO Order,Tetela,,,Wetshemongo 1996
+26,144J,No SVNegO,SVNegO Order,Tetela,,,Wetshemongo 1996
+27,144K,No SVONeg,SVONeg Order,Tetela,,,Wetshemongo 1996

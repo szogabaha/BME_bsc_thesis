@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Penultimate,Fixed Stress Locations,Yawelmani,,,Newman 1944
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Yawelmani,,,Newman 1944
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Yawelmani,,,Newman 1944
+3,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yawelmani,,,Newman 1944
+4,27A,Productive full and partial reduplication,Reduplication,Yawelmani,,,Newman 1944
+5,33A,Plural suffix,Coding of Nominal Plurality,Yawelmani,,,Newman 1944
+6,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Yawelmani,,,Newman 1946
+7,49A,6-7 cases,Number of Cases,Yawelmani,,,Newman 1944
+8,50A,Symmetrical,Asymmetrical Case-Marking,Yawelmani,,,Newman 1944
+9,51A,Case suffixes,Position of Case Affixes,Yawelmani,,,Newman 1944
+10,55A,Absent,Numeral Classifiers,Yawelmani,,,Nichols 1992
+11,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Yawelmani,,,Newman 1944
+12,64A,Identity,Nominal and Verbal Conjunction,Yawelmani,,,Newman 1946
+13,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yawelmani,,,Newman 1944
+14,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Yawelmani,,,Newman 1946
+15,78A,No grammatical evidentials,Coding of Evidentiality,Yawelmani,,,Newman 1946
+16,81A,No dominant order,"Order of Subject, Object and Verb",Yawelmani,,,Newman 1944
+17,82A,No dominant order,Order of Subject and Verb,Yawelmani,,,Newman 1944
+18,83A,VO,Order of Object and Verb,Yawelmani,,,Newman 1944
+19,84A,No dominant order,"Order of Object, Oblique, and Verb",Yawelmani,,,Newman 1944
+20,92A,Initial,Position of Polar Question Particles,Yawelmani,,,Newman 1944
+21,101A,Subject affixes on verb,Expression of Pronominal Subjects,Yawelmani,,,Newman 1944
+22,112A,Negative particle,Negative Morphemes,Yawelmani,,,Newman 1944
+23,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Yawelmani,,,Newman 1944
+24,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Yawelmani,,,Newman 1944
+25,116A,Question particle,Polar Questions,Yawelmani,,,Newman 1944
+26,136A,No M-T pronouns,M-T Pronouns,Yawelmani,,,Newman 1946
+27,136B,No m in first person singular,M in First Person Singular,Yawelmani,,,Newman 1946
+28,137A,"N-M pronouns, paradigmatic",N-M Pronouns,Yawelmani,,,Newman 1946
+29,137B,m in second person singular,M in Second Person Singular,Yawelmani,,,Newman 1946
+30,143A,NegV,Order of Negative Morpheme and Verb,Yawelmani,,,Newman 1944
+31,143E,NegV,Preverbal Negative Morphemes,Yawelmani,,,Newman 1944
+32,143F,None,Postverbal Negative Morphemes,Yawelmani,,,Newman 1944
+33,143G,None,Minor morphological means of signaling negation,Yawelmani,,,Newman 1944

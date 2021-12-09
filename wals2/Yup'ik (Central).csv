@@ -1,0 +1,84 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,Initial velar nasal,The Velar Nasal,Yup'ik (Central),,,Jacobson 1995
+1,10A,Contrast absent,Vowel Nasalization,Yup'ik (Central),,,Miyaoka 1996
+2,14A,No fixed stress,Fixed Stress Locations,Yup'ik (Central),,,Jacobson 1985
+3,15A,Left-edge: First or second,Weight-Sensitive Stress,Yup'ik (Central),,,Jacobson 1985
+4,16A,Combined,Weight Factors in Weight-Sensitive Stress Systems,Yup'ik (Central),,,Jacobson 1985
+5,17A,Iambic,Rhythm Types,Yup'ik (Central),,,Jacobson 1985
+6,23A,Double marking,Locus of Marking in the Clause,Yup'ik (Central),,,Miyaoka 1996
+7,24A,Double marking,Locus of Marking in Possessive Noun Phrases,Yup'ik (Central),,,Miyaoka 1996
+8,25A,Double-marking,Locus of Marking: Whole-language Typology,Yup'ik (Central),,,Miyaoka 1996
+9,25B,Non-zero marking,Zero Marking of A and P Arguments,Yup'ik (Central),,,Miyaoka 1996
+10,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yup'ik (Central),,,Reed et al. 1977
+11,27A,No productive reduplication,Reduplication,Yup'ik (Central),,,
+12,28A,Core cases only,Case Syncretism,Yup'ik (Central),,,Jacobson 1995
+13,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Yup'ik (Central),,,Jacobson 1995
+14,30A,None,Number of Genders,Yup'ik (Central),,,Jacobson 1995
+15,31A,No gender,Sex-based and Non-sex-based Gender Systems,Yup'ik (Central),,,Jacobson 1995
+16,32A,No gender,Systems of Gender Assignment,Yup'ik (Central),,,Jacobson 1995
+17,33A,Plural suffix,Coding of Nominal Plurality,Yup'ik (Central),,,Reed et al. 1977
+18,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Yup'ik (Central),,,Miyaoka 1996
+19,36A,Unique affixal associative plural,The Associative Plural,Yup'ik (Central),,,Corbett and Mithun 1996
+20,37A,No definite or indefinite article,Definite Articles,Yup'ik (Central),,,Reed et al. 1977
+21,38A,No definite or indefinite article,Indefinite Articles,Yup'ik (Central),,,Reed et al. 1977
+22,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Yup'ik (Central),,,Jacobson 1985
+23,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Yup'ik (Central),,,Jacobson 1985
+24,43A,Unrelated,Third Person Pronouns and Demonstratives,Yup'ik (Central),,,Miyaoka 1996
+25,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yup'ik (Central),,,Jacobson 1995
+26,46A,Interrogative-based,Indefinite Pronouns,Yup'ik (Central),,,Miyaoka 1996
+27,48A,No adpositions,Person Marking on Adpositions,Yup'ik (Central),,,Jacobson 1995
+28,49A,6-7 cases,Number of Cases,Yup'ik (Central),,,Jacobson 1995
+29,50A,Syncretism in relevant NP-types,Asymmetrical Case-Marking,Yup'ik (Central),,,Jacobson 1995
+30,51A,Case suffixes,Position of Case Affixes,Yup'ik (Central),,,Reed et al. 1977
+31,52A,Differentiation,Comitatives and Instrumentals,Yup'ik (Central),,,Jacobson 1995
+32,53A,"First/one-th, two-th, three-th",Ordinal Numerals,Yup'ik (Central),,,Jacobson 1995
+33,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Yup'ik (Central),,,Reed et al. 1977
+34,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yup'ik (Central),,,Reed et al. 1977
+35,70A,Second singular and second plural,The Morphological Imperative,Yup'ik (Central),,,Reed et al. 1977
+36,71A,Normal imperative + normal negative,The Prohibitive,Yup'ik (Central),,,Reed et al. 1977
+37,72A,Maximal system,Imperative-Hortative Systems,Yup'ik (Central),,,Reed et al. 1977
+38,74A,Affixes on verbs,Situational Possibility,Yup'ik (Central),,,Reed et al. 1977
+39,75A,Affixes on verbs,Epistemic Possibility,Yup'ik (Central),,,Reed et al. 1977
+40,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Yup'ik (Central),,,Reed et al. 1977
+41,77A,Indirect only,Semantic Distinctions of Evidentiality,Yup'ik (Central),,,Reed et al. 1977
+42,78A,Verbal affix or clitic,Coding of Evidentiality,Yup'ik (Central),,,Reed et al. 1977
+43,79A,None,Suppletion According to Tense and Aspect,Yup'ik (Central),,,Jacobson 1995
+44,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Yup'ik (Central),,,
+45,80A,None,Verbal Number and Suppletion,Yup'ik (Central),,,Jacobson 1995
+46,81A,No dominant order,"Order of Subject, Object and Verb",Yup'ik (Central),,,Reed et al. 1977
+47,82A,No dominant order,Order of Subject and Verb,Yup'ik (Central),,,Reed et al. 1977
+48,83A,No dominant order,Order of Object and Verb,Yup'ik (Central),,,Reed et al. 1977
+49,84A,No dominant order,"Order of Object, Oblique, and Verb",Yup'ik (Central),,,Reed et al. 1977
+50,87A,No dominant order,Order of Adjective and Noun,Yup'ik (Central),,,Reed et al. 1977
+51,92A,Second position,Position of Polar Question Particles,Yup'ik (Central),,,Reed et al. 1977
+52,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yup'ik (Central),,,Reed et al. 1977
+53,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Yup'ik (Central),,,Reed et al. 1977
+54,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yup'ik (Central),,,
+55,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yup'ik (Central),,,
+56,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yup'ik (Central),,,
+57,98A,Ergative - absolutive,Alignment of Case Marking of Full Noun Phrases,Yup'ik (Central),,,Reed et al. 1977
+58,99A,Neutral,Alignment of Case Marking of Pronouns,Yup'ik (Central),,,Reed et al. 1977
+59,100A,Ergative,Alignment of Verbal Person Marking,Yup'ik (Central),,,Jacobson 1995
+60,101A,Subject affixes on verb,Expression of Pronominal Subjects,Yup'ik (Central),,,Reed et al. 1977
+61,102A,Both the A and P arguments,Verbal Person Marking,Yup'ik (Central),,,Jacobson 1995
+62,103A,No zero realization,Third Person Zero of Verbal Person Marking,Yup'ik (Central),,,Jacobson 1995
+63,104A,A and P are fused,Order of Person Markers on the Verb,Yup'ik (Central),,,Jacobson 1995
+64,107A,Absent,Passive Constructions,Yup'ik (Central),,,Jacobson 1995
+65,108A,Oblique patient,Antipassive Constructions,Yup'ik (Central),,,Benua 1995
+66,108B,productive,Productivity of the Antipassive Construction,Yup'ik (Central),,,Benua 1995
+67,109A,No applicative construction,Applicative Constructions,Yup'ik (Central),,,Jacobson 1995
+68,109B,No applicative construction,Other Roles of Applied Objects,Yup'ik (Central),,,
+69,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Yup'ik (Central),,,Reed et al. 1977
+70,112A,Negative affix,Negative Morphemes,Yup'ik (Central),,,Reed et al. 1977
+71,116A,Question particle,Polar Questions,Yup'ik (Central),,,Reed et al. 1977
+72,124A,Desiderative verbal affix,'Want' Complement Subjects,Yup'ik (Central),,,Miyaoka 1996
+73,126A,Deranked,'When' Clauses,Yup'ik (Central),,,Miyaoka 1996
+74,127A,Deranked,Reason Clauses,Yup'ik (Central),,,Miyaoka 1996
+75,129A,Different,Hand and Arm,Yup'ik (Central),,,Jacobson 1984a
+76,130A,Different,Finger and Hand,Yup'ik (Central),,,Jacobson 1984a
+77,131A,Pure vigesimal,Numeral Bases,Yup'ik (Central),,,Reed et al. 1977
+78,138A,Words derived from Sinitic cha,Tea,Yup'ik (Central),,,Jacobson 1984a
+79,143A,[V-Neg],Order of Negative Morpheme and Verb,Yup'ik (Central),,,Reed et al. 1977
+80,143E,None,Preverbal Negative Morphemes,Yup'ik (Central),,,Reed et al. 1977
+81,143F,[V-Neg],Postverbal Negative Morphemes,Yup'ik (Central),,,Reed et al. 1977
+82,143G,None,Minor morphological means of signaling negation,Yup'ik (Central),,,Reed et al. 1977

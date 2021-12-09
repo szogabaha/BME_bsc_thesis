@@ -1,0 +1,19 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural word,Coding of Nominal Plurality,Tugun,,,Hinton 1991
+1,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Tugun,,,Hinton 1991
+2,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tugun,,,Hinton 1991
+3,64A,Identity,Nominal and Verbal Conjunction,Tugun,,,Hinton 1991
+4,81A,SVO,"Order of Subject, Object and Verb",Tugun,,,Hinton 1991
+5,82A,SV,Order of Subject and Verb,Tugun,,,Hinton 1991
+6,83A,VO,Order of Object and Verb,Tugun,,,Hinton 1991
+7,86A,Genitive-Noun,Order of Genitive and Noun,Tugun,,,Hinton 1991
+8,87A,Noun-Adjective,Order of Adjective and Noun,Tugun,,,Hinton 1991
+9,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tugun,,,Hinton 1991
+10,89A,Noun-Numeral,Order of Numeral and Noun,Tugun,,,Hinton 1991
+11,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tugun,,,Hinton 1991
+12,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tugun,,,Hinton 1991
+13,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tugun,,,
+14,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tugun,,,
+15,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tugun,,,Hinton 1991
+16,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Tugun,,,Hinton 1991
+17,124A,Desiderative verbal affix,'Want' Complement Subjects,Tugun,,,Hinton 1991

@@ -1,0 +1,64 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Turkana,,,Dimmendaal 1983a
+1,33A,Mixed morphological plural,Coding of Nominal Plurality,Turkana,,,Dimmendaal 1983a
+2,37A,No definite or indefinite article,Definite Articles,Turkana,,,Dimmendaal 1983a
+3,38A,No definite or indefinite article,Indefinite Articles,Turkana,,,Dimmendaal 1983a
+4,41A,Two-way contrast,Distance Contrasts in Demonstratives,Turkana,,,Dimmendaal 1983a
+5,43A,Unrelated,Third Person Pronouns and Demonstratives,Turkana,,,Dimmendaal 1982
+6,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Turkana,,,Dimmendaal 1983a
+7,47A,Identical,Intensifiers and Reflexive Pronouns,Turkana,,,Dimmendaal 1983a
+8,48A,No person marking,Person Marking on Adpositions,Turkana,,,Dimmendaal 1983a
+9,49A,6-7 cases,Number of Cases,Turkana,,,Dimmendaal 1982
+10,50A,Subtractive-quantitatively asymmetrical,Asymmetrical Case-Marking,Turkana,,,Dimmendaal 1982
+11,51A,Mixed morphological case,Position of Case Affixes,Turkana,,,Dimmendaal 1983a
+12,53A,"First, two-th, three-th",Ordinal Numerals,Turkana,,,Dimmendaal 1983a
+13,63A,'And' identical to 'with',Noun Phrase Conjunction,Turkana,,,Dimmendaal 1982
+14,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Turkana,,,Dimmendaal 1983a
+15,70A,Second singular and second plural,The Morphological Imperative,Turkana,,,Dimmendaal 1983a
+16,71A,Special imperative + normal negative,The Prohibitive,Turkana,,,Dimmendaal 1983a
+17,79A,Tense,Suppletion According to Tense and Aspect,Turkana,,,Dimmendaal 1983a
+18,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Turkana,,,
+19,80A,None,Verbal Number and Suppletion,Turkana,,,Dimmendaal 1983a
+20,81A,VSO,"Order of Subject, Object and Verb",Turkana,,,Dimmendaal 1983a
+21,82A,VS,Order of Subject and Verb,Turkana,,,Dimmendaal 1983a
+22,83A,VO,Order of Object and Verb,Turkana,,,Dimmendaal 1983a
+23,84A,VOX,"Order of Object, Oblique, and Verb",Turkana,,,Dimmendaal 1983a
+24,85A,Prepositions,Order of Adposition and Noun Phrase,Turkana,,,Dimmendaal 1983a
+25,86A,Noun-Genitive,Order of Genitive and Noun,Turkana,,,Dimmendaal 1983a
+26,87A,Noun-Adjective,Order of Adjective and Noun,Turkana,,,Dimmendaal 1983a
+27,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Turkana,,,Dimmendaal 1983a
+28,89A,Noun-Numeral,Order of Numeral and Noun,Turkana,,,Dimmendaal 1983a
+29,90A,Noun-Relative clause,Order of Relative Clause and Noun,Turkana,,,Dimmendaal 1983a
+30,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Turkana,,,Dimmendaal 1983a
+31,92A,Final,Position of Polar Question Particles,Turkana,,,Dimmendaal 1983a
+32,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Turkana,,,Dimmendaal 1983a
+33,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Turkana,,,Dimmendaal 1983a
+34,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Turkana,,,
+35,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Turkana,,,
+36,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Turkana,,,
+37,100A,Split,Alignment of Verbal Person Marking,Turkana,,,Dimmendaal 1983a
+38,101A,Subject affixes on verb,Expression of Pronominal Subjects,Turkana,,,Dimmendaal 1983a
+39,102A,Both the A and P arguments,Verbal Person Marking,Turkana,,,Dimmendaal 1983a
+40,103A,No zero realization,Third Person Zero of Verbal Person Marking,Turkana,,,Dimmendaal 1983a
+41,104A,P precedes A,Order of Person Markers on the Verb,Turkana,,,Dimmendaal 1983a
+42,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Turkana,,,Dimmendaal 1983a
+43,107A,Present,Passive Constructions,Turkana,,,Dimmendaal 1983a
+44,110A,Sequential but no purposive,Periphrastic Causative Constructions,Turkana,,,Dimmendaal 1983a
+45,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Turkana,,,Dimmendaal 1983a
+46,112A,Negative affix,Negative Morphemes,Turkana,,,Dimmendaal 1983a
+47,116A,Question particle,Polar Questions,Turkana,,,Dimmendaal 1983a
+48,117A,Topic,Predicative Possession,Turkana,,,Dimmendaal 1982
+49,118A,Verbal encoding,Predicative Adjectives,Turkana,,,Dimmendaal 1982
+50,119A,Different,Nominal and Locational Predication,Turkana,,,Dimmendaal 1982
+51,120A,Possible,Zero Copula for Predicate Nominals,Turkana,,,Dimmendaal 1982
+52,129A,Identical,Hand and Arm,Turkana,,,Best 1983
+53,130A,Different,Finger and Hand,Turkana,,,Best 1983
+54,143A,[Neg-V],Order of Negative Morpheme and Verb,Turkana,,,Dimmendaal 1983a
+55,143E,[Neg-V],Preverbal Negative Morphemes,Turkana,,,Dimmendaal 1983a
+56,143F,None,Postverbal Negative Morphemes,Turkana,,,Dimmendaal 1983a
+57,143G,None,Minor morphological means of signaling negation,Turkana,,,Dimmendaal 1983a
+58,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Turkana,,,Dimmendaal 1983a
+59,144T,[Neg-V]SO,The Position of Negative Morphemes in Verb-Initial Languages,Turkana,,,Dimmendaal 1983a
+60,144V,"Prefix, no double negation  Prefix&NoDoubleNeg",Verb-Initial with Preverbal Negative,Turkana,,,Dimmendaal 1983a
+61,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Turkana,,,Dimmendaal 1983a
+62,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Turkana,,,Dimmendaal 1983a

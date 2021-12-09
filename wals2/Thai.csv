@@ -1,0 +1,140 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Thai,,,Abramson 1962
+1,2A,Large (7-14),Vowel Quality Inventories,Thai,,,Abramson 1962
+2,3A,Moderately low,Consonant-Vowel Ratio,Thai,,,Abramson 1962
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Thai,,,Abramson 1962
+4,5A,Missing /g/,Voicing and Gaps in Plosive Systems,Thai,,,Abramson 1962
+5,6A,None,Uvular Consonants,Thai,,,Abramson 1962
+6,7A,No glottalized consonants,Glottalized Consonants,Thai,,,Abramson 1962
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Thai,,,Abramson 1962
+8,9A,Initial velar nasal,The Velar Nasal,Thai,,,Noss 1964
+9,10A,Contrast absent,Vowel Nasalization,Thai,,,Noss 1964
+10,11A,None,Front Rounded Vowels,Thai,,,Abramson 1962
+11,12A,Moderately complex,Syllable Structure,Thai,,,Abramson 1962
+12,13A,Complex tone system,Tone,Thai,,,Abramson 1962
+13,18A,All present,Absence of Common Consonants,Thai,,,Abramson 1962
+14,19A,None,Presence of Uncommon Consonants,Thai,,,Abramson 1962
+15,20A,Isolating/concatenative,Fusion of Selected Inflectional Formatives,Thai,,,Noss 1964
+16,21A,No case,Exponence of Selected Inflectional Formatives,Thai,,,Noss 1964
+17,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Thai,,,Noss 1964
+18,22A,2-3 categories per word,Inflectional Synthesis of the Verb,Thai,,,Warotamasikkhadit 1972
+19,23A,No marking,Locus of Marking in the Clause,Thai,,,Noss 1964
+20,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Thai,,,Noss 1964
+21,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Thai,,,Noss 1964
+22,25B,Zero-marking,Zero Marking of A and P Arguments,Thai,,,Noss 1964
+23,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Thai,,,Warotamasikkhadit 1972
+24,27A,Productive full and partial reduplication,Reduplication,Thai,,,Haas 1946
+25,28A,No case marking,Case Syncretism,Thai,,,Morezh et al. 1961
+26,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Thai,,,Morezh et al. 1961
+27,30A,None,Number of Genders,Thai,,,Campbell and Shaweevongse 1962
+28,31A,No gender,Sex-based and Non-sex-based Gender Systems,Thai,,,Campbell and Shaweevongse 1962
+29,32A,No gender,Systems of Gender Assignment,Thai,,,Campbell and Shaweevongse 1962
+30,35A,Person-number stem,Plurality in Independent Personal Pronouns,Thai,,,Noss 1964
+31,36A,No associative plural,The Associative Plural,Thai,,,
+32,37A,"No definite, but indefinite article",Definite Articles,Thai,,,
+33,38A,Indefinite word distinct from 'one',Indefinite Articles,Thai,,,Anthony et al. 1968
+34,39A,'We' the same as 'I',Inclusive/Exclusive Distinction in Independent Pronouns,Thai,,,Noss 1964
+35,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Thai,,,Noss 1964
+36,43A,Unrelated,Third Person Pronouns and Demonstratives,Thai,,,Campbell and Shaweevongse 1957
+37,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Thai,,,Noss 1964
+38,45A,Pronouns avoided for politeness,Politeness Distinctions in Pronouns,Thai,,,Cooke 1968
+39,46A,Interrogative-based,Indefinite Pronouns,Thai,,,Diller 1994
+40,47A,Identical,Intensifiers and Reflexive Pronouns,Thai,,,Noss 1964
+41,48A,No person marking,Person Marking on Adpositions,Thai,,,Noss 1964
+42,49A,No morphological case-marking,Number of Cases,Thai,,,Campbell 2000
+43,50A,No case-marking,Asymmetrical Case-Marking,Thai,,,Campbell 2000
+44,51A,No case affixes or adpositional clitics,Position of Case Affixes,Thai,,,
+45,52A,Differentiation,Comitatives and Instrumentals,Thai,,,Yates and Tryon 1970
+46,53A,"First/one-th, two-th, three-th",Ordinal Numerals,Thai,,,Yates and Tryon 1970
+47,54A,No distributive numerals,Distributive Numerals,Thai,,,
+48,55A,Obligatory,Numeral Classifiers,Thai,,,
+49,56A,"Formally similar, with interrogative",Conjunctions and Universal Quantifiers,Thai,,,Noss 1964
+50,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Thai,,,
+51,58A,Absent,Obligatory Possessive Inflection,Thai,,,Noss 1964
+52,58B,None reported,Number of Possessive Nouns,Thai,,,Noss 1964
+53,59A,No possessive classification,Possessive Classification,Thai,,,Noss 1964
+54,60A,Moderately differentiated in other ways,"Genitives, Adjectives and Relative Clauses",Thai,,,
+55,61A,Without marking,Adjectives without Nouns,Thai,,,
+56,62A,Mixed,Action Nominal Constructions,Thai,,,
+57,63A,'And' different from 'with',Noun Phrase Conjunction,Thai,,,Noss 1964
+58,64A,Identity,Nominal and Verbal Conjunction,Thai,,,
+59,65A,No grammatical marking,Perfective/Imperfective Aspect,Thai,,,Dahl 1985
+60,66A,No past tense,The Past Tense,Thai,,,Dahl 1985
+61,67A,No inflectional future,The Future Tense,Thai,,,Dahl 1985
+62,68A,"From 'finish', 'already'",The Perfect,Thai,,,Dahl 1985
+63,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Thai,,,
+64,70A,No second-person imperatives,The Morphological Imperative,Thai,,,Needleman 1973
+65,71A,Normal imperative + special negative,The Prohibitive,Thai,,,Needleman 1973
+66,72A,Neither type of system,Imperative-Hortative Systems,Thai,,,Noss 1964
+67,73A,Inflectional optative absent,The Optative,Thai,,,Warotamasikkhadit 1972
+68,74A,Verbal constructions,Situational Possibility,Thai,,,Noss 1964
+69,75A,Verbal constructions,Epistemic Possibility,Thai,,,Noss 1964
+70,76A,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Thai,,,Noss 1964
+71,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Thai,,,Burusphat 1991
+72,78A,No grammatical evidentials,Coding of Evidentiality,Thai,,,Burusphat 1991
+73,79A,None,Suppletion According to Tense and Aspect,Thai,,,Noss 1964
+74,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Thai,,,
+75,80A,None,Verbal Number and Suppletion,Thai,,,Noss 1964
+76,81A,SVO,"Order of Subject, Object and Verb",Thai,,,Warotamasikkhadit 1972
+77,82A,SV,Order of Subject and Verb,Thai,,,Warotamasikkhadit 1972
+78,83A,VO,Order of Object and Verb,Thai,,,Warotamasikkhadit 1972
+79,84A,VOX,"Order of Object, Oblique, and Verb",Thai,,,
+80,85A,Prepositions,Order of Adposition and Noun Phrase,Thai,,,Warotamasikkhadit 1972
+81,86A,Noun-Genitive,Order of Genitive and Noun,Thai,,,Warotamasikkhadit 1972
+82,87A,Noun-Adjective,Order of Adjective and Noun,Thai,,,Warotamasikkhadit 1972
+83,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Thai,,,Warotamasikkhadit 1972
+84,89A,Noun-Numeral,Order of Numeral and Noun,Thai,,,Warotamasikkhadit 1972
+85,90A,Noun-Relative clause,Order of Relative Clause and Noun,Thai,,,Warotamasikkhadit 1972
+86,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Thai,,,Warotamasikkhadit 1972
+87,91A,Adjective-Degree word,Order of Degree Word and Adjective,Thai,,,Warotamasikkhadit 1972
+88,92A,Final,Position of Polar Question Particles,Thai,,,Warotamasikkhadit 1972
+89,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Thai,,,Warotamasikkhadit 1972
+90,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Thai,,,Warotamasikkhadit 1972
+91,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Thai,,,
+92,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Thai,,,
+93,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Thai,,,
+94,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Thai,,,Smyth 2002
+95,99A,Neutral,Alignment of Case Marking of Pronouns,Thai,,,Smyth 2002
+96,100A,Neutral,Alignment of Verbal Person Marking,Thai,,,Noss 1964
+97,101A,Optional pronouns in subject position,Expression of Pronominal Subjects,Thai,,,
+98,102A,No person marking,Verbal Person Marking,Thai,,,Noss 1964
+99,103A,No person marking,Third Person Zero of Verbal Person Marking,Thai,,,Noss 1964
+100,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Thai,,,Noss 1964
+101,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Thai,,,
+102,106A,Distinct from reflexive,Reciprocal Constructions,Thai,,,Warotamasikkhadit 1972
+103,107A,Present,Passive Constructions,Thai,,,Noss 1964
+104,108A,No antipassive,Antipassive Constructions,Thai,,,Noss 1964
+105,108B,no antipassive,Productivity of the Antipassive Construction,Thai,,,Noss 1964
+106,109A,No applicative construction,Applicative Constructions,Thai,,,Needleman 1973
+107,109B,No applicative construction,Other Roles of Applied Objects,Thai,,,
+108,110A,Both,Periphrastic Causative Constructions,Thai,,,Vichit-Vadakan 1976
+109,111A,Neither,Nonperiphrastic Causative Constructions,Thai,,,Vichit-Vadakan 1976
+110,112A,Negative auxiliary verb,Negative Morphemes,Thai,,,Anthony et al. 1968
+111,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Thai,,,Yates and Tryon 1970
+112,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Thai,,,Yates and Tryon 1970
+113,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Thai,,,
+114,116A,Question particle,Polar Questions,Thai,,,Warotamasikkhadit 1972
+115,117A,Topic,Predicative Possession,Thai,,,Warotamasikkhadit 1972
+116,118A,Verbal encoding,Predicative Adjectives,Thai,,,Noss 1964
+117,119A,Different,Nominal and Locational Predication,Thai,,,Noss 1964
+118,120A,Possible,Zero Copula for Predicate Nominals,Thai,,,Noss 1964
+119,121A,Exceed,Comparative Constructions,Thai,,,Noss 1964
+120,122A,Gap,Relativization on Subjects,Thai,,,
+121,123A,Gap,Relativization on Obliques,Thai,,,
+122,124A,Subject is left implicit,'Want' Complement Subjects,Thai,,,Diller 1994
+123,129A,Different,Hand and Arm,Thai,,,Robertson 1969
+124,130A,Different,Finger and Hand,Thai,,,Robertson 1969
+125,131A,Decimal,Numeral Bases,Thai,,,Smyth 2002
+126,138A,Words derived from Sinitic cha,Tea,Thai,,,Malherbe and Rosenberg 1996
+127,142A,Affective meanings,Para-Linguistic Usages of Clicks,Thai,,,
+128,143A,NegV,Order of Negative Morpheme and Verb,Thai,,,Warotamasikkhadit 1972
+129,143E,NegV,Preverbal Negative Morphemes,Thai,,,Warotamasikkhadit 1972
+130,143F,None,Postverbal Negative Morphemes,Thai,,,Warotamasikkhadit 1972
+131,143G,None,Minor morphological means of signaling negation,Thai,,,Warotamasikkhadit 1972
+132,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Thai,,,Anthony et al. 1968
+133,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Thai,,,Anthony et al. 1968
+134,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Thai,,,Anthony et al. 1968
+135,144H,No NegSVO,NegSVO Order,Thai,,,Anthony et al. 1968
+136,144I,Word&NoDoubleNeg,SNegVO Order,Thai,,,Anthony et al. 1968
+137,144J,No SVNegO,SVNegO Order,Thai,,,Anthony et al. 1968
+138,144K,No SVONeg,SVONeg Order,Thai,,,Anthony et al. 1968

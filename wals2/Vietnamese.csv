@@ -1,0 +1,144 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Vietnamese,,,Emeneau 1951
+1,2A,Large (7-14),Vowel Quality Inventories,Vietnamese,,,Emeneau 1951
+2,3A,Low,Consonant-Vowel Ratio,Vietnamese,,,Emeneau 1951
+3,4A,In fricatives alone,Voicing in Plosives and Fricatives,Vietnamese,,,Emeneau 1951
+4,5A,Other,Voicing and Gaps in Plosive Systems,Vietnamese,,,Emeneau 1951
+5,6A,None,Uvular Consonants,Vietnamese,,,Emeneau 1951
+6,7A,Implosives only,Glottalized Consonants,Vietnamese,,,Emeneau 1951
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Vietnamese,,,Emeneau 1951
+8,9A,Initial velar nasal,The Velar Nasal,Vietnamese,,,Nguyen 1966
+9,10A,Contrast absent,Vowel Nasalization,Vietnamese,,,Thompson 1965
+10,11A,None,Front Rounded Vowels,Vietnamese,,,Emeneau 1951
+11,12A,Moderately complex,Syllable Structure,Vietnamese,,,Emeneau 1951
+12,13A,Complex tone system,Tone,Vietnamese,,,Emeneau 1951
+13,18A,All present,Absence of Common Consonants,Vietnamese,,,Emeneau 1951
+14,19A,None,Presence of Uncommon Consonants,Vietnamese,,,Emeneau 1951
+15,20A,Exclusively isolating,Fusion of Selected Inflectional Formatives,Vietnamese,,,Thompson 1965
+16,21A,No case,Exponence of Selected Inflectional Formatives,Vietnamese,,,Thompson 1965
+17,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Vietnamese,,,Thompson 1965
+18,22A,0-1 category per word,Inflectional Synthesis of the Verb,Vietnamese,,,Thompson 1965
+19,23A,No marking,Locus of Marking in the Clause,Vietnamese,,,Thompson 1965
+20,24A,No marking,Locus of Marking in Possessive Noun Phrases,Vietnamese,,,Thompson 1965
+21,25A,Zero-marking,Locus of Marking: Whole-language Typology,Vietnamese,,,Thompson 1965
+22,25B,Zero-marking,Zero Marking of A and P Arguments,Vietnamese,,,Thompson 1965
+23,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Vietnamese,,,Thompson 1965
+24,27A,Productive full and partial reduplication,Reduplication,Vietnamese,,,Nguyen 2001
+25,28A,No case marking,Case Syncretism,Vietnamese,,,Solncev et al. 1960
+26,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Vietnamese,,,Solncev et al. 1960
+27,30A,None,Number of Genders,Vietnamese,,,Thompson 1965
+28,31A,No gender,Sex-based and Non-sex-based Gender Systems,Vietnamese,,,Thompson 1965
+29,32A,No gender,Systems of Gender Assignment,Vietnamese,,,Thompson 1965
+30,33A,Plural word,Coding of Nominal Plurality,Vietnamese,,,Thompson 1965
+31,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Vietnamese,,,Nguyen 1997
+32,35A,Person stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Vietnamese,,,Emeneau 1951
+33,36A,No associative plural,The Associative Plural,Vietnamese,,,
+34,37A,Definite word distinct from demonstrative,Definite Articles,Vietnamese,,,Binh 1971
+35,39A,'We' the same as 'I',Inclusive/Exclusive Distinction in Independent Pronouns,Vietnamese,,,Thompson 1987
+36,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Vietnamese,,,Thompson 1987
+37,41A,Two-way contrast,Distance Contrasts in Demonstratives,Vietnamese,,,Thompson 1965
+38,43A,Related to remote demonstratives,Third Person Pronouns and Demonstratives,Vietnamese,,,Thompson 1991
+39,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Vietnamese,,,Thompson 1965
+40,45A,Pronouns avoided for politeness,Politeness Distinctions in Pronouns,Vietnamese,,,Thompson 1965
+41,46A,Interrogative-based,Indefinite Pronouns,Vietnamese,,,Nguyen 1997
+42,47A,Identical,Intensifiers and Reflexive Pronouns,Vietnamese,,,Nguyen 1997
+43,48A,No person marking,Person Marking on Adpositions,Vietnamese,,,Thompson 1965
+44,49A,No morphological case-marking,Number of Cases,Vietnamese,,,Nguyen 1997
+45,50A,No case-marking,Asymmetrical Case-Marking,Vietnamese,,,Nguyen 1997
+46,51A,No case affixes or adpositional clitics,Position of Case Affixes,Vietnamese,,,Binh 1971
+47,53A,Various,Ordinal Numerals,Vietnamese,,,Hoàng 1982
+48,54A,No distributive numerals,Distributive Numerals,Vietnamese,,,Thompson 1965
+49,55A,Obligatory,Numeral Classifiers,Vietnamese,,,Thompson 1965
+50,56A,"Formally similar, with interrogative",Conjunctions and Universal Quantifiers,Vietnamese,,,Thompson 1965
+51,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Vietnamese,,,Binh 1971
+52,58A,Absent,Obligatory Possessive Inflection,Vietnamese,,,Thompson 1965
+53,58B,None reported,Number of Possessive Nouns,Vietnamese,,,Thompson 1965
+54,59A,No possessive classification,Possessive Classification,Vietnamese,,,Thompson 1965
+55,60A,Adjectives and relative clauses collapsed,"Genitives, Adjectives and Relative Clauses",Vietnamese,,,
+56,61A,Marked by preceding word,Adjectives without Nouns,Vietnamese,,,
+57,62A,Possessive-Accusative,Action Nominal Constructions,Vietnamese,,,
+58,63A,'And' different from 'with',Noun Phrase Conjunction,Vietnamese,,,Van Chinh 1970
+59,64A,Identity,Nominal and Verbal Conjunction,Vietnamese,,,Nguyen 1997
+60,65A,No grammatical marking,Perfective/Imperfective Aspect,Vietnamese,,,Thompson 1965
+61,66A,No past tense,The Past Tense,Vietnamese,,,Thompson 1965
+62,67A,No inflectional future,The Future Tense,Vietnamese,,,Thompson 1965
+63,68A,Other perfect,The Perfect,Vietnamese,,,Thompson 1965
+64,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Vietnamese,,,Binh 1971
+65,70A,No second-person imperatives,The Morphological Imperative,Vietnamese,,,Thompson 1965
+66,71A,Normal imperative + special negative,The Prohibitive,Vietnamese,,,Thompson 1965
+67,72A,Neither type of system,Imperative-Hortative Systems,Vietnamese,,,Thompson 1965
+68,73A,Inflectional optative absent,The Optative,Vietnamese,,,Thompson 1965
+69,74A,Verbal constructions,Situational Possibility,Vietnamese,,,Emeneau 1951
+70,75A,Verbal constructions,Epistemic Possibility,Vietnamese,,,Vu 1998
+71,76A,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Vietnamese,,,Vu 1998
+72,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Vietnamese,,,Nguyen 1997
+73,78A,No grammatical evidentials,Coding of Evidentiality,Vietnamese,,,Nguyen 1997
+74,79A,None,Suppletion According to Tense and Aspect,Vietnamese,,,Thompson 1965
+75,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Vietnamese,,,
+76,80A,None,Verbal Number and Suppletion,Vietnamese,,,Thompson 1965
+77,81A,SVO,"Order of Subject, Object and Verb",Vietnamese,,,Binh 1971
+78,82A,SV,Order of Subject and Verb,Vietnamese,,,Binh 1971
+79,83A,VO,Order of Object and Verb,Vietnamese,,,Binh 1971
+80,84A,VOX,"Order of Object, Oblique, and Verb",Vietnamese,,,Binh 1971
+81,85A,Prepositions,Order of Adposition and Noun Phrase,Vietnamese,,,Thompson 1965
+82,86A,Noun-Genitive,Order of Genitive and Noun,Vietnamese,,,Thompson 1965
+83,87A,Noun-Adjective,Order of Adjective and Noun,Vietnamese,,,Thompson 1965
+84,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Vietnamese,,,Thompson 1965
+85,89A,Numeral-Noun,Order of Numeral and Noun,Vietnamese,,,Thompson 1965
+86,90A,Noun-Relative clause,Order of Relative Clause and Noun,Vietnamese,,,Thompson 1965
+87,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Vietnamese,,,Thompson 1965
+88,92A,Final,Position of Polar Question Particles,Vietnamese,,,Thompson 1965
+89,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Vietnamese,,,Thompson 1965
+90,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Vietnamese,,,Thompson 1965
+91,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Vietnamese,,,
+92,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Vietnamese,,,
+93,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Vietnamese,,,
+94,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Vietnamese,,,Thompson 1991
+95,99A,Neutral,Alignment of Case Marking of Pronouns,Vietnamese,,,Thompson 1991
+96,100A,Neutral,Alignment of Verbal Person Marking,Vietnamese,,,Thompson 1965
+97,101A,Optional pronouns in subject position,Expression of Pronominal Subjects,Vietnamese,,,Thompson 1965
+98,102A,No person marking,Verbal Person Marking,Vietnamese,,,Thompson 1965
+99,103A,No person marking,Third Person Zero of Verbal Person Marking,Vietnamese,,,Thompson 1965
+100,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Vietnamese,,,Thompson 1965
+101,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Vietnamese,,,Nguyen 1997
+102,106A,Distinct from reflexive,Reciprocal Constructions,Vietnamese,,,Bystrov and Stankevich 2007
+103,107A,Present,Passive Constructions,Vietnamese,,,Thompson 1965
+104,108A,No antipassive,Antipassive Constructions,Vietnamese,,,Thompson 1965
+105,108B,no antipassive,Productivity of the Antipassive Construction,Vietnamese,,,Thompson 1965
+106,109A,No applicative construction,Applicative Constructions,Vietnamese,,,Thompson 1965
+107,109B,No applicative construction,Other Roles of Applied Objects,Vietnamese,,,
+108,110A,Both,Periphrastic Causative Constructions,Vietnamese,,,Thompson 1965
+109,111A,Compound but no morphological,Nonperiphrastic Causative Constructions,Vietnamese,,,Thompson 1965
+110,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Vietnamese,,,Vu'ong-Gia-Thuy 1975
+111,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Vietnamese,,,Thompson 1965
+112,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Vietnamese,,,Thompson 1965
+113,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Vietnamese,,,Nguyen 1997
+114,116A,Question particle,Polar Questions,Vietnamese,,,Thompson 1965
+115,117A,Topic,Predicative Possession,Vietnamese,,,Thompson 1965
+116,118A,Verbal encoding,Predicative Adjectives,Vietnamese,,,Van Chinh 1970
+117,119A,Different,Nominal and Locational Predication,Vietnamese,,,Van Chinh 1970
+118,120A,Possible,Zero Copula for Predicate Nominals,Vietnamese,,,Van Chinh 1970
+119,121A,Exceed,Comparative Constructions,Vietnamese,,,Jones and Thong 1960
+120,122A,Gap,Relativization on Subjects,Vietnamese,,,Thompson 1987
+121,124A,Subject is left implicit,'Want' Complement Subjects,Vietnamese,,,Nguyen 1997
+122,125A,Balanced,Purpose Clauses,Vietnamese,,,Hung 1979
+123,126A,Balanced,'When' Clauses,Vietnamese,,,Hung 1979
+124,127A,Balanced,Reason Clauses,Vietnamese,,,Hung 1979
+125,128A,Balanced,Utterance Complement Clauses,Vietnamese,,,Hung 1979
+126,131A,Decimal,Numeral Bases,Vietnamese,,,Thompson 1991
+127,136A,No M-T pronouns,M-T Pronouns,Vietnamese,,,Thompson 1965
+128,136B,No m in first person singular,M in First Person Singular,Vietnamese,,,Thompson 1965
+129,137A,No N-M pronouns,N-M Pronouns,Vietnamese,,,Thompson 1965
+130,137B,m in second person singular,M in Second Person Singular,Vietnamese,,,Thompson 1965
+131,138A,Words derived from Sinitic cha,Tea,Vietnamese,,,Malherbe and Rosenberg 1996
+132,143A,NegV,Order of Negative Morpheme and Verb,Vietnamese,,,Thompson 1965
+133,143E,NegV,Preverbal Negative Morphemes,Vietnamese,,,Thompson 1965
+134,143F,None,Postverbal Negative Morphemes,Vietnamese,,,Thompson 1965
+135,143G,None,Minor morphological means of signaling negation,Vietnamese,,,Thompson 1965
+136,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Vietnamese,,,Vu'ong-Gia-Thuy 1975
+137,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Vietnamese,,,Vu'ong-Gia-Thuy 1975
+138,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Vietnamese,,,Vu'ong-Gia-Thuy 1975
+139,144H,No NegSVO,NegSVO Order,Vietnamese,,,Vu'ong-Gia-Thuy 1975
+140,144I,Word&NoDoubleNeg,SNegVO Order,Vietnamese,,,Vu'ong-Gia-Thuy 1975
+141,144J,No SVNegO,SVNegO Order,Vietnamese,,,Vu'ong-Gia-Thuy 1975
+142,144K,No SVONeg,SVONeg Order,Vietnamese,,,Vu'ong-Gia-Thuy 1975

@@ -1,0 +1,39 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tboli,,,Porter 1977
+1,33A,Plural word,Coding of Nominal Plurality,Tboli,,,Porter 1977
+2,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tboli,,,Porter 1977
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tboli,,,Porter 1977
+4,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tboli,,,Porter 1977
+5,81A,VSO,"Order of Subject, Object and Verb",Tboli,,,Porter 1977
+6,82A,VS,Order of Subject and Verb,Tboli,,,Porter 1977
+7,83A,VO,Order of Object and Verb,Tboli,,,Porter 1977
+8,85A,Prepositions,Order of Adposition and Noun Phrase,Tboli,,,Porter 1977
+9,86A,Noun-Genitive,Order of Genitive and Noun,Tboli,,,Porter 1977
+10,87A,Noun-Adjective,Order of Adjective and Noun,Tboli,,,Porter 1977
+11,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tboli,,,Porter 1977
+12,89A,Numeral-Noun,Order of Numeral and Noun,Tboli,,,Porter 1977
+13,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tboli,,,Porter 1977
+14,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tboli,,,Porter 1977
+15,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tboli,,,Porter 1977
+16,92A,Other position,Position of Polar Question Particles,Tboli,,,Porter 1977
+17,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tboli,,,Porter 1977
+18,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tboli,,,Porter 1977
+19,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tboli,,,
+20,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tboli,,,
+21,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tboli,,,
+22,112A,Negative particle,Negative Morphemes,Tboli,,,Porter 1977
+23,116A,Question particle,Polar Questions,Tboli,,,Porter 1977
+24,132A,5,Number of Non-Derived Basic Colour Categories,Tboli,,,
+25,133A,6-6.5,Number of Basic Colour Categories,Tboli,,,
+26,134A,Green/blue,Green and Blue,Tboli,,,
+27,135A,Red vs. yellow,Red and Yellow,Tboli,,,
+28,143A,NegV,Order of Negative Morpheme and Verb,Tboli,,,Porter 1977
+29,143E,NegV,Preverbal Negative Morphemes,Tboli,,,Porter 1977
+30,143F,None,Postverbal Negative Morphemes,Tboli,,,Porter 1977
+31,143G,None,Minor morphological means of signaling negation,Tboli,,,Porter 1977
+32,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Tboli,,,Porter 1977
+33,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tboli,,,Porter 1977
+34,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Tboli,,,Porter 1977
+35,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tboli,,,Porter 1977
+36,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tboli,,,Porter 1977
+37,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tboli,,,Porter 1977

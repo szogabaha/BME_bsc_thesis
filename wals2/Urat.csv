@@ -1,0 +1,34 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Urat,,,Sposato 2008
+1,33A,Plural word,Coding of Nominal Plurality,Urat,,,Sposato 2008
+2,51A,No case affixes or adpositional clitics,Position of Case Affixes,Urat,,,Sposato 2008
+3,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Urat,,,Sposato 2008
+4,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Urat,,,Sposato 2008
+5,81A,SVO,"Order of Subject, Object and Verb",Urat,,,Sposato 2008
+6,82A,SV,Order of Subject and Verb,Urat,,,Sposato 2008
+7,83A,VO,Order of Object and Verb,Urat,,,Sposato 2008
+8,86A,Noun-Genitive,Order of Genitive and Noun,Urat,,,Sposato 2008
+9,87A,Noun-Adjective,Order of Adjective and Noun,Urat,,,Sposato 2008
+10,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Urat,,,Sposato 2008
+11,89A,Noun-Numeral,Order of Numeral and Noun,Urat,,,Sposato 2008
+12,90A,Noun-Relative clause,Order of Relative Clause and Noun,Urat,,,Sposato 2008
+13,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Urat,,,Sposato 2008
+14,92A,Final,Position of Polar Question Particles,Urat,,,Sposato 2008
+15,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Urat,,,Sposato 2008
+16,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Urat,,,
+17,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Urat,,,
+18,112A,Negative particle,Negative Morphemes,Urat,,,Sposato 2008
+19,116A,Question particle,Polar Questions,Urat,,,Sposato 2008
+20,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Urat,,,Sposato 2008
+21,143C,NegV(Neg),Optional Double Negation,Urat,,,Sposato 2008
+22,143E,NegV,Preverbal Negative Morphemes,Urat,,,Sposato 2008
+23,143F,VNeg,Postverbal Negative Morphemes,Urat,,,Sposato 2008
+24,143G,None,Minor morphological means of signaling negation,Urat,,,Sposato 2008
+25,144A,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Urat,,,Sposato 2008
+26,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Urat,,,Sposato 2008
+27,144D,OptNeg,The Position of Negative Morphemes in SVO Languages,Urat,,,Sposato 2008
+28,144G,SNegVO(Neg),Optional Double Negation in SVO languages,Urat,,,Sposato 2008
+29,144H,No NegSVO,NegSVO Order,Urat,,,Sposato 2008
+30,144I,Word&OptDoubleNeg,SNegVO Order,Urat,,,Sposato 2008
+31,144J,No SVNegO,SVNegO Order,Urat,,,Sposato 2008
+32,144K,OnlyWithAnotherNeg,SVONeg Order,Urat,,,Sposato 2008

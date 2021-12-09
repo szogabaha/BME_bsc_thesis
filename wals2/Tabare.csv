@@ -1,0 +1,23 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,No plural,Coding of Nominal Plurality,Tabare,,,McVinney and Luzbetak 1954
+1,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tabare,,,McVinney and Luzbetak 1954
+2,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tabare,,,McVinney and Luzbetak 1954
+3,81A,SOV,"Order of Subject, Object and Verb",Tabare,,,McVinney and Luzbetak 1954
+4,82A,SV,Order of Subject and Verb,Tabare,,,McVinney and Luzbetak 1954
+5,83A,OV,Order of Object and Verb,Tabare,,,McVinney and Luzbetak 1954
+6,84A,XOV,"Order of Object, Oblique, and Verb",Tabare,,,McVinney and Luzbetak 1954
+7,86A,Genitive-Noun,Order of Genitive and Noun,Tabare,,,McVinney and Luzbetak 1954
+8,87A,Noun-Adjective,Order of Adjective and Noun,Tabare,,,McVinney and Luzbetak 1954
+9,89A,Noun-Numeral,Order of Numeral and Noun,Tabare,,,McVinney and Luzbetak 1954
+10,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tabare,,,
+11,112A,Negative affix,Negative Morphemes,Tabare,,,McVinney and Luzbetak 1954
+12,143A,[V-Neg],Order of Negative Morpheme and Verb,Tabare,,,McVinney and Luzbetak 1954
+13,143E,None,Preverbal Negative Morphemes,Tabare,,,McVinney and Luzbetak 1954
+14,143F,[V-Neg],Postverbal Negative Morphemes,Tabare,,,McVinney and Luzbetak 1954
+15,143G,None,Minor morphological means of signaling negation,Tabare,,,McVinney and Luzbetak 1954
+16,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tabare,,,McVinney and Luzbetak 1954
+17,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tabare,,,McVinney and Luzbetak 1954
+18,144P,No NegSOV,NegSOV Order,Tabare,,,McVinney and Luzbetak 1954
+19,144Q,No SNegOV,SNegOV Order,Tabare,,,McVinney and Luzbetak 1954
+20,144R,No SONegV,SONegV Order,Tabare,,,McVinney and Luzbetak 1954
+21,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tabare,,,McVinney and Luzbetak 1954

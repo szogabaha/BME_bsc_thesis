@@ -1,0 +1,13 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,83A,OV,Order of Object and Verb,Talysh (Southern),,,Stilo 2005
+1,85A,Postpositions,Order of Adposition and Noun Phrase,Talysh (Southern),,,Stilo 2005
+2,86A,Genitive-Noun,Order of Genitive and Noun,Talysh (Southern),,,Stilo 2005
+3,87A,Adjective-Noun,Order of Adjective and Noun,Talysh (Southern),,,Stilo 2005
+4,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Talysh (Southern),,,Stilo 2005
+5,89A,Numeral-Noun,Order of Numeral and Noun,Talysh (Southern),,,Stilo 2005
+6,90A,Noun-Relative clause,Order of Relative Clause and Noun,Talysh (Southern),,,Stilo 2005
+7,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Talysh (Southern),,,Stilo 2005
+8,91A,Degree word-Adjective,Order of Degree Word and Adjective,Talysh (Southern),,,Stilo 2005
+9,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Talysh (Southern),,,
+10,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Talysh (Southern),,,
+11,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Talysh (Southern),,,

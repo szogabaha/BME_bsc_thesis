@@ -1,0 +1,61 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,Initial velar nasal,The Velar Nasal,Udihe,,,Cincius 1975
+1,34A,"Only human nouns, optional",Occurrence of Nominal Plurality,Udihe,,,Nikolaeva and Tolskaya 2001
+2,36A,Associative same as additive plural,The Associative Plural,Udihe,,,Nikolaeva and Tolskaya 2001
+3,41A,Two-way contrast,Distance Contrasts in Demonstratives,Udihe,,,Nikolaeva and Tolskaya 2001
+4,42A,Different inflection,Pronominal and Adnominal Demonstratives,Udihe,,,Nikolaeva and Tolskaya 2001
+5,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Udihe,,,Nikolaeva and Tolskaya 2001
+6,46A,Interrogative-based,Indefinite Pronouns,Udihe,,,Nikolaeva and Tolskaya 2001
+7,48A,Pronouns and nouns,Person Marking on Adpositions,Udihe,,,Nikolaeva and Tolskaya 2001
+8,49A,8-9 cases,Number of Cases,Udihe,,,Nikolaeva and Tolskaya 2001
+9,50A,Symmetrical,Asymmetrical Case-Marking,Udihe,,,Nikolaeva and Tolskaya 2001
+10,54A,Marked by mixed or other strategies,Distributive Numerals,Udihe,,,Nikolaeva and Tolskaja n.d.
+11,64A,Identity,Nominal and Verbal Conjunction,Udihe,,,Nikolaeva and Tolskaya 2001
+12,70A,Second singular and second plural,The Morphological Imperative,Udihe,,,Nikolaeva and Tolskaya 2001
+13,71A,Normal imperative + normal negative,The Prohibitive,Udihe,,,Nikolaeva and Tolskaya 2001
+14,72A,Maximal system,Imperative-Hortative Systems,Udihe,,,Nikolaeva and Tolskaya 2001
+15,73A,Inflectional optative absent,The Optative,Udihe,,,Nikolaeva and Tolskaya 2001
+16,74A,Verbal constructions,Situational Possibility,Udihe,,,Nikolaeva and Tolskaya 2001
+17,75A,Affixes on verbs,Epistemic Possibility,Udihe,,,Nikolaeva and Tolskaya 2001
+18,76A,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Udihe,,,Nikolaeva and Tolskaya 2001
+19,81A,SOV,"Order of Subject, Object and Verb",Udihe,,,Nikolaeva and Tolskaya 2001
+20,82A,SV,Order of Subject and Verb,Udihe,,,Nikolaeva and Tolskaya 2001
+21,83A,OV,Order of Object and Verb,Udihe,,,Nikolaeva and Tolskaya 2001
+22,85A,Postpositions,Order of Adposition and Noun Phrase,Udihe,,,Nikolaeva and Tolskaya 2001
+23,86A,Genitive-Noun,Order of Genitive and Noun,Udihe,,,Nikolaeva and Tolskaya 2001
+24,87A,Adjective-Noun,Order of Adjective and Noun,Udihe,,,Nikolaeva and Tolskaya 2001
+25,90A,Mixed,Order of Relative Clause and Noun,Udihe,,,Nikolaeva and Tolskaya 2001
+26,90B,RelN or internally-headed,Prenominal relative clauses,Udihe,,,Nikolaeva and Tolskaya 2001
+27,90D,Internally-headed or RelN,Internally-headed relative clauses,Udihe,,,Nikolaeva and Tolskaya 2001
+28,92A,No question particle,Position of Polar Question Particles,Udihe,,,Nikolaeva and Tolskaya 2001
+29,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Udihe,,,Nikolaeva and Tolskaya 2001
+30,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Udihe,,,
+31,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Udihe,,,
+32,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Udihe,,,
+33,100A,Accusative,Alignment of Verbal Person Marking,Udihe,,,Nikolaeva and Tolskaya 2001
+34,102A,Only the A argument,Verbal Person Marking,Udihe,,,Nikolaeva and Tolskaya 2001
+35,103A,Zero in some 3sg forms,Third Person Zero of Verbal Person Marking,Udihe,,,Nikolaeva and Tolskaya 2001
+36,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Udihe,,,Nikolaeva and Tolskaya 2001
+37,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Udihe,,,Nikolaeva and Tolskaya 2001
+38,107A,Present,Passive Constructions,Udihe,,,Nikolaeva and Tolskaya 2001
+39,112A,Negative auxiliary verb,Negative Morphemes,Udihe,,,Nikolaeva and Tolskaya 2001
+40,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Udihe,,,Nikolaeva and Tolskaya 2001
+41,116A,Interrogative intonation only,Polar Questions,Udihe,,,Nikolaeva and Tolskaya 2001
+42,124A,Desiderative verbal affix,'Want' Complement Subjects,Udihe,,,Nikolaeva and Tolskaya 2001
+43,126A,Deranked,'When' Clauses,Udihe,,,Nikolaeva and Tolskaya 2001
+44,127A,Deranked,Reason Clauses,Udihe,,,Nikolaeva and Tolskaya 2001
+45,128A,Balanced/deranked,Utterance Complement Clauses,Udihe,,,Nikolaeva and Tolskaya 2001
+46,129A,Identical,Hand and Arm,Udihe,,,Nikolaeva and Tolskaya 2001
+47,130A,Different,Finger and Hand,Udihe,,,Nikolaeva and Tolskaya 2001
+48,142A,Other or none,Para-Linguistic Usages of Clicks,Udihe,,,
+49,143A,NegV,Order of Negative Morpheme and Verb,Udihe,,,Nikolaeva and Tolskaya 2001
+50,143E,NegV,Preverbal Negative Morphemes,Udihe,,,Nikolaeva and Tolskaya 2001
+51,143F,None,Postverbal Negative Morphemes,Udihe,,,Nikolaeva and Tolskaya 2001
+52,143G,None,Minor morphological means of signaling negation,Udihe,,,Nikolaeva and Tolskaya 2001
+53,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Udihe,,,Nikolaeva and Tolskaya 2001
+54,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Udihe,,,Nikolaeva and Tolskaya 2001
+55,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Udihe,,,Nikolaeva and Tolskaya 2001
+56,144P,No NegSOV,NegSOV Order,Udihe,,,Nikolaeva and Tolskaya 2001
+57,144Q,No SNegOV,SNegOV Order,Udihe,,,Nikolaeva and Tolskaya 2001
+58,144R,Word&NoDoubleNeg,SONegV Order,Udihe,,,Nikolaeva and Tolskaya 2001
+59,144S,NoSOVNeg,SOVNeg Order,Udihe,,,Nikolaeva and Tolskaya 2001

@@ -1,0 +1,15 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,SOV,"Order of Subject, Object and Verb",Yi (Wuding-Luquan),,,Gao 1958
+1,85A,Postpositions,Order of Adposition and Noun Phrase,Yi (Wuding-Luquan),,,Gao 1958
+2,86A,Genitive-Noun,Order of Genitive and Noun,Yi (Wuding-Luquan),,,Gao 1958
+3,87A,Noun-Adjective,Order of Adjective and Noun,Yi (Wuding-Luquan),,,Gao 1958
+4,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Yi (Wuding-Luquan),,,Gao 1958
+5,89A,Noun-Numeral,Order of Numeral and Noun,Yi (Wuding-Luquan),,,Gao 1958
+6,116A,Question particle,Polar Questions,Yi (Wuding-Luquan),,,Gao 1958
+7,143A,NegV,Order of Negative Morpheme and Verb,Yi (Wuding-Luquan),,,Gao 1958
+8,143E,NegV,Preverbal Negative Morphemes,Yi (Wuding-Luquan),,,Gao 1958
+9,143F,None,Postverbal Negative Morphemes,Yi (Wuding-Luquan),,,Gao 1958
+10,143G,None,Minor morphological means of signaling negation,Yi (Wuding-Luquan),,,Gao 1958
+11,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Yi (Wuding-Luquan),,,Gao 1958
+12,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Yi (Wuding-Luquan),,,Gao 1958
+13,144S,NoSOVNeg,SOVNeg Order,Yi (Wuding-Luquan),,,Gao 1958

@@ -1,0 +1,57 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Tacana,,,Key 1968
+1,2A,Small (2-4),Vowel Quality Inventories,Tacana,,,Key 1968
+2,3A,Moderately high,Consonant-Vowel Ratio,Tacana,,,Key 1968
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tacana,,,Key 1968
+4,5A,Missing /g/,Voicing and Gaps in Plosive Systems,Tacana,,,Key 1968
+5,6A,None,Uvular Consonants,Tacana,,,Key 1968
+6,7A,No glottalized consonants,Glottalized Consonants,Tacana,,,Key 1968
+7,8A,No laterals,Lateral Consonants,Tacana,,,Key 1968
+8,9A,No velar nasal,The Velar Nasal,Tacana,,,Ottaviano and Ottaviano 1967
+9,11A,None,Front Rounded Vowels,Tacana,,,Key 1968
+10,12A,Simple,Syllable Structure,Tacana,,,Key 1968
+11,13A,No tones,Tone,Tacana,,,Key 1968
+12,14A,Penultimate,Fixed Stress Locations,Tacana,,,Key 1968
+13,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tacana,,,Key 1968
+14,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tacana,,,Key 1968
+15,17A,Trochaic,Rhythm Types,Tacana,,,Key 1968
+16,18A,All present,Absence of Common Consonants,Tacana,,,Key 1968
+17,19A,'Th' sounds,Presence of Uncommon Consonants,Tacana,,,Key 1968
+18,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tacana,,,Ottaviano and Ottaviano 1967
+19,33A,Plural word,Coding of Nominal Plurality,Tacana,,,Ottaviano 1980
+20,37A,No definite or indefinite article,Definite Articles,Tacana,,,Ottaviano 1980
+21,38A,No definite or indefinite article,Indefinite Articles,Tacana,,,Ottaviano 1980
+22,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tacana,,,Ottaviano 1980
+23,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tacana,,,Ottaviano 1980
+24,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tacana,,,Ottaviano and Ottaviano 1967
+25,77A,Indirect only,Semantic Distinctions of Evidentiality,Tacana,,,Ottaviano and Ottaviano 1967
+26,78A,Separate particle,Coding of Evidentiality,Tacana,,,Ottaviano and Ottaviano 1967
+27,81A,No dominant order,"Order of Subject, Object and Verb",Tacana,,,Ottaviano 1980
+28,82A,SV,Order of Subject and Verb,Tacana,,,Ottaviano 1980
+29,83A,OV,Order of Object and Verb,Tacana,,,Ottaviano 1980
+30,84A,No dominant order,"Order of Object, Oblique, and Verb",Tacana,,,Ottaviano 1980
+31,85A,Postpositions,Order of Adposition and Noun Phrase,Tacana,,,Ottaviano and Ottaviano 1967
+32,86A,Genitive-Noun,Order of Genitive and Noun,Tacana,,,Ottaviano and Ottaviano 1967
+33,87A,No dominant order,Order of Adjective and Noun,Tacana,,,Ottaviano and Ottaviano 1967
+34,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tacana,,,Ottaviano 1980
+35,92A,Initial,Position of Polar Question Particles,Tacana,,,Ottaviano and Ottaviano 1967
+36,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tacana,,,Ottaviano and Ottaviano 1967
+37,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Tacana,,,Ottaviano and Ottaviano 1967
+38,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tacana,,,
+39,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tacana,,,
+40,112A,Negative particle,Negative Morphemes,Tacana,,,Ottaviano and Ottaviano 1967
+41,116A,Question particle,Polar Questions,Tacana,,,Ottaviano and Ottaviano 1967
+42,129A,Different,Hand and Arm,Tacana,,,Van Wynen and Van Wynen 1962
+43,130A,Different,Finger and Hand,Tacana,,,Van Wynen and Van Wynen 1962
+44,132A,5.5,Number of Non-Derived Basic Colour Categories,Tacana,,,
+45,133A,6-6.5,Number of Basic Colour Categories,Tacana,,,
+46,134A,Green/blue,Green and Blue,Tacana,,,
+47,135A,Red/yellow,Red and Yellow,Tacana,,,
+48,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Tacana,,,Ottaviano and Ottaviano 1967
+49,143C,NegV/VNeg/NegVNeg,Optional Double Negation,Tacana,,,Ottaviano and Ottaviano 1967
+50,143E,NegV,Preverbal Negative Morphemes,Tacana,,,Ottaviano and Ottaviano 1967
+51,143F,VNeg,Postverbal Negative Morphemes,Tacana,,,Ottaviano and Ottaviano 1967
+52,143G,None,Minor morphological means of signaling negation,Tacana,,,Ottaviano and Ottaviano 1967
+53,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Tacana,,,Ottaviano and Ottaviano 1967
+54,144L,OptDoubleNeg,The Position of Negative Morphemes in SOV Languages,Tacana,,,Ottaviano and Ottaviano 1967
+55,144O,SV & OV & (Neg)V(Neg),Optional Double Negation in SOV languages,Tacana,,,Ottaviano and Ottaviano 1967

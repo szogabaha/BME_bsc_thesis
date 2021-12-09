@@ -1,0 +1,148 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-prs,Average,Consonant Inventories,Persian,,,Majidi and Ternes 1999;Obolensky et al. 1963
+2A-prs,Average (5-6),Vowel Quality Inventories,Persian,,,Majidi and Ternes 1999;Obolensky et al. 1963
+3A-prs,Average,Consonant-Vowel Ratio,Persian,,,Obolensky et al. 1963;Majidi and Ternes 1999
+4A-prs,In both plosives and fricatives,Voicing in Plosives and Fricatives,Persian,,,Majidi and Ternes 1999;Obolensky et al. 1963
+5A-prs,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Persian,,,Majidi and Ternes 1999;Obolensky et al. 1963
+6A-prs,Uvular stops only,Uvular Consonants,Persian,,,Obolensky et al. 1963;Majidi and Ternes 1999
+7A-prs,No glottalized consonants,Glottalized Consonants,Persian,,,Majidi and Ternes 1999;Obolensky et al. 1963
+8A-prs,"/l/, no obstruent laterals",Lateral Consonants,Persian,,,Obolensky et al. 1963;Majidi and Ternes 1999
+9A-prs,No velar nasal,The Velar Nasal,Persian,,,Elwell-Sutton 1963;Elwell-Sutton 1941
+10A-prs,Contrast absent,Vowel Nasalization,Persian,,,Majidi and Ternes 1999
+11A-prs,None,Front Rounded Vowels,Persian,,,Obolensky et al. 1963;Majidi and Ternes 1999
+12A-prs,Complex,Syllable Structure,Persian,,,Majidi and Ternes 1999;Obolensky et al. 1963
+13A-prs,No tones,Tone,Persian,,,Obolensky et al. 1963;Majidi and Ternes 1999
+14A-prs,Ultimate,Fixed Stress Locations,Persian,,,Lambton 1953
+15A-prs,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Persian,,,Lambton 1953
+16A-prs,No weight,Weight Factors in Weight-Sensitive Stress Systems,Persian,,,Lambton 1953
+18A-prs,All present,Absence of Common Consonants,Persian,,,Majidi and Ternes 1999;Obolensky et al. 1963
+19A-prs,None,Presence of Uncommon Consonants,Persian,,,Obolensky et al. 1963;Majidi and Ternes 1999
+20A-prs,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Persian,,,Mahootian 1997;Lazard 1957a;Lambton 1974;Majidi 1986;Rastorgueva 1964
+21A-prs,Monoexponential case,Exponence of Selected Inflectional Formatives,Persian,,,Mahootian 1997;Lazard 1957a;Lambton 1974;Rastorgueva 1964;Majidi 1986
+21B-prs,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Persian,,,Rastorgueva 1964;Lazard 1957a;Lambton 1974;Mahootian 1997;Majidi 1986
+22A-prs,4-5 categories per word,Inflectional Synthesis of the Verb,Persian,,,Rastorgueva 1964;Lambton 1974
+23A-prs,Double marking,Locus of Marking in the Clause,Persian,,,Lazard 1992;Mahootian 1997
+24A-prs,Head marking,Locus of Marking in Possessive Noun Phrases,Persian,,,Lazard 1992;Mahootian 1997
+25A-prs,Inconsistent or other,Locus of Marking: Whole-language Typology,Persian,,,Lazard 1992;Mahootian 1997
+25B-prs,Non-zero marking,Zero Marking of A and P Arguments,Persian,,,Lazard 1992;Mahootian 1997
+26A-prs,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Persian,,,Elwell-Sutton 1963;Lazard 1957a;Lambton 1967;Rastorgueva 1964;Elwell-Sutton 1941
+27A-prs,Productive full and partial reduplication,Reduplication,Persian,,,Mahootian 1997
+28A-prs,No case marking,Case Syncretism,Persian,,,Rubinchik 1960
+29A-prs,Not syncretic,Syncretism in Verbal Person/Number Marking,Persian,,,Rubinchik 1960
+30A-prs,None,Number of Genders,Persian,,,Lambton 1974
+31A-prs,No gender,Sex-based and Non-sex-based Gender Systems,Persian,,,Lambton 1974
+32A-prs,No gender,Systems of Gender Assignment,Persian,,,Lambton 1974
+33A-prs,Plural suffix,Coding of Nominal Plurality,Persian,,,Rastorgueva 1964;Lambton 1967
+35A-prs,Person-number stem,Plurality in Independent Personal Pronouns,Persian,,,Mahootian 1997
+36A-prs,Unique periphrastic associative plural,The Associative Plural,Persian,,,
+37A-prs,"No definite, but indefinite article",Definite Articles,Persian,,,Rastorgueva 1964
+39A-prs,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Persian,,,Majidi 1990
+40A-prs,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Persian,,,Majidi 1990
+41A-prs,Two-way contrast,Distance Contrasts in Demonstratives,Persian,,,Mahootian 1997
+42A-prs,Different inflection,Pronominal and Adnominal Demonstratives,Persian,,,Mahootian 1997
+43A-prs,Related for non-human reference,Third Person Pronouns and Demonstratives,Persian,,,Rastorgueva 1964
+44A-prs,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Persian,,,Mahootian 1997
+45A-prs,Binary politeness distinction,Politeness Distinctions in Pronouns,Persian,,,Mahootian 1997
+46A-prs,Generic-noun-based,Indefinite Pronouns,Persian,,,Mahootian 1997
+47A-prs,Identical,Intensifiers and Reflexive Pronouns,Persian,,,Mahootian 1997
+48A-prs,Pronouns only,Person Marking on Adpositions,Persian,,,Mahootian 1997
+49A-prs,2 cases,Number of Cases,Persian,,,Mahootian 1997
+50A-prs,Symmetrical,Asymmetrical Case-Marking,Persian,,,Mahootian 1997
+51A-prs,No case affixes or adpositional clitics,Position of Case Affixes,Persian,,,Rastorgueva 1964
+52A-prs,Identity,Comitatives and Instrumentals,Persian,,,Alavi and Lorenz 1988
+53A-prs,"First/one-th, two-th, three-th",Ordinal Numerals,Persian,,,Alavi and Lorenz 1988
+54A-prs,No distributive numerals,Distributive Numerals,Persian,,,
+55A-prs,Optional,Numeral Classifiers,Persian,,,Mahootian 1997
+56A-prs,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Persian,,,Netzer 1971
+57A-prs,No possessive affixes,Position of Pronominal Possessive Affixes,Persian,,,Rastorgueva 1964
+58A-prs,Absent,Obligatory Possessive Inflection,Persian,,,Mahootian 1997;Lazard 1992
+58B-prs,None reported,Number of Possessive Nouns,Persian,,,Mahootian 1997;Lazard 1992
+59A-prs,No possessive classification,Possessive Classification,Persian,,,Lazard 1992;Mahootian 1997
+60A-prs,Genitives and adjectives collapsed,"Genitives, Adjectives and Relative Clauses",Persian,,,Netzer 1971
+61A-prs,Without marking,Adjectives without Nouns,Persian,,,Jones 1809
+62A-prs,Ergative-Possessive,Action Nominal Constructions,Persian,,,
+63A-prs,'And' different from 'with',Noun Phrase Conjunction,Persian,,,Lazard 1957b
+64A-prs,Identity,Nominal and Verbal Conjunction,Persian,,,Mahootian 1997
+65A-prs,Grammatical marking,Perfective/Imperfective Aspect,Persian,,,Dahl 1985
+66A-prs,"Present, no remoteness distinctions",The Past Tense,Persian,,,Dahl 1985
+67A-prs,No inflectional future,The Future Tense,Persian,,,Dahl 1985
+68A-prs,No perfect,The Perfect,Persian,,,Dahl 1985
+69A-prs,Mixed type,Position of Tense-Aspect Affixes,Persian,,,Lambton 1967
+70A-prs,Second singular,The Morphological Imperative,Persian,,,Lazard 1992;Mahootian 1997
+71A-prs,Normal imperative + normal negative,The Prohibitive,Persian,,,Lazard 1992;Mahootian 1997
+72A-prs,Minimal system,Imperative-Hortative Systems,Persian,,,Mahootian 1997
+73A-prs,Inflectional optative absent,The Optative,Persian,,,Lambton 1967
+74A-prs,Verbal constructions,Situational Possibility,Persian,,,Windfuhr 1979;Mahootian 1997
+75A-prs,Other,Epistemic Possibility,Persian,,,Mahootian 1997;Windfuhr 1979
+76A-prs,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Persian,,,Mahootian 1997;Windfuhr 1979
+77A-prs,Direct and indirect,Semantic Distinctions of Evidentiality,Persian,,,Windfuhr 1982
+78A-prs,Part of the tense system,Coding of Evidentiality,Persian,,,Windfuhr 1982
+79A-prs,Tense and aspect,Suppletion According to Tense and Aspect,Persian,,,
+79B-prs,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Persian,,,
+80A-prs,None,Verbal Number and Suppletion,Persian,,,Lazard 1992
+81A-prs,SOV,"Order of Subject, Object and Verb",Persian,,,Elwell-Sutton 1941;Rastorgueva 1964;Lambton 1967;Lazard 1957a
+82A-prs,SV,Order of Subject and Verb,Persian,,,Rastorgueva 1964;Elwell-Sutton 1941;Lazard 1957a;Lambton 1967
+83A-prs,OV,Order of Object and Verb,Persian,,,Elwell-Sutton 1941;Lazard 1957a;Rastorgueva 1964;Lambton 1967
+85A-prs,Prepositions,Order of Adposition and Noun Phrase,Persian,,,Elwell-Sutton 1941;Rastorgueva 1964
+86A-prs,Noun-Genitive,Order of Genitive and Noun,Persian,,,Elwell-Sutton 1963;Rastorgueva 1964
+87A-prs,Noun-Adjective,Order of Adjective and Noun,Persian,,,Rastorgueva 1964;Lambton 1967;Lazard 1957a
+88A-prs,Demonstrative-Noun,Order of Demonstrative and Noun,Persian,,,Rastorgueva 1964;Lambton 1967
+89A-prs,Numeral-Noun,Order of Numeral and Noun,Persian,,,Rastorgueva 1964;Lambton 1967
+90A-prs,Noun-Relative clause,Order of Relative Clause and Noun,Persian,,,Rastorgueva 1964
+90C-prs,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Persian,,,Rastorgueva 1964
+91A-prs,Degree word-Adjective,Order of Degree Word and Adjective,Persian,,,Lazard 1957a;Lambton 1967
+92A-prs,Initial,Position of Polar Question Particles,Persian,,,Lambton 1967
+93A-prs,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Persian,,,Elwell-Sutton 1941;Lazard 1957a
+94A-prs,Initial subordinator word,Order of Adverbial Subordinator and Clause,Persian,,,Lambton 1967;Lazard 1957a;Rastorgueva 1964
+95A-prs,OV and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Persian,,,
+96A-prs,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Persian,,,
+97A-prs,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Persian,,,
+98A-prs,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Persian,,,Mahootian 1997
+99A-prs,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Persian,,,Mahootian 1997
+100A-prs,Accusative,Alignment of Verbal Person Marking,Persian,,,Mahootian 1997
+101A-prs,Subject affixes on verb,Expression of Pronominal Subjects,Persian,,,Rastorgueva 1964;Lambton 1967
+102A-prs,Both the A and P arguments,Verbal Person Marking,Persian,,,Mahootian 1997
+103A-prs,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Persian,,,Mahootian 1997
+104A-prs,A precedes P,Order of Person Markers on the Verb,Persian,,,Mahootian 1997
+105A-prs,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Persian,,,Mahootian 1997
+106A-prs,Distinct from reflexive,Reciprocal Constructions,Persian,,,Mahootian 1997
+107A-prs,Present,Passive Constructions,Persian,,,Mahootian 1997
+108A-prs,No antipassive,Antipassive Constructions,Persian,,,
+108B-prs,no antipassive,Productivity of the Antipassive Construction,Persian,,,
+109A-prs,No applicative construction,Applicative Constructions,Persian,,,Boyle 1966
+109B-prs,No applicative construction,Other Roles of Applied Objects,Persian,,,
+110A-prs,Purposive but no sequential,Periphrastic Causative Constructions,Persian,,,Mahootian 1997
+111A-prs,Morphological but no compound,Nonperiphrastic Causative Constructions,Persian,,,Mahootian 1997
+112A-prs,Negative affix,Negative Morphemes,Persian,,,Lambton 1967;Rastorgueva 1964
+113A-prs,Symmetric,Symmetric and Asymmetric Standard Negation,Persian,,,Lazard 1957b
+114A-prs,Non-assignable,Subtypes of Asymmetric Standard Negation,Persian,,,Lazard 1957b
+115A-prs,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Persian,,,Mahootian 1997;Haspelmath 1997
+116A-prs,Question particle,Polar Questions,Persian,,,Lambton 1967
+117A-prs,'Have',Predicative Possession,Persian,,,Lambton 1967
+118A-prs,Nonverbal encoding,Predicative Adjectives,Persian,,,Windfuhr 1987
+119A-prs,Identical,Nominal and Locational Predication,Persian,,,Windfuhr 1987
+120A-prs,Impossible,Zero Copula for Predicate Nominals,Persian,,,Windfuhr 1987
+122A-prs,Gap,Relativization on Subjects,Persian,,,Comrie 1981b
+123A-prs,Pronoun-retention,Relativization on Obliques,Persian,,,Comrie 1981b
+124A-prs,Subject is expressed overtly,'Want' Complement Subjects,Persian,,,Mahootian 1997
+125A-prs,Deranked,Purpose Clauses,Persian,,,Mahootian 1997
+126A-prs,Balanced,'When' Clauses,Persian,,,Mahootian 1997
+127A-prs,Balanced,Reason Clauses,Persian,,,Mahootian 1997
+128A-prs,Balanced,Utterance Complement Clauses,Persian,,,Mahootian 1997
+131A-prs,Decimal,Numeral Bases,Persian,,,Mahootian 1997
+136A-prs,"M-T pronouns, paradigmatic",M-T Pronouns,Persian,,,Mahootian 1997
+136B-prs,m in first person singular,M in First Person Singular,Persian,,,Mahootian 1997
+137A-prs,No N-M pronouns,N-M Pronouns,Persian,,,Mahootian 1997
+137B-prs,No m in second person singular,M in Second Person Singular,Persian,,,Mahootian 1997
+138A-prs,Words derived from Sinitic cha,Tea,Persian,,,Malherbe and Rosenberg 1996
+142A-prs,Logical meanings,Para-Linguistic Usages of Clicks,Persian,,,
+143A-prs,[Neg-V],Order of Negative Morpheme and Verb,Persian,,,Lambton 1967;Rastorgueva 1964
+143E-prs,[Neg-V],Preverbal Negative Morphemes,Persian,,,Lambton 1967;Rastorgueva 1964
+143F-prs,None,Postverbal Negative Morphemes,Persian,,,Rastorgueva 1964;Lambton 1967
+143G-prs,None,Minor morphological means of signaling negation,Persian,,,Lambton 1967;Rastorgueva 1964
+144A-prs,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Persian,,,Lambton 1967;Rastorgueva 1964
+144L-prs,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Persian,,,Lambton 1967;Rastorgueva 1964
+144P-prs,No NegSOV,NegSOV Order,Persian,,,Rastorgueva 1964;Lambton 1967
+144Q-prs,No SNegOV,SNegOV Order,Persian,,,Rastorgueva 1964;Lambton 1967
+144R-prs,Prefix&NoDoubleNeg,SONegV Order,Persian,,,Lambton 1967;Rastorgueva 1964
+144S-prs,NoSOVNeg,SOVNeg Order,Persian,,,Lambton 1967;Rastorgueva 1964

@@ -1,0 +1,19 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Sindhi,,,Nihalani 1999
+1,2A,Large (7-14),Vowel Quality Inventories,Sindhi,,,Nihalani 1999
+2,3A,Moderately high,Consonant-Vowel Ratio,Sindhi,,,Nihalani 1999
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Sindhi,,,Nihalani 1999
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Sindhi,,,Nihalani 1999
+5,6A,None,Uvular Consonants,Sindhi,,,Nihalani 1999
+6,7A,Implosives only,Glottalized Consonants,Sindhi,,,Nihalani 1999
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Sindhi,,,Nihalani 1999
+8,11A,None,Front Rounded Vowels,Sindhi,,,Nihalani 1999
+9,13A,No tones,Tone,Sindhi,,,Nihalani 1999
+10,14A,No fixed stress,Fixed Stress Locations,Sindhi,,,Khubchandani 1969
+11,15A,Combined: Right-edge and unbounded,Weight-Sensitive Stress,Sindhi,,,Khubchandani 1969
+12,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Sindhi,,,Khubchandani 1969
+13,18A,All present,Absence of Common Consonants,Sindhi,,,Nihalani 1999
+14,19A,None,Presence of Uncommon Consonants,Sindhi,,,Nihalani 1999
+15,54A,Marked by reduplication,Distributive Numerals,Sindhi,,,Abbi 1992
+16,73A,Inflectional optative absent,The Optative,Sindhi,,,Jegorova 1966
+17,138A,Words derived from Sinitic cha,Tea,Sindhi,,,Malherbe and Rosenberg 1996

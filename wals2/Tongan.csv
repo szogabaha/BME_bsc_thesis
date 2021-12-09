@@ -1,0 +1,50 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Tongan,,,Churchward 1953
+1,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Tongan,,,Churchward 1953
+2,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Tongan,,,Churchward 1953
+3,17A,Trochaic,Rhythm Types,Tongan,,,Churchward 1953
+4,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Tongan,,,Churchward 1953
+5,27A,Productive full and partial reduplication,Reduplication,Tongan,,,Churchward 1953
+6,33A,Plural word,Coding of Nominal Plurality,Tongan,,,Churchward 1953
+7,37A,Definite word distinct from demonstrative,Definite Articles,Tongan,,,Churchward 1953
+8,38A,Indefinite word distinct from 'one',Indefinite Articles,Tongan,,,Churchward 1953
+9,41A,Two-way contrast,Distance Contrasts in Demonstratives,Tongan,,,Churchward 1953
+10,42A,Different stem,Pronominal and Adnominal Demonstratives,Tongan,,,Churchward 1953
+11,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tongan,,,Churchward 1953
+12,52A,Differentiation,Comitatives and Instrumentals,Tongan,,,Broschart 1994
+13,54A,Marked by prefix,Distributive Numerals,Tongan,,,
+14,55A,Optional,Numeral Classifiers,Tongan,,,Lynch 1998
+15,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tongan,,,Churchward 1953
+16,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Tongan,,,Churchward 1953
+17,81A,No dominant order,"Order of Subject, Object and Verb",Tongan,,,Churchward 1953
+18,81B,VSO or VOS,"Languages with two Dominant Orders of Subject, Object, and Verb",Tongan,,,Churchward 1953
+19,82A,VS,Order of Subject and Verb,Tongan,,,Churchward 1953
+20,83A,VO,Order of Object and Verb,Tongan,,,Churchward 1953
+21,85A,Prepositions,Order of Adposition and Noun Phrase,Tongan,,,Churchward 1953
+22,86A,Noun-Genitive,Order of Genitive and Noun,Tongan,,,Churchward 1953
+23,87A,Noun-Adjective,Order of Adjective and Noun,Tongan,,,Churchward 1953
+24,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tongan,,,Churchward 1953
+25,89A,Noun-Numeral,Order of Numeral and Noun,Tongan,,,Churchward 1953
+26,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tongan,,,Churchward 1953
+27,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tongan,,,Churchward 1953
+28,91A,No dominant order,Order of Degree Word and Adjective,Tongan,,,Churchward 1953
+29,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tongan,,,Churchward 1953
+30,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tongan,,,Churchward 1953
+31,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tongan,,,
+32,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tongan,,,
+33,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tongan,,,
+34,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tongan,,,Tchekhoff 1981
+35,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Tongan,,,Churchward 1953
+36,118A,Verbal encoding,Predicative Adjectives,Tongan,,,Churchward 1953
+37,119A,Different,Nominal and Locational Predication,Tongan,,,Churchward 1953
+38,120A,Possible,Zero Copula for Predicate Nominals,Tongan,,,Churchward 1953
+39,143A,NegV,Order of Negative Morpheme and Verb,Tongan,,,Churchward 1953
+40,143E,NegV,Preverbal Negative Morphemes,Tongan,,,Churchward 1953
+41,143F,None,Postverbal Negative Morphemes,Tongan,,,Churchward 1953
+42,143G,None,Minor morphological means of signaling negation,Tongan,,,Churchward 1953
+43,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Tongan,,,Churchward 1953
+44,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tongan,,,Churchward 1953
+45,144T,NegVSO/NegVOS,The Position of Negative Morphemes in Verb-Initial Languages,Tongan,,,Churchward 1953
+46,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tongan,,,Churchward 1953
+47,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tongan,,,Churchward 1953
+48,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tongan,,,Churchward 1953

@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,46A,Generic-noun-based,Indefinite Pronouns,Seediq,,,
+1,55A,Absent,Numeral Classifiers,Seediq,,,Holmer 1996
+2,60A,Adjectives and relative clauses collapsed,"Genitives, Adjectives and Relative Clauses",Seediq,,,Holmer 1996
+3,70A,Second person number-neutral,The Morphological Imperative,Seediq,,,Asai 1953
+4,72A,Neither type of system,Imperative-Hortative Systems,Seediq,,,Asai 1953
+5,73A,Inflectional optative absent,The Optative,Seediq,,,Asai 1953
+6,81A,VOS,"Order of Subject, Object and Verb",Seediq,,,Holmer 1996
+7,82A,VS,Order of Subject and Verb,Seediq,,,Holmer 1996
+8,83A,VO,Order of Object and Verb,Seediq,,,Holmer 1996
+9,86A,Noun-Genitive,Order of Genitive and Noun,Seediq,,,Holmer 1996
+10,87A,No dominant order,Order of Adjective and Noun,Seediq,,,Pecoraro 1977
+11,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Seediq,,,Holmer 1996
+12,89A,Numeral-Noun,Order of Numeral and Noun,Seediq,,,Holmer 1996
+13,90A,Noun-Relative clause,Order of Relative Clause and Noun,Seediq,,,Aldridge 2004
+14,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Seediq,,,Holmer 1996
+15,90D,Internally-headed occurs as nondominant type,Internally-headed relative clauses,Seediq,,,Holmer 1996
+16,94A,Mixed,Order of Adverbial Subordinator and Clause,Seediq,,,Holmer 1996
+17,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Seediq,,,
+18,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Seediq,,,
+19,113A,Both,Symmetric and Asymmetric Standard Negation,Seediq,,,Holmer 1996
+20,114A,A/NonReal,Subtypes of Asymmetric Standard Negation,Seediq,,,Holmer 1996
+21,122A,Gap,Relativization on Subjects,Seediq,,,Holmer 1996
+22,123A,Not possible,Relativization on Obliques,Seediq,,,Holmer 1996
+23,124A,Desiderative verbal affix,'Want' Complement Subjects,Seediq,,,Holmer 1996
+24,143A,NegV,Order of Negative Morpheme and Verb,Seediq,,,Holmer 1996
+25,143E,NegV,Preverbal Negative Morphemes,Seediq,,,Holmer 1996
+26,143F,None,Postverbal Negative Morphemes,Seediq,,,Holmer 1996
+27,143G,None,Minor morphological means of signaling negation,Seediq,,,Holmer 1996
+28,144A,NegVOS,"Position of Negative Word With Respect to Subject, Object, and Verb",Seediq,,,Holmer 1996
+29,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Seediq,,,Holmer 1996
+30,144T,NegVOS,The Position of Negative Morphemes in Verb-Initial Languages,Seediq,,,Holmer 1996
+31,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Seediq,,,Holmer 1996
+32,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Seediq,,,Holmer 1996
+33,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Seediq,,,Holmer 1996

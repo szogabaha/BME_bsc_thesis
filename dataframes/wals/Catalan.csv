@@ -1,0 +1,65 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-ctl,Average,Consonant Inventories,Catalan,,,Carbonell and Llisteri 1999
+2A-ctl,Large (7-14),Vowel Quality Inventories,Catalan,,,Carbonell and Llisteri 1999
+3A-ctl,Average,Consonant-Vowel Ratio,Catalan,,,Carbonell and Llisteri 1999
+4A-ctl,In both plosives and fricatives,Voicing in Plosives and Fricatives,Catalan,,,Carbonell and Llisteri 1999
+5A-ctl,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Catalan,,,Carbonell and Llisteri 1999
+6A-ctl,None,Uvular Consonants,Catalan,,,Carbonell and Llisteri 1999
+7A-ctl,No glottalized consonants,Glottalized Consonants,Catalan,,,Carbonell and Llisteri 1999
+8A-ctl,"/l/, no obstruent laterals",Lateral Consonants,Catalan,,,Carbonell and Llisteri 1999
+11A-ctl,None,Front Rounded Vowels,Catalan,,,Carbonell and Llisteri 1999
+12A-ctl,Moderately complex,Syllable Structure,Catalan,,,Carbonell and Llisteri 1999
+13A-ctl,No tones,Tone,Catalan,,,Carbonell and Llisteri 1999
+14A-ctl,No fixed stress,Fixed Stress Locations,Catalan,,,Fabra 1956;Gulsoy 1982;Hualde 1992;Mascaro 1978;Roca 1999;Wheeler 1979;Wheeler 1988b;Fabra 1897
+15A-ctl,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Catalan,,,Wheeler 1979;Wheeler 1988b;Mascaro 1978;Hualde 1992;Gulsoy 1982;Fabra 1956;Fabra 1897;Roca 1999
+16A-ctl,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Catalan,,,Fabra 1897;Fabra 1956;Gulsoy 1982;Hualde 1992;Mascaro 1978;Roca 1999;Wheeler 1979;Wheeler 1988b
+17A-ctl,No rhythmic stress,Rhythm Types,Catalan,,,Roca 1999;Wheeler 1988b;Gulsoy 1982;Hualde 1992;Mascaro 1978;Wheeler 1979;Fabra 1897;Fabra 1956
+18A-ctl,All present,Absence of Common Consonants,Catalan,,,Carbonell and Llisteri 1999
+19A-ctl,None,Presence of Uncommon Consonants,Catalan,,,Carbonell and Llisteri 1999
+27A-ctl,No productive reduplication,Reduplication,Catalan,,,Diaz-Insense 2001
+38A-ctl,Indefinite word same as 'one',Indefinite Articles,Catalan,,,Hualde 1992
+47A-ctl,Differentiated,Intensifiers and Reflexive Pronouns,Catalan,,,Hualde 1992
+49A-ctl,No morphological case-marking,Number of Cases,Catalan,,,Wheeler et al. 1999
+50A-ctl,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Catalan,,,Wheeler et al. 1999
+52A-ctl,Identity,Comitatives and Instrumentals,Catalan,,,
+53A-ctl,"First, second, three-th",Ordinal Numerals,Catalan,,,
+70A-ctl,Second singular,The Morphological Imperative,Catalan,,,Hualde 1992
+71A-ctl,Special imperative + normal negative,The Prohibitive,Catalan,,,Hualde 1992
+72A-ctl,Neither type of system,Imperative-Hortative Systems,Catalan,,,
+74A-ctl,Verbal constructions,Situational Possibility,Catalan,,,Hualde 1992
+75A-ctl,Verbal constructions,Epistemic Possibility,Catalan,,,Hualde 1992
+76A-ctl,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Catalan,,,Hualde 1992;Ammann n.d.
+81A-ctl,SVO,"Order of Subject, Object and Verb",Catalan,,,Hualde 1992
+82A-ctl,No dominant order,Order of Subject and Verb,Catalan,,,Hualde 1992
+83A-ctl,VO,Order of Object and Verb,Catalan,,,Hualde 1992
+85A-ctl,Prepositions,Order of Adposition and Noun Phrase,Catalan,,,Hualde 1992
+86A-ctl,Noun-Genitive,Order of Genitive and Noun,Catalan,,,Hualde 1992
+87A-ctl,Noun-Adjective,Order of Adjective and Noun,Catalan,,,Hualde 1992
+88A-ctl,Demonstrative-Noun,Order of Demonstrative and Noun,Catalan,,,Hualde 1992
+89A-ctl,Numeral-Noun,Order of Numeral and Noun,Catalan,,,Hualde 1992
+90A-ctl,Noun-Relative clause,Order of Relative Clause and Noun,Catalan,,,Hualde 1992
+90C-ctl,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Catalan,,,Hualde 1992
+92A-ctl,No question particle,Position of Polar Question Particles,Catalan,,,Hualde 1992
+95A-ctl,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Catalan,,,
+96A-ctl,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Catalan,,,
+97A-ctl,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Catalan,,,
+101A-ctl,Subject affixes on verb,Expression of Pronominal Subjects,Catalan,,,Hualde 1992
+112A-ctl,Negative particle,Negative Morphemes,Catalan,,,Hualde 1992
+115A-ctl,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Catalan,,,Haspelmath 1997
+116A-ctl,Interrogative intonation only,Polar Questions,Catalan,,,Hualde 1992
+129A-ctl,Different,Hand and Arm,Catalan,,,Sabater and Freixinet 1990
+130A-ctl,Different,Finger and Hand,Catalan,,,Sabater and Freixinet 1990
+138A-ctl,Words derived from Min Nan Chinese te,Tea,Catalan,,,Malherbe and Rosenberg 1996
+143A-ctl,OptDoubleNeg,Order of Negative Morpheme and Verb,Catalan,,,Hualde 1992
+143C-ctl,NegV(Neg),Optional Double Negation,Catalan,,,Hualde 1992
+143E-ctl,NegV,Preverbal Negative Morphemes,Catalan,,,Hualde 1992
+143F-ctl,VNeg,Postverbal Negative Morphemes,Catalan,,,Hualde 1992
+143G-ctl,None,Minor morphological means of signaling negation,Catalan,,,Hualde 1992
+144A-ctl,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Catalan,,,Hualde 1992
+144B-ctl,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Catalan,,,Hualde 1992
+144D-ctl,OptNeg,The Position of Negative Morphemes in SVO Languages,Catalan,,,Hualde 1992
+144G-ctl,SNegV(Neg)O,Optional Double Negation in SVO languages,Catalan,,,Hualde 1992
+144H-ctl,No NegSVO,NegSVO Order,Catalan,,,Hualde 1992
+144I-ctl,Word&OptDoubleNeg,SNegVO Order,Catalan,,,Hualde 1992
+144J-ctl,Word&OnlyWithAnotherNeg,SVNegO Order,Catalan,,,Hualde 1992
+144K-ctl,No SVONeg,SVONeg Order,Catalan,,,Hualde 1992

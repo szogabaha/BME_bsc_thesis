@@ -1,0 +1,36 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Zapotec (Mitla),,,Stubblefield and Stubblefield 1991
+1,33A,Plural prefix,Coding of Nominal Plurality,Zapotec (Mitla),,,Briggs 1961
+2,51A,Case prefixes,Position of Case Affixes,Zapotec (Mitla),,,Briggs 1961
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Zapotec (Mitla),,,Stubblefield and Stubblefield 1991
+4,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Zapotec (Mitla),,,Briggs 1961
+5,81A,VSO,"Order of Subject, Object and Verb",Zapotec (Mitla),,,Stubblefield and Stubblefield 1991
+6,82A,VS,Order of Subject and Verb,Zapotec (Mitla),,,Stubblefield and Stubblefield 1991
+7,83A,VO,Order of Object and Verb,Zapotec (Mitla),,,Stubblefield and Stubblefield 1991
+8,84A,VOX,"Order of Object, Oblique, and Verb",Zapotec (Mitla),,,Briggs 1961
+9,85A,Prepositions,Order of Adposition and Noun Phrase,Zapotec (Mitla),,,Briggs 1961
+10,86A,Noun-Genitive,Order of Genitive and Noun,Zapotec (Mitla),,,Briggs 1961
+11,87A,Noun-Adjective,Order of Adjective and Noun,Zapotec (Mitla),,,Stubblefield and Stubblefield 1991
+12,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Zapotec (Mitla),,,Briggs 1961
+13,89A,Numeral-Noun,Order of Numeral and Noun,Zapotec (Mitla),,,Stubblefield and Stubblefield 1991
+14,92A,Initial,Position of Polar Question Particles,Zapotec (Mitla),,,Briggs 1961
+15,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Zapotec (Mitla),,,Briggs 1961
+16,94A,Mixed,Order of Adverbial Subordinator and Clause,Zapotec (Mitla),,,Briggs 1961
+17,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Zapotec (Mitla),,,
+18,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Zapotec (Mitla),,,
+19,101A,Subject affixes on verb,Expression of Pronominal Subjects,Zapotec (Mitla),,,Briggs 1961
+20,112A,Negative affix,Negative Morphemes,Zapotec (Mitla),,,Briggs 1961
+21,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Zapotec (Mitla),,,Stubblefield and Hollenbach 1991
+22,114A,A/NonReal and A/Cat,Subtypes of Asymmetric Standard Negation,Zapotec (Mitla),,,Stubblefield and Hollenbach 1991
+23,116A,Question particle,Polar Questions,Zapotec (Mitla),,,Briggs 1961
+24,129A,Different,Hand and Arm,Zapotec (Mitla),,,Stubblefield and Stubblefield 1991
+25,130A,Different,Finger and Hand,Zapotec (Mitla),,,Stubblefield and Stubblefield 1991
+26,143A,[Neg-V],Order of Negative Morpheme and Verb,Zapotec (Mitla),,,Briggs 1961
+27,143E,[Neg-V],Preverbal Negative Morphemes,Zapotec (Mitla),,,Briggs 1961
+28,143F,None,Postverbal Negative Morphemes,Zapotec (Mitla),,,Briggs 1961
+29,143G,None,Minor morphological means of signaling negation,Zapotec (Mitla),,,Briggs 1961
+30,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Zapotec (Mitla),,,Briggs 1961
+31,144T,[Neg-V]SO,The Position of Negative Morphemes in Verb-Initial Languages,Zapotec (Mitla),,,Briggs 1961
+32,144V,"Prefix, no double negation  Prefix&NoDoubleNeg",Verb-Initial with Preverbal Negative,Zapotec (Mitla),,,Briggs 1961
+33,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Zapotec (Mitla),,,Briggs 1961
+34,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Zapotec (Mitla),,,Briggs 1961

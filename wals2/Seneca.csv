@@ -1,0 +1,52 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Seneca,,,Chafe 1967
+1,2A,Average (5-6),Vowel Quality Inventories,Seneca,,,Chafe 1967
+2,3A,Low,Consonant-Vowel Ratio,Seneca,,,Chafe 1967
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Seneca,,,Chafe 1967
+4,5A,Other,Voicing and Gaps in Plosive Systems,Seneca,,,Chafe 1967
+5,6A,None,Uvular Consonants,Seneca,,,Chafe 1967
+6,7A,No glottalized consonants,Glottalized Consonants,Seneca,,,Chafe 1967
+7,8A,No laterals,Lateral Consonants,Seneca,,,Chafe 1967
+8,10A,Contrast present,Vowel Nasalization,Seneca,,,Chafe 1996
+9,11A,None,Front Rounded Vowels,Seneca,,,Chafe 1967
+10,13A,No tones,Tone,Seneca,,,Chafe 1967
+11,14A,No fixed stress,Fixed Stress Locations,Seneca,,,Chafe 1960
+12,15A,Right-oriented: One of the last three,Weight-Sensitive Stress,Seneca,,,Chafe 1960
+13,16A,Prominence,Weight Factors in Weight-Sensitive Stress Systems,Seneca,,,Chafe 1960
+14,17A,Iambic,Rhythm Types,Seneca,,,Chafe 1960
+15,18A,All present,Absence of Common Consonants,Seneca,,,Chafe 1967
+16,19A,None,Presence of Uncommon Consonants,Seneca,,,Chafe 1967
+17,30A,Three,Number of Genders,Seneca,,,Chafe 1996
+18,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Seneca,,,Chafe 1996
+19,32A,Semantic,Systems of Gender Assignment,Seneca,,,Chafe 1996
+20,53A,None,Ordinal Numerals,Seneca,,,Holmer 1954
+21,55A,Absent,Numeral Classifiers,Seneca,,,Nichols 1992
+22,65A,Grammatical marking,Perfective/Imperfective Aspect,Seneca,,,Dahl 1985
+23,66A,No past tense,The Past Tense,Seneca,,,Dahl 1985
+24,67A,Inflectional future exists,The Future Tense,Seneca,,,Dahl 1985
+25,68A,No perfect,The Perfect,Seneca,,,Dahl 1985
+26,79A,None,Suppletion According to Tense and Aspect,Seneca,,,Chafe 1996
+27,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Seneca,,,
+28,80A,None,Verbal Number and Suppletion,Seneca,,,Chafe 1996
+29,81A,No dominant order,"Order of Subject, Object and Verb",Seneca,,,Chafe 1996
+30,82A,No dominant order,Order of Subject and Verb,Seneca,,,Chafe 1996
+31,83A,No dominant order,Order of Object and Verb,Seneca,,,Chafe 1996
+32,84A,No dominant order,"Order of Object, Oblique, and Verb",Seneca,,,Chafe 1996
+33,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Seneca,,,
+34,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Seneca,,,
+35,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Seneca,,,
+36,108A,No antipassive,Antipassive Constructions,Seneca,,,Chafe 1996
+37,108B,no antipassive,Productivity of the Antipassive Construction,Seneca,,,Chafe 1996
+38,109A,Benefactive and other; both bases,Applicative Constructions,Seneca,,,Chafe 1996
+39,109B,Instrument and locative,Other Roles of Applied Objects,Seneca,,,
+40,117A,Locational,Predicative Possession,Seneca,,,Holmer 1954
+41,118A,Verbal encoding,Predicative Adjectives,Seneca,,,Chafe 1963
+42,119A,Different,Nominal and Locational Predication,Seneca,,,Chafe 1963
+43,120A,Impossible,Zero Copula for Predicate Nominals,Seneca,,,Chafe 1963
+44,129A,Different,Hand and Arm,Seneca,,,Chafe 1967
+45,130A,Identical,Finger and Hand,Seneca,,,Chafe 1967
+46,130B,Farmer-foragers,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',Seneca,,,
+47,136A,No M-T pronouns,M-T Pronouns,Seneca,,,Chafe 1967
+48,136B,No m in first person singular,M in First Person Singular,Seneca,,,Chafe 1967
+49,137A,No N-M pronouns,N-M Pronouns,Seneca,,,Chafe 1967
+50,137B,No m in second person singular,M in Second Person Singular,Seneca,,,Chafe 1967

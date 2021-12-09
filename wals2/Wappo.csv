@@ -1,0 +1,71 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Wappo,,,Sawyer 1965
+1,2A,Average (5-6),Vowel Quality Inventories,Wappo,,,Sawyer 1965
+2,3A,Moderately high,Consonant-Vowel Ratio,Wappo,,,Sawyer 1965
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Wappo,,,Sawyer 1965
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Wappo,,,Sawyer 1965
+5,6A,None,Uvular Consonants,Wappo,,,Sawyer 1965
+6,7A,Ejectives and glottalized resonants,Glottalized Consonants,Wappo,,,Sawyer 1965
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Wappo,,,Sawyer 1965
+8,9A,No velar nasal,The Velar Nasal,Wappo,,,Radin 1929
+9,11A,None,Front Rounded Vowels,Wappo,,,Sawyer 1965
+10,13A,No tones,Tone,Wappo,,,Sawyer 1965
+11,18A,All present,Absence of Common Consonants,Wappo,,,Sawyer 1965
+12,19A,None,Presence of Uncommon Consonants,Wappo,,,Sawyer 1965
+13,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wappo,,,Radin 1929
+14,27A,No productive reduplication,Reduplication,Wappo,,,Radin 1929
+15,33A,Plural suffix,Coding of Nominal Plurality,Wappo,,,Radin 1929
+16,37A,Demonstrative word used as definite article,Definite Articles,Wappo,,,Li and Thompson 1978
+17,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Wappo,,,Radin 1929
+18,48A,No person marking,Person Marking on Adpositions,Wappo,,,Radin 1929
+19,51A,Case suffixes,Position of Case Affixes,Wappo,,,Li et al. 1977
+20,55A,Absent,Numeral Classifiers,Wappo,,,Nichols 1992
+21,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Wappo,,,Radin 1929
+22,58A,Exists,Obligatory Possessive Inflection,Wappo,,,Sawyer 1965
+23,58B,None reported,Number of Possessive Nouns,Wappo,,,Sawyer 1965
+24,59A,No possessive classification,Possessive Classification,Wappo,,,Sawyer 1965
+25,63A,'And' different from 'with',Noun Phrase Conjunction,Wappo,,,
+26,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Wappo,,,Radin 1929
+27,70A,Second singular and second plural,The Morphological Imperative,Wappo,,,Radin 1929
+28,71A,Normal imperative + normal negative,The Prohibitive,Wappo,,,Radin 1929
+29,81A,SOV,"Order of Subject, Object and Verb",Wappo,,,Li et al. 1977
+30,82A,SV,Order of Subject and Verb,Wappo,,,Radin 1929
+31,83A,OV,Order of Object and Verb,Wappo,,,Radin 1929
+32,86A,Genitive-Noun,Order of Genitive and Noun,Wappo,,,Li et al. 1977
+33,87A,Noun-Adjective,Order of Adjective and Noun,Wappo,,,Li et al. 1977
+34,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wappo,,,Li et al. 1977
+35,89A,Noun-Numeral,Order of Numeral and Noun,Wappo,,,Li et al. 1977
+36,90A,Internally headed,Order of Relative Clause and Noun,Wappo,,,Li et al. 1977
+37,90D,Internally-headed relative clause dominant,Internally-headed relative clauses,Wappo,,,Radin 1929
+38,92A,No question particle,Position of Polar Question Particles,Wappo,,,Li et al. 1977
+39,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wappo,,,Li et al. 1977
+40,94A,Mixed,Order of Adverbial Subordinator and Clause,Wappo,,,Radin 1929
+41,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wappo,,,
+42,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wappo,,,
+43,100A,Neutral,Alignment of Verbal Person Marking,Wappo,,,Radin 1929
+44,102A,No person marking,Verbal Person Marking,Wappo,,,Radin 1929
+45,103A,No person marking,Third Person Zero of Verbal Person Marking,Wappo,,,Radin 1929
+46,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Wappo,,,Radin 1929
+47,107A,Present,Passive Constructions,Wappo,,,Radin 1929
+48,112A,Negative affix,Negative Morphemes,Wappo,,,Radin 1929
+49,116A,Interrogative verb morphology,Polar Questions,Wappo,,,Li et al. 1977
+50,117A,'Have',Predicative Possession,Wappo,,,
+51,118A,Verbal encoding,Predicative Adjectives,Wappo,,,
+52,119A,Different,Nominal and Locational Predication,Wappo,,,
+53,120A,Impossible,Zero Copula for Predicate Nominals,Wappo,,,
+54,129A,Different,Hand and Arm,Wappo,,,Sawyer 1965
+55,130A,Different,Finger and Hand,Wappo,,,Sawyer 1965
+56,136A,No M-T pronouns,M-T Pronouns,Wappo,,,Sawyer 1965
+57,136B,No m in first person singular,M in First Person Singular,Wappo,,,Sawyer 1965
+58,137A,No N-M pronouns,N-M Pronouns,Wappo,,,Sawyer 1965
+59,137B,m in second person singular,M in Second Person Singular,Wappo,,,Sawyer 1965
+60,143A,[V-Neg],Order of Negative Morpheme and Verb,Wappo,,,Radin 1929
+61,143E,None,Preverbal Negative Morphemes,Wappo,,,Radin 1929
+62,143F,[V-Neg],Postverbal Negative Morphemes,Wappo,,,Radin 1929
+63,143G,None,Minor morphological means of signaling negation,Wappo,,,Radin 1929
+64,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Wappo,,,Radin 1929
+65,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Wappo,,,Radin 1929
+66,144P,No NegSOV,NegSOV Order,Wappo,,,Radin 1929
+67,144Q,No SNegOV,SNegOV Order,Wappo,,,Radin 1929
+68,144R,No SONegV,SONegV Order,Wappo,,,Radin 1929
+69,144S,Suffix&NoDoubleNeg,SOVNeg Order,Wappo,,,Radin 1929

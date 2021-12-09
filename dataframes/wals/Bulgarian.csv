@@ -1,0 +1,85 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-bul,Average,Consonant Inventories,Bulgarian,,,Aronson 1968;Bidwell 1968;Klagstad 1958;Scatton 1984;Ternes and Vladimirova-Buhtz 1999
+2A-bul,Average (5-6),Vowel Quality Inventories,Bulgarian,,,Ternes and Vladimirova-Buhtz 1999;Scatton 1984;Klagstad 1958;Bidwell 1968;Aronson 1968
+3A-bul,Average,Consonant-Vowel Ratio,Bulgarian,,,Ternes and Vladimirova-Buhtz 1999;Scatton 1984;Klagstad 1958;Bidwell 1968;Aronson 1968
+4A-bul,In both plosives and fricatives,Voicing in Plosives and Fricatives,Bulgarian,,,Ternes and Vladimirova-Buhtz 1999;Aronson 1968;Scatton 1984;Klagstad 1958;Bidwell 1968
+5A-bul,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Bulgarian,,,Aronson 1968;Bidwell 1968;Klagstad 1958;Scatton 1984;Ternes and Vladimirova-Buhtz 1999
+6A-bul,None,Uvular Consonants,Bulgarian,,,Ternes and Vladimirova-Buhtz 1999;Aronson 1968;Bidwell 1968;Klagstad 1958;Scatton 1984
+7A-bul,No glottalized consonants,Glottalized Consonants,Bulgarian,,,Aronson 1968;Bidwell 1968;Klagstad 1958;Scatton 1984;Ternes and Vladimirova-Buhtz 1999
+8A-bul,"/l/, no obstruent laterals",Lateral Consonants,Bulgarian,,,Scatton 1984;Aronson 1968;Bidwell 1968;Klagstad 1958;Ternes and Vladimirova-Buhtz 1999
+11A-bul,None,Front Rounded Vowels,Bulgarian,,,Aronson 1968;Bidwell 1968;Klagstad 1958;Scatton 1984;Ternes and Vladimirova-Buhtz 1999
+12A-bul,Complex,Syllable Structure,Bulgarian,,,Scatton 1984;Aronson 1968;Ternes and Vladimirova-Buhtz 1999;Bidwell 1968;Klagstad 1958
+13A-bul,No tones,Tone,Bulgarian,,,Klagstad 1958;Ternes and Vladimirova-Buhtz 1999;Scatton 1984;Bidwell 1968;Aronson 1968
+18A-bul,All present,Absence of Common Consonants,Bulgarian,,,Ternes and Vladimirova-Buhtz 1999;Aronson 1968;Bidwell 1968;Klagstad 1958;Scatton 1984
+19A-bul,None,Presence of Uncommon Consonants,Bulgarian,,,Scatton 1984;Aronson 1968;Bidwell 1968;Klagstad 1958;Ternes and Vladimirova-Buhtz 1999
+26A-bul,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Bulgarian,,,Scatton 1984;Dyer 1992;Hubenova et al. 1968;Scatton 1993
+33A-bul,Plural suffix,Coding of Nominal Plurality,Bulgarian,,,Scatton 1984
+36A-bul,Unique affixal associative plural,The Associative Plural,Bulgarian,,,Beaulieux and Mladenov 1933
+37A-bul,Definite word distinct from demonstrative,Definite Articles,Bulgarian,,,Hubenova et al. 1968;Scatton 1984
+46A-bul,Interrogative-based,Indefinite Pronouns,Bulgarian,,,Haspelmath 1997
+47A-bul,Differentiated,Intensifiers and Reflexive Pronouns,Bulgarian,,,Scatton 1993
+49A-bul,No morphological case-marking,Number of Cases,Bulgarian,,,Scatton 1993;Feuillet 1995
+50A-bul,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Bulgarian,,,Feuillet 1995;Scatton 1993
+51A-bul,No case affixes or adpositional clitics,Position of Case Affixes,Bulgarian,,,Scatton 1984
+53A-bul,"First, second, three-th",Ordinal Numerals,Bulgarian,,,
+54A-bul,Marked by preceding word,Distributive Numerals,Bulgarian,,,
+55A-bul,Absent,Numeral Classifiers,Bulgarian,,,
+57A-bul,No possessive affixes,Position of Pronominal Possessive Affixes,Bulgarian,,,Scatton 1984
+62A-bul,Ergative-Possessive,Action Nominal Constructions,Bulgarian,,,Stojanov 1964
+63A-bul,'And' different from 'with',Noun Phrase Conjunction,Bulgarian,,,Scatton 1984
+65A-bul,Grammatical marking,Perfective/Imperfective Aspect,Bulgarian,,,Dahl 1985
+66A-bul,"Present, no remoteness distinctions",The Past Tense,Bulgarian,,,Dahl 1985
+67A-bul,No inflectional future,The Future Tense,Bulgarian,,,Dahl 1985
+68A-bul,Other perfect,The Perfect,Bulgarian,,,Dahl 1985
+69A-bul,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Bulgarian,,,Scatton 1984
+70A-bul,Second singular and second plural,The Morphological Imperative,Bulgarian,,,Feuillet 1995;Beaulieux 1950
+71A-bul,Special imperative + special negative,The Prohibitive,Bulgarian,,,Feuillet 1995;Beaulieux 1950
+72A-bul,Maximal system,Imperative-Hortative Systems,Bulgarian,,,Beaulieux and Mladenov 1933
+73A-bul,Inflectional optative absent,The Optative,Bulgarian,,,Beaulieux 1950
+77A-bul,Direct and indirect,Semantic Distinctions of Evidentiality,Bulgarian,,,Friedman 1986
+78A-bul,Part of the tense system,Coding of Evidentiality,Bulgarian,,,Friedman 1986
+79A-bul,Tense,Suppletion According to Tense and Aspect,Bulgarian,,,
+79B-bul,A regular and a suppletive form alternate,Suppletion in Imperatives and Hortatives,Bulgarian,,,
+80A-bul,None,Verbal Number and Suppletion,Bulgarian,,,
+81A-bul,SVO,"Order of Subject, Object and Verb",Bulgarian,,,Scatton 1984;Hubenova et al. 1968;Dyer 1992
+82A-bul,No dominant order,Order of Subject and Verb,Bulgarian,,,Dyer 1992
+83A-bul,VO,Order of Object and Verb,Bulgarian,,,Scatton 1984;Dyer 1992;Hubenova et al. 1968
+84A-bul,VOX,"Order of Object, Oblique, and Verb",Bulgarian,,,Scatton 1984
+85A-bul,Prepositions,Order of Adposition and Noun Phrase,Bulgarian,,,Scatton 1984
+86A-bul,No dominant order,Order of Genitive and Noun,Bulgarian,,,Scatton 1984
+87A-bul,Adjective-Noun,Order of Adjective and Noun,Bulgarian,,,Scatton 1984
+88A-bul,Demonstrative-Noun,Order of Demonstrative and Noun,Bulgarian,,,Scatton 1984
+89A-bul,Numeral-Noun,Order of Numeral and Noun,Bulgarian,,,Scatton 1984
+90A-bul,Noun-Relative clause,Order of Relative Clause and Noun,Bulgarian,,,Scatton 1984
+90C-bul,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Bulgarian,,,Scatton 1984
+91A-bul,Degree word-Adjective,Order of Degree Word and Adjective,Bulgarian,,,Scatton 1984
+92A-bul,Second position,Position of Polar Question Particles,Bulgarian,,,Scatton 1984;Hubenova et al. 1968
+93A-bul,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Bulgarian,,,Hubenova et al. 1968;Scatton 1984
+94A-bul,Initial subordinator word,Order of Adverbial Subordinator and Clause,Bulgarian,,,Scatton 1984
+95A-bul,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Bulgarian,,,
+96A-bul,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Bulgarian,,,
+97A-bul,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Bulgarian,,,
+101A-bul,Subject affixes on verb,Expression of Pronominal Subjects,Bulgarian,,,Scatton 1993
+106A-bul,Mixed,Reciprocal Constructions,Bulgarian,,,Penchev 2007
+112A-bul,Negative particle,Negative Morphemes,Bulgarian,,,Scatton 1984
+115A-bul,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Bulgarian,,,Haspelmath 1997
+116A-bul,Question particle,Polar Questions,Bulgarian,,,Scatton 1984;Hubenova et al. 1968
+118A-bul,Nonverbal encoding,Predicative Adjectives,Bulgarian,,,Scatton 1984
+119A-bul,Identical,Nominal and Locational Predication,Bulgarian,,,Scatton 1984
+120A-bul,Impossible,Zero Copula for Predicate Nominals,Bulgarian,,,Scatton 1984
+122A-bul,Relative pronoun,Relativization on Subjects,Bulgarian,,,
+123A-bul,Relative pronoun,Relativization on Obliques,Bulgarian,,,
+124A-bul,Subject is expressed overtly,'Want' Complement Subjects,Bulgarian,,,
+138A-bul,Words derived from Sinitic cha,Tea,Bulgarian,,,Malherbe and Rosenberg 1996
+142A-bul,Logical meanings,Para-Linguistic Usages of Clicks,Bulgarian,,,
+143A-bul,NegV,Order of Negative Morpheme and Verb,Bulgarian,,,Hubenova et al. 1968;Scatton 1984
+143E-bul,NegV,Preverbal Negative Morphemes,Bulgarian,,,Hubenova et al. 1968;Scatton 1984
+143F-bul,None,Postverbal Negative Morphemes,Bulgarian,,,Hubenova et al. 1968;Scatton 1984
+143G-bul,None,Minor morphological means of signaling negation,Bulgarian,,,Hubenova et al. 1968;Scatton 1984
+144A-bul,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Bulgarian,,,Hubenova et al. 1968;Scatton 1984
+144B-bul,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Bulgarian,,,Scatton 1984;Hubenova et al. 1968
+144D-bul,SNegVO,The Position of Negative Morphemes in SVO Languages,Bulgarian,,,Scatton 1984;Hubenova et al. 1968
+144H-bul,No NegSVO,NegSVO Order,Bulgarian,,,Hubenova et al. 1968;Scatton 1984
+144I-bul,Word&NoDoubleNeg,SNegVO Order,Bulgarian,,,Scatton 1984;Hubenova et al. 1968
+144J-bul,No SVNegO,SVNegO Order,Bulgarian,,,Hubenova et al. 1968;Scatton 1984
+144K-bul,No SVONeg,SVONeg Order,Bulgarian,,,Hubenova et al. 1968;Scatton 1984

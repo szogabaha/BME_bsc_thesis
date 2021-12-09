@@ -1,0 +1,9 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,SOV,"Order of Subject, Object and Verb",Tibetan (Dingri),,,Herrmann 1989
+1,82A,SV,Order of Subject and Verb,Tibetan (Dingri),,,Herrmann 1989
+2,83A,OV,Order of Object and Verb,Tibetan (Dingri),,,Herrmann 1989
+3,86A,Genitive-Noun,Order of Genitive and Noun,Tibetan (Dingri),,,Herrmann 1989
+4,87A,Noun-Adjective,Order of Adjective and Noun,Tibetan (Dingri),,,Herrmann 1989
+5,88A,Mixed,Order of Demonstrative and Noun,Tibetan (Dingri),,,Herrmann 1989
+6,89A,Noun-Numeral,Order of Numeral and Noun,Tibetan (Dingri),,,Herrmann 1989
+7,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tibetan (Dingri),,,

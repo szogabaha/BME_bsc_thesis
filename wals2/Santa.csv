@@ -1,0 +1,26 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No initial velar nasal,The Velar Nasal,Santa,,,Todaeva 1997b
+1,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Santa,,,Kim 2003
+2,33A,Plural suffix,Coding of Nominal Plurality,Santa,,,Kim 2003
+3,51A,Case suffixes,Position of Case Affixes,Santa,,,Kim 2003
+4,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Santa,,,Kim 2003
+5,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Santa,,,Kim 2003
+6,81A,SOV,"Order of Subject, Object and Verb",Santa,,,Kim 2003
+7,82A,SV,Order of Subject and Verb,Santa,,,Kim 2003
+8,83A,OV,Order of Object and Verb,Santa,,,Kim 2003
+9,85A,Postpositions,Order of Adposition and Noun Phrase,Santa,,,Kim 2003
+10,86A,Genitive-Noun,Order of Genitive and Noun,Santa,,,Kim 2003
+11,87A,Adjective-Noun,Order of Adjective and Noun,Santa,,,Kim 2003
+12,89A,Numeral-Noun,Order of Numeral and Noun,Santa,,,Kim 2003
+13,92A,No question particle,Position of Polar Question Particles,Santa,,,Kim 2003
+14,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Santa,,,
+15,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Santa,,,
+16,112A,Negative particle,Negative Morphemes,Santa,,,Kim 2003
+17,116A,Interrogative verb morphology,Polar Questions,Santa,,,Kim 2003
+18,143A,NegV,Order of Negative Morpheme and Verb,Santa,,,Kim 2003
+19,143E,NegV,Preverbal Negative Morphemes,Santa,,,Kim 2003
+20,143F,None,Postverbal Negative Morphemes,Santa,,,Kim 2003
+21,143G,None,Minor morphological means of signaling negation,Santa,,,Kim 2003
+22,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Santa,,,Kim 2003
+23,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Santa,,,Kim 2003
+24,144S,NoSOVNeg,SOVNeg Order,Santa,,,Kim 2003

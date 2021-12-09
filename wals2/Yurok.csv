@@ -1,0 +1,106 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Yurok,,,Robins 1958
+1,2A,Average (5-6),Vowel Quality Inventories,Yurok,,,Robins 1958
+2,3A,Moderately high,Consonant-Vowel Ratio,Yurok,,,Robins 1958
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Yurok,,,Robins 1958
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yurok,,,Robins 1958
+5,6A,None,Uvular Consonants,Yurok,,,Robins 1958
+6,7A,Ejectives and glottalized resonants,Glottalized Consonants,Yurok,,,Robins 1958
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Yurok,,,Robins 1958
+8,9A,No velar nasal,The Velar Nasal,Yurok,,,Robins 1958
+9,10A,Contrast absent,Vowel Nasalization,Yurok,,,Robins 1958
+10,11A,None,Front Rounded Vowels,Yurok,,,Robins 1958
+11,12A,Complex,Syllable Structure,Yurok,,,Robins 1958
+12,13A,No tones,Tone,Yurok,,,Robins 1958
+13,18A,All present,Absence of Common Consonants,Yurok,,,Robins 1958
+14,19A,None,Presence of Uncommon Consonants,Yurok,,,Robins 1958
+15,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Yurok,,,Robins 1958
+16,21A,No case,Exponence of Selected Inflectional Formatives,Yurok,,,Robins 1958
+17,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Yurok,,,Robins 1958
+18,22A,6-7 categories per word,Inflectional Synthesis of the Verb,Yurok,,,Robins 1958
+19,23A,Head marking,Locus of Marking in the Clause,Yurok,,,Robins 1958
+20,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Yurok,,,Robins 1958
+21,25A,Head-marking,Locus of Marking: Whole-language Typology,Yurok,,,Robins 1958
+22,25B,Non-zero marking,Zero Marking of A and P Arguments,Yurok,,,Robins 1958
+23,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yurok,,,Robins 1958
+24,27A,Productive full and partial reduplication,Reduplication,Yurok,,,Garrett 2001
+25,28A,Core cases only,Case Syncretism,Yurok,,,Robins 1958
+26,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Yurok,,,Robins 1958
+27,30A,None,Number of Genders,Yurok,,,Robins 1958
+28,31A,No gender,Sex-based and Non-sex-based Gender Systems,Yurok,,,Robins 1958
+29,32A,No gender,Systems of Gender Assignment,Yurok,,,Robins 1958
+30,33A,Mixed morphological plural,Coding of Nominal Plurality,Yurok,,,Robins 1958
+31,35A,Person-number stem,Plurality in Independent Personal Pronouns,Yurok,,,Robins 1958
+32,37A,Demonstrative word used as definite article,Definite Articles,Yurok,,,Robins 1958
+33,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Yurok,,,Robins 1958
+34,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Yurok,,,Robins 1958
+35,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Yurok,,,Robins 1958
+36,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yurok,,,Robins 1958
+37,45A,No politeness distinction,Politeness Distinctions in Pronouns,Yurok,,,Robins 1958
+38,48A,No person marking,Person Marking on Adpositions,Yurok,,,Robins 1958
+39,49A,Exclusively borderline case-marking,Number of Cases,Yurok,,,Robins 1958
+40,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Yurok,,,Robins 1958
+41,51A,Case suffixes,Position of Case Affixes,Yurok,,,Robins 1958
+42,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Yurok,,,Robins 1958
+43,58A,Absent,Obligatory Possessive Inflection,Yurok,,,Robins 1958
+44,58B,None reported,Number of Possessive Nouns,Yurok,,,Robins 1958
+45,59A,Two classes,Possessive Classification,Yurok,,,Robins 1958
+46,63A,'And' different from 'with',Noun Phrase Conjunction,Yurok,,,Robins 1958
+47,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Yurok,,,Robins 1958
+48,70A,Second singular and second plural,The Morphological Imperative,Yurok,,,Robins 1958
+49,71A,Special imperative + normal negative,The Prohibitive,Yurok,,,Robins 1958
+50,72A,Neither type of system,Imperative-Hortative Systems,Yurok,,,Robins 1958
+51,73A,Inflectional optative absent,The Optative,Yurok,,,Robins 1958
+52,74A,Other kinds of markers,Situational Possibility,Yurok,,,Robins 1958
+53,75A,Other,Epistemic Possibility,Yurok,,,Robins 1958
+54,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Yurok,,,Robins 1958
+55,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Yurok,,,Robins 1958
+56,78A,No grammatical evidentials,Coding of Evidentiality,Yurok,,,Robins 1958
+57,81A,No dominant order,"Order of Subject, Object and Verb",Yurok,,,Robins 1958
+58,82A,SV,Order of Subject and Verb,Yurok,,,Robins 1958
+59,83A,No dominant order,Order of Object and Verb,Yurok,,,Robins 1958
+60,84A,No dominant order,"Order of Object, Oblique, and Verb",Yurok,,,Robins 1958
+61,85A,No dominant order,Order of Adposition and Noun Phrase,Yurok,,,Robins 1958
+62,86A,Genitive-Noun,Order of Genitive and Noun,Yurok,,,Robins 1958
+63,87A,Adjective-Noun,Order of Adjective and Noun,Yurok,,,Robins 1958
+64,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yurok,,,Robins 1958
+65,89A,Numeral-Noun,Order of Numeral and Noun,Yurok,,,Robins 1958
+66,90A,Mixed,Order of Relative Clause and Noun,Yurok,,,Robins 1958
+67,90B,RelN or NRel,Prenominal relative clauses,Yurok,,,Robins 1958
+68,90C,NRel or RelN,Postnominal relative clauses,Yurok,,,Robins 1958
+69,91A,Degree word-Adjective,Order of Degree Word and Adjective,Yurok,,,Robins 1958
+70,92A,Second position,Position of Polar Question Particles,Yurok,,,Robins 1958
+71,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yurok,,,Robins 1958
+72,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Yurok,,,Robins 1958
+73,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yurok,,,
+74,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yurok,,,
+75,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yurok,,,
+76,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Yurok,,,Robins 1958
+77,99A,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Yurok,,,Robins 1958
+78,100A,Accusative,Alignment of Verbal Person Marking,Yurok,,,Robins 1958
+79,101A,Subject affixes on verb,Expression of Pronominal Subjects,Yurok,,,Robins 1958
+80,102A,Both the A and P arguments,Verbal Person Marking,Yurok,,,Robins 1958
+81,103A,No zero realization,Third Person Zero of Verbal Person Marking,Yurok,,,Robins 1958
+82,104A,A and P are fused,Order of Person Markers on the Verb,Yurok,,,Robins 1958
+83,107A,Present,Passive Constructions,Yurok,,,Robins 1958
+84,108A,No antipassive,Antipassive Constructions,Yurok,,,Robins 1958
+85,108B,no antipassive,Productivity of the Antipassive Construction,Yurok,,,Robins 1958
+86,109A,No applicative construction,Applicative Constructions,Yurok,,,Robins 1958
+87,109B,No applicative construction,Other Roles of Applied Objects,Yurok,,,
+88,112A,Negative particle,Negative Morphemes,Yurok,,,Robins 1958
+89,113A,Both,Symmetric and Asymmetric Standard Negation,Yurok,,,Robins 1958
+90,114A,A/NonReal and A/Cat,Subtypes of Asymmetric Standard Negation,Yurok,,,Robins 1958
+91,116A,Question particle,Polar Questions,Yurok,,,Robins 1958
+92,118A,Verbal encoding,Predicative Adjectives,Yurok,,,Robins 1958
+93,119A,Different,Nominal and Locational Predication,Yurok,,,Robins 1958
+94,120A,Possible,Zero Copula for Predicate Nominals,Yurok,,,Robins 1958
+95,136A,No M-T pronouns,M-T Pronouns,Yurok,,,Robins 1958
+96,136B,No m in first person singular,M in First Person Singular,Yurok,,,Robins 1958
+97,137A,"N-M pronouns, non-paradigmatic",N-M Pronouns,Yurok,,,Robins 1958
+98,137B,m in second person singular,M in Second Person Singular,Yurok,,,Robins 1958
+99,143A,NegV,Order of Negative Morpheme and Verb,Yurok,,,Robins 1958
+100,143E,NegV,Preverbal Negative Morphemes,Yurok,,,Robins 1958
+101,143F,None,Postverbal Negative Morphemes,Yurok,,,Robins 1958
+102,143G,None,Minor morphological means of signaling negation,Yurok,,,Robins 1958
+103,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Yurok,,,Robins 1958
+104,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yurok,,,Robins 1958

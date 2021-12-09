@@ -1,0 +1,26 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,34A,"Only human nouns, obligatory",Occurrence of Nominal Plurality,Tamabo,,,Jauncey 2002
+1,64A,Differentiation,Nominal and Verbal Conjunction,Tamabo,,,Jauncey 2002
+2,81A,SVO,"Order of Subject, Object and Verb",Tamabo,,,Jauncey 2002
+3,82A,SV,Order of Subject and Verb,Tamabo,,,Jauncey 2002
+4,83A,VO,Order of Object and Verb,Tamabo,,,Jauncey 2002
+5,86A,Noun-Genitive,Order of Genitive and Noun,Tamabo,,,Jauncey 2002
+6,87A,Noun-Adjective,Order of Adjective and Noun,Tamabo,,,Jauncey 2002
+7,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tamabo,,,Jauncey 2002
+8,89A,Noun-Numeral,Order of Numeral and Noun,Tamabo,,,Jauncey 2002
+9,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tamabo,,,Jauncey 2002
+10,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tamabo,,,Jauncey 2002
+11,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tamabo,,,
+12,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tamabo,,,
+13,124A,Subject is expressed overtly,'Want' Complement Subjects,Tamabo,,,Jauncey 2002
+14,143A,NegV,Order of Negative Morpheme and Verb,Tamabo,,,Jauncey 2002
+15,143E,NegV,Preverbal Negative Morphemes,Tamabo,,,Jauncey 2002
+16,143F,None,Postverbal Negative Morphemes,Tamabo,,,Jauncey 2002
+17,143G,None,Minor morphological means of signaling negation,Tamabo,,,Jauncey 2002
+18,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Tamabo,,,Jauncey 2002
+19,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tamabo,,,Jauncey 2002
+20,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Tamabo,,,Jauncey 2002
+21,144H,No NegSVO,NegSVO Order,Tamabo,,,Jauncey 2002
+22,144I,Word&NoDoubleNeg,SNegVO Order,Tamabo,,,Jauncey 2002
+23,144J,No SVNegO,SVNegO Order,Tamabo,,,Jauncey 2002
+24,144K,No SVONeg,SVONeg Order,Tamabo,,,Jauncey 2002

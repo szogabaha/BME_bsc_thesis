@@ -1,0 +1,150 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-bsq,Average,Consonant Inventories,Basque,,,Saltarelli et al. 1988
+2A-bsq,Average (5-6),Vowel Quality Inventories,Basque,,,Saltarelli et al. 1988
+3A-bsq,Moderately high,Consonant-Vowel Ratio,Basque,,,Saltarelli et al. 1988
+4A-bsq,In plosives alone,Voicing in Plosives and Fricatives,Basque,,,Saltarelli et al. 1988
+5A-bsq,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Basque,,,Saltarelli et al. 1988
+6A-bsq,None,Uvular Consonants,Basque,,,Saltarelli et al. 1988
+7A-bsq,No glottalized consonants,Glottalized Consonants,Basque,,,Saltarelli et al. 1988
+8A-bsq,"/l/, no obstruent laterals",Lateral Consonants,Basque,,,Saltarelli et al. 1988
+9A-bsq,No velar nasal,The Velar Nasal,Basque,,,Saltarelli et al. 1988
+10A-bsq,Contrast absent,Vowel Nasalization,Basque,,,Saltarelli et al. 1988
+11A-bsq,None,Front Rounded Vowels,Basque,,,Saltarelli et al. 1988
+12A-bsq,Complex,Syllable Structure,Basque,,,Saltarelli et al. 1988
+13A-bsq,No tones,Tone,Basque,,,Saltarelli et al. 1988
+18A-bsq,All present,Absence of Common Consonants,Basque,,,Saltarelli et al. 1988
+19A-bsq,None,Presence of Uncommon Consonants,Basque,,,Saltarelli et al. 1988
+20A-bsq,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Basque,,,Saltarelli et al. 1988;Rebuschi 1984;Lafitte 1962;King 1993b;Allières 1979
+21A-bsq,Monoexponential case,Exponence of Selected Inflectional Formatives,Basque,,,Lafitte 1962;King 1993b;Allières 1979;Saltarelli et al. 1988;Rebuschi 1984
+21B-bsq,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Basque,,,Allières 1979;Rebuschi 1984;Lafitte 1962;Saltarelli et al. 1988;King 1993b
+22A-bsq,4-5 categories per word,Inflectional Synthesis of the Verb,Basque,,,Saltarelli et al. 1988
+23A-bsq,Double marking,Locus of Marking in the Clause,Basque,,,Lafitte 1962;King 1993b;Saltarelli et al. 1988
+24A-bsq,Dependent marking,Locus of Marking in Possessive Noun Phrases,Basque,,,Lafitte 1962;King 1993b;Saltarelli et al. 1988
+25A-bsq,Inconsistent or other,Locus of Marking: Whole-language Typology,Basque,,,King 1993b;Saltarelli et al. 1988;Lafitte 1962
+25B-bsq,Non-zero marking,Zero Marking of A and P Arguments,Basque,,,Saltarelli et al. 1988;King 1993b;Lafitte 1962
+26A-bsq,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Basque,,,Ithurry 1895;Hualde and Ortiz de Urbina 2003;Van Eys 1883;Urbina 1989;N'diaye 1970;Arotcarena 1976;Rebuschi 1984;Lafitte 1962;Saltarelli et al. 1988
+27A-bsq,Productive full and partial reduplication,Reduplication,Basque,,,Trask 2001
+28A-bsq,Core cases only,Case Syncretism,Basque,,,Saltarelli et al. 1988
+29A-bsq,Not syncretic,Syncretism in Verbal Person/Number Marking,Basque,,,Saltarelli et al. 1988
+30A-bsq,None,Number of Genders,Basque,,,Trask 1995
+31A-bsq,No gender,Sex-based and Non-sex-based Gender Systems,Basque,,,Trask 1995
+32A-bsq,No gender,Systems of Gender Assignment,Basque,,,Trask 1995
+33A-bsq,Plural clitic,Coding of Nominal Plurality,Basque,,,Lafitte 1962;Saltarelli et al. 1988
+34A-bsq,"All nouns, always obligatory",Occurrence of Nominal Plurality,Basque,,,Saltarelli et al. 1988
+35A-bsq,Person-number stem,Plurality in Independent Personal Pronouns,Basque,,,Lafitte 1962
+36A-bsq,Unique periphrastic associative plural,The Associative Plural,Basque,,,Azkue 1906
+37A-bsq,Definite word distinct from demonstrative,Definite Articles,Basque,,,Saltarelli et al. 1988
+38A-bsq,Indefinite word same as 'one',Indefinite Articles,Basque,,,Hualde and Ortiz de Urbina 2003
+39A-bsq,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Basque,,,Trask 1997
+40A-bsq,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Basque,,,Trask 1997
+41A-bsq,Three-way contrast,Distance Contrasts in Demonstratives,Basque,,,Saltarelli et al. 1988
+42A-bsq,Identical,Pronominal and Adnominal Demonstratives,Basque,,,Saltarelli et al. 1988
+43A-bsq,Related for all demonstratives,Third Person Pronouns and Demonstratives,Basque,,,Saltarelli et al. 1988
+44A-bsq,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Basque,,,Saltarelli et al. 1988
+45A-bsq,Binary politeness distinction,Politeness Distinctions in Pronouns,Basque,,,Lafitte 1962
+46A-bsq,Interrogative-based,Indefinite Pronouns,Basque,,,Saltarelli et al. 1988
+47A-bsq,Differentiated,Intensifiers and Reflexive Pronouns,Basque,,,Saltarelli et al. 1988
+48A-bsq,No person marking,Person Marking on Adpositions,Basque,,,Saltarelli et al. 1988
+49A-bsq,10 or more cases,Number of Cases,Basque,,,Lafitte 1962;Saltarelli et al. 1988
+50A-bsq,Syncretism in relevant NP-types,Asymmetrical Case-Marking,Basque,,,Saltarelli et al. 1988;Lafitte 1962
+51A-bsq,Postpositional clitics,Position of Case Affixes,Basque,,,Lafitte 1962;Saltarelli et al. 1988;Arotcarena 1976;Rebuschi 1984
+52A-bsq,Differentiation,Comitatives and Instrumentals,Basque,,,Kühnel 1999
+53A-bsq,"First, two-th, three-th",Ordinal Numerals,Basque,,,Kühnel 1999
+54A-bsq,Marked by suffix,Distributive Numerals,Basque,,,Saltarelli et al. 1988
+55A-bsq,Absent,Numeral Classifiers,Basque,,,Nichols 1992
+56A-bsq,Formally different,Conjunctions and Universal Quantifiers,Basque,,,Saltarelli et al. 1988
+57A-bsq,No possessive affixes,Position of Pronominal Possessive Affixes,Basque,,,Lafitte 1962
+58A-bsq,Absent,Obligatory Possessive Inflection,Basque,,,King 1993b;Lafitte 1962;Saltarelli et al. 1988
+58B-bsq,None reported,Number of Possessive Nouns,Basque,,,Lafitte 1962;Saltarelli et al. 1988;King 1993b
+59A-bsq,No possessive classification,Possessive Classification,Basque,,,King 1993b;Saltarelli et al. 1988;Lafitte 1962
+60A-bsq,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Basque,,,
+61A-bsq,Without marking,Adjectives without Nouns,Basque,,,
+62A-bsq,Sentential,Action Nominal Constructions,Basque,,,Saltarelli et al. 1988
+63A-bsq,'And' different from 'with',Noun Phrase Conjunction,Basque,,,Saltarelli et al. 1988
+64A-bsq,Identity,Nominal and Verbal Conjunction,Basque,,,Saltarelli et al. 1988
+65A-bsq,Grammatical marking,Perfective/Imperfective Aspect,Basque,,,Bybee et al. 1994
+66A-bsq,"Present, no remoteness distinctions",The Past Tense,Basque,,,Bybee et al. 1994
+67A-bsq,Inflectional future exists,The Future Tense,Basque,,,Bybee et al. 1994
+68A-bsq,Other perfect,The Perfect,Basque,,,Bybee et al. 1994
+69A-bsq,Mixed type,Position of Tense-Aspect Affixes,Basque,,,Saltarelli et al. 1988
+70A-bsq,Second singular and second plural,The Morphological Imperative,Basque,,,Saltarelli et al. 1988;King 1993b
+71A-bsq,Normal imperative + normal negative,The Prohibitive,Basque,,,Saltarelli et al. 1988
+72A-bsq,Neither type of system,Imperative-Hortative Systems,Basque,,,King 1993b
+73A-bsq,Inflectional optative absent,The Optative,Basque,,,Saltarelli et al. 1988
+74A-bsq,Affixes on verbs,Situational Possibility,Basque,,,Eguzkitza 1987;Saltarelli et al. 1988;King 1993b
+75A-bsq,Affixes on verbs,Epistemic Possibility,Basque,,,Saltarelli et al. 1988;King 1993b
+76A-bsq,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Basque,,,Saltarelli et al. 1988;King 1993b
+77A-bsq,Indirect only,Semantic Distinctions of Evidentiality,Basque,,,Saltarelli et al. 1988
+78A-bsq,Separate particle,Coding of Evidentiality,Basque,,,Saltarelli et al. 1988
+79A-bsq,Tense,Suppletion According to Tense and Aspect,Basque,,,King 1993b
+79B-bsq,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Basque,,,
+80A-bsq,None,Verbal Number and Suppletion,Basque,,,King 1993b
+81A-bsq,SOV,"Order of Subject, Object and Verb",Basque,,,Saltarelli et al. 1988;Urbina 1989;Rebuschi 1984;Lafitte 1962
+82A-bsq,SV,Order of Subject and Verb,Basque,,,Saltarelli et al. 1988;Lafitte 1962;Rebuschi 1984;Urbina 1989
+83A-bsq,OV,Order of Object and Verb,Basque,,,Lafitte 1962;Saltarelli et al. 1988;Rebuschi 1984;Urbina 1989
+84A-bsq,XOV,"Order of Object, Oblique, and Verb",Basque,,,Saltarelli et al. 1988;Lafitte 1962
+85A-bsq,Postpositions,Order of Adposition and Noun Phrase,Basque,,,Rebuschi 1984;Saltarelli et al. 1988;Lafitte 1962;Arotcarena 1976
+86A-bsq,Genitive-Noun,Order of Genitive and Noun,Basque,,,Lafitte 1962;Hualde and Ortiz de Urbina 2003;Urbina 1989;N'diaye 1970;Saltarelli et al. 1988
+87A-bsq,Noun-Adjective,Order of Adjective and Noun,Basque,,,Lafitte 1962;Hualde and Ortiz de Urbina 2003;Urbina 1989;Ithurry 1895;Saltarelli et al. 1988
+88A-bsq,Noun-Demonstrative,Order of Demonstrative and Noun,Basque,,,Urbina 1989;Saltarelli et al. 1988;Lafitte 1962;Arotcarena 1976;Hualde and Ortiz de Urbina 2003
+89A-bsq,Numeral-Noun,Order of Numeral and Noun,Basque,,,N'diaye 1970;Hualde and Ortiz de Urbina 2003;Urbina 1989;Ithurry 1895;Rebuschi 1984;Saltarelli et al. 1988;Lafitte 1962
+90A-bsq,Relative clause-Noun,Order of Relative Clause and Noun,Basque,,,Saltarelli et al. 1988;Lafitte 1962;Urbina 1989
+90B-bsq,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Basque,,,Saltarelli et al. 1988;Urbina 1989;Lafitte 1962
+91A-bsq,Degree word-Adjective,Order of Degree Word and Adjective,Basque,,,Saltarelli et al. 1988;Lafitte 1962;Urbina 1989
+92A-bsq,Other position,Position of Polar Question Particles,Basque,,,Saltarelli et al. 1988
+93A-bsq,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Basque,,,Urbina 1989
+94A-bsq,Final subordinator word,Order of Adverbial Subordinator and Clause,Basque,,,Lafitte 1962;Ithurry 1895
+95A-bsq,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Basque,,,
+96A-bsq,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Basque,,,
+97A-bsq,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Basque,,,
+98A-bsq,Active-inactive,Alignment of Case Marking of Full Noun Phrases,Basque,,,Hualde and Ortiz de Urbina 2003
+99A-bsq,Active - inactive,Alignment of Case Marking of Pronouns,Basque,,,
+100A-bsq,Ergative,Alignment of Verbal Person Marking,Basque,,,Saltarelli et al. 1988
+101A-bsq,Subject affixes on verb,Expression of Pronominal Subjects,Basque,,,Saltarelli et al. 1988
+102A-bsq,Both the A and P arguments,Verbal Person Marking,Basque,,,Saltarelli et al. 1988
+103A-bsq,No zero realization,Third Person Zero of Verbal Person Marking,Basque,,,Saltarelli et al. 1988
+104A-bsq,P precedes A,Order of Person Markers on the Verb,Basque,,,Saltarelli et al. 1988
+105A-bsq,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Basque,,,Saltarelli et al. 1988
+106A-bsq,Distinct from reflexive,Reciprocal Constructions,Basque,,,Everaert 2000
+107A-bsq,Present,Passive Constructions,Basque,,,Saltarelli et al. 1988
+108A-bsq,Oblique patient,Antipassive Constructions,Basque,,,Zuniga and Fernandez 2019;Mejias-Bikandi 1999
+108B-bsq,partially productive,Productivity of the Antipassive Construction,Basque,,,Mejias-Bikandi 1999
+109A-bsq,No applicative construction,Applicative Constructions,Basque,,,Saltarelli et al. 1988
+109B-bsq,No applicative construction,Other Roles of Applied Objects,Basque,,,
+110A-bsq,Purposive but no sequential,Periphrastic Causative Constructions,Basque,,,Saltarelli et al. 1988
+111A-bsq,Morphological but no compound,Nonperiphrastic Causative Constructions,Basque,,,Saltarelli et al. 1988
+112A-bsq,Negative particle,Negative Morphemes,Basque,,,Lafitte 1962
+113A-bsq,Asymmetric,Symmetric and Asymmetric Standard Negation,Basque,,,Saltarelli et al. 1988
+114A-bsq,A/Cat,Subtypes of Asymmetric Standard Negation,Basque,,,Saltarelli et al. 1988
+115A-bsq,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Basque,,,Saltarelli et al. 1988
+116A-bsq,Question particle,Polar Questions,Basque,,,Saltarelli et al. 1988
+117A-bsq,'Have',Predicative Possession,Basque,,,Lafitte 1944
+118A-bsq,Nonverbal encoding,Predicative Adjectives,Basque,,,Lafitte 1944
+119A-bsq,Different,Nominal and Locational Predication,Basque,,,Lafitte 1944
+120A-bsq,Impossible,Zero Copula for Predicate Nominals,Basque,,,Lafitte 1944
+121A-bsq,Particle,Comparative Constructions,Basque,,,Lafitte 1944
+122A-bsq,Gap,Relativization on Subjects,Basque,,,Saltarelli et al. 1988
+123A-bsq,Not possible,Relativization on Obliques,Basque,,,Saltarelli et al. 1988
+125A-bsq,Deranked,Purpose Clauses,Basque,,,Saltarelli et al. 1988
+126A-bsq,Balanced/deranked,'When' Clauses,Basque,,,Saltarelli et al. 1988
+127A-bsq,Balanced/deranked,Reason Clauses,Basque,,,Saltarelli et al. 1988
+128A-bsq,Balanced,Utterance Complement Clauses,Basque,,,Saltarelli et al. 1988
+129A-bsq,Different,Hand and Arm,Basque,,,Aulestia and White 1992
+130A-bsq,Different,Finger and Hand,Basque,,,Aulestia and White 1992
+131A-bsq,Hybrid vigesimal-decimal,Numeral Bases,Basque,,,
+136A-bsq,No M-T pronouns,M-T Pronouns,Basque,,,King 1993b
+136B-bsq,No m in first person singular,M in First Person Singular,Basque,,,King 1993b
+137A-bsq,No N-M pronouns,N-M Pronouns,Basque,,,King 1993b
+137B-bsq,No m in second person singular,M in Second Person Singular,Basque,,,King 1993b
+138A-bsq,Words derived from Sinitic cha,Tea,Basque,,,Malherbe and Rosenberg 1996
+143A-bsq,NegV,Order of Negative Morpheme and Verb,Basque,,,Lafitte 1962
+143E-bsq,NegV,Preverbal Negative Morphemes,Basque,,,Lafitte 1962
+143F-bsq,None,Postverbal Negative Morphemes,Basque,,,Lafitte 1962
+143G-bsq,None,Minor morphological means of signaling negation,Basque,,,Lafitte 1962
+144A-bsq,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Basque,,,Lafitte 1962
+144B-bsq,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Basque,,,Lafitte 1962
+144L-bsq,SONegV,The Position of Negative Morphemes in SOV Languages,Basque,,,Lafitte 1962
+144P-bsq,No NegSOV,NegSOV Order,Basque,,,Lafitte 1962
+144Q-bsq,No SNegOV,SNegOV Order,Basque,,,Lafitte 1962
+144R-bsq,Word&NoDoubleNeg,SONegV Order,Basque,,,Lafitte 1962
+144S-bsq,NoSOVNeg,SOVNeg Order,Basque,,,Lafitte 1962

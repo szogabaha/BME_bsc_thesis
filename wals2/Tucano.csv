@@ -1,0 +1,44 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tucano,,,West 1980
+1,33A,Plural suffix,Coding of Nominal Plurality,Tucano,,,West 1980
+2,36A,Associative same as additive plural,The Associative Plural,Tucano,,,
+3,37A,No definite or indefinite article,Definite Articles,Tucano,,,West 1980
+4,38A,No definite or indefinite article,Indefinite Articles,Tucano,,,West 1980
+5,51A,Postpositional clitics,Position of Case Affixes,Tucano,,,West 1980
+6,55A,Optional,Numeral Classifiers,Tucano,,,Derbyshire and Payne 1990
+7,65A,No grammatical marking,Perfective/Imperfective Aspect,Tucano,,,Bybee et al. 1994
+8,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Tucano,,,Bybee et al. 1994
+9,67A,Inflectional future exists,The Future Tense,Tucano,,,Bybee et al. 1994
+10,68A,Other perfect,The Perfect,Tucano,,,Bybee et al. 1994
+11,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tucano,,,West 1980
+12,77A,Direct and indirect,Semantic Distinctions of Evidentiality,Tucano,,,West 1980
+13,78A,Part of the tense system,Coding of Evidentiality,Tucano,,,West 1980
+14,82A,SV,Order of Subject and Verb,Tucano,,,West 1980
+15,83A,OV,Order of Object and Verb,Tucano,,,West 1980
+16,84A,No dominant order,"Order of Object, Oblique, and Verb",Tucano,,,West 1980
+17,85A,Postpositions,Order of Adposition and Noun Phrase,Tucano,,,West 1980
+18,87A,No dominant order,Order of Adjective and Noun,Tucano,,,West 1980
+19,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tucano,,,West 1980
+20,89A,Numeral-Noun,Order of Numeral and Noun,Tucano,,,West 1980
+21,90A,Relative clause-Noun,Order of Relative Clause and Noun,Tucano,,,West 1980
+22,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Tucano,,,West 1980
+23,92A,No question particle,Position of Polar Question Particles,Tucano,,,West 1980
+24,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Tucano,,,West 1980
+25,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tucano,,,
+26,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tucano,,,
+27,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tucano,,,
+28,106A,Distinct from reflexive,Reciprocal Constructions,Tucano,,,Aikhenvald 2007a
+29,112A,Negative affix,Negative Morphemes,Tucano,,,West 1980
+30,116A,Interrogative verb morphology,Polar Questions,Tucano,,,West 1980
+31,129A,Identical,Hand and Arm,Tucano,,,Giacone n.d.
+32,130A,Different,Finger and Hand,Tucano,,,Giacone n.d.
+33,132A,5,Number of Non-Derived Basic Colour Categories,Tucano,,,
+34,133A,4.5-5.5,Number of Basic Colour Categories,Tucano,,,
+35,134A,Green/blue,Green and Blue,Tucano,,,
+36,135A,Red/yellow,Red and Yellow,Tucano,,,
+37,143A,[V-Neg],Order of Negative Morpheme and Verb,Tucano,,,West 1980
+38,143E,None,Preverbal Negative Morphemes,Tucano,,,West 1980
+39,143F,[V-Neg],Postverbal Negative Morphemes,Tucano,,,West 1980
+40,143G,None,Minor morphological means of signaling negation,Tucano,,,West 1980
+41,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tucano,,,West 1980
+42,144L,SV&OV&[V-Neg],The Position of Negative Morphemes in SOV Languages,Tucano,,,West 1980

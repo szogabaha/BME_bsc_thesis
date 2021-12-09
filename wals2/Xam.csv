@@ -1,0 +1,23 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,52A,Identity,Comitatives and Instrumentals,/Xam,,,Stolz 1996
+1,55A,Absent,Numeral Classifiers,/Xam,,,
+2,60A,Adjectives and relative clauses collapsed,"Genitives, Adjectives and Relative Clauses",/Xam,,,
+3,81A,SVO,"Order of Subject, Object and Verb",/Xam,,,Anonymous 4
+4,82A,SV,Order of Subject and Verb,/Xam,,,Anonymous 4
+5,83A,VO,Order of Object and Verb,/Xam,,,Anonymous 4
+6,84A,VOX,"Order of Object, Oblique, and Verb",/Xam,,,Anonymous 4
+7,86A,Genitive-Noun,Order of Genitive and Noun,/Xam,,,Anonymous 4
+8,87A,Noun-Adjective,Order of Adjective and Noun,/Xam,,,Anonymous 4
+9,88A,Demonstrative-Noun,Order of Demonstrative and Noun,/Xam,,,Anonymous 4
+10,89A,Noun-Numeral,Order of Numeral and Noun,/Xam,,,Anonymous 4
+11,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,/Xam,,,
+12,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',/Xam,,,
+13,112A,Negative particle,Negative Morphemes,/Xam,,,Anonymous 4
+14,143A,NegV,Order of Negative Morpheme and Verb,/Xam,,,
+15,143E,NegV,Preverbal Negative Morphemes,/Xam,,,
+16,143F,None,Postverbal Negative Morphemes,/Xam,,,
+17,143G,None,Minor morphological means of signaling negation,/Xam,,,
+18,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",/Xam,,,
+19,144D,Other NegV,The Position of Negative Morphemes in SVO Languages,/Xam,,,
+20,144J,No SVNegO,SVNegO Order,/Xam,,,
+21,144K,No SVONeg,SVONeg Order,/Xam,,,

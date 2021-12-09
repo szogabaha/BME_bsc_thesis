@@ -1,0 +1,51 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,Initial velar nasal,The Velar Nasal,Vai,,,Welmers 1976
+1,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Vai,,,Welmers 1976
+2,33A,Plural word,Coding of Nominal Plurality,Vai,,,Welmers 1976
+3,37A,Definite word distinct from demonstrative,Definite Articles,Vai,,,Welmers 1976
+4,38A,"No indefinite, but definite article",Indefinite Articles,Vai,,,Welmers 1976
+5,51A,No case affixes or adpositional clitics,Position of Case Affixes,Vai,,,Welmers 1976
+6,52A,Differentiation,Comitatives and Instrumentals,Vai,,,Stolz 1996
+7,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Vai,,,Welmers 1976
+8,69A,Mixed type,Position of Tense-Aspect Affixes,Vai,,,Welmers 1976
+9,70A,Second singular and second plural,The Morphological Imperative,Vai,,,Welmers 1976
+10,71A,Special imperative + normal negative,The Prohibitive,Vai,,,Welmers 1976
+11,72A,Minimal system,Imperative-Hortative Systems,Vai,,,Welmers 1976
+12,81A,SOV,"Order of Subject, Object and Verb",Vai,,,Welmers 1976
+13,82A,SV,Order of Subject and Verb,Vai,,,Welmers 1976
+14,83A,OV,Order of Object and Verb,Vai,,,Welmers 1976
+15,84A,OVX,"Order of Object, Oblique, and Verb",Vai,,,Welmers 1976
+16,85A,Postpositions,Order of Adposition and Noun Phrase,Vai,,,Welmers 1976
+17,86A,Genitive-Noun,Order of Genitive and Noun,Vai,,,Welmers 1976
+18,87A,Noun-Adjective,Order of Adjective and Noun,Vai,,,Welmers 1976
+19,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Vai,,,Welmers 1976
+20,89A,Noun-Numeral,Order of Numeral and Noun,Vai,,,Welmers 1976
+21,90A,Correlative,Order of Relative Clause and Noun,Vai,,,Welmers 1976
+22,90E,Correlative relative clause dominant,Correlative relative clauses,Vai,,,Welmers 1976
+23,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Vai,,,Welmers 1976
+24,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Vai,,,Welmers 1976
+25,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Vai,,,
+26,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Vai,,,
+27,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Vai,,,
+28,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Vai,,,Welmers 1976
+29,110A,Purposive but no sequential,Periphrastic Causative Constructions,Vai,,,Welmers 1976
+30,111A,Neither,Nonperiphrastic Causative Constructions,Vai,,,Welmers 1976
+31,118A,Mixed,Predicative Adjectives,Vai,,,Welmers 1976
+32,119A,Different,Nominal and Locational Predication,Vai,,,Welmers 1976
+33,120A,Impossible,Zero Copula for Predicate Nominals,Vai,,,Welmers 1976
+34,125A,Deranked,Purpose Clauses,Vai,,,Welmers 1976
+35,126A,Deranked,'When' Clauses,Vai,,,Welmers 1976
+36,127A,Deranked,Reason Clauses,Vai,,,Welmers 1976
+37,128A,Balanced,Utterance Complement Clauses,Vai,,,Welmers 1976
+38,141A,Syllabic,Writing Systems,Vai,,,
+39,143A,NegV,Order of Negative Morpheme and Verb,Vai,,,Welmers 1976
+40,143E,NegV,Preverbal Negative Morphemes,Vai,,,Welmers 1976
+41,143F,None,Postverbal Negative Morphemes,Vai,,,Welmers 1976
+42,143G,None,Minor morphological means of signaling negation,Vai,,,Welmers 1976
+43,144A,SNegOV,"Position of Negative Word With Respect to Subject, Object, and Verb",Vai,,,Welmers 1976
+44,144B,"Preverbal, not beginning or immed",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Vai,,,Welmers 1976
+45,144L,SNegOV,The Position of Negative Morphemes in SOV Languages,Vai,,,Welmers 1976
+46,144P,No NegSOV,NegSOV Order,Vai,,,Welmers 1976
+47,144Q,NoDoubleNeg,SNegOV Order,Vai,,,Welmers 1976
+48,144R,No SONegV,SONegV Order,Vai,,,Welmers 1976
+49,144S,NoSOVNeg,SOVNeg Order,Vai,,,Welmers 1976

@@ -1,0 +1,130 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Wichí,,,Hunt 1940
+1,2A,Average (5-6),Vowel Quality Inventories,Wichí,,,Hunt 1940
+2,3A,Average,Consonant-Vowel Ratio,Wichí,,,Hunt 1940
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Wichí,,,Hunt 1940
+4,5A,Other,Voicing and Gaps in Plosive Systems,Wichí,,,Hunt 1940
+5,6A,Uvular stops only,Uvular Consonants,Wichí,,,Hunt 1940
+6,7A,Ejectives and glottalized resonants,Glottalized Consonants,Wichí,,,Hunt 1940
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Wichí,,,Hunt 1940
+8,9A,No velar nasal,The Velar Nasal,Wichí,,,Viñas Urquiza 1974
+9,10A,Contrast absent,Vowel Nasalization,Wichí,,,Viñas Urquiza 1970
+10,11A,None,Front Rounded Vowels,Wichí,,,Hunt 1940
+11,12A,Moderately complex,Syllable Structure,Wichí,,,Hunt 1940
+12,13A,No tones,Tone,Wichí,,,Hunt 1940
+13,14A,Initial,Fixed Stress Locations,Wichí,,,Viñas Urquiza 1974
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Wichí,,,Viñas Urquiza 1974
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Wichí,,,Viñas Urquiza 1974
+16,17A,Trochaic,Rhythm Types,Wichí,,,Viñas Urquiza 1974
+17,18A,All present,Absence of Common Consonants,Wichí,,,Hunt 1940
+18,19A,None,Presence of Uncommon Consonants,Wichí,,,Hunt 1940
+19,20A,Exclusively isolating,Fusion of Selected Inflectional Formatives,Wichí,,,Tovar 1981
+20,21A,No case,Exponence of Selected Inflectional Formatives,Wichí,,,Tovar 1981
+21,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Wichí,,,Tovar 1981
+22,22A,2-3 categories per word,Inflectional Synthesis of the Verb,Wichí,,,Tovar 1981
+23,23A,Double marking,Locus of Marking in the Clause,Wichí,,,Tovar 1981
+24,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Wichí,,,Tovar 1981
+25,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Wichí,,,Tovar 1981
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Wichí,,,Tovar 1981
+27,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wichí,,,Hunt 1940
+28,27A,No productive reduplication,Reduplication,Wichí,,,
+29,28A,No case marking,Case Syncretism,Wichí,,,Tovar 1981
+30,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Wichí,,,Tovar 1981
+31,33A,Plural suffix,Coding of Nominal Plurality,Wichí,,,Hunt 1940
+32,35A,Person stem + nominal plural affix,Plurality in Independent Personal Pronouns,Wichí,,,Viñas Urquiza 1974
+33,36A,Associative same as additive plural,The Associative Plural,Wichí,,,
+34,37A,Definite word distinct from demonstrative,Definite Articles,Wichí,,,Viñas Urquiza 1974
+35,38A,"No indefinite, but definite article",Indefinite Articles,Wichí,,,Viñas Urquiza 1974
+36,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Wichí,,,Hunt 1940
+37,40A,'We' the same as 'I',Inclusive/Exclusive Distinction in Verbal Inflection,Wichí,,,Hunt 1940
+38,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Wichí,,,Tovar 1981
+39,45A,No politeness distinction,Politeness Distinctions in Pronouns,Wichí,,,Tovar 1981
+40,48A,No adpositions,Person Marking on Adpositions,Wichí,,,Tovar 1981
+41,49A,No morphological case-marking,Number of Cases,Wichí,,,Tovar 1981
+42,50A,No case-marking,Asymmetrical Case-Marking,Wichí,,,Tovar 1981
+43,51A,No case affixes or adpositional clitics,Position of Case Affixes,Wichí,,,Viñas Urquiza 1974
+44,52A,Differentiation,Comitatives and Instrumentals,Wichí,,,Tovar 1981
+45,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Wichí,,,Hunt 1940
+46,58A,Exists,Obligatory Possessive Inflection,Wichí,,,Tovar 1981
+47,58B,None reported,Number of Possessive Nouns,Wichí,,,Tovar 1981
+48,59A,Three to five classes,Possessive Classification,Wichí,,,Tovar 1981
+49,62A,Restricted,Action Nominal Constructions,Wichí,,,
+50,64A,Differentiation,Nominal and Verbal Conjunction,Wichí,,,
+51,65A,No grammatical marking,Perfective/Imperfective Aspect,Wichí,,,
+52,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Wichí,,,
+53,67A,Inflectional future exists,The Future Tense,Wichí,,,
+54,68A,No perfect,The Perfect,Wichí,,,
+55,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Wichí,,,Hunt 1940
+56,70A,Second singular and second plural,The Morphological Imperative,Wichí,,,Viñas Urquiza 1974
+57,71A,Special imperative + special negative,The Prohibitive,Wichí,,,Viñas Urquiza 1974
+58,72A,Neither type of system,Imperative-Hortative Systems,Wichí,,,Viñas Urquiza 1974
+59,73A,Inflectional optative absent,The Optative,Wichí,,,Viñas Urquiza 1974
+60,74A,Verbal constructions,Situational Possibility,Wichí,,,Viñas Urquiza 1974
+61,75A,Other,Epistemic Possibility,Wichí,,,
+62,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Wichí,,,
+63,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Wichí,,,Hunt 1940
+64,78A,No grammatical evidentials,Coding of Evidentiality,Wichí,,,Hunt 1940
+65,79A,None,Suppletion According to Tense and Aspect,Wichí,,,Viñas Urquiza 1974
+66,79B,Imperative,Suppletion in Imperatives and Hortatives,Wichí,,,
+67,80A,None,Verbal Number and Suppletion,Wichí,,,Viñas Urquiza 1974
+68,81A,SVO,"Order of Subject, Object and Verb",Wichí,,,Hunt 1940
+69,82A,SV,Order of Subject and Verb,Wichí,,,Tovar 1981
+70,83A,VO,Order of Object and Verb,Wichí,,,Viñas Urquiza 1974
+71,84A,VOX,"Order of Object, Oblique, and Verb",Wichí,,,Hunt 1940
+72,85A,Prepositions,Order of Adposition and Noun Phrase,Wichí,,,Hunt 1940
+73,86A,Genitive-Noun,Order of Genitive and Noun,Wichí,,,Hunt 1940
+74,87A,Noun-Adjective,Order of Adjective and Noun,Wichí,,,Hunt 1940
+75,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Wichí,,,Hunt 1940
+76,89A,Numeral-Noun,Order of Numeral and Noun,Wichí,,,Tovar 1981
+77,90A,Noun-Relative clause,Order of Relative Clause and Noun,Wichí,,,Hunt 1940
+78,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Wichí,,,Hunt 1940
+79,92A,Initial,Position of Polar Question Particles,Wichí,,,Viñas Urquiza 1974
+80,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wichí,,,Hunt 1940
+81,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Wichí,,,Tovar 1981
+82,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wichí,,,
+83,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wichí,,,
+84,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wichí,,,
+85,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Wichí,,,Tovar 1981
+86,99A,Neutral,Alignment of Case Marking of Pronouns,Wichí,,,Tovar 1981
+87,100A,Accusative,Alignment of Verbal Person Marking,Wichí,,,Tovar 1981
+88,102A,Both the A and P arguments,Verbal Person Marking,Wichí,,,Tovar 1981
+89,103A,Zero in all 3rd person forms,Third Person Zero of Verbal Person Marking,Wichí,,,Tovar 1981
+90,104A,A precedes P,Order of Person Markers on the Verb,Wichí,,,Tovar 1981
+91,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Wichí,,,
+92,106A,Identical to reflexive,Reciprocal Constructions,Wichí,,,Hunt 1940
+93,107A,Absent,Passive Constructions,Wichí,,,Tovar 1981
+94,108A,No antipassive,Antipassive Constructions,Wichí,,,
+95,108B,no antipassive,Productivity of the Antipassive Construction,Wichí,,,
+96,109A,No applicative construction,Applicative Constructions,Wichí,,,
+97,109B,No applicative construction,Other Roles of Applied Objects,Wichí,,,
+98,110A,Sequential but no purposive,Periphrastic Causative Constructions,Wichí,,,Hunt 1940
+99,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Wichí,,,Hunt 1940
+100,112A,Negative particle,Negative Morphemes,Wichí,,,Viñas Urquiza 1974
+101,113A,Both,Symmetric and Asymmetric Standard Negation,Wichí,,,
+102,114A,A/NonReal,Subtypes of Asymmetric Standard Negation,Wichí,,,
+103,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Wichí,,,
+104,116A,Question particle,Polar Questions,Wichí,,,Viñas Urquiza 1974
+105,118A,Mixed,Predicative Adjectives,Wichí,,,
+106,119A,Different,Nominal and Locational Predication,Wichí,,,
+107,120A,Impossible,Zero Copula for Predicate Nominals,Wichí,,,
+108,124A,Subject is expressed overtly,'Want' Complement Subjects,Wichí,,,
+109,129A,Different,Hand and Arm,Wichí,,,Remedi 1896
+110,130A,Different,Finger and Hand,Wichí,,,Remedi 1896
+111,131A,Restricted,Numeral Bases,Wichí,,,Tovar 1981
+112,136A,No M-T pronouns,M-T Pronouns,Wichí,,,Viñas Urquiza 1974
+113,136B,No m in first person singular,M in First Person Singular,Wichí,,,Viñas Urquiza 1974
+114,137A,"N-M pronouns, paradigmatic",N-M Pronouns,Wichí,,,Viñas Urquiza 1974
+115,137B,m in second person singular,M in Second Person Singular,Wichí,,,Viñas Urquiza 1974
+116,142A,Other or none,Para-Linguistic Usages of Clicks,Wichí,,,
+117,143A,Type 1 / Type 4,Order of Negative Morpheme and Verb,Wichí,,,Tovar 1981
+118,143E,NegV,Preverbal Negative Morphemes,Wichí,,,Tovar 1981
+119,143F,[V-Neg],Postverbal Negative Morphemes,Wichí,,,Tovar 1981
+120,143G,None,Minor morphological means of signaling negation,Wichí,,,Tovar 1981
+121,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Wichí,,,Tovar 1981
+122,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wichí,,,Tovar 1981
+123,144D,More than one construction,The Position of Negative Morphemes in SVO Languages,Wichí,,,Tovar 1981
+124,144E,SNegVO/S[V-Neg]O,Multiple Negative Constructions in SVO Languages,Wichí,,,Tovar 1981
+125,144H,No NegSVO,NegSVO Order,Wichí,,,Tovar 1981
+126,144I,Word&NoDoubleNeg,SNegVO Order,Wichí,,,Tovar 1981
+127,144J,Suffix&NoDoubleNeg,SVNegO Order,Wichí,,,Tovar 1981
+128,144K,No SVONeg,SVONeg Order,Wichí,,,Tovar 1981

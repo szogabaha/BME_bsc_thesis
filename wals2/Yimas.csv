@@ -1,0 +1,119 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Yimas,,,Foley 1991
+1,2A,Small (2-4),Vowel Quality Inventories,Yimas,,,Foley 1991
+2,3A,Moderately high,Consonant-Vowel Ratio,Yimas,,,Foley 1991
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Yimas,,,Foley 1991
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yimas,,,Foley 1991
+5,6A,None,Uvular Consonants,Yimas,,,Foley 1991
+6,7A,No glottalized consonants,Glottalized Consonants,Yimas,,,Foley 1991
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yimas,,,Foley 1991
+8,9A,Initial velar nasal,The Velar Nasal,Yimas,,,Foley 1991
+9,10A,Contrast absent,Vowel Nasalization,Yimas,,,Foley 1991
+10,11A,None,Front Rounded Vowels,Yimas,,,Foley 1991
+11,12A,Moderately complex,Syllable Structure,Yimas,,,Foley 1991
+12,13A,No tones,Tone,Yimas,,,Foley 1991
+13,14A,Initial,Fixed Stress Locations,Yimas,,,Foley 1991
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Yimas,,,Foley 1991
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Yimas,,,Foley 1991
+16,17A,Trochaic,Rhythm Types,Yimas,,,Foley 1991
+17,18A,No fricatives,Absence of Common Consonants,Yimas,,,Foley 1991
+18,19A,None,Presence of Uncommon Consonants,Yimas,,,Foley 1991
+19,23A,Head marking,Locus of Marking in the Clause,Yimas,,,Foley 1991
+20,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Yimas,,,Foley 1991
+21,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Yimas,,,Foley 1991
+22,25B,Non-zero marking,Zero Marking of A and P Arguments,Yimas,,,Foley 1991
+23,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yimas,,,Foley 1991
+24,27A,Productive full and partial reduplication,Reduplication,Yimas,,,Foley 1991
+25,28A,No case marking,Case Syncretism,Yimas,,,Foley 1991
+26,29A,Syncretic,Syncretism in Verbal Person/Number Marking,Yimas,,,Foley 1991
+27,30A,Five or more,Number of Genders,Yimas,,,Foley 1991
+28,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Yimas,,,Foley 1991
+29,32A,Semantic and formal,Systems of Gender Assignment,Yimas,,,Foley 1991
+30,33A,Plural suffix,Coding of Nominal Plurality,Yimas,,,Foley 1991
+31,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Yimas,,,Foley 1991
+32,35A,Person-number stem,Plurality in Independent Personal Pronouns,Yimas,,,Foley 1991
+33,37A,No definite or indefinite article,Definite Articles,Yimas,,,Foley 1991
+34,38A,No definite or indefinite article,Indefinite Articles,Yimas,,,Foley 1991
+35,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Yimas,,,Foley 1991
+36,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Yimas,,,Foley 1991
+37,41A,Three-way contrast,Distance Contrasts in Demonstratives,Yimas,,,Foley 1991
+38,42A,Identical,Pronominal and Adnominal Demonstratives,Yimas,,,Foley 1991
+39,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Yimas,,,Foley 1991
+40,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yimas,,,Foley 1991
+41,45A,No politeness distinction,Politeness Distinctions in Pronouns,Yimas,,,Foley 1991
+42,47A,Identical,Intensifiers and Reflexive Pronouns,Yimas,,,
+43,48A,Pronouns only,Person Marking on Adpositions,Yimas,,,Foley 1991
+44,49A,Exclusively borderline case-marking,Number of Cases,Yimas,,,Foley 1991
+45,50A,Subtractive-quantitatively asymmetrical,Asymmetrical Case-Marking,Yimas,,,Foley 1991
+46,51A,Case suffixes,Position of Case Affixes,Yimas,,,Foley 1991
+47,53A,"First, two-th, three-th",Ordinal Numerals,Yimas,,,Foley 1991
+48,54A,No distributive numerals,Distributive Numerals,Yimas,,,Foley 1991
+49,55A,Absent,Numeral Classifiers,Yimas,,,Foley 1991
+50,56A,Formally different,Conjunctions and Universal Quantifiers,Yimas,,,Foley 1991
+51,58A,Absent,Obligatory Possessive Inflection,Yimas,,,Foley 1991
+52,58B,None reported,Number of Possessive Nouns,Yimas,,,Foley 1991
+53,59A,No possessive classification,Possessive Classification,Yimas,,,Foley 1991
+54,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Yimas,,,Foley 1991
+55,61A,Without marking,Adjectives without Nouns,Yimas,,,Foley 1991
+56,62A,Possessive-Accusative,Action Nominal Constructions,Yimas,,,Foley 1991
+57,64A,Both expressed by juxtaposition,Nominal and Verbal Conjunction,Yimas,,,Foley 1991
+58,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yimas,,,Foley 1991
+59,70A,Second singular and second plural,The Morphological Imperative,Yimas,,,Foley 1991
+60,71A,Special imperative + special negative,The Prohibitive,Yimas,,,Foley 1991
+61,72A,Maximal system,Imperative-Hortative Systems,Yimas,,,Foley 1991
+62,73A,Inflectional optative absent,The Optative,Yimas,,,Foley 1991
+63,74A,Affixes on verbs,Situational Possibility,Yimas,,,Foley 1991
+64,75A,Affixes on verbs,Epistemic Possibility,Yimas,,,Foley 1991
+65,76A,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Yimas,,,Foley 1991
+66,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Yimas,,,Foley 1991
+67,78A,No grammatical evidentials,Coding of Evidentiality,Yimas,,,Foley 1991
+68,79A,Tense,Suppletion According to Tense and Aspect,Yimas,,,Foley 1991
+69,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Yimas,,,
+70,80A,None,Verbal Number and Suppletion,Yimas,,,Foley 1991
+71,82A,SV,Order of Subject and Verb,Yimas,,,Foley 1991
+72,83A,OV,Order of Object and Verb,Yimas,,,Foley 1991
+73,84A,No dominant order,"Order of Object, Oblique, and Verb",Yimas,,,Foley 1991
+74,85A,Postpositions,Order of Adposition and Noun Phrase,Yimas,,,Foley 1991
+75,86A,Genitive-Noun,Order of Genitive and Noun,Yimas,,,Foley 1991
+76,87A,No dominant order,Order of Adjective and Noun,Yimas,,,Foley 1991
+77,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Yimas,,,Foley 1991
+78,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yimas,,,
+79,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yimas,,,
+80,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Yimas,,,Foley 1991
+81,99A,Neutral,Alignment of Case Marking of Pronouns,Yimas,,,Foley 1991
+82,100A,Split,Alignment of Verbal Person Marking,Yimas,,,Foley 1991
+83,101A,Subject affixes on verb,Expression of Pronominal Subjects,Yimas,,,Foley 1991
+84,102A,Both the A and P arguments,Verbal Person Marking,Yimas,,,Foley 1991
+85,103A,No zero realization,Third Person Zero of Verbal Person Marking,Yimas,,,Foley 1991
+86,104A,Both orders of A and P occur,Order of Person Markers on the Verb,Yimas,,,Foley 1991
+87,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Yimas,,,Foley 1991
+88,107A,Absent,Passive Constructions,Yimas,,,Foley 1991
+89,108A,No antipassive,Antipassive Constructions,Yimas,,,Foley 1991
+90,108B,no antipassive,Productivity of the Antipassive Construction,Yimas,,,Foley 1991
+91,109A,Benefactive and other; both bases,Applicative Constructions,Yimas,,,Foley 1991
+92,109B,No other roles (= Only benefactive),Other Roles of Applied Objects,Yimas,,,
+93,110A,Both,Periphrastic Causative Constructions,Yimas,,,Foley 1991
+94,111A,Both,Nonperiphrastic Causative Constructions,Yimas,,,Foley 1991
+95,112A,Negative affix,Negative Morphemes,Yimas,,,Foley 1991
+96,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Yimas,,,Foley 1991
+97,114A,A/Fin and A/Cat,Subtypes of Asymmetric Standard Negation,Yimas,,,Foley 1991
+98,117A,Conjunctional,Predicative Possession,Yimas,,,Foley 1991
+99,118A,Mixed,Predicative Adjectives,Yimas,,,Foley 1991
+100,119A,Different,Nominal and Locational Predication,Yimas,,,Foley 1991
+101,120A,Impossible,Zero Copula for Predicate Nominals,Yimas,,,Foley 1991
+102,122A,Gap,Relativization on Subjects,Yimas,,,Foley 1991
+103,124A,Subject is left implicit,'Want' Complement Subjects,Yimas,,,Foley 1991
+104,125A,Deranked,Purpose Clauses,Yimas,,,Foley 1991
+105,126A,Balanced/deranked,'When' Clauses,Yimas,,,Foley 1991
+106,127A,Balanced,Reason Clauses,Yimas,,,Foley 1991
+107,131A,Pure vigesimal,Numeral Bases,Yimas,,,Foley 1991
+108,136A,"M-T pronouns, non-paradigmatic",M-T Pronouns,Yimas,,,Foley 1991
+109,136B,m in first person singular,M in First Person Singular,Yimas,,,Foley 1991
+110,137A,No N-M pronouns,N-M Pronouns,Yimas,,,Foley 1991
+111,137B,m in second person singular,M in Second Person Singular,Yimas,,,Foley 1991
+112,143A,[Neg-V],Order of Negative Morpheme and Verb,Yimas,,,Foley 1991
+113,143E,[Neg-V],Preverbal Negative Morphemes,Yimas,,,Foley 1991
+114,143F,None,Postverbal Negative Morphemes,Yimas,,,Foley 1991
+115,143G,None,Minor morphological means of signaling negation,Yimas,,,Foley 1991
+116,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Yimas,,,Foley 1991
+117,144L,SV&OV&[Neg-V],The Position of Negative Morphemes in SOV Languages,Yimas,,,Foley 1991

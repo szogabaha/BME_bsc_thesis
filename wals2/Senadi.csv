@@ -1,0 +1,16 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Senadi,,,Welmers 1950
+1,2A,Large (7-14),Vowel Quality Inventories,Senadi,,,Welmers 1950
+2,3A,Average,Consonant-Vowel Ratio,Senadi,,,Welmers 1950
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Senadi,,,Welmers 1950
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Senadi,,,Welmers 1950
+5,6A,None,Uvular Consonants,Senadi,,,Welmers 1950
+6,7A,No glottalized consonants,Glottalized Consonants,Senadi,,,Welmers 1950
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Senadi,,,Welmers 1950
+8,10A,Contrast present,Vowel Nasalization,Senadi,,,Mills 1984
+9,10B,four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ v /Vː/) with nasal spreading,Nasal Vowels in West Africa,Senadi,,,Mills 1984
+10,11A,None,Front Rounded Vowels,Senadi,,,Welmers 1950
+11,12A,Simple,Syllable Structure,Senadi,,,Welmers 1950
+12,13A,Complex tone system,Tone,Senadi,,,Welmers 1950
+13,18A,All present,Absence of Common Consonants,Senadi,,,Welmers 1950
+14,19A,Labial-velars,Presence of Uncommon Consonants,Senadi,,,Welmers 1950

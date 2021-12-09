@@ -1,0 +1,38 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural clitic,Coding of Nominal Plurality,Tsafiki,,,Dickinson 2002
+1,51A,Postpositional clitics,Position of Case Affixes,Tsafiki,,,Dickinson 2002
+2,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tsafiki,,,Dickinson 2002
+3,70A,Second singular,The Morphological Imperative,Tsafiki,,,Moore 1979
+4,72A,Neither type of system,Imperative-Hortative Systems,Tsafiki,,,Moore 1979
+5,81A,SOV,"Order of Subject, Object and Verb",Tsafiki,,,Dickinson 2002
+6,82A,SV,Order of Subject and Verb,Tsafiki,,,Dickinson 2002
+7,83A,OV,Order of Object and Verb,Tsafiki,,,Dickinson 2002
+8,85A,Postpositions,Order of Adposition and Noun Phrase,Tsafiki,,,Dickinson 2002
+9,86A,Genitive-Noun,Order of Genitive and Noun,Tsafiki,,,Dickinson 2002
+10,87A,Adjective-Noun,Order of Adjective and Noun,Tsafiki,,,Dickinson 2002
+11,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tsafiki,,,Dickinson 2002
+12,89A,Numeral-Noun,Order of Numeral and Noun,Tsafiki,,,Dickinson 2002
+13,90A,Relative clause-Noun,Order of Relative Clause and Noun,Tsafiki,,,Dickinson 2002
+14,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Tsafiki,,,Dickinson 2002
+15,92A,No question particle,Position of Polar Question Particles,Tsafiki,,,Dickinson 2002
+16,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tsafiki,,,
+17,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tsafiki,,,
+18,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tsafiki,,,
+19,112A,Negative affix,Negative Morphemes,Tsafiki,,,Dickinson 2002
+20,116A,Interrogative verb morphology,Polar Questions,Tsafiki,,,Dickinson 2002
+21,129A,Identical,Hand and Arm,Tsafiki,,,Huber and Reed 1992
+22,130A,Different,Finger and Hand,Tsafiki,,,Huber and Reed 1992
+23,132A,5,Number of Non-Derived Basic Colour Categories,Tsafiki,,,
+24,133A,4.5-5.5,Number of Basic Colour Categories,Tsafiki,,,
+25,134A,Green/blue,Green and Blue,Tsafiki,,,
+26,135A,Red vs. yellow,Red and Yellow,Tsafiki,,,
+27,143A,[V-Neg],Order of Negative Morpheme and Verb,Tsafiki,,,Dickinson 2002
+28,143E,None,Preverbal Negative Morphemes,Tsafiki,,,Dickinson 2002
+29,143F,[V-Neg],Postverbal Negative Morphemes,Tsafiki,,,Dickinson 2002
+30,143G,None,Minor morphological means of signaling negation,Tsafiki,,,Dickinson 2002
+31,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tsafiki,,,Dickinson 2002
+32,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tsafiki,,,Dickinson 2002
+33,144P,No NegSOV,NegSOV Order,Tsafiki,,,Dickinson 2002
+34,144Q,No SNegOV,SNegOV Order,Tsafiki,,,Dickinson 2002
+35,144R,No SONegV,SONegV Order,Tsafiki,,,Dickinson 2002
+36,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tsafiki,,,Dickinson 2002

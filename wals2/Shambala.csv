@@ -1,0 +1,24 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Shambala,,,Besha 1993
+1,33A,Plural prefix,Coding of Nominal Plurality,Shambala,,,Besha 1993
+2,37A,Demonstrative word used as definite article,Definite Articles,Shambala,,,Besha 1993
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Shambala,,,Besha 1993
+4,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Shambala,,,Besha 1993
+5,81A,SVO,"Order of Subject, Object and Verb",Shambala,,,Besha 1993
+6,82A,SV,Order of Subject and Verb,Shambala,,,Besha 1993
+7,83A,VO,Order of Object and Verb,Shambala,,,Besha 1993
+8,87A,Noun-Adjective,Order of Adjective and Noun,Shambala,,,Besha 1993
+9,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Shambala,,,Besha 1993
+10,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Shambala,,,
+11,101A,Subject affixes on verb,Expression of Pronominal Subjects,Shambala,,,Besha 1993
+12,112A,Negative affix,Negative Morphemes,Shambala,,,Besha 1993
+13,143A,[Neg-V],Order of Negative Morpheme and Verb,Shambala,,,Besha 1993
+14,143E,[Neg-V],Preverbal Negative Morphemes,Shambala,,,Besha 1993
+15,143F,None,Postverbal Negative Morphemes,Shambala,,,Besha 1993
+16,143G,None,Minor morphological means of signaling negation,Shambala,,,Besha 1993
+17,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Shambala,,,Besha 1993
+18,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Shambala,,,Besha 1993
+19,144H,No NegSVO,NegSVO Order,Shambala,,,Besha 1993
+20,144I,Prefix&NoDoubleNeg,SNegVO Order,Shambala,,,Besha 1993
+21,144J,No SVNegO,SVNegO Order,Shambala,,,Besha 1993
+22,144K,No SVONeg,SVONeg Order,Shambala,,,Besha 1993

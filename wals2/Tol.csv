@@ -1,0 +1,41 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Tol,,,Fleming and Dennis 1977
+1,2A,Average (5-6),Vowel Quality Inventories,Tol,,,Fleming and Dennis 1977
+2,3A,Average,Consonant-Vowel Ratio,Tol,,,Fleming and Dennis 1977
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Tol,,,Fleming and Dennis 1977
+4,5A,Other,Voicing and Gaps in Plosive Systems,Tol,,,Fleming and Dennis 1977
+5,6A,None,Uvular Consonants,Tol,,,Fleming and Dennis 1977
+6,7A,Ejectives only,Glottalized Consonants,Tol,,,Fleming and Dennis 1977
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tol,,,Fleming and Dennis 1977
+8,11A,None,Front Rounded Vowels,Tol,,,Fleming and Dennis 1977
+9,12A,Moderately complex,Syllable Structure,Tol,,,Fleming and Dennis 1977
+10,13A,No tones,Tone,Tol,,,Fleming and Dennis 1977
+11,14A,No fixed stress,Fixed Stress Locations,Tol,,,Fleming and Dennis 1977
+12,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Tol,,,Fleming and Dennis 1977
+13,16A,Coda consonant,Weight Factors in Weight-Sensitive Stress Systems,Tol,,,Fleming and Dennis 1977
+14,18A,All present,Absence of Common Consonants,Tol,,,Fleming and Dennis 1977
+15,19A,None,Presence of Uncommon Consonants,Tol,,,Fleming and Dennis 1977
+16,30A,None,Number of Genders,Tol,,,Holt 1999a
+17,31A,No gender,Sex-based and Non-sex-based Gender Systems,Tol,,,Holt 1999a
+18,32A,No gender,Systems of Gender Assignment,Tol,,,Holt 1999a
+19,35A,Person-number stem,Plurality in Independent Personal Pronouns,Tol,,,Holt 1999a
+20,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tol,,,Holt 1999a
+21,48A,No person marking,Person Marking on Adpositions,Tol,,,Holt 1999a
+22,55A,Absent,Numeral Classifiers,Tol,,,Holt 1999a
+23,100A,Accusative,Alignment of Verbal Person Marking,Tol,,,Holt 1999a
+24,102A,Both the A and P arguments,Verbal Person Marking,Tol,,,Holt 1999a
+25,103A,Zero in some 3sg forms,Third Person Zero of Verbal Person Marking,Tol,,,Holt 1999a
+26,104A,P precedes A,Order of Person Markers on the Verb,Tol,,,Holt 1999a
+27,107A,Absent,Passive Constructions,Tol,,,Holt 1999a
+28,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Tol,,,Holt 1999a
+29,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Tol,,,Holt 1999a
+30,129A,Different,Hand and Arm,Tol,,,Dennis and Dennis 1983
+31,130A,Different,Finger and Hand,Tol,,,Dennis and Dennis 1983
+32,132A,5,Number of Non-Derived Basic Colour Categories,Tol,,,
+33,133A,4.5-5.5,Number of Basic Colour Categories,Tol,,,
+34,134A,Green/blue,Green and Blue,Tol,,,
+35,135A,Red vs. yellow,Red and Yellow,Tol,,,
+36,143A,NegV,Order of Negative Morpheme and Verb,Tol,,,
+37,143E,NegV,Preverbal Negative Morphemes,Tol,,,
+38,143F,None,Postverbal Negative Morphemes,Tol,,,
+39,143G,None,Minor morphological means of signaling negation,Tol,,,

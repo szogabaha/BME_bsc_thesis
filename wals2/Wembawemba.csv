@@ -1,0 +1,48 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Wembawemba,,,Hercus 1986b
+1,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Wembawemba,,,Hercus 1986b
+2,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Wembawemba,,,Hercus 1986b
+3,23A,Double marking,Locus of Marking in the Clause,Wembawemba,,,Hercus 1986b
+4,24A,Double marking,Locus of Marking in Possessive Noun Phrases,Wembawemba,,,Hercus 1986b
+5,25A,Double-marking,Locus of Marking: Whole-language Typology,Wembawemba,,,Hercus 1986b
+6,25B,Non-zero marking,Zero Marking of A and P Arguments,Wembawemba,,,Hercus 1986b
+7,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wembawemba,,,Hercus 1986b
+8,39B,Inclusive and exclusive differentiated,Inclusive/Exclusive Forms in Pama-Nyungan,Wembawemba,,,
+9,51A,Case suffixes,Position of Case Affixes,Wembawemba,,,Hercus 1986b
+10,55A,Absent,Numeral Classifiers,Wembawemba,,,Nichols 1992
+11,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Wembawemba,,,Hercus 1986b
+12,58A,Absent,Obligatory Possessive Inflection,Wembawemba,,,Hercus 1986b
+13,58B,None reported,Number of Possessive Nouns,Wembawemba,,,Hercus 1986b
+14,59A,Two classes,Possessive Classification,Wembawemba,,,Hercus 1986b
+15,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Wembawemba,,,Hercus 1986b
+16,81A,VOS,"Order of Subject, Object and Verb",Wembawemba,,,Hercus 1986b
+17,82A,VS,Order of Subject and Verb,Wembawemba,,,Hercus 1986b
+18,83A,VO,Order of Object and Verb,Wembawemba,,,Hercus 1986b
+19,84A,VOX,"Order of Object, Oblique, and Verb",Wembawemba,,,Hercus 1986b
+20,85A,No dominant order,Order of Adposition and Noun Phrase,Wembawemba,,,Hercus 1986b
+21,86A,Genitive-Noun,Order of Genitive and Noun,Wembawemba,,,Hercus 1986b
+22,87A,Adjective-Noun,Order of Adjective and Noun,Wembawemba,,,Hercus 1986b
+23,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wembawemba,,,Hercus 1986b
+24,91A,Degree word-Adjective,Order of Degree Word and Adjective,Wembawemba,,,Hercus 1986b
+25,92A,No question particle,Position of Polar Question Particles,Wembawemba,,,Hercus 1969b
+26,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wembawemba,,,Hercus 1986b
+27,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wembawemba,,,
+28,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wembawemba,,,
+29,112A,Negative particle,Negative Morphemes,Wembawemba,,,Hercus 1969b
+30,116A,Interrogative intonation only,Polar Questions,Wembawemba,,,Hercus 1969b
+31,129A,Different,Hand and Arm,Wembawemba,,,Hercus 1999b
+32,130A,Different,Finger and Hand,Wembawemba,,,Hercus 1999b
+33,136A,No M-T pronouns,M-T Pronouns,Wembawemba,,,Hercus 1986b
+34,136B,No m in first person singular,M in First Person Singular,Wembawemba,,,Hercus 1986b
+35,137A,No N-M pronouns,N-M Pronouns,Wembawemba,,,Hercus 1986b
+36,137B,No m in second person singular,M in Second Person Singular,Wembawemba,,,Hercus 1986b
+37,143A,NegV,Order of Negative Morpheme and Verb,Wembawemba,,,Hercus 1986b
+38,143E,NegV,Preverbal Negative Morphemes,Wembawemba,,,Hercus 1986b
+39,143F,None,Postverbal Negative Morphemes,Wembawemba,,,Hercus 1986b
+40,143G,None,Minor morphological means of signaling negation,Wembawemba,,,Hercus 1986b
+41,144A,NegVOS,"Position of Negative Word With Respect to Subject, Object, and Verb",Wembawemba,,,Hercus 1986b
+42,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wembawemba,,,Hercus 1986b
+43,144T,NegVOS,The Position of Negative Morphemes in Verb-Initial Languages,Wembawemba,,,Hercus 1986b
+44,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Wembawemba,,,Hercus 1986b
+45,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Wembawemba,,,Hercus 1986b
+46,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Wembawemba,,,Hercus 1986b

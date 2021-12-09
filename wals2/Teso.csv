@@ -1,0 +1,41 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Teso,,,Hilders and Lawrance 1956
+1,33A,Mixed morphological plural,Coding of Nominal Plurality,Teso,,,Hilders and Lawrance 1956
+2,37A,No definite or indefinite article,Definite Articles,Teso,,,Hilders and Lawrance 1956
+3,38A,No definite or indefinite article,Indefinite Articles,Teso,,,Hilders and Lawrance 1956
+4,51A,Case prefixes,Position of Case Affixes,Teso,,,Hilders and Lawrance 1956
+5,57A,Prefixes and suffixes,Position of Pronominal Possessive Affixes,Teso,,,Hilders and Lawrance 1956
+6,69A,Mixed type,Position of Tense-Aspect Affixes,Teso,,,Hilders and Lawrance 1956
+7,81A,VSO,"Order of Subject, Object and Verb",Teso,,,Hilders and Lawrance 1956
+8,82A,VS,Order of Subject and Verb,Teso,,,Hilders and Lawrance 1956
+9,83A,VO,Order of Object and Verb,Teso,,,Hilders and Lawrance 1956
+10,85A,Prepositions,Order of Adposition and Noun Phrase,Teso,,,Hilders and Lawrance 1956
+11,86A,Noun-Genitive,Order of Genitive and Noun,Teso,,,Hilders and Lawrance 1956
+12,87A,Noun-Adjective,Order of Adjective and Noun,Teso,,,Hilders and Lawrance 1956
+13,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Teso,,,Hilders and Lawrance 1956
+14,89A,Noun-Numeral,Order of Numeral and Noun,Teso,,,Hilders and Lawrance 1956
+15,90A,Noun-Relative clause,Order of Relative Clause and Noun,Teso,,,Hilders and Lawrance 1956
+16,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Teso,,,Hilders and Lawrance 1956
+17,93A,Mixed,Position of Interrogative Phrases in Content Questions,Teso,,,Hilders and Lawrance 1956
+18,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Teso,,,Hilders and Lawrance 1956
+19,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Teso,,,
+20,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Teso,,,
+21,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Teso,,,
+22,101A,Subject affixes on verb,Expression of Pronominal Subjects,Teso,,,Hilders and Lawrance 1956
+23,112A,Negative particle,Negative Morphemes,Teso,,,Hilders and Lawrance 1956
+24,118A,Verbal encoding,Predicative Adjectives,Teso,,,Tucker and Bryan 1966
+25,119A,Different,Nominal and Locational Predication,Teso,,,Tucker and Bryan 1966
+26,120A,Impossible,Zero Copula for Predicate Nominals,Teso,,,Tucker and Bryan 1966
+27,122A,Gap,Relativization on Subjects,Teso,,,Creider 1989
+28,143A,NegV,Order of Negative Morpheme and Verb,Teso,,,Hilders and Lawrance 1956
+29,143E,NegV,Preverbal Negative Morphemes,Teso,,,Hilders and Lawrance 1956
+30,143F,None,Postverbal Negative Morphemes,Teso,,,Hilders and Lawrance 1956
+31,143G,None,Minor morphological means of signaling negation,Teso,,,Hilders and Lawrance 1956
+32,144A,NegSVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Teso,,,Hilders and Lawrance 1956
+33,144B,"Beginning, not immed preverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Teso,,,Hilders and Lawrance 1956
+34,144C,"VSO, but NegSVO",Languages with different word order in negative clauses,Teso,,,Hilders and Lawrance 1956
+35,144D,VSO but NegSVO,The Position of Negative Morphemes in SVO Languages,Teso,,,Hilders and Lawrance 1956
+36,144H,NoDoubleNeg,NegSVO Order,Teso,,,Hilders and Lawrance 1956
+37,144I,No SNegVO,SNegVO Order,Teso,,,Hilders and Lawrance 1956
+38,144J,No SVNegO,SVNegO Order,Teso,,,Hilders and Lawrance 1956
+39,144K,No SVONeg,SVONeg Order,Teso,,,Hilders and Lawrance 1956

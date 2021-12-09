@@ -1,0 +1,31 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,No plural,Coding of Nominal Plurality,Thulung,,,Allen 1975b
+1,51A,Case suffixes,Position of Case Affixes,Thulung,,,Allen 1975b
+2,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Thulung,,,Allen 1975b
+3,81A,SOV,"Order of Subject, Object and Verb",Thulung,,,Allen 1975b
+4,82A,SV,Order of Subject and Verb,Thulung,,,Allen 1975b
+5,83A,OV,Order of Object and Verb,Thulung,,,Allen 1975b
+6,85A,Postpositions,Order of Adposition and Noun Phrase,Thulung,,,Allen 1975b
+7,86A,Genitive-Noun,Order of Genitive and Noun,Thulung,,,Allen 1975b
+8,87A,Adjective-Noun,Order of Adjective and Noun,Thulung,,,Allen 1975b
+9,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Thulung,,,Allen 1975b
+10,89A,Numeral-Noun,Order of Numeral and Noun,Thulung,,,Allen 1975b
+11,90A,Relative clause-Noun,Order of Relative Clause and Noun,Thulung,,,Allen 1975b
+12,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Thulung,,,Allen 1975b
+13,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Thulung,,,
+14,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Thulung,,,
+15,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Thulung,,,
+16,112A,Double negation,Negative Morphemes,Thulung,,,Allen 1975b
+17,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Thulung,,,Allen 1975b
+18,143B,Neg[V-Neg],Obligatory Double Negation,Thulung,,,Allen 1975b
+19,143E,NegV,Preverbal Negative Morphemes,Thulung,,,Allen 1975b
+20,143F,[V-Neg],Postverbal Negative Morphemes,Thulung,,,Allen 1975b
+21,143G,None,Minor morphological means of signaling negation,Thulung,,,Allen 1975b
+22,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Thulung,,,Allen 1975b
+23,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Thulung,,,Allen 1975b
+24,144L,ObligDoubleNeg,The Position of Negative Morphemes in SOV Languages,Thulung,,,Allen 1975b
+25,144N,SONeg[V-Neg],Obligatory Double Negation in SOV languages,Thulung,,,Allen 1975b
+26,144P,No NegSOV,NegSOV Order,Thulung,,,Allen 1975b
+27,144Q,No SNegOV,SNegOV Order,Thulung,,,Allen 1975b
+28,144R,Word&OnlyWithAnotherNeg,SONegV Order,Thulung,,,Allen 1975b
+29,144S,Suffix&OnlyWithAnotherNeg,SOVNeg Order,Thulung,,,Allen 1975b

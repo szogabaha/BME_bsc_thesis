@@ -1,0 +1,30 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural prefix,Coding of Nominal Plurality,Sotho (Northern),,,Louwrens et al. 1995
+1,37A,No definite or indefinite article,Definite Articles,Sotho (Northern),,,Louwrens et al. 1995
+2,38A,No definite or indefinite article,Indefinite Articles,Sotho (Northern),,,Louwrens et al. 1995
+3,69A,Mixed type,Position of Tense-Aspect Affixes,Sotho (Northern),,,Louwrens et al. 1995
+4,70A,Second singular and second plural,The Morphological Imperative,Sotho (Northern),,,Louwrens et al. 1995
+5,71A,Special imperative + special negative,The Prohibitive,Sotho (Northern),,,Louwrens et al. 1995
+6,72A,Neither type of system,Imperative-Hortative Systems,Sotho (Northern),,,Louwrens et al. 1995
+7,81A,SVO,"Order of Subject, Object and Verb",Sotho (Northern),,,Louwrens et al. 1995
+8,82A,SV,Order of Subject and Verb,Sotho (Northern),,,Louwrens et al. 1995
+9,83A,VO,Order of Object and Verb,Sotho (Northern),,,Louwrens et al. 1995
+10,86A,Noun-Genitive,Order of Genitive and Noun,Sotho (Northern),,,Louwrens et al. 1995
+11,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sotho (Northern),,,Louwrens et al. 1995
+12,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Sotho (Northern),,,Louwrens et al. 1995
+13,112A,Double negation,Negative Morphemes,Sotho (Northern),,,Ziervogel et al. 1969
+14,121A,Exceed,Comparative Constructions,Sotho (Northern),,,Louwrens et al. 1995
+15,122A,Gap,Relativization on Subjects,Sotho (Northern),,,Poulos and Louwrens 1994
+16,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Sotho (Northern),,,Ziervogel et al. 1969
+17,143B,Neg[V-Neg],Obligatory Double Negation,Sotho (Northern),,,Ziervogel et al. 1969
+18,143E,NegV,Preverbal Negative Morphemes,Sotho (Northern),,,Ziervogel et al. 1969
+19,143F,[V-Neg],Postverbal Negative Morphemes,Sotho (Northern),,,Ziervogel et al. 1969
+20,143G,None,Minor morphological means of signaling negation,Sotho (Northern),,,Ziervogel et al. 1969
+21,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Sotho (Northern),,,Ziervogel et al. 1969
+22,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sotho (Northern),,,Ziervogel et al. 1969
+23,144D,ObligNeg,The Position of Negative Morphemes in SVO Languages,Sotho (Northern),,,Ziervogel et al. 1969
+24,144F,SNeg[V-Neg]O,Obligatory Double Negation in SVO languages,Sotho (Northern),,,Ziervogel et al. 1969
+25,144H,No NegSVO,NegSVO Order,Sotho (Northern),,,Ziervogel et al. 1969
+26,144I,Word&OnlyWithAnotherNeg,SNegVO Order,Sotho (Northern),,,Ziervogel et al. 1969
+27,144J,Suffix&OnlyWithAnotherNeg,SVNegO Order,Sotho (Northern),,,Ziervogel et al. 1969
+28,144K,No SVONeg,SVONeg Order,Sotho (Northern),,,Ziervogel et al. 1969

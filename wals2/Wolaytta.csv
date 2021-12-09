@@ -1,0 +1,38 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wolaytta,,,Tucker and Bryan 1966
+1,33A,Plural suffix,Coding of Nominal Plurality,Wolaytta,,,Tucker and Bryan 1966
+2,41A,Two-way contrast,Distance Contrasts in Demonstratives,Wolaytta,,,Lamberti and Sottile 1997
+3,42A,Different stem,Pronominal and Adnominal Demonstratives,Wolaytta,,,Lamberti and Sottile 1997
+4,51A,Case suffixes,Position of Case Affixes,Wolaytta,,,Tucker and Bryan 1966
+5,53A,"First, two-th, three-th",Ordinal Numerals,Wolaytta,,,Lamberti and Sottile 1997
+6,54A,Marked by reduplication,Distributive Numerals,Wolaytta,,,Lamberti and Sottile 1997
+7,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Wolaytta,,,Tucker and Bryan 1966
+8,65A,Grammatical marking,Perfective/Imperfective Aspect,Wolaytta,,,Lamberti and Sottile 1997
+9,66A,No past tense,The Past Tense,Wolaytta,,,Lamberti and Sottile 1997
+10,67A,Inflectional future exists,The Future Tense,Wolaytta,,,Lamberti and Sottile 1997
+11,68A,No perfect,The Perfect,Wolaytta,,,Lamberti and Sottile 1997
+12,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Wolaytta,,,Tucker and Bryan 1966
+13,79A,None,Suppletion According to Tense and Aspect,Wolaytta,,,Lamberti and Sottile 1997
+14,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Wolaytta,,,
+15,80A,None,Verbal Number and Suppletion,Wolaytta,,,Lamberti and Sottile 1997
+16,81A,SOV,"Order of Subject, Object and Verb",Wolaytta,,,Tucker and Bryan 1966
+17,82A,SV,Order of Subject and Verb,Wolaytta,,,Tucker and Bryan 1966
+18,83A,OV,Order of Object and Verb,Wolaytta,,,Tucker and Bryan 1966
+19,86A,Genitive-Noun,Order of Genitive and Noun,Wolaytta,,,Tucker and Bryan 1966
+20,87A,Adjective-Noun,Order of Adjective and Noun,Wolaytta,,,Tucker and Bryan 1966
+21,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wolaytta,,,Tucker and Bryan 1966
+22,89A,Numeral-Noun,Order of Numeral and Noun,Wolaytta,,,Tucker and Bryan 1966
+23,92A,No question particle,Position of Polar Question Particles,Wolaytta,,,Tucker and Bryan 1966
+24,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wolaytta,,,
+25,112A,Negative affix,Negative Morphemes,Wolaytta,,,Tucker and Bryan 1966
+26,116A,Interrogative verb morphology,Polar Questions,Wolaytta,,,Tucker and Bryan 1966
+27,143A,[V-Neg],Order of Negative Morpheme and Verb,Wolaytta,,,Tucker and Bryan 1966
+28,143E,None,Preverbal Negative Morphemes,Wolaytta,,,Tucker and Bryan 1966
+29,143F,[V-Neg],Postverbal Negative Morphemes,Wolaytta,,,Tucker and Bryan 1966
+30,143G,None,Minor morphological means of signaling negation,Wolaytta,,,Tucker and Bryan 1966
+31,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Wolaytta,,,Tucker and Bryan 1966
+32,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Wolaytta,,,Tucker and Bryan 1966
+33,144P,No NegSOV,NegSOV Order,Wolaytta,,,Tucker and Bryan 1966
+34,144Q,No SNegOV,SNegOV Order,Wolaytta,,,Tucker and Bryan 1966
+35,144R,No SONegV,SONegV Order,Wolaytta,,,Tucker and Bryan 1966
+36,144S,Suffix&NoDoubleNeg,SOVNeg Order,Wolaytta,,,Tucker and Bryan 1966

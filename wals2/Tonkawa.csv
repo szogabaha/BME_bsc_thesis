@@ -1,0 +1,82 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Tonkawa,,,Hoijer 1946b
+1,2A,Average (5-6),Vowel Quality Inventories,Tonkawa,,,Hoijer 1946b
+2,3A,Average,Consonant-Vowel Ratio,Tonkawa,,,Hoijer 1946b
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Tonkawa,,,Hoijer 1946b
+4,5A,Other,Voicing and Gaps in Plosive Systems,Tonkawa,,,Hoijer 1946b
+5,6A,None,Uvular Consonants,Tonkawa,,,Hoijer 1946b
+6,7A,No glottalized consonants,Glottalized Consonants,Tonkawa,,,Hoijer 1946b
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tonkawa,,,Hoijer 1946b
+8,11A,None,Front Rounded Vowels,Tonkawa,,,Hoijer 1946b
+9,12A,Moderately complex,Syllable Structure,Tonkawa,,,Hoijer 1946b
+10,13A,No tones,Tone,Tonkawa,,,Hoijer 1946b
+11,18A,All present,Absence of Common Consonants,Tonkawa,,,Hoijer 1946b
+12,19A,None,Presence of Uncommon Consonants,Tonkawa,,,Hoijer 1946b
+13,23A,Double marking,Locus of Marking in the Clause,Tonkawa,,,Hoijer 1933-1938
+14,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Tonkawa,,,Hoijer 1933-1938
+15,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Tonkawa,,,Hoijer 1933-1938
+16,25B,Non-zero marking,Zero Marking of A and P Arguments,Tonkawa,,,Hoijer 1933-1938
+17,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tonkawa,,,Hoijer 1972
+18,33A,Plural suffix,Coding of Nominal Plurality,Tonkawa,,,Troike 1967
+19,35A,Person-number stem + nominal plural affix,Plurality in Independent Personal Pronouns,Tonkawa,,,Hoijer 1946b
+20,41A,Three-way contrast,Distance Contrasts in Demonstratives,Tonkawa,,,Hoijer 1933-1938
+21,43A,Unrelated,Third Person Pronouns and Demonstratives,Tonkawa,,,Hoijer 1933-1938
+22,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tonkawa,,,Hoijer 1933-1938
+23,46A,Interrogative-based,Indefinite Pronouns,Tonkawa,,,Hoijer 1946b
+24,48A,No person marking,Person Marking on Adpositions,Tonkawa,,,Hoijer 1933-1938
+25,51A,Postpositional clitics,Position of Case Affixes,Tonkawa,,,Hoijer 1933-1938
+26,55A,Absent,Numeral Classifiers,Tonkawa,,,Nichols 1992
+27,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tonkawa,,,Hoijer 1933-1938
+28,58A,Absent,Obligatory Possessive Inflection,Tonkawa,,,Hoijer 1933-1938
+29,58B,None reported,Number of Possessive Nouns,Tonkawa,,,Hoijer 1933-1938
+30,59A,Two classes,Possessive Classification,Tonkawa,,,Hoijer 1933-1938
+31,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tonkawa,,,Hoijer 1933-1938
+32,70A,Second singular,The Morphological Imperative,Tonkawa,,,Hoijer 1946b
+33,71A,Normal imperative + normal negative,The Prohibitive,Tonkawa,,,Hoijer 1946b
+34,77A,Indirect only,Semantic Distinctions of Evidentiality,Tonkawa,,,Hoijer 1946b
+35,78A,Verbal affix or clitic,Coding of Evidentiality,Tonkawa,,,Hoijer 1946b
+36,81A,No dominant order,"Order of Subject, Object and Verb",Tonkawa,,,Hoijer 1972
+37,81B,SOV or SVO,"Languages with two Dominant Orders of Subject, Object, and Verb",Tonkawa,,,Hoijer 1972
+38,82A,SV,Order of Subject and Verb,Tonkawa,,,Hoijer 1972
+39,83A,OV,Order of Object and Verb,Tonkawa,,,Hoijer 1972
+40,84A,No dominant order,"Order of Object, Oblique, and Verb",Tonkawa,,,Hoijer 1933-1938
+41,85A,Postpositions,Order of Adposition and Noun Phrase,Tonkawa,,,Hoijer 1933-1938
+42,86A,Genitive-Noun,Order of Genitive and Noun,Tonkawa,,,Troike 1967
+43,87A,Noun-Adjective,Order of Adjective and Noun,Tonkawa,,,Hoijer 1933-1938
+44,88A,Demonstrative suffix,Order of Demonstrative and Noun,Tonkawa,,,Hoijer 1933-1938
+45,92A,No question particle,Position of Polar Question Particles,Tonkawa,,,Hoijer 1933-1938
+46,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Tonkawa,,,Hoijer 1933-1938
+47,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tonkawa,,,
+48,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tonkawa,,,
+49,100A,Active,Alignment of Verbal Person Marking,Tonkawa,,,Hoijer 1933-1938
+50,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tonkawa,,,Hoijer 1933-1938
+51,102A,Both the A and P arguments,Verbal Person Marking,Tonkawa,,,Hoijer 1933-1938
+52,103A,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Tonkawa,,,Hoijer 1933-1938
+53,104A,P precedes A,Order of Person Markers on the Verb,Tonkawa,,,Hoijer 1933-1938
+54,107A,Absent,Passive Constructions,Tonkawa,,,Hoijer 1933-1938
+55,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tonkawa,,,Hoijer 1933-1938
+56,112A,Negative affix,Negative Morphemes,Tonkawa,,,Hoijer 1933-1938
+57,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Tonkawa,,,Hoijer 1933-1938
+58,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Tonkawa,,,Hoijer 1933-1938
+59,116A,Interrogative verb morphology,Polar Questions,Tonkawa,,,Hoijer 1933-1938
+60,136A,No M-T pronouns,M-T Pronouns,Tonkawa,,,Hoijer 1933-1938
+61,136B,No m in first person singular,M in First Person Singular,Tonkawa,,,Hoijer 1933-1938
+62,137A,No N-M pronouns,N-M Pronouns,Tonkawa,,,Hoijer 1933-1938
+63,137B,No m in second person singular,M in Second Person Singular,Tonkawa,,,Hoijer 1933-1938
+64,143A,[V-Neg],Order of Negative Morpheme and Verb,Tonkawa,,,Hoijer 1933-1938
+65,143E,None,Preverbal Negative Morphemes,Tonkawa,,,Hoijer 1933-1938
+66,143F,[V-Neg],Postverbal Negative Morphemes,Tonkawa,,,Hoijer 1933-1938
+67,143G,None,Minor morphological means of signaling negation,Tonkawa,,,Hoijer 1933-1938
+68,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tonkawa,,,Hoijer 1933-1938
+69,144D,More than one construction,The Position of Negative Morphemes in SVO Languages,Tonkawa,,,Hoijer 1933-1938
+70,144E,S[V-Neg]O/SO[V-Neg],Multiple Negative Constructions in SVO Languages,Tonkawa,,,Hoijer 1933-1938
+71,144H,No NegSVO,NegSVO Order,Tonkawa,,,Hoijer 1933-1938
+72,144I,No SNegVO,SNegVO Order,Tonkawa,,,Hoijer 1933-1938
+73,144J,Suffix&NoDoubleNeg,SVNegO Order,Tonkawa,,,Hoijer 1933-1938
+74,144K,No SVONeg,SVONeg Order,Tonkawa,,,Hoijer 1933-1938
+75,144L,More than one construction,The Position of Negative Morphemes in SOV Languages,Tonkawa,,,Hoijer 1933-1938
+76,144M,SO[V-Neg]/S[V-Neg]O/,Multiple Negative Constructions in SOV Languages,Tonkawa,,,Hoijer 1933-1938
+77,144P,No NegSOV,NegSOV Order,Tonkawa,,,Hoijer 1933-1938
+78,144Q,No SNegOV,SNegOV Order,Tonkawa,,,Hoijer 1933-1938
+79,144R,No SONegV,SONegV Order,Tonkawa,,,Hoijer 1933-1938
+80,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tonkawa,,,Hoijer 1933-1938

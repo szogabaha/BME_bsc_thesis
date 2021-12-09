@@ -1,0 +1,32 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Zapotec (Zoogocho),,,Sonnenschein 2005
+1,51A,No case affixes or adpositional clitics,Position of Case Affixes,Zapotec (Zoogocho),,,Sonnenschein 2005
+2,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Zapotec (Zoogocho),,,Sonnenschein 2005
+3,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Zapotec (Zoogocho),,,Sonnenschein 2005
+4,81A,VSO,"Order of Subject, Object and Verb",Zapotec (Zoogocho),,,Sonnenschein 2005
+5,82A,VS,Order of Subject and Verb,Zapotec (Zoogocho),,,Sonnenschein 2005
+6,83A,VO,Order of Object and Verb,Zapotec (Zoogocho),,,Sonnenschein 2005
+7,87A,Noun-Adjective,Order of Adjective and Noun,Zapotec (Zoogocho),,,Sonnenschein 2005
+8,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Zapotec (Zoogocho),,,Sonnenschein 2005
+9,89A,Numeral-Noun,Order of Numeral and Noun,Zapotec (Zoogocho),,,Sonnenschein 2005
+10,90A,Noun-Relative clause,Order of Relative Clause and Noun,Zapotec (Zoogocho),,,Sonnenschein 2005
+11,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Zapotec (Zoogocho),,,Sonnenschein 2005
+12,92A,No question particle,Position of Polar Question Particles,Zapotec (Zoogocho),,,Sonnenschein 2005
+13,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Zapotec (Zoogocho),,,Sonnenschein 2005
+14,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Zapotec (Zoogocho),,,Sonnenschein 2005
+15,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Zapotec (Zoogocho),,,
+16,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Zapotec (Zoogocho),,,
+17,112A,Negative particle,Negative Morphemes,Zapotec (Zoogocho),,,Sonnenschein 2005
+18,116A,Interrogative intonation only,Polar Questions,Zapotec (Zoogocho),,,Sonnenschein 2005
+19,129A,Identical,Hand and Arm,Zapotec (Zoogocho),,,Long C. and Cruz M. 1999
+20,130A,Different,Finger and Hand,Zapotec (Zoogocho),,,Long C. and Cruz M. 1999
+21,143A,NegV,Order of Negative Morpheme and Verb,Zapotec (Zoogocho),,,Sonnenschein 2005
+22,143E,NegV,Preverbal Negative Morphemes,Zapotec (Zoogocho),,,Sonnenschein 2005
+23,143F,None,Postverbal Negative Morphemes,Zapotec (Zoogocho),,,Sonnenschein 2005
+24,143G,None,Minor morphological means of signaling negation,Zapotec (Zoogocho),,,Sonnenschein 2005
+25,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Zapotec (Zoogocho),,,Sonnenschein 2005
+26,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Zapotec (Zoogocho),,,Sonnenschein 2005
+27,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Zapotec (Zoogocho),,,Sonnenschein 2005
+28,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Zapotec (Zoogocho),,,Sonnenschein 2005
+29,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Zapotec (Zoogocho),,,Sonnenschein 2005
+30,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Zapotec (Zoogocho),,,Sonnenschein 2005

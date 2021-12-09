@@ -1,0 +1,50 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Tiwa (Northern),,,Hoijer and Dozier 1949
+1,2A,Average (5-6),Vowel Quality Inventories,Tiwa (Northern),,,Hoijer and Dozier 1949
+2,3A,Average,Consonant-Vowel Ratio,Tiwa (Northern),,,Hoijer and Dozier 1949
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tiwa (Northern),,,Hoijer and Dozier 1949
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Tiwa (Northern),,,Hoijer and Dozier 1949
+5,6A,None,Uvular Consonants,Tiwa (Northern),,,Hoijer and Dozier 1949
+6,7A,Ejectives only,Glottalized Consonants,Tiwa (Northern),,,Hoijer and Dozier 1949
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Tiwa (Northern),,,Hoijer and Dozier 1949
+8,9A,No velar nasal,The Velar Nasal,Tiwa (Northern),,,Trager 1971
+9,11A,None,Front Rounded Vowels,Tiwa (Northern),,,Hoijer and Dozier 1949
+10,13A,Simple tone system,Tone,Tiwa (Northern),,,Hoijer and Dozier 1949
+11,18A,All present,Absence of Common Consonants,Tiwa (Northern),,,Hoijer and Dozier 1949
+12,19A,None,Presence of Uncommon Consonants,Tiwa (Northern),,,Hoijer and Dozier 1949
+13,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tiwa (Northern),,,Trager 1946
+14,33A,Plural suffix,Coding of Nominal Plurality,Tiwa (Northern),,,Trager 1946
+15,41A,Three-way contrast,Distance Contrasts in Demonstratives,Tiwa (Northern),,,Zaharlick 1977
+16,51A,Case suffixes,Position of Case Affixes,Tiwa (Northern),,,Trager 1946
+17,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tiwa (Northern),,,Trager 1946
+18,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tiwa (Northern),,,Trager 1946
+19,77A,Indirect only,Semantic Distinctions of Evidentiality,Tiwa (Northern),,,Trager 1946
+20,78A,Verbal affix or clitic,Coding of Evidentiality,Tiwa (Northern),,,Trager 1946
+21,81A,No dominant order,"Order of Subject, Object and Verb",Tiwa (Northern),,,Trager 1946
+22,81B,SOV or SVO,"Languages with two Dominant Orders of Subject, Object, and Verb",Tiwa (Northern),,,Trager 1946
+23,82A,SV,Order of Subject and Verb,Tiwa (Northern),,,Trager 1946
+24,83A,No dominant order,Order of Object and Verb,Tiwa (Northern),,,Trager 1946
+25,84A,No dominant order,"Order of Object, Oblique, and Verb",Tiwa (Northern),,,Trager 1946
+26,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tiwa (Northern),,,
+27,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tiwa (Northern),,,
+28,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tiwa (Northern),,,
+29,112A,Negative affix,Negative Morphemes,Tiwa (Northern),,,Trager 1946
+30,129A,Different,Hand and Arm,Tiwa (Northern),,,Curtis 1926
+31,130A,Different,Finger and Hand,Tiwa (Northern),,,Curtis 1926
+32,143A,[Neg-V],Order of Negative Morpheme and Verb,Tiwa (Northern),,,Trager 1946
+33,143E,[Neg-V],Preverbal Negative Morphemes,Tiwa (Northern),,,Trager 1946
+34,143F,None,Postverbal Negative Morphemes,Tiwa (Northern),,,Trager 1946
+35,143G,None,Minor morphological means of signaling negation,Tiwa (Northern),,,Trager 1946
+36,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tiwa (Northern),,,Trager 1946
+37,144D,More than one construction,The Position of Negative Morphemes in SVO Languages,Tiwa (Northern),,,Trager 1946
+38,144E,S[Neg-V]O/SO[Neg-V],Multiple Negative Constructions in SVO Languages,Tiwa (Northern),,,Trager 1946
+39,144H,No NegSVO,NegSVO Order,Tiwa (Northern),,,Trager 1946
+40,144I,Prefix&NoDoubleNeg,SNegVO Order,Tiwa (Northern),,,Trager 1946
+41,144J,No SVNegO,SVNegO Order,Tiwa (Northern),,,Trager 1946
+42,144K,No SVONeg,SVONeg Order,Tiwa (Northern),,,Trager 1946
+43,144L,More than one construction,The Position of Negative Morphemes in SOV Languages,Tiwa (Northern),,,Trager 1946
+44,144M,SO[Neg-V]/S[Neg-V]O,Multiple Negative Constructions in SOV Languages,Tiwa (Northern),,,Trager 1946
+45,144P,No NegSOV,NegSOV Order,Tiwa (Northern),,,Trager 1946
+46,144Q,No SNegOV,SNegOV Order,Tiwa (Northern),,,Trager 1946
+47,144R,Prefix&NoDoubleNeg,SONegV Order,Tiwa (Northern),,,Trager 1946
+48,144S,NoSOVNeg,SOVNeg Order,Tiwa (Northern),,,Trager 1946

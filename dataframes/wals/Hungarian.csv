@@ -1,0 +1,156 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-hun,Moderately large,Consonant Inventories,Hungarian,,,Banhidi et al. 1965;Szende 1999;Hall 1944
+2A-hun,Large (7-14),Vowel Quality Inventories,Hungarian,,,Szende 1999;Banhidi et al. 1965;Hall 1944
+3A-hun,Average,Consonant-Vowel Ratio,Hungarian,,,Hall 1944;Banhidi et al. 1965;Szende 1999
+4A-hun,In both plosives and fricatives,Voicing in Plosives and Fricatives,Hungarian,,,Hall 1944;Banhidi et al. 1965;Szende 1999
+5A-hun,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Hungarian,,,Szende 1999;Banhidi et al. 1965;Hall 1944
+6A-hun,None,Uvular Consonants,Hungarian,,,Hall 1944;Szende 1999;Banhidi et al. 1965
+7A-hun,No glottalized consonants,Glottalized Consonants,Hungarian,,,Szende 1999;Hall 1944;Banhidi et al. 1965
+8A-hun,"/l/, no obstruent laterals",Lateral Consonants,Hungarian,,,Banhidi et al. 1965;Szende 1999;Hall 1944
+9A-hun,No velar nasal,The Velar Nasal,Hungarian,,,Kenesei et al. 1998
+10A-hun,Contrast absent,Vowel Nasalization,Hungarian,,,Kenesei et al. 1998
+11A-hun,High and mid,Front Rounded Vowels,Hungarian,,,Banhidi et al. 1965;Hall 1944;Szende 1999
+12A-hun,Complex,Syllable Structure,Hungarian,,,Szende 1999;Banhidi et al. 1965;Hall 1944
+13A-hun,No tones,Tone,Hungarian,,,Banhidi et al. 1965;Hall 1944;Szende 1999
+14A-hun,Initial,Fixed Stress Locations,Hungarian,,,Kerek 1971;Szinnyei 1912
+15A-hun,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Hungarian,,,Kerek 1971;Szinnyei 1912
+16A-hun,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Hungarian,,,Szinnyei 1912;Kerek 1971
+17A-hun,Trochaic,Rhythm Types,Hungarian,,,Kerek 1971;Szinnyei 1912
+18A-hun,All present,Absence of Common Consonants,Hungarian,,,Hall 1944;Banhidi et al. 1965;Szende 1999
+19A-hun,None,Presence of Uncommon Consonants,Hungarian,,,Banhidi et al. 1965;Hall 1944;Szende 1999
+20A-hun,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Hungarian,,,Kenesei et al. 1998
+21A-hun,Monoexponential case,Exponence of Selected Inflectional Formatives,Hungarian,,,Kenesei et al. 1998
+21B-hun,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Hungarian,,,Kenesei et al. 1998
+22A-hun,4-5 categories per word,Inflectional Synthesis of the Verb,Hungarian,,,Kenesei et al. 1998
+23A-hun,Dependent marking,Locus of Marking in the Clause,Hungarian,,,Kenesei et al. 1998
+24A-hun,Head marking,Locus of Marking in Possessive Noun Phrases,Hungarian,,,Kenesei et al. 1998
+25A-hun,Inconsistent or other,Locus of Marking: Whole-language Typology,Hungarian,,,Kenesei et al. 1998
+25B-hun,Non-zero marking,Zero Marking of A and P Arguments,Hungarian,,,Kenesei et al. 1998
+26A-hun,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Hungarian,,,Benkö and Imre 1972;Schaap 1980;Kiefer 1967;Kenesei et al. 1998
+27A-hun,Productive full and partial reduplication,Reduplication,Hungarian,,,Hetzron 2001
+28A-hun,No syncretism,Case Syncretism,Hungarian,,,Lotz 1988
+29A-hun,Not syncretic,Syncretism in Verbal Person/Number Marking,Hungarian,,,Lotz 1988
+30A-hun,None,Number of Genders,Hungarian,,,
+31A-hun,No gender,Sex-based and Non-sex-based Gender Systems,Hungarian,,,
+32A-hun,No gender,Systems of Gender Assignment,Hungarian,,,
+33A-hun,Plural suffix,Coding of Nominal Plurality,Hungarian,,,Benkö and Imre 1972
+34A-hun,"All nouns, always obligatory",Occurrence of Nominal Plurality,Hungarian,,,Kenesei et al. 1998
+35A-hun,Person-number stem,Plurality in Independent Personal Pronouns,Hungarian,,,Majtinskaja 1976
+36A-hun,Unique affixal associative plural,The Associative Plural,Hungarian,,,Kenesei et al. 1998
+37A-hun,Definite word distinct from demonstrative,Definite Articles,Hungarian,,,Kenesei et al. 1998;Benkö and Imre 1972
+38A-hun,Indefinite word distinct from 'one',Indefinite Articles,Hungarian,,,Benkö and Imre 1972;Kenesei et al. 1998
+39A-hun,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Hungarian,,,Tompa 1968
+40A-hun,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Hungarian,,,Tompa 1968
+41A-hun,Two-way contrast,Distance Contrasts in Demonstratives,Hungarian,,,Moravcsik 1997
+42A-hun,Identical,Pronominal and Adnominal Demonstratives,Hungarian,,,Moravcsik 1997
+43A-hun,Related for non-human reference,Third Person Pronouns and Demonstratives,Hungarian,,,Kenesei et al. 1998
+44A-hun,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Hungarian,,,Kenesei et al. 1998
+45A-hun,Multiple politeness distinctions,Politeness Distinctions in Pronouns,Hungarian,,,Keresztes 1992
+46A-hun,Interrogative-based,Indefinite Pronouns,Hungarian,,,Kenesei et al. 1998
+47A-hun,Identical,Intensifiers and Reflexive Pronouns,Hungarian,,,Kenesei et al. 1998
+48A-hun,Pronouns only,Person Marking on Adpositions,Hungarian,,,Kenesei et al. 1998
+49A-hun,10 or more cases,Number of Cases,Hungarian,,,Tompa 1968
+50A-hun,Symmetrical,Asymmetrical Case-Marking,Hungarian,,,Tompa 1968
+51A-hun,Case suffixes,Position of Case Affixes,Hungarian,,,Benkö and Imre 1972
+52A-hun,Mixed,Comitatives and Instrumentals,Hungarian,,,Banhidi et al. 1975
+53A-hun,"First, second, three-th",Ordinal Numerals,Hungarian,,,Banhidi et al. 1975
+54A-hun,Marked by reduplication,Distributive Numerals,Hungarian,,,
+55A-hun,Optional,Numeral Classifiers,Hungarian,,,Beckwith 1992
+56A-hun,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Hungarian,,,
+57A-hun,Possessive suffixes,Position of Pronominal Possessive Affixes,Hungarian,,,Benkö and Imre 1972
+58A-hun,Absent,Obligatory Possessive Inflection,Hungarian,,,Kenesei et al. 1998
+58B-hun,None reported,Number of Possessive Nouns,Hungarian,,,Kenesei et al. 1998
+59A-hun,No possessive classification,Possessive Classification,Hungarian,,,Kenesei et al. 1998
+60A-hun,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Hungarian,,,
+61A-hun,Without marking,Adjectives without Nouns,Hungarian,,,Gil 1994a
+62A-hun,Restricted,Action Nominal Constructions,Hungarian,,,
+63A-hun,'And' different from 'with',Noun Phrase Conjunction,Hungarian,,,Ginter and Tarnói 1991
+64A-hun,Identity,Nominal and Verbal Conjunction,Hungarian,,,Kenesei et al. 1998
+65A-hun,No grammatical marking,Perfective/Imperfective Aspect,Hungarian,,,Dahl 1985
+66A-hun,"Present, no remoteness distinctions",The Past Tense,Hungarian,,,Dahl 1985
+67A-hun,No inflectional future,The Future Tense,Hungarian,,,Dahl 1985
+68A-hun,No perfect,The Perfect,Hungarian,,,Dahl 1985
+69A-hun,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Hungarian,,,Benkö and Imre 1972
+70A-hun,No second-person imperatives,The Morphological Imperative,Hungarian,,,Kenesei et al. 1998
+71A-hun,Normal imperative + special negative,The Prohibitive,Hungarian,,,Kenesei et al. 1998
+72A-hun,Maximal system,Imperative-Hortative Systems,Hungarian,,,Kenesei et al. 1998
+73A-hun,Inflectional optative absent,The Optative,Hungarian,,,Kenesei et al. 1998
+74A-hun,Affixes on verbs,Situational Possibility,Hungarian,,,Kenesei et al. 1998
+75A-hun,Verbal constructions,Epistemic Possibility,Hungarian,,,Kenesei et al. 1998
+76A-hun,Overlap for either possibility or necessity,Overlap between Situational and Epistemic Modal Marking,Hungarian,,,Kenesei et al. 1998
+77A-hun,No grammatical evidentials,Semantic Distinctions of Evidentiality,Hungarian,,,Kenesei et al. 1998
+78A-hun,No grammatical evidentials,Coding of Evidentiality,Hungarian,,,Kenesei et al. 1998
+79A-hun,Tense,Suppletion According to Tense and Aspect,Hungarian,,,Olsson 1992
+79B-hun,A regular and a suppletive form alternate,Suppletion in Imperatives and Hortatives,Hungarian,,,
+80A-hun,None,Verbal Number and Suppletion,Hungarian,,,Olsson 1992
+81A-hun,No dominant order,"Order of Subject, Object and Verb",Hungarian,,,Kenesei et al. 1998;Kiefer 1967;Benkö and Imre 1972
+81B-hun,SOV or SVO,"Languages with two Dominant Orders of Subject, Object, and Verb",Hungarian,,,Kenesei et al. 1998
+82A-hun,SV,Order of Subject and Verb,Hungarian,,,Benkö and Imre 1972;Kiefer 1967;Kenesei et al. 1998
+83A-hun,VO,Order of Object and Verb,Hungarian,,,Kenesei et al. 1998;Kiefer 1967;Benkö and Imre 1972
+85A-hun,Postpositions,Order of Adposition and Noun Phrase,Hungarian,,,Kiefer 1967;Kenesei et al. 1998;Benkö and Imre 1972
+86A-hun,Genitive-Noun,Order of Genitive and Noun,Hungarian,,,Benkö and Imre 1972
+87A-hun,Adjective-Noun,Order of Adjective and Noun,Hungarian,,,Benkö and Imre 1972;Kenesei et al. 1998
+88A-hun,Demonstrative-Noun,Order of Demonstrative and Noun,Hungarian,,,Kenesei et al. 1998;Benkö and Imre 1972
+89A-hun,Numeral-Noun,Order of Numeral and Noun,Hungarian,,,Kenesei et al. 1998
+90A-hun,Mixed,Order of Relative Clause and Noun,Hungarian,,,Kenesei et al. 1998
+90B-hun,RelN or NRel,Prenominal relative clauses,Hungarian,,,Kenesei et al. 1998
+90C-hun,NRel or RelN,Postnominal relative clauses,Hungarian,,,Kenesei et al. 1998
+91A-hun,Degree word-Adjective,Order of Degree Word and Adjective,Hungarian,,,Kenesei et al. 1998
+93A-hun,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Hungarian,,,Kenesei et al. 1998;Kiefer 1967
+94A-hun,Initial subordinator word,Order of Adverbial Subordinator and Clause,Hungarian,,,Kenesei et al. 1998
+95A-hun,VO and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Hungarian,,,
+96A-hun,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Hungarian,,,
+97A-hun,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Hungarian,,,
+98A-hun,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Hungarian,,,Kenesei et al. 1998
+99A-hun,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Hungarian,,,Kenesei et al. 1998
+100A-hun,Accusative,Alignment of Verbal Person Marking,Hungarian,,,Kenesei et al. 1998
+101A-hun,Subject affixes on verb,Expression of Pronominal Subjects,Hungarian,,,Benkö and Imre 1972;Kenesei et al. 1998
+102A-hun,Both the A and P arguments,Verbal Person Marking,Hungarian,,,Kenesei et al. 1998
+103A-hun,No zero realization,Third Person Zero of Verbal Person Marking,Hungarian,,,Kenesei et al. 1998
+104A-hun,A and P are fused,Order of Person Markers on the Verb,Hungarian,,,Kenesei et al. 1998
+105A-hun,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Hungarian,,,Kenesei et al. 1998
+107A-hun,Present,Passive Constructions,Hungarian,,,Kenesei et al. 1998
+108A-hun,No antipassive,Antipassive Constructions,Hungarian,,,
+108B-hun,no antipassive,Productivity of the Antipassive Construction,Hungarian,,,
+109A-hun,No applicative construction,Applicative Constructions,Hungarian,,,
+109B-hun,No applicative construction,Other Roles of Applied Objects,Hungarian,,,
+110A-hun,Both,Periphrastic Causative Constructions,Hungarian,,,Kenesei et al. 1998
+111A-hun,Morphological but no compound,Nonperiphrastic Causative Constructions,Hungarian,,,Kenesei et al. 1998
+112A-hun,Negative particle,Negative Morphemes,Hungarian,,,Kenesei et al. 1998;Kiefer 1967;Benkö and Imre 1972
+113A-hun,Symmetric,Symmetric and Asymmetric Standard Negation,Hungarian,,,de Groot 1994
+114A-hun,Non-assignable,Subtypes of Asymmetric Standard Negation,Hungarian,,,de Groot 1994
+115A-hun,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Hungarian,,,Kenesei et al. 1998;Haspelmath 1997
+116A-hun,Question particle,Polar Questions,Hungarian,,,Kenesei et al. 1998
+117A-hun,Locational,Predicative Possession,Hungarian,,,Biermann 1985
+118A-hun,Nonverbal encoding,Predicative Adjectives,Hungarian,,,Ginter and Tarnói 1991
+119A-hun,Identical,Nominal and Locational Predication,Hungarian,,,Ginter and Tarnói 1991
+120A-hun,Possible,Zero Copula for Predicate Nominals,Hungarian,,,Ginter and Tarnói 1991
+121A-hun,Particle,Comparative Constructions,Hungarian,,,Tompa 1968
+122A-hun,Relative pronoun,Relativization on Subjects,Hungarian,,,Kenesei et al. 1998
+123A-hun,Relative pronoun,Relativization on Obliques,Hungarian,,,Kenesei et al. 1998
+124A-hun,Subject is left implicit,'Want' Complement Subjects,Hungarian,,,Kenesei et al. 1998
+125A-hun,Deranked,Purpose Clauses,Hungarian,,,Kenesei et al. 1998
+126A-hun,Balanced,'When' Clauses,Hungarian,,,Kenesei et al. 1998
+127A-hun,Balanced,Reason Clauses,Hungarian,,,Kenesei et al. 1998
+128A-hun,Balanced,Utterance Complement Clauses,Hungarian,,,Kenesei et al. 1998
+129A-hun,Different,Hand and Arm,Hungarian,,,Biro et al. 1965
+130A-hun,Different,Finger and Hand,Hungarian,,,Biro et al. 1965
+131A-hun,Decimal,Numeral Bases,Hungarian,,,
+136A-hun,"M-T pronouns, paradigmatic",M-T Pronouns,Hungarian,,,Hall 1944
+136B-hun,m in first person singular,M in First Person Singular,Hungarian,,,Hall 1944
+137A-hun,No N-M pronouns,N-M Pronouns,Hungarian,,,Hall 1944
+137B-hun,No m in second person singular,M in Second Person Singular,Hungarian,,,Hall 1944
+138A-hun,Words derived from Min Nan Chinese te,Tea,Hungarian,,,Malherbe and Rosenberg 1996
+142A-hun,Affective meanings,Para-Linguistic Usages of Clicks,Hungarian,,,
+143A-hun,NegV,Order of Negative Morpheme and Verb,Hungarian,,,Kenesei et al. 1998;Kiefer 1967;Benkö and Imre 1972
+143E-hun,NegV,Preverbal Negative Morphemes,Hungarian,,,Kenesei et al. 1998;Benkö and Imre 1972;Kiefer 1967
+143F-hun,None,Postverbal Negative Morphemes,Hungarian,,,Kenesei et al. 1998;Benkö and Imre 1972;Kiefer 1967
+143G-hun,None,Minor morphological means of signaling negation,Hungarian,,,Kiefer 1967;Kenesei et al. 1998;Benkö and Imre 1972
+144A-hun,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Hungarian,,,Kiefer 1967;Kenesei et al. 1998
+144B-hun,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Hungarian,,,Kiefer 1967;Kenesei et al. 1998
+144C-hun,"SVO/SOV, but SNegVO",Languages with different word order in negative clauses,Hungarian,,,Kiefer 1967;Kenesei et al. 1998
+144D-hun,SOV/SOV but SNegVO,The Position of Negative Morphemes in SVO Languages,Hungarian,,,Kiefer 1967;Kenesei et al. 1998
+144H-hun,No NegSVO,NegSVO Order,Hungarian,,,Kiefer 1967;Kenesei et al. 1998
+144I-hun,Word&NoDoubleNeg,SNegVO Order,Hungarian,,,Kiefer 1967;Kenesei et al. 1998
+144J-hun,No SVNegO,SVNegO Order,Hungarian,,,Kenesei et al. 1998;Kiefer 1967
+144K-hun,No SVONeg,SVONeg Order,Hungarian,,,Kiefer 1967;Kenesei et al. 1998

@@ -1,0 +1,155 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Turkish,,,Zimmer and Orgun 1999
+1,2A,Large (7-14),Vowel Quality Inventories,Turkish,,,Zimmer and Orgun 1999
+2,3A,Average,Consonant-Vowel Ratio,Turkish,,,Zimmer and Orgun 1999
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Turkish,,,Zimmer and Orgun 1999
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Turkish,,,Zimmer and Orgun 1999
+5,6A,None,Uvular Consonants,Turkish,,,Zimmer and Orgun 1999
+6,7A,No glottalized consonants,Glottalized Consonants,Turkish,,,Zimmer and Orgun 1999
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Turkish,,,Zimmer and Orgun 1999
+8,9A,No velar nasal,The Velar Nasal,Turkish,,,Kornfilt 1997
+9,10A,Contrast absent,Vowel Nasalization,Turkish,,,Zimmer and Orgun 1999
+10,11A,High and mid,Front Rounded Vowels,Turkish,,,Zimmer and Orgun 1999
+11,12A,Moderately complex,Syllable Structure,Turkish,,,Zimmer and Orgun 1999
+12,13A,No tones,Tone,Turkish,,,Zimmer and Orgun 1999
+13,14A,No fixed stress,Fixed Stress Locations,Turkish,,,Kornfilt 1997
+14,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Turkish,,,Kornfilt 1997
+15,16A,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Turkish,,,Kornfilt 1997
+16,17A,No rhythmic stress,Rhythm Types,Turkish,,,Kornfilt 1997
+17,18A,All present,Absence of Common Consonants,Turkish,,,Zimmer and Orgun 1999
+18,19A,None,Presence of Uncommon Consonants,Turkish,,,Zimmer and Orgun 1999
+19,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Turkish,,,Underhill 1976
+20,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Turkish,,,Underhill 1976
+21,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Turkish,,,Underhill 1976
+22,22A,6-7 categories per word,Inflectional Synthesis of the Verb,Turkish,,,Underhill 1976
+23,23A,Dependent marking,Locus of Marking in the Clause,Turkish,,,Lewis 1967
+24,24A,Double marking,Locus of Marking in Possessive Noun Phrases,Turkish,,,Lewis 1967
+25,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Turkish,,,Lewis 1967
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Turkish,,,Lewis 1967
+27,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Turkish,,,Kornfilt 1997
+28,27A,Productive full and partial reduplication,Reduplication,Turkish,,,Godel 1945
+29,28A,No syncretism,Case Syncretism,Turkish,,,Lewis 1967
+30,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Turkish,,,Lewis 1967
+31,30A,None,Number of Genders,Turkish,,,Kornfilt 1997
+32,31A,No gender,Sex-based and Non-sex-based Gender Systems,Turkish,,,Kornfilt 1997
+33,32A,No gender,Systems of Gender Assignment,Turkish,,,Kornfilt 1997
+34,33A,Plural suffix,Coding of Nominal Plurality,Turkish,,,Underhill 1976
+35,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Turkish,,,Kornfilt 1997
+36,35A,Person stem + nominal plural affix,Plurality in Independent Personal Pronouns,Turkish,,,Kononov 1941
+37,36A,Associative same as additive plural,The Associative Plural,Turkish,,,Lewis 1967
+38,37A,"No definite, but indefinite article",Definite Articles,Turkish,,,Erguvanli 1984
+39,38A,Indefinite word same as 'one',Indefinite Articles,Turkish,,,Underhill 1976
+40,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Turkish,,,Kornfilt 1997
+41,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Turkish,,,Kornfilt 1997
+42,41A,Two-way contrast,Distance Contrasts in Demonstratives,Turkish,,,Underhill 1976
+43,42A,Different inflection,Pronominal and Adnominal Demonstratives,Turkish,,,Lewis 1967
+44,43A,Related to remote demonstratives,Third Person Pronouns and Demonstratives,Turkish,,,Lewis 1967
+45,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Turkish,,,Lewis 1967
+46,45A,Binary politeness distinction,Politeness Distinctions in Pronouns,Turkish,,,Lewis 1967
+47,46A,Generic-noun-based,Indefinite Pronouns,Turkish,,,Kornfilt 1997
+48,47A,Identical,Intensifiers and Reflexive Pronouns,Turkish,,,Kornfilt 1997
+49,48A,No person marking,Person Marking on Adpositions,Turkish,,,Lewis 1967
+50,49A,6-7 cases,Number of Cases,Turkish,,,Kornfilt 1997
+51,50A,Symmetrical,Asymmetrical Case-Marking,Turkish,,,Kornfilt 1997
+52,51A,Case suffixes,Position of Case Affixes,Turkish,,,Underhill 1976
+53,52A,Identity,Comitatives and Instrumentals,Turkish,,,
+54,53A,"First/one-th, two-th, three-th",Ordinal Numerals,Turkish,,,
+55,54A,Marked by suffix,Distributive Numerals,Turkish,,,Lewis 1967
+56,55A,Optional,Numeral Classifiers,Turkish,,,Lewis 1967
+57,56A,Formally different,Conjunctions and Universal Quantifiers,Turkish,,,Lewis 1967
+58,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Turkish,,,Lewis 1967
+59,58A,Absent,Obligatory Possessive Inflection,Turkish,,,Lewis 1967
+60,58B,None reported,Number of Possessive Nouns,Turkish,,,Lewis 1967
+61,59A,No possessive classification,Possessive Classification,Turkish,,,Lewis 1967
+62,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Turkish,,,Lewis 1967
+63,61A,Without marking,Adjectives without Nouns,Turkish,,,Lewis 1967
+64,62A,Possessive-Accusative,Action Nominal Constructions,Turkish,,,Kornfilt 1997
+65,63A,'And' different from 'with',Noun Phrase Conjunction,Turkish,,,Lewis 1967
+66,64A,Identity,Nominal and Verbal Conjunction,Turkish,,,Kornfilt 1997
+67,65A,Grammatical marking,Perfective/Imperfective Aspect,Turkish,,,Dahl 1985
+68,66A,"Present, no remoteness distinctions",The Past Tense,Turkish,,,Dahl 1985
+69,67A,Inflectional future exists,The Future Tense,Turkish,,,Dahl 1985
+70,68A,No perfect,The Perfect,Turkish,,,Dahl 1985
+71,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Turkish,,,Underhill 1976
+72,70A,Second singular and second plural,The Morphological Imperative,Turkish,,,Kornfilt 1997
+73,71A,Normal imperative + normal negative,The Prohibitive,Turkish,,,Kornfilt 1997
+74,72A,Maximal system,Imperative-Hortative Systems,Turkish,,,Kornfilt 1997
+75,73A,Inflectional optative absent,The Optative,Turkish,,,Lewis 1967
+76,74A,Affixes on verbs,Situational Possibility,Turkish,,,Kornfilt 1997
+77,75A,Affixes on verbs,Epistemic Possibility,Turkish,,,Kornfilt 1997
+78,76A,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Turkish,,,Kornfilt 1997
+79,77A,Direct and indirect,Semantic Distinctions of Evidentiality,Turkish,,,Aksu-Koç and Slobin 1986
+80,78A,Part of the tense system,Coding of Evidentiality,Turkish,,,Aksu-Koç and Slobin 1986
+81,79A,Tense,Suppletion According to Tense and Aspect,Turkish,,,Lewis 1967
+82,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Turkish,,,
+83,80A,None,Verbal Number and Suppletion,Turkish,,,Lewis 1967
+84,81A,SOV,"Order of Subject, Object and Verb",Turkish,,,Lewis 1967
+85,82A,SV,Order of Subject and Verb,Turkish,,,Underhill 1976
+86,83A,OV,Order of Object and Verb,Turkish,,,Underhill 1976
+87,84A,XOV,"Order of Object, Oblique, and Verb",Turkish,,,Lewis 1967
+88,85A,Postpositions,Order of Adposition and Noun Phrase,Turkish,,,Underhill 1976
+89,86A,Genitive-Noun,Order of Genitive and Noun,Turkish,,,Underhill 1976
+90,87A,Adjective-Noun,Order of Adjective and Noun,Turkish,,,Lewis 1967
+91,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Turkish,,,Underhill 1976
+92,89A,Numeral-Noun,Order of Numeral and Noun,Turkish,,,Lewis 1967
+93,90A,Relative clause-Noun,Order of Relative Clause and Noun,Turkish,,,Underhill 1976
+94,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Turkish,,,Underhill 1976
+95,91A,Degree word-Adjective,Order of Degree Word and Adjective,Turkish,,,Underhill 1976
+96,92A,Final,Position of Polar Question Particles,Turkish,,,Underhill 1976
+97,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Turkish,,,Underhill 1976
+98,94A,Mixed,Order of Adverbial Subordinator and Clause,Turkish,,,Underhill 1976
+99,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Turkish,,,
+100,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Turkish,,,
+101,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Turkish,,,
+102,98A,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Turkish,,,Kornfilt 1997
+103,99A,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Turkish,,,Kornfilt 1997
+104,100A,Accusative,Alignment of Verbal Person Marking,Turkish,,,Lewis 1967
+105,101A,Subject affixes on verb,Expression of Pronominal Subjects,Turkish,,,Kornfilt 1997
+106,102A,Only the A argument,Verbal Person Marking,Turkish,,,Lewis 1967
+107,103A,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Turkish,,,Lewis 1967
+108,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Turkish,,,Lewis 1967
+109,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Turkish,,,Kornfilt 1997
+110,106A,Distinct from reflexive,Reciprocal Constructions,Turkish,,,Kornfilt 1997
+111,107A,Present,Passive Constructions,Turkish,,,Lewis 1967
+112,108A,No antipassive,Antipassive Constructions,Turkish,,,Kornfilt 1997
+113,108B,no antipassive,Productivity of the Antipassive Construction,Turkish,,,Kornfilt 1997
+114,109A,No applicative construction,Applicative Constructions,Turkish,,,Kornfilt 1997
+115,109B,No applicative construction,Other Roles of Applied Objects,Turkish,,,
+116,110A,Purposive but no sequential,Periphrastic Causative Constructions,Turkish,,,Kornfilt 1997
+117,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Turkish,,,Kornfilt 1997
+118,112A,Negative affix,Negative Morphemes,Turkish,,,Underhill 1976
+119,113A,Both,Symmetric and Asymmetric Standard Negation,Turkish,,,van Schaaik 1994
+120,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Turkish,,,van Schaaik 1994
+121,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Turkish,,,Kornfilt 1997
+122,116A,Question particle,Polar Questions,Turkish,,,Underhill 1976
+123,117A,Genitive,Predicative Possession,Turkish,,,Lewis 1967
+124,118A,Nonverbal encoding,Predicative Adjectives,Turkish,,,Lewis 1967
+125,119A,Identical,Nominal and Locational Predication,Turkish,,,Lewis 1967
+126,120A,Impossible,Zero Copula for Predicate Nominals,Turkish,,,Lewis 1967
+127,121A,Locational,Comparative Constructions,Turkish,,,Lewis 1967
+128,122A,Gap,Relativization on Subjects,Turkish,,,Comrie 1998
+129,123A,Gap,Relativization on Obliques,Turkish,,,Comrie 1998
+130,124A,Subject is left implicit,'Want' Complement Subjects,Turkish,,,Kornfilt 1997
+131,125A,Deranked,Purpose Clauses,Turkish,,,Underhill 1976
+132,126A,Deranked,'When' Clauses,Turkish,,,Underhill 1976
+133,127A,Balanced/deranked,Reason Clauses,Turkish,,,Underhill 1976
+134,128A,Balanced/deranked,Utterance Complement Clauses,Turkish,,,Underhill 1976
+135,129A,Different,Hand and Arm,Turkish,,,Kornrumpf 1960
+136,130A,Different,Finger and Hand,Turkish,,,Kornrumpf 1960
+137,131A,Decimal,Numeral Bases,Turkish,,,Kornfilt 1997
+138,136A,"M-T pronouns, paradigmatic",M-T Pronouns,Turkish,,,Lewis 1967
+139,136B,m in first person singular,M in First Person Singular,Turkish,,,Lewis 1967
+140,137A,No N-M pronouns,N-M Pronouns,Turkish,,,Lewis 1967
+141,137B,No m in second person singular,M in Second Person Singular,Turkish,,,Lewis 1967
+142,138A,Words derived from Sinitic cha,Tea,Turkish,,,Malherbe and Rosenberg 1996
+143,142A,Logical meanings,Para-Linguistic Usages of Clicks,Turkish,,,Darwin 1872
+144,143A,[V-Neg],Order of Negative Morpheme and Verb,Turkish,,,Underhill 1976
+145,143E,None,Preverbal Negative Morphemes,Turkish,,,Underhill 1976
+146,143F,[V-Neg],Postverbal Negative Morphemes,Turkish,,,Underhill 1976
+147,143G,None,Minor morphological means of signaling negation,Turkish,,,Underhill 1976
+148,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Turkish,,,Underhill 1976
+149,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Turkish,,,Underhill 1976
+150,144P,No NegSOV,NegSOV Order,Turkish,,,Underhill 1976
+151,144Q,No SNegOV,SNegOV Order,Turkish,,,Underhill 1976
+152,144R,No SONegV,SONegV Order,Turkish,,,Underhill 1976
+153,144S,Suffix&NoDoubleNeg,SOVNeg Order,Turkish,,,Underhill 1976

@@ -1,0 +1,59 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yukulta,,,Keen 1983
+1,27A,Productive full and partial reduplication,Reduplication,Yukulta,,,Fabricius 1998
+2,33A,Plural suffix,Coding of Nominal Plurality,Yukulta,,,Keen 1983
+3,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Yukulta,,,Keen 1983
+4,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yukulta,,,Keen 1983
+5,48A,No adpositions,Person Marking on Adpositions,Yukulta,,,Keen 1983
+6,51A,Case suffixes,Position of Case Affixes,Yukulta,,,Keen 1983
+7,52A,Differentiation,Comitatives and Instrumentals,Yukulta,,,Keen 1983
+8,55A,Absent,Numeral Classifiers,Yukulta,,,Nichols 1992
+9,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Yukulta,,,Keen 1983
+10,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Yukulta,,,Keen 1983
+11,70A,Second singular and second plural,The Morphological Imperative,Yukulta,,,Keen 1983
+12,71A,Special imperative + special negative,The Prohibitive,Yukulta,,,Keen 1983
+13,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Yukulta,,,Keen 1983
+14,78A,No grammatical evidentials,Coding of Evidentiality,Yukulta,,,Keen 1983
+15,81A,SVO,"Order of Subject, Object and Verb",Yukulta,,,Keen 1983
+16,82A,SV,Order of Subject and Verb,Yukulta,,,Keen 1983
+17,83A,OV,Order of Object and Verb,Yukulta,,,Keen 1983
+18,86A,Genitive-Noun,Order of Genitive and Noun,Yukulta,,,Keen 1983
+19,87A,Adjective-Noun,Order of Adjective and Noun,Yukulta,,,Keen 1983
+20,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yukulta,,,Keen 1983
+21,90A,Noun-Relative clause,Order of Relative Clause and Noun,Yukulta,,,Keen 1983
+22,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Yukulta,,,Keen 1983
+23,92A,Initial,Position of Polar Question Particles,Yukulta,,,Keen 1983
+24,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yukulta,,,Keen 1983
+25,94A,Internal subordinator word,Order of Adverbial Subordinator and Clause,Yukulta,,,Keen 1983
+26,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yukulta,,,
+27,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yukulta,,,
+28,100A,Split,Alignment of Verbal Person Marking,Yukulta,,,Keen 1983
+29,101A,Subject clitics on variable host,Expression of Pronominal Subjects,Yukulta,,,Keen 1983
+30,102A,Both the A and P arguments,Verbal Person Marking,Yukulta,,,Keen 1983
+31,103A,Zero in all 3rd person forms,Third Person Zero of Verbal Person Marking,Yukulta,,,Keen 1983
+32,104A,Both orders of A and P occur,Order of Person Markers on the Verb,Yukulta,,,Keen 1983
+33,106A,Distinct from reflexive,Reciprocal Constructions,Yukulta,,,Evans 1995
+34,107A,Present,Passive Constructions,Yukulta,,,Keen 1983
+35,108A,Oblique patient,Antipassive Constructions,Yukulta,,,Keen 1983
+36,112A,Double negation,Negative Morphemes,Yukulta,,,Keen 1983
+37,116A,Question particle,Polar Questions,Yukulta,,,Keen 1983
+38,129A,Different,Hand and Arm,Yukulta,,,Keen 1983
+39,130A,Identical,Finger and Hand,Yukulta,,,Keen 1983
+40,130B,Hunter-gatherers,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',Yukulta,,,
+41,136A,No M-T pronouns,M-T Pronouns,Yukulta,,,Keen 1983
+42,136B,No m in first person singular,M in First Person Singular,Yukulta,,,Keen 1983
+43,137A,No N-M pronouns,N-M Pronouns,Yukulta,,,Keen 1983
+44,137B,No m in second person singular,M in Second Person Singular,Yukulta,,,Keen 1983
+45,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Yukulta,,,Keen 1983
+46,143B,Neg[V-Neg],Obligatory Double Negation,Yukulta,,,Keen 1983
+47,143E,NegV,Preverbal Negative Morphemes,Yukulta,,,Keen 1983
+48,143F,[V-Neg],Postverbal Negative Morphemes,Yukulta,,,Keen 1983
+49,143G,None,Minor morphological means of signaling negation,Yukulta,,,Keen 1983
+50,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Yukulta,,,Keen 1983
+51,144B,"Beginning, not immed preverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yukulta,,,Keen 1983
+52,144D,ObligNeg,The Position of Negative Morphemes in SVO Languages,Yukulta,,,Keen 1983
+53,144F,NegS[V-Neg]O,Obligatory Double Negation in SVO languages,Yukulta,,,Keen 1983
+54,144H,OnlyWithAnotherNeg,NegSVO Order,Yukulta,,,Keen 1983
+55,144I,No SNegVO,SNegVO Order,Yukulta,,,Keen 1983
+56,144J,Suffix&OnlyWithAnotherNeg,SVNegO Order,Yukulta,,,Keen 1983
+57,144K,No SVONeg,SVONeg Order,Yukulta,,,Keen 1983

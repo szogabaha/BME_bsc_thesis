@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Selepet,,,McElhanon 1970b
+1,2A,Average (5-6),Vowel Quality Inventories,Selepet,,,McElhanon 1970b
+2,3A,Moderately low,Consonant-Vowel Ratio,Selepet,,,McElhanon 1970b
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Selepet,,,McElhanon 1970b
+4,5A,Other,Voicing and Gaps in Plosive Systems,Selepet,,,McElhanon 1970b
+5,6A,None,Uvular Consonants,Selepet,,,McElhanon 1970b
+6,7A,No glottalized consonants,Glottalized Consonants,Selepet,,,McElhanon 1970b
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Selepet,,,McElhanon 1970b
+8,11A,None,Front Rounded Vowels,Selepet,,,McElhanon 1970b
+9,14A,Initial,Fixed Stress Locations,Selepet,,,McElhanon 1970b
+10,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Selepet,,,McElhanon 1970b
+11,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Selepet,,,McElhanon 1970b
+12,17A,Trochaic,Rhythm Types,Selepet,,,McElhanon 1970b
+13,18A,All present,Absence of Common Consonants,Selepet,,,McElhanon 1970b
+14,19A,None,Presence of Uncommon Consonants,Selepet,,,McElhanon 1970b
+15,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Selepet,,,McElhanon 1972
+16,33A,Plural suffix,Coding of Nominal Plurality,Selepet,,,McElhanon 1972
+17,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Selepet,,,McElhanon 1972
+18,48A,No person marking,Person Marking on Adpositions,Selepet,,,McElhanon 1972
+19,51A,Case suffixes,Position of Case Affixes,Selepet,,,McElhanon 1972
+20,52A,Differentiation,Comitatives and Instrumentals,Selepet,,,McElhanon 1972
+21,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Selepet,,,McElhanon 1972
+22,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Selepet,,,McElhanon 1972
+23,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Selepet,,,McElhanon 1972
+24,78A,No grammatical evidentials,Coding of Evidentiality,Selepet,,,McElhanon 1972
+25,85A,Postpositions,Order of Adposition and Noun Phrase,Selepet,,,McElhanon 1972
+26,86A,Genitive-Noun,Order of Genitive and Noun,Selepet,,,McElhanon 1972
+27,87A,Noun-Adjective,Order of Adjective and Noun,Selepet,,,McElhanon 1972
+28,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Selepet,,,McElhanon 1972
+29,89A,Noun-Numeral,Order of Numeral and Noun,Selepet,,,McElhanon 1972
+30,91A,Adjective-Degree word,Order of Degree Word and Adjective,Selepet,,,McElhanon 1972
+31,100A,Accusative,Alignment of Verbal Person Marking,Selepet,,,McElhanon 1972
+32,102A,Both the A and P arguments,Verbal Person Marking,Selepet,,,McElhanon 1972
+33,103A,No zero realization,Third Person Zero of Verbal Person Marking,Selepet,,,McElhanon 1972
+34,104A,P precedes A,Order of Person Markers on the Verb,Selepet,,,McElhanon 1972
+35,107A,Absent,Passive Constructions,Selepet,,,McElhanon 1972

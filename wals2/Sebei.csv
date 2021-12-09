@@ -1,0 +1,26 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Sebei,,,Montgomery 1970
+1,2A,Average (5-6),Vowel Quality Inventories,Sebei,,,Montgomery 1970
+2,3A,Moderately low,Consonant-Vowel Ratio,Sebei,,,Montgomery 1970
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Sebei,,,Montgomery 1970
+4,5A,Other,Voicing and Gaps in Plosive Systems,Sebei,,,Montgomery 1970
+5,6A,None,Uvular Consonants,Sebei,,,Montgomery 1970
+6,7A,No glottalized consonants,Glottalized Consonants,Sebei,,,Montgomery 1970
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Sebei,,,Montgomery 1970
+8,11A,None,Front Rounded Vowels,Sebei,,,Montgomery 1970
+9,18A,All present,Absence of Common Consonants,Sebei,,,Montgomery 1970
+10,19A,None,Presence of Uncommon Consonants,Sebei,,,Montgomery 1970
+11,33A,Plural suffix,Coding of Nominal Plurality,Sebei,,,O'Brien and Cuypers 1975
+12,37A,Definite affix,Definite Articles,Sebei,,,O'Brien and Cuypers 1975
+13,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Sebei,,,O'Brien and Cuypers 1975
+14,81A,VSO,"Order of Subject, Object and Verb",Sebei,,,O'Brien and Cuypers 1975
+15,82A,VS,Order of Subject and Verb,Sebei,,,O'Brien and Cuypers 1975
+16,83A,VO,Order of Object and Verb,Sebei,,,O'Brien and Cuypers 1975
+17,85A,Prepositions,Order of Adposition and Noun Phrase,Sebei,,,O'Brien and Cuypers 1975
+18,86A,Noun-Genitive,Order of Genitive and Noun,Sebei,,,O'Brien and Cuypers 1975
+19,87A,Noun-Adjective,Order of Adjective and Noun,Sebei,,,O'Brien and Cuypers 1975
+20,88A,Demonstrative suffix,Order of Demonstrative and Noun,Sebei,,,O'Brien and Cuypers 1975
+21,89A,Noun-Numeral,Order of Numeral and Noun,Sebei,,,O'Brien and Cuypers 1975
+22,91A,Adjective-Degree word,Order of Degree Word and Adjective,Sebei,,,O'Brien and Cuypers 1975
+23,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sebei,,,
+24,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sebei,,,

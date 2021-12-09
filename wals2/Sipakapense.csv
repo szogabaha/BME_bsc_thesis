@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Sipakapense,,,Barrett 1999
+1,33A,Plural word,Coding of Nominal Plurality,Sipakapense,,,Barrett 1999
+2,37A,Definite word distinct from demonstrative,Definite Articles,Sipakapense,,,Barrett 1999
+3,38A,Indefinite word same as 'one',Indefinite Articles,Sipakapense,,,Barrett 1999
+4,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sipakapense,,,Barrett 1999
+5,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Sipakapense,,,Barrett 1999
+6,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Sipakapense,,,Barrett 1999
+7,81A,VSO,"Order of Subject, Object and Verb",Sipakapense,,,Barrett 1999
+8,82A,VS,Order of Subject and Verb,Sipakapense,,,Barrett 1999
+9,83A,VO,Order of Object and Verb,Sipakapense,,,Barrett 1999
+10,84A,VOX,"Order of Object, Oblique, and Verb",Sipakapense,,,Barrett 1999
+11,85A,Prepositions,Order of Adposition and Noun Phrase,Sipakapense,,,Barrett 1999
+12,86A,Noun-Genitive,Order of Genitive and Noun,Sipakapense,,,Barrett 1999
+13,87A,Adjective-Noun,Order of Adjective and Noun,Sipakapense,,,Barrett 1999
+14,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Sipakapense,,,Barrett 1999
+15,89A,Numeral-Noun,Order of Numeral and Noun,Sipakapense,,,Barrett 1999
+16,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sipakapense,,,Barrett 1999
+17,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sipakapense,,,Barrett 1999
+18,92A,Initial,Position of Polar Question Particles,Sipakapense,,,Barrett 1999
+19,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sipakapense,,,Barrett 1999
+20,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sipakapense,,,
+21,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sipakapense,,,
+22,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sipakapense,,,
+23,101A,Subject affixes on verb,Expression of Pronominal Subjects,Sipakapense,,,Barrett 1999
+24,112A,Negative particle,Negative Morphemes,Sipakapense,,,Barrett 1999
+25,116A,Question particle,Polar Questions,Sipakapense,,,Barrett 1999
+26,143A,NegV,Order of Negative Morpheme and Verb,Sipakapense,,,Barrett 1999
+27,143E,NegV,Preverbal Negative Morphemes,Sipakapense,,,Barrett 1999
+28,143F,None,Postverbal Negative Morphemes,Sipakapense,,,Barrett 1999
+29,143G,None,Minor morphological means of signaling negation,Sipakapense,,,Barrett 1999
+30,144A,NegVSO,"Position of Negative Word With Respect to Subject, Object, and Verb",Sipakapense,,,Barrett 1999
+31,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sipakapense,,,Barrett 1999
+32,144T,NegVSO,The Position of Negative Morphemes in Verb-Initial Languages,Sipakapense,,,Barrett 1999
+33,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Sipakapense,,,Barrett 1999
+34,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Sipakapense,,,Barrett 1999
+35,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Sipakapense,,,Barrett 1999

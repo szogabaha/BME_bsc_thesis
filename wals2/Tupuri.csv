@@ -1,0 +1,21 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,SVO,"Order of Subject, Object and Verb",Tupuri,,,Ruelland 1992
+1,82A,SV,Order of Subject and Verb,Tupuri,,,Ruelland 1992
+2,83A,VO,Order of Object and Verb,Tupuri,,,Ruelland 1992
+3,85A,Prepositions,Order of Adposition and Noun Phrase,Tupuri,,,Ruelland 1998
+4,87A,Noun-Adjective,Order of Adjective and Noun,Tupuri,,,Ruelland 1992
+5,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tupuri,,,Ruelland 1992
+6,89A,Noun-Numeral,Order of Numeral and Noun,Tupuri,,,Ruelland 1992
+7,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tupuri,,,
+8,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tupuri,,,
+9,143A,VNeg,Order of Negative Morpheme and Verb,Tupuri,,,Ruelland 1998
+10,143E,None,Preverbal Negative Morphemes,Tupuri,,,Ruelland 1998
+11,143F,VNeg,Postverbal Negative Morphemes,Tupuri,,,Ruelland 1998
+12,143G,None,Minor morphological means of signaling negation,Tupuri,,,Ruelland 1998
+13,144A,SVONeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tupuri,,,Ruelland 1998
+14,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tupuri,,,Ruelland 1998
+15,144D,SVONeg,The Position of Negative Morphemes in SVO Languages,Tupuri,,,Ruelland 1998
+16,144H,No NegSVO,NegSVO Order,Tupuri,,,Ruelland 1998
+17,144I,No SNegVO,SNegVO Order,Tupuri,,,Ruelland 1998
+18,144J,No SVNegO,SVNegO Order,Tupuri,,,Ruelland 1998
+19,144K,NoDoubleNeg,SVONeg Order,Tupuri,,,Ruelland 1998

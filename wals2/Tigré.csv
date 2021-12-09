@@ -1,0 +1,66 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Tigré,,,Klingenheben 1966
+1,2A,Average (5-6),Vowel Quality Inventories,Tigré,,,Klingenheben 1966
+2,3A,Moderately high,Consonant-Vowel Ratio,Tigré,,,Klingenheben 1966
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Tigré,,,Klingenheben 1966
+4,5A,Missing /p/,Voicing and Gaps in Plosive Systems,Tigré,,,Klingenheben 1966
+5,6A,None,Uvular Consonants,Tigré,,,Klingenheben 1966
+6,7A,Ejectives only,Glottalized Consonants,Tigré,,,Klingenheben 1966
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tigré,,,Klingenheben 1966
+8,11A,None,Front Rounded Vowels,Tigré,,,Klingenheben 1966
+9,12A,Moderately complex,Syllable Structure,Tigré,,,Klingenheben 1966
+10,13A,No tones,Tone,Tigré,,,Klingenheben 1966
+11,18A,All present,Absence of Common Consonants,Tigré,,,Klingenheben 1966
+12,19A,Pharyngeals,Presence of Uncommon Consonants,Tigré,,,Klingenheben 1966
+13,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tigré,,,Raz 1983
+14,27A,Productive full and partial reduplication,Reduplication,Tigré,,,Rose n.d.
+15,30A,Two,Number of Genders,Tigré,,,Raz 1997
+16,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Tigré,,,Raz 1997
+17,32A,Semantic and formal,Systems of Gender Assignment,Tigré,,,Raz 1997
+18,33A,Mixed morphological plural,Coding of Nominal Plurality,Tigré,,,Raz 1983
+19,37A,Definite word distinct from demonstrative,Definite Articles,Tigré,,,Raz 1983
+20,38A,Indefinite word same as 'one',Indefinite Articles,Tigré,,,Raz 1983
+21,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tigré,,,Raz 1983
+22,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tigré,,,Raz 1983
+23,63A,'And' different from 'with',Noun Phrase Conjunction,Tigré,,,Raz 1983
+24,65A,No grammatical marking,Perfective/Imperfective Aspect,Tigré,,,Bybee et al. 1994
+25,66A,"Present, no remoteness distinctions",The Past Tense,Tigré,,,Bybee et al. 1994
+26,67A,No inflectional future,The Future Tense,Tigré,,,Bybee et al. 1994
+27,68A,Other perfect,The Perfect,Tigré,,,Bybee et al. 1994
+28,70A,Second singular and second plural,The Morphological Imperative,Tigré,,,Raz 1983
+29,71A,Special imperative + normal negative,The Prohibitive,Tigré,,,Raz 1983
+30,72A,Neither type of system,Imperative-Hortative Systems,Tigré,,,Raz 1983
+31,73A,Inflectional optative absent,The Optative,Tigré,,,Raz 1983
+32,74A,Verbal constructions,Situational Possibility,Tigré,,,Raz 1983
+33,75A,Other,Epistemic Possibility,Tigré,,,Raz 1983
+34,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Tigré,,,Raz 1983
+35,81A,SOV,"Order of Subject, Object and Verb",Tigré,,,Raz 1983
+36,82A,SV,Order of Subject and Verb,Tigré,,,Raz 1983
+37,83A,OV,Order of Object and Verb,Tigré,,,Raz 1983
+38,85A,Prepositions,Order of Adposition and Noun Phrase,Tigré,,,Raz 1983
+39,86A,Noun-Genitive,Order of Genitive and Noun,Tigré,,,Raz 1983
+40,87A,Adjective-Noun,Order of Adjective and Noun,Tigré,,,Raz 1983
+41,88A,Mixed,Order of Demonstrative and Noun,Tigré,,,Raz 1983
+42,89A,Numeral-Noun,Order of Numeral and Noun,Tigré,,,Raz 1983
+43,90A,Relative clause-Noun,Order of Relative Clause and Noun,Tigré,,,Raz 1983
+44,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Tigré,,,Raz 1983
+45,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tigré,,,Raz 1983
+46,94A,Mixed,Order of Adverbial Subordinator and Clause,Tigré,,,Raz 1983
+47,95A,OV and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tigré,,,
+48,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tigré,,,
+49,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tigré,,,
+50,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tigré,,,Raz 1983
+51,112A,Negative affix,Negative Morphemes,Tigré,,,Raz 1983
+52,118A,Nonverbal encoding,Predicative Adjectives,Tigré,,,Raz 1983
+53,119A,Identical,Nominal and Locational Predication,Tigré,,,Raz 1983
+54,120A,Impossible,Zero Copula for Predicate Nominals,Tigré,,,Raz 1983
+55,143A,[Neg-V],Order of Negative Morpheme and Verb,Tigré,,,Raz 1983
+56,143E,[Neg-V],Preverbal Negative Morphemes,Tigré,,,Raz 1983
+57,143F,None,Postverbal Negative Morphemes,Tigré,,,Raz 1983
+58,143G,None,Minor morphological means of signaling negation,Tigré,,,Raz 1983
+59,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tigré,,,Raz 1983
+60,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Tigré,,,Raz 1983
+61,144P,No NegSOV,NegSOV Order,Tigré,,,Raz 1983
+62,144Q,No SNegOV,SNegOV Order,Tigré,,,Raz 1983
+63,144R,Prefix&NoDoubleNeg,SONegV Order,Tigré,,,Raz 1983
+64,144S,NoSOVNeg,SOVNeg Order,Tigré,,,Raz 1983

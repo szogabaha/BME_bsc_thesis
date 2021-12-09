@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No velar nasal,The Velar Nasal,Tarahumara (Central),,,Hilton 1959
+1,37A,Demonstrative word used as definite article,Definite Articles,Tarahumara (Central),,,Cohen 1998
+2,38A,Indefinite word same as 'one',Indefinite Articles,Tarahumara (Central),,,Cohen 1998
+3,51A,Case suffixes,Position of Case Affixes,Tarahumara (Central),,,Cohen 1998
+4,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tarahumara (Central),,,Cohen 1998
+5,81A,SOV,"Order of Subject, Object and Verb",Tarahumara (Central),,,Cohen 1998
+6,82A,SV,Order of Subject and Verb,Tarahumara (Central),,,Cohen 1998
+7,83A,OV,Order of Object and Verb,Tarahumara (Central),,,Cohen 1998
+8,84A,XOV,"Order of Object, Oblique, and Verb",Tarahumara (Central),,,Cohen 1998
+9,85A,Postpositions,Order of Adposition and Noun Phrase,Tarahumara (Central),,,Cohen 1998
+10,87A,Adjective-Noun,Order of Adjective and Noun,Tarahumara (Central),,,Cohen 1998
+11,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tarahumara (Central),,,Cohen 1998
+12,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tarahumara (Central),,,Cohen 1998
+13,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tarahumara (Central),,,Cohen 1998
+14,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tarahumara (Central),,,Cohen 1998
+15,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tarahumara (Central),,,Cohen 1998
+16,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tarahumara (Central),,,
+17,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tarahumara (Central),,,
+18,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tarahumara (Central),,,
+19,106A,Distinct from reflexive,Reciprocal Constructions,Tarahumara (Central),,,Langacker 1976
+20,112A,Negative particle,Negative Morphemes,Tarahumara (Central),,,Cohen 1998
+21,129A,Identical,Hand and Arm,Tarahumara (Central),,,Hilton 1993
+22,130A,Different,Finger and Hand,Tarahumara (Central),,,Hilton 1993
+23,132A,5,Number of Non-Derived Basic Colour Categories,Tarahumara (Central),,,
+24,133A,4.5-5.5,Number of Basic Colour Categories,Tarahumara (Central),,,
+25,134A,Green/blue,Green and Blue,Tarahumara (Central),,,
+26,135A,Red/yellow,Red and Yellow,Tarahumara (Central),,,
+27,143A,NegV,Order of Negative Morpheme and Verb,Tarahumara (Central),,,Cohen 1998
+28,143E,NegV,Preverbal Negative Morphemes,Tarahumara (Central),,,Cohen 1998
+29,143F,None,Postverbal Negative Morphemes,Tarahumara (Central),,,Cohen 1998
+30,143G,None,Minor morphological means of signaling negation,Tarahumara (Central),,,Cohen 1998
+31,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Tarahumara (Central),,,Cohen 1998
+32,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Tarahumara (Central),,,Cohen 1998
+33,144S,NoSOVNeg,SOVNeg Order,Tarahumara (Central),,,Cohen 1998

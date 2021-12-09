@@ -1,0 +1,43 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Ultimate,Fixed Stress Locations,Tajik,,,Rastorgueva 1963
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tajik,,,Rastorgueva 1963
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tajik,,,Rastorgueva 1963
+3,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tajik,,,Rastorgueva 1963
+4,33A,Plural suffix,Coding of Nominal Plurality,Tajik,,,Rastorgueva 1963
+5,37A,"No definite, but indefinite article",Definite Articles,Tajik,,,Rastorgueva 1963
+6,38A,Indefinite word distinct from 'one',Indefinite Articles,Tajik,,,Rastorgueva 1963
+7,46A,Interrogative-based,Indefinite Pronouns,Tajik,,,Kerimova 1966
+8,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tajik,,,Rastorgueva 1963
+9,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Tajik,,,Rastorgueva 1963
+10,69A,Mixed type,Position of Tense-Aspect Affixes,Tajik,,,Rastorgueva 1963
+11,81A,SOV,"Order of Subject, Object and Verb",Tajik,,,Rastorgueva 1963
+12,82A,SV,Order of Subject and Verb,Tajik,,,Rastorgueva 1963
+13,83A,OV,Order of Object and Verb,Tajik,,,Rastorgueva 1963
+14,85A,Prepositions,Order of Adposition and Noun Phrase,Tajik,,,Rastorgueva 1963
+15,86A,Noun-Genitive,Order of Genitive and Noun,Tajik,,,Rastorgueva 1963
+16,87A,Noun-Adjective,Order of Adjective and Noun,Tajik,,,Rastorgueva 1963
+17,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tajik,,,Rastorgueva 1963
+18,89A,Numeral-Noun,Order of Numeral and Noun,Tajik,,,Rastorgueva 1963
+19,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tajik,,,Rastorgueva 1963
+20,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tajik,,,Rastorgueva 1963
+21,92A,Final,Position of Polar Question Particles,Tajik,,,Rastorgueva 1963
+22,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tajik,,,Rastorgueva 1963
+23,95A,OV and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tajik,,,
+24,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tajik,,,
+25,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tajik,,,
+26,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tajik,,,Rastorgueva 1963
+27,112A,Negative affix,Negative Morphemes,Tajik,,,Rastorgueva 1963
+28,116A,Question particle,Polar Questions,Tajik,,,Rastorgueva 1963
+29,117A,'Have',Predicative Possession,Tajik,,,Rastorgueva 1963
+30,121A,Locational,Comparative Constructions,Tajik,,,Rastorgueva 1963
+31,138A,Words derived from Sinitic cha,Tea,Tajik,,,Malherbe and Rosenberg 1996
+32,143A,[Neg-V],Order of Negative Morpheme and Verb,Tajik,,,Rastorgueva 1963
+33,143E,[Neg-V],Preverbal Negative Morphemes,Tajik,,,Rastorgueva 1963
+34,143F,None,Postverbal Negative Morphemes,Tajik,,,Rastorgueva 1963
+35,143G,None,Minor morphological means of signaling negation,Tajik,,,Rastorgueva 1963
+36,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tajik,,,Rastorgueva 1963
+37,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Tajik,,,Rastorgueva 1963
+38,144P,No NegSOV,NegSOV Order,Tajik,,,Rastorgueva 1963
+39,144Q,No SNegOV,SNegOV Order,Tajik,,,Rastorgueva 1963
+40,144R,Prefix&NoDoubleNeg,SONegV Order,Tajik,,,Rastorgueva 1963
+41,144S,NoSOVNeg,SOVNeg Order,Tajik,,,Rastorgueva 1963

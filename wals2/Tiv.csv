@@ -1,0 +1,25 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,SVO,"Order of Subject, Object and Verb",Tiv,,,Abraham 1940
+1,82A,SV,Order of Subject and Verb,Tiv,,,Abraham 1940
+2,83A,VO,Order of Object and Verb,Tiv,,,Abraham 1940
+3,85A,Prepositions,Order of Adposition and Noun Phrase,Tiv,,,Abraham 1940
+4,86A,Noun-Genitive,Order of Genitive and Noun,Tiv,,,Abraham 1940
+5,87A,No dominant order,Order of Adjective and Noun,Tiv,,,Abraham 1940
+6,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tiv,,,Abraham 1940
+7,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tiv,,,
+8,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tiv,,,
+9,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Tiv,,,Abraham 1940
+10,118A,Verbal encoding,Predicative Adjectives,Tiv,,,Abraham 1933
+11,119A,Different,Nominal and Locational Predication,Tiv,,,Abraham 1933
+12,120A,Impossible,Zero Copula for Predicate Nominals,Tiv,,,Abraham 1933
+13,143A,VNeg,Order of Negative Morpheme and Verb,Tiv,,,Abraham 1940
+14,143E,None,Preverbal Negative Morphemes,Tiv,,,Abraham 1940
+15,143F,VNeg,Postverbal Negative Morphemes,Tiv,,,Abraham 1940
+16,143G,None,Minor morphological means of signaling negation,Tiv,,,Abraham 1940
+17,144A,SVONeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tiv,,,Abraham 1940
+18,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tiv,,,Abraham 1940
+19,144D,SVONeg,The Position of Negative Morphemes in SVO Languages,Tiv,,,Abraham 1940
+20,144H,No NegSVO,NegSVO Order,Tiv,,,Abraham 1940
+21,144I,No SNegVO,SNegVO Order,Tiv,,,Abraham 1940
+22,144J,No SVNegO,SVNegO Order,Tiv,,,Abraham 1940
+23,144K,NoDoubleNeg,SVONeg Order,Tiv,,,Abraham 1940

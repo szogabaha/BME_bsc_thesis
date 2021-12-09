@@ -1,0 +1,149 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Supyire,,,Carlson 1994
+1,2A,Large (7-14),Vowel Quality Inventories,Supyire,,,Carlson 1994
+2,3A,Average,Consonant-Vowel Ratio,Supyire,,,Carlson 1994
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Supyire,,,Carlson 1994
+4,5A,Missing /g/,Voicing and Gaps in Plosive Systems,Supyire,,,Carlson 1994
+5,6A,None,Uvular Consonants,Supyire,,,Carlson 1994
+6,7A,No glottalized consonants,Glottalized Consonants,Supyire,,,Carlson 1994
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Supyire,,,Carlson 1994
+8,9A,Initial velar nasal,The Velar Nasal,Supyire,,,Carlson 1994
+9,10A,Contrast present,Vowel Nasalization,Supyire,,,Carlson 1994
+10,11A,None,Front Rounded Vowels,Supyire,,,Carlson 1994
+11,12A,Moderately complex,Syllable Structure,Supyire,,,Carlson 1994
+12,13A,Complex tone system,Tone,Supyire,,,Carlson 1994
+13,14A,Initial,Fixed Stress Locations,Supyire,,,Carlson 1994
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Supyire,,,Carlson 1994
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Supyire,,,Carlson 1994
+16,18A,All present,Absence of Common Consonants,Supyire,,,Carlson 1994
+17,19A,None,Presence of Uncommon Consonants,Supyire,,,Carlson 1994
+18,20A,Exclusively isolating,Fusion of Selected Inflectional Formatives,Supyire,,,Carlson 1994
+19,21A,No case,Exponence of Selected Inflectional Formatives,Supyire,,,Carlson 1994
+20,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Supyire,,,Carlson 1994
+21,22A,2-3 categories per word,Inflectional Synthesis of the Verb,Supyire,,,Carlson 1994
+22,23A,No marking,Locus of Marking in the Clause,Supyire,,,Carlson 1994
+23,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Supyire,,,Carlson 1994
+24,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Supyire,,,Carlson 1994
+25,25B,Zero-marking,Zero Marking of A and P Arguments,Supyire,,,Carlson 1994
+26,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Supyire,,,Carlson 1994
+27,28A,No case marking,Case Syncretism,Supyire,,,Carlson 1994
+28,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Supyire,,,Carlson 1994
+29,30A,Five or more,Number of Genders,Supyire,,,Carlson 1994
+30,31A,Non-sex-based,Sex-based and Non-sex-based Gender Systems,Supyire,,,Carlson 1994
+31,32A,Semantic and formal,Systems of Gender Assignment,Supyire,,,Carlson 1994
+32,33A,Plural suffix,Coding of Nominal Plurality,Supyire,,,Carlson 1994
+33,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Supyire,,,Carlson 1994
+34,35A,Person-number stem,Plurality in Independent Personal Pronouns,Supyire,,,Carlson 1994
+35,36A,Unique periphrastic associative plural,The Associative Plural,Supyire,,,
+36,37A,Definite affix,Definite Articles,Supyire,,,Carlson 1994
+37,38A,Indefinite word distinct from 'one',Indefinite Articles,Supyire,,,Carlson 1994
+38,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Supyire,,,Carlson 1990
+39,40A,No person marking,Inclusive/Exclusive Distinction in Verbal Inflection,Supyire,,,Carlson 1990
+40,41A,No distance contrast,Distance Contrasts in Demonstratives,Supyire,,,Carlson 1994
+41,42A,Identical,Pronominal and Adnominal Demonstratives,Supyire,,,Carlson 1994
+42,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Supyire,,,Carlson 1994
+43,44A,"3rd person only, but also non-singular",Gender Distinctions in Independent Personal Pronouns,Supyire,,,Carlson 1994
+44,45A,No politeness distinction,Politeness Distinctions in Pronouns,Supyire,,,Carlson 1994
+45,47A,Differentiated,Intensifiers and Reflexive Pronouns,Supyire,,,Carlson 1994
+46,48A,No person marking,Person Marking on Adpositions,Supyire,,,Carlson 1994
+47,49A,Exclusively borderline case-marking,Number of Cases,Supyire,,,Carlson 1994
+48,50A,Symmetrical,Asymmetrical Case-Marking,Supyire,,,Carlson 1994
+49,51A,No case affixes or adpositional clitics,Position of Case Affixes,Supyire,,,Carlson 1994
+50,52A,Mixed,Comitatives and Instrumentals,Supyire,,,Carlson 1994
+51,53A,"First, two-th, three-th",Ordinal Numerals,Supyire,,,Carlson 1994
+52,54A,Marked by reduplication,Distributive Numerals,Supyire,,,Carlson 1994
+53,55A,Absent,Numeral Classifiers,Supyire,,,Carlson 1994
+54,56A,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Supyire,,,Carlson 1994
+55,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Supyire,,,Carlson 1994
+56,58A,Absent,Obligatory Possessive Inflection,Supyire,,,Carlson 1994
+57,58B,None reported,Number of Possessive Nouns,Supyire,,,Carlson 1994
+58,59A,No possessive classification,Possessive Classification,Supyire,,,Carlson 1994
+59,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Supyire,,,Carlson 1994
+60,61A,Without marking,Adjectives without Nouns,Supyire,,,Carlson 1994
+61,62A,Mixed,Action Nominal Constructions,Supyire,,,
+62,64A,Differentiation,Nominal and Verbal Conjunction,Supyire,,,Carlson 1994
+63,65A,Grammatical marking,Perfective/Imperfective Aspect,Supyire,,,Carlson 1994
+64,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Supyire,,,Carlson 1994
+65,67A,No inflectional future,The Future Tense,Supyire,,,Carlson 1994
+66,68A,Other perfect,The Perfect,Supyire,,,Carlson 1994
+67,69A,Mixed type,Position of Tense-Aspect Affixes,Supyire,,,Carlson 1994
+68,70A,Second singular,The Morphological Imperative,Supyire,,,Carlson 1994
+69,71A,Normal imperative + special negative,The Prohibitive,Supyire,,,Carlson 1994
+70,72A,Minimal system,Imperative-Hortative Systems,Supyire,,,Carlson 1994
+71,73A,Inflectional optative absent,The Optative,Supyire,,,Carlson 1994
+72,74A,Verbal constructions,Situational Possibility,Supyire,,,Carlson 1994
+73,75A,Verbal constructions,Epistemic Possibility,Supyire,,,Carlson 1994
+74,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Supyire,,,Carlson 1994
+75,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Supyire,,,Carlson 1994
+76,78A,No grammatical evidentials,Coding of Evidentiality,Supyire,,,Carlson 1994
+77,79A,Tense and aspect,Suppletion According to Tense and Aspect,Supyire,,,Carlson 1994
+78,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Supyire,,,
+79,80A,None,Verbal Number and Suppletion,Supyire,,,Carlson 1994
+80,81A,SOV,"Order of Subject, Object and Verb",Supyire,,,Carlson 1994
+81,82A,SV,Order of Subject and Verb,Supyire,,,Carlson 1994
+82,83A,OV,Order of Object and Verb,Supyire,,,Carlson 1994
+83,84A,OVX,"Order of Object, Oblique, and Verb",Supyire,,,Carlson 1994
+84,85A,Postpositions,Order of Adposition and Noun Phrase,Supyire,,,Carlson 1994
+85,86A,Genitive-Noun,Order of Genitive and Noun,Supyire,,,Carlson 1994
+86,87A,Noun-Adjective,Order of Adjective and Noun,Supyire,,,Carlson 1994
+87,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Supyire,,,Carlson 1994
+88,89A,Noun-Numeral,Order of Numeral and Noun,Supyire,,,Carlson 1994
+89,90A,Correlative,Order of Relative Clause and Noun,Supyire,,,Carlson 1994
+90,90D,Internally-headed occurs as nondominant type,Internally-headed relative clauses,Supyire,,,Carlson 1994
+91,90E,Correlative relative clause dominant,Correlative relative clauses,Supyire,,,Carlson 1994
+92,92A,Final,Position of Polar Question Particles,Supyire,,,Carlson 1994
+93,93A,Mixed,Position of Interrogative Phrases in Content Questions,Supyire,,,Carlson 1994
+94,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Supyire,,,Carlson 1994
+95,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Supyire,,,
+96,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Supyire,,,
+97,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Supyire,,,
+98,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Supyire,,,Carlson 1994
+99,99A,Neutral,Alignment of Case Marking of Pronouns,Supyire,,,Carlson 1994
+100,100A,Neutral,Alignment of Verbal Person Marking,Supyire,,,Carlson 1994
+101,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Supyire,,,Carlson 1994
+102,102A,No person marking,Verbal Person Marking,Supyire,,,Carlson 1994
+103,103A,No person marking,Third Person Zero of Verbal Person Marking,Supyire,,,Carlson 1994
+104,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Supyire,,,Carlson 1994
+105,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Supyire,,,Carlson 1994
+106,106A,Identical to reflexive,Reciprocal Constructions,Supyire,,,Carlson 1994
+107,107A,Absent,Passive Constructions,Supyire,,,Carlson 1994
+108,108A,No antipassive,Antipassive Constructions,Supyire,,,Carlson 1994
+109,108B,no antipassive,Productivity of the Antipassive Construction,Supyire,,,Carlson 1994
+110,109A,No applicative construction,Applicative Constructions,Supyire,,,Carlson 1994
+111,109B,No applicative construction,Other Roles of Applied Objects,Supyire,,,
+112,110A,Both,Periphrastic Causative Constructions,Supyire,,,Carlson 1994
+113,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Supyire,,,Carlson 1994
+114,112A,Negative particle,Negative Morphemes,Supyire,,,Carlson 1994
+115,113A,Both,Symmetric and Asymmetric Standard Negation,Supyire,,,Carlson 1994
+116,114A,A/Fin and A/Cat,Subtypes of Asymmetric Standard Negation,Supyire,,,Carlson 1994
+117,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Supyire,,,Carlson 1994
+118,116A,Question particle,Polar Questions,Supyire,,,Carlson 1994
+119,117A,Conjunctional,Predicative Possession,Supyire,,,Carlson 1994
+120,118A,Mixed,Predicative Adjectives,Supyire,,,Carlson 1994
+121,119A,Different,Nominal and Locational Predication,Supyire,,,Carlson 1994
+122,120A,Impossible,Zero Copula for Predicate Nominals,Supyire,,,Carlson 1994
+123,122A,Non-reduction,Relativization on Subjects,Supyire,,,Carlson 1994
+124,123A,Non-reduction,Relativization on Obliques,Supyire,,,Carlson 1994
+125,124A,Subject is left implicit,'Want' Complement Subjects,Supyire,,,Carlson 1994
+126,125A,Balanced/deranked,Purpose Clauses,Supyire,,,Carlson 1994
+127,126A,Balanced/deranked,'When' Clauses,Supyire,,,Carlson 1994
+128,127A,Balanced,Reason Clauses,Supyire,,,Carlson 1994
+129,128A,Balanced,Utterance Complement Clauses,Supyire,,,Carlson 1994
+130,131A,Other base,Numeral Bases,Supyire,,,Carlson 1994
+131,136A,No M-T pronouns,M-T Pronouns,Supyire,,,Carlson 1994
+132,136B,m in first person singular,M in First Person Singular,Supyire,,,Carlson 1994
+133,137A,"N-M pronouns, paradigmatic",N-M Pronouns,Supyire,,,Carlson 1994
+134,137B,m in second person singular,M in Second Person Singular,Supyire,,,Carlson 1994
+135,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Supyire,,,Carlson 1994
+136,143C,(Neg)VNeg,Optional Double Negation,Supyire,,,Carlson 1994
+137,143E,NegV,Preverbal Negative Morphemes,Supyire,,,Carlson 1994
+138,143F,VNeg,Postverbal Negative Morphemes,Supyire,,,Carlson 1994
+139,143G,None,Minor morphological means of signaling negation,Supyire,,,Carlson 1994
+140,144A,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Supyire,,,Carlson 1994
+141,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Supyire,,,Carlson 1994
+142,144L,OptDoubleNeg,The Position of Negative Morphemes in SOV Languages,Supyire,,,Carlson 1994
+143,144O,S(Neg)OVNeg,Optional Double Negation in SOV languages,Supyire,,,Carlson 1994
+144,144P,No NegSOV,NegSOV Order,Supyire,,,Carlson 1994
+145,144Q,OnlyWithAnotherNeg,SNegOV Order,Supyire,,,Carlson 1994
+146,144R,No SONegV,SONegV Order,Supyire,,,Carlson 1994
+147,144S,Word&OptDoubleNeg,SOVNeg Order,Supyire,,,Carlson 1994

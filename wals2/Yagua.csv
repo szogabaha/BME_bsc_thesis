@@ -1,0 +1,128 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Yagua,,,Payne 1985
+1,2A,Average (5-6),Vowel Quality Inventories,Yagua,,,Payne 1985
+2,3A,Low,Consonant-Vowel Ratio,Yagua,,,Payne 1985
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Yagua,,,Payne 1985
+4,5A,Other,Voicing and Gaps in Plosive Systems,Yagua,,,Payne 1985
+5,6A,None,Uvular Consonants,Yagua,,,Payne 1985
+6,7A,No glottalized consonants,Glottalized Consonants,Yagua,,,Payne 1985
+7,8A,No laterals,Lateral Consonants,Yagua,,,Payne 1985
+8,9A,No velar nasal,The Velar Nasal,Yagua,,,Payne and Payne 1990
+9,10A,Contrast present,Vowel Nasalization,Yagua,,,Payne and Payne 1990
+10,11A,None,Front Rounded Vowels,Yagua,,,Payne 1985
+11,12A,Moderately complex,Syllable Structure,Yagua,,,Payne 1985
+12,13A,Simple tone system,Tone,Yagua,,,Payne 1985
+13,18A,No fricatives,Absence of Common Consonants,Yagua,,,Payne 1985
+14,19A,None,Presence of Uncommon Consonants,Yagua,,,Payne 1985
+15,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Yagua,,,Payne and Payne 1990
+16,21A,No case,Exponence of Selected Inflectional Formatives,Yagua,,,Payne and Payne 1990
+17,21B,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,Yagua,,,Payne and Payne 1990
+18,22A,10-11 categories per word,Inflectional Synthesis of the Verb,Yagua,,,Payne and Payne 1990
+19,23A,Other,Locus of Marking in the Clause,Yagua,,,Payne 1990a
+20,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Yagua,,,Payne 1990a
+21,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Yagua,,,Payne 1990a
+22,25B,Non-zero marking,Zero Marking of A and P Arguments,Yagua,,,Payne 1990a
+23,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yagua,,,Payne and Payne 1990
+24,27A,No productive reduplication,Reduplication,Yagua,,,
+25,28A,No case marking,Case Syncretism,Yagua,,,Payne and Payne 1990
+26,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Yagua,,,Payne and Payne 1990
+27,33A,Plural suffix,Coding of Nominal Plurality,Yagua,,,Payne and Payne 1990
+28,35A,Person-number stem,Plurality in Independent Personal Pronouns,Yagua,,,Payne and Payne 1990
+29,36A,Unique affixal associative plural,The Associative Plural,Yagua,,,Payne 1997
+30,37A,No definite or indefinite article,Definite Articles,Yagua,,,Payne and Payne 1990
+31,38A,No definite or indefinite article,Indefinite Articles,Yagua,,,Payne and Payne 1990
+32,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Yagua,,,Payne and Payne 1990
+33,40A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Yagua,,,Payne and Payne 1990
+34,41A,Two-way contrast,Distance Contrasts in Demonstratives,Yagua,,,Payne and Payne 1990
+35,42A,Identical,Pronominal and Adnominal Demonstratives,Yagua,,,
+36,43A,Related for non-human reference,Third Person Pronouns and Demonstratives,Yagua,,,Payne and Payne 1990
+37,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Yagua,,,Payne 1990a
+38,45A,No politeness distinction,Politeness Distinctions in Pronouns,Yagua,,,Payne and Payne 1990
+39,46A,Special,Indefinite Pronouns,Yagua,,,Payne and Payne 1990
+40,48A,Pronouns and nouns,Person Marking on Adpositions,Yagua,,,Payne 1990a
+41,49A,Exclusively borderline case-marking,Number of Cases,Yagua,,,Payne and Payne 1990
+42,50A,Symmetrical,Asymmetrical Case-Marking,Yagua,,,Payne and Payne 1990
+43,51A,Case suffixes,Position of Case Affixes,Yagua,,,Payne and Payne 1990
+44,55A,Obligatory,Numeral Classifiers,Yagua,,,Nichols 1992
+45,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Yagua,,,Payne 1990a
+46,58A,Absent,Obligatory Possessive Inflection,Yagua,,,Payne and Payne 1990
+47,58B,None reported,Number of Possessive Nouns,Yagua,,,Payne 1990a
+48,59A,No possessive classification,Possessive Classification,Yagua,,,Payne and Payne 1990
+49,60A,Genitives and adjectives collapsed,"Genitives, Adjectives and Relative Clauses",Yagua,,,
+50,61A,Marked by suffix,Adjectives without Nouns,Yagua,,,
+51,62A,Sentential,Action Nominal Constructions,Yagua,,,Payne and Payne 1990
+52,64A,Both expressed by juxtaposition,Nominal and Verbal Conjunction,Yagua,,,Payne and Payne 1990
+53,65A,Grammatical marking,Perfective/Imperfective Aspect,Yagua,,,Payne and Payne 1990
+54,66A,"Present, 4 or more remoteness distinctions",The Past Tense,Yagua,,,Payne and Payne 1990
+55,67A,No inflectional future,The Future Tense,Yagua,,,Payne and Payne 1990
+56,68A,No perfect,The Perfect,Yagua,,,Payne and Payne 1990
+57,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yagua,,,Payne 1990a
+58,70A,No second-person imperatives,The Morphological Imperative,Yagua,,,Payne and Payne 1990
+59,71A,Normal imperative + normal negative,The Prohibitive,Yagua,,,Payne and Payne 1990
+60,73A,Inflectional optative absent,The Optative,Yagua,,,Payne and Payne 1990
+61,75A,Affixes on verbs,Epistemic Possibility,Yagua,,,Payne and Payne 1990
+62,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Yagua,,,Payne and Payne 1990
+63,78A,No grammatical evidentials,Coding of Evidentiality,Yagua,,,Payne and Payne 1990
+64,79A,None,Suppletion According to Tense and Aspect,Yagua,,,Payne and Payne 1990
+65,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Yagua,,,
+66,80A,None,Verbal Number and Suppletion,Yagua,,,Payne and Payne 1990
+67,81A,No dominant order,"Order of Subject, Object and Verb",Yagua,,,Payne and Payne 1990
+68,82A,VS,Order of Subject and Verb,Yagua,,,Payne 1990a
+69,83A,VO,Order of Object and Verb,Yagua,,,Payne 1990a
+70,85A,Postpositions,Order of Adposition and Noun Phrase,Yagua,,,Payne and Payne 1990
+71,86A,Genitive-Noun,Order of Genitive and Noun,Yagua,,,Payne and Payne 1990
+72,87A,Noun-Adjective,Order of Adjective and Noun,Yagua,,,Payne and Payne 1990
+73,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yagua,,,Payne and Payne 1990
+74,89A,Numeral-Noun,Order of Numeral and Noun,Yagua,,,Payne and Payne 1990
+75,90A,Noun-Relative clause,Order of Relative Clause and Noun,Yagua,,,Payne and Payne 1990
+76,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Yagua,,,Payne and Payne 1990
+77,91A,Degree word-Adjective,Order of Degree Word and Adjective,Yagua,,,Payne 1990a
+78,92A,Second position,Position of Polar Question Particles,Yagua,,,Payne 1990a
+79,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yagua,,,Payne 1990a
+80,94A,Mixed,Order of Adverbial Subordinator and Clause,Yagua,,,Payne 1990a
+81,95A,VO and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yagua,,,
+82,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yagua,,,
+83,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yagua,,,
+84,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Yagua,,,Payne and Payne 1990
+85,99A,Neutral,Alignment of Case Marking of Pronouns,Yagua,,,Payne and Payne 1990
+86,100A,Active,Alignment of Verbal Person Marking,Yagua,,,Payne 1990a
+87,101A,Subject clitics on variable host,Expression of Pronominal Subjects,Yagua,,,Payne 1990a
+88,102A,Both the A and P arguments,Verbal Person Marking,Yagua,,,Payne 1990a
+89,103A,No zero realization,Third Person Zero of Verbal Person Marking,Yagua,,,Payne 1990a
+90,104A,A precedes P,Order of Person Markers on the Verb,Yagua,,,Payne 1990a
+91,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Yagua,,,Payne and Payne 1990
+92,106A,Identical to reflexive,Reciprocal Constructions,Yagua,,,Payne 1992
+93,107A,Absent,Passive Constructions,Yagua,,,Payne 1990a
+94,108A,No antipassive,Antipassive Constructions,Yagua,,,Payne 1985
+95,108B,no antipassive,Productivity of the Antipassive Construction,Yagua,,,Payne 1985
+96,109A,Non-benefactive object; both bases,Applicative Constructions,Yagua,,,
+97,109B,Instrument and locative,Other Roles of Applied Objects,Yagua,,,
+98,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Yagua,,,Payne and Payne 1990
+99,112A,Negative particle,Negative Morphemes,Yagua,,,Payne 1990a
+100,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Yagua,,,Payne and Payne 1990
+101,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Yagua,,,Payne and Payne 1990
+102,116A,Question particle,Polar Questions,Yagua,,,Payne 1990a
+103,118A,Nonverbal encoding,Predicative Adjectives,Yagua,,,Payne 1985
+104,119A,Identical,Nominal and Locational Predication,Yagua,,,Payne 1985
+105,120A,Possible,Zero Copula for Predicate Nominals,Yagua,,,Payne 1985
+106,121A,Conjoined,Comparative Constructions,Yagua,,,Payne and Payne 1990
+107,124A,Subject is left implicit,'Want' Complement Subjects,Yagua,,,Payne and Payne 1990
+108,125A,Deranked,Purpose Clauses,Yagua,,,Payne and Payne 1990
+109,126A,Deranked,'When' Clauses,Yagua,,,Payne and Payne 1990
+110,127A,Deranked,Reason Clauses,Yagua,,,Payne and Payne 1990
+111,128A,Balanced,Utterance Complement Clauses,Yagua,,,Payne and Payne 1990
+112,131A,Decimal,Numeral Bases,Yagua,,,Powlison 1995
+113,136A,No M-T pronouns,M-T Pronouns,Yagua,,,Payne and Payne 1990
+114,136B,No m in first person singular,M in First Person Singular,Yagua,,,Payne and Payne 1990
+115,137A,No N-M pronouns,N-M Pronouns,Yagua,,,Payne and Payne 1990
+116,137B,No m in second person singular,M in Second Person Singular,Yagua,,,Payne and Payne 1990
+117,143A,NegV,Order of Negative Morpheme and Verb,Yagua,,,Payne 1990a
+118,143E,NegV,Preverbal Negative Morphemes,Yagua,,,Payne 1990a
+119,143F,None,Postverbal Negative Morphemes,Yagua,,,Payne 1990a
+120,143G,None,Minor morphological means of signaling negation,Yagua,,,Payne 1990a
+121,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Yagua,,,Payne 1990a
+122,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yagua,,,Payne 1990a
+123,144T,NegV & VS & VO,The Position of Negative Morphemes in Verb-Initial Languages,Yagua,,,Payne 1990a
+124,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Yagua,,,Payne 1990a
+125,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Yagua,,,Payne 1990a
+126,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Yagua,,,Payne 1990a

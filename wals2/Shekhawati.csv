@@ -1,0 +1,21 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,SOV,"Order of Subject, Object and Verb",Shekhawati,,,Gusain 2001
+1,82A,SV,Order of Subject and Verb,Shekhawati,,,Gusain 2001
+2,83A,OV,Order of Object and Verb,Shekhawati,,,Gusain 2001
+3,85A,Postpositions,Order of Adposition and Noun Phrase,Shekhawati,,,Gusain 2001
+4,90A,Mixed,Order of Relative Clause and Noun,Shekhawati,,,Gusain 2001
+5,90B,RelN or correlative,Prenominal relative clauses,Shekhawati,,,Gusain 2001
+6,90E,Correlative or RelN,Correlative relative clauses,Shekhawati,,,Gusain 2001
+7,92A,No question particle,Position of Polar Question Particles,Shekhawati,,,Gusain 2001
+8,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Shekhawati,,,Gusain 2001
+9,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Shekhawati,,,
+10,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Shekhawati,,,
+11,112A,Negative particle,Negative Morphemes,Shekhawati,,,Gusain 2001
+12,116A,Interrogative intonation only,Polar Questions,Shekhawati,,,Gusain 2001
+13,143A,NegV,Order of Negative Morpheme and Verb,Shekhawati,,,Gusain 2001
+14,143E,NegV,Preverbal Negative Morphemes,Shekhawati,,,Gusain 2001
+15,143F,None,Postverbal Negative Morphemes,Shekhawati,,,Gusain 2001
+16,143G,None,Minor morphological means of signaling negation,Shekhawati,,,Gusain 2001
+17,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Shekhawati,,,Gusain 2001
+18,144L,Other NegV,The Position of Negative Morphemes in SOV Languages,Shekhawati,,,Gusain 2001
+19,144S,NoSOVNeg,SOVNeg Order,Shekhawati,,,Gusain 2001

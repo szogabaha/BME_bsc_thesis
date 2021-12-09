@@ -1,0 +1,18 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Tiruray,,,Post 1966
+1,2A,Average (5-6),Vowel Quality Inventories,Tiruray,,,Post 1966
+2,3A,Moderately low,Consonant-Vowel Ratio,Tiruray,,,Post 1966
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tiruray,,,Post 1966
+4,5A,Missing /p/,Voicing and Gaps in Plosive Systems,Tiruray,,,Post 1966
+5,6A,None,Uvular Consonants,Tiruray,,,Post 1966
+6,7A,No glottalized consonants,Glottalized Consonants,Tiruray,,,Post 1966
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tiruray,,,Post 1966
+8,11A,None,Front Rounded Vowels,Tiruray,,,Post 1966
+9,12A,Moderately complex,Syllable Structure,Tiruray,,,Post 1966
+10,13A,No tones,Tone,Tiruray,,,Post 1966
+11,14A,Antepenultimate,Fixed Stress Locations,Tiruray,,,Schlegel 1971
+12,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tiruray,,,Schlegel 1971
+13,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tiruray,,,Schlegel 1971
+14,17A,Trochaic,Rhythm Types,Tiruray,,,Schlegel 1971
+15,18A,All present,Absence of Common Consonants,Tiruray,,,Post 1966
+16,19A,None,Presence of Uncommon Consonants,Tiruray,,,Post 1966

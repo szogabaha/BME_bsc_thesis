@@ -1,0 +1,28 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Urarina,,,Olawsky 2006
+1,33A,Plural suffix,Coding of Nominal Plurality,Urarina,,,Olawsky 2006
+2,37A,Demonstrative word used as definite article,Definite Articles,Urarina,,,Olawsky 2006
+3,51A,No case affixes or adpositional clitics,Position of Case Affixes,Urarina,,,Olawsky 2006
+4,81A,OVS,"Order of Subject, Object and Verb",Urarina,,,Olawsky 2006
+5,82A,VS,Order of Subject and Verb,Urarina,,,Olawsky 2006
+6,83A,OV,Order of Object and Verb,Urarina,,,Olawsky 2006
+7,85A,Postpositions,Order of Adposition and Noun Phrase,Urarina,,,Olawsky 2006
+8,86A,Genitive-Noun,Order of Genitive and Noun,Urarina,,,Olawsky 2006
+9,87A,Noun-Adjective,Order of Adjective and Noun,Urarina,,,Olawsky 2006
+10,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Urarina,,,Olawsky 2006
+11,89A,Numeral-Noun,Order of Numeral and Noun,Urarina,,,Olawsky 2006
+12,90A,Relative clause-Noun,Order of Relative Clause and Noun,Urarina,,,Olawsky 2006
+13,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Urarina,,,Olawsky 2006
+14,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Urarina,,,Olawsky 2006
+15,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Urarina,,,Olawsky 2006
+16,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Urarina,,,
+17,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Urarina,,,
+18,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Urarina,,,
+19,101A,Subject affixes on verb,Expression of Pronominal Subjects,Urarina,,,Olawsky 2006
+20,112A,Negative affix,Negative Morphemes,Urarina,,,Olawsky 2006
+21,143A,[V-Neg],Order of Negative Morpheme and Verb,Urarina,,,Olawsky 2006
+22,143E,None,Preverbal Negative Morphemes,Urarina,,,Olawsky 2006
+23,143F,[V-Neg],Postverbal Negative Morphemes,Urarina,,,Olawsky 2006
+24,143G,None,Minor morphological means of signaling negation,Urarina,,,Olawsky 2006
+25,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Urarina,,,Olawsky 2006
+26,144Y,O[V-Neg]S,The Position of Negative Morphemes in Object-Initial Languages,Urarina,,,Olawsky 2006

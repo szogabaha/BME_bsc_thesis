@@ -1,0 +1,135 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Wari',,,Everett and Kern 1997
+1,2A,Average (5-6),Vowel Quality Inventories,Wari',,,Everett and Kern 1997
+2,3A,Moderately low,Consonant-Vowel Ratio,Wari',,,Everett and Kern 1997
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Wari',,,Everett and Kern 1997
+4,5A,Other,Voicing and Gaps in Plosive Systems,Wari',,,Everett and Kern 1997
+5,6A,None,Uvular Consonants,Wari',,,Everett and Kern 1997
+6,7A,Glottalized resonants only,Glottalized Consonants,Wari',,,Everett and Kern 1997
+7,8A,No laterals,Lateral Consonants,Wari',,,Everett and Kern 1997
+8,9A,No velar nasal,The Velar Nasal,Wari',,,Everett and Kern 1997
+9,10A,Contrast present,Vowel Nasalization,Wari',,,Everett and Kern 1997
+10,11A,High and mid,Front Rounded Vowels,Wari',,,Everett and Kern 1997
+11,12A,Moderately complex,Syllable Structure,Wari',,,Everett and Kern 1997
+12,13A,No tones,Tone,Wari',,,Everett and Kern 1997
+13,14A,Ultimate,Fixed Stress Locations,Wari',,,Everett and Kern 1997
+14,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Wari',,,Everett and Kern 1997
+15,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Wari',,,Everett and Kern 1997
+16,17A,No rhythmic stress,Rhythm Types,Wari',,,Everett and Kern 1997
+17,18A,No fricatives,Absence of Common Consonants,Wari',,,Everett and Kern 1997
+18,19A,None,Presence of Uncommon Consonants,Wari',,,Everett and Kern 1997
+19,20A,Exclusively isolating,Fusion of Selected Inflectional Formatives,Wari',,,Everett and Kern 1997
+20,21A,No case,Exponence of Selected Inflectional Formatives,Wari',,,Everett and Kern 1997
+21,21B,TAM+agreement,Exponence of Tense-Aspect-Mood Inflection,Wari',,,Everett and Kern 1997
+22,22A,4-5 categories per word,Inflectional Synthesis of the Verb,Wari',,,Everett and Kern 1997
+23,23A,Head marking,Locus of Marking in the Clause,Wari',,,Everett and Kern 1997
+24,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Wari',,,Everett and Kern 1997
+25,25A,Head-marking,Locus of Marking: Whole-language Typology,Wari',,,Everett and Kern 1997
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Wari',,,Everett and Kern 1997
+27,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Wari',,,Everett and Kern 1997
+28,27A,Productive full and partial reduplication,Reduplication,Wari',,,Everett and Kern 1997
+29,28A,No case marking,Case Syncretism,Wari',,,Everett and Kern 1997
+30,29A,No subject person/number marking,Syncretism in Verbal Person/Number Marking,Wari',,,Everett and Kern 1997
+31,30A,Three,Number of Genders,Wari',,,Everett and Kern 1997
+32,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Wari',,,Everett and Kern 1997
+33,32A,Semantic,Systems of Gender Assignment,Wari',,,Everett and Kern 1997
+34,33A,Plural word,Coding of Nominal Plurality,Wari',,,Everett and Kern 1997
+35,35A,No independent subject pronouns,Plurality in Independent Personal Pronouns,Wari',,,Everett and Kern 1997
+36,37A,No definite or indefinite article,Definite Articles,Wari',,,Everett and Kern 1997
+37,38A,No definite or indefinite article,Indefinite Articles,Wari',,,Everett and Kern 1997
+38,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Wari',,,Everett and Kern 1997
+39,40A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Wari',,,Everett and Kern 1997
+40,41A,Three-way contrast,Distance Contrasts in Demonstratives,Wari',,,Everett and Kern 1997
+41,42A,Different stem,Pronominal and Adnominal Demonstratives,Wari',,,Everett and Kern 1997
+42,43A,Unrelated,Third Person Pronouns and Demonstratives,Wari',,,Everett and Kern 1997
+43,44A,"3rd person only, but also non-singular",Gender Distinctions in Independent Personal Pronouns,Wari',,,Everett and Kern 1997
+44,45A,No politeness distinction,Politeness Distinctions in Pronouns,Wari',,,Everett and Kern 1997
+45,47A,Differentiated,Intensifiers and Reflexive Pronouns,Wari',,,
+46,48A,Pronouns and nouns,Person Marking on Adpositions,Wari',,,Everett and Kern 1997
+47,49A,No morphological case-marking,Number of Cases,Wari',,,Everett and Kern 1997
+48,50A,No case-marking,Asymmetrical Case-Marking,Wari',,,Everett and Kern 1997
+49,51A,No case affixes or adpositional clitics,Position of Case Affixes,Wari',,,Everett and Kern 1997
+50,53A,None,Ordinal Numerals,Wari',,,Everett and Kern 1997
+51,54A,No distributive numerals,Distributive Numerals,Wari',,,Everett and Kern 1997
+52,55A,Absent,Numeral Classifiers,Wari',,,Everett and Kern 1997
+53,56A,Formally different,Conjunctions and Universal Quantifiers,Wari',,,Everett and Kern 1997
+54,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Wari',,,Everett and Kern 1997
+55,58A,Absent,Obligatory Possessive Inflection,Wari',,,Everett and Kern 1997
+56,58B,None reported,Number of Possessive Nouns,Wari',,,Everett and Kern 1997
+57,59A,Three to five classes,Possessive Classification,Wari',,,Everett and Kern 1997
+58,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Wari',,,Everett and Kern 1997
+59,61A,Without marking,Adjectives without Nouns,Wari',,,Everett and Kern 1997
+60,62A,No action nominals,Action Nominal Constructions,Wari',,,Everett and Kern 1997
+61,64A,Identity,Nominal and Verbal Conjunction,Wari',,,Everett and Kern 1997
+62,65A,No grammatical marking,Perfective/Imperfective Aspect,Wari',,,Everett and Kern 1997
+63,66A,No past tense,The Past Tense,Wari',,,Everett and Kern 1997
+64,67A,No inflectional future,The Future Tense,Wari',,,Everett and Kern 1997
+65,68A,No perfect,The Perfect,Wari',,,Everett and Kern 1997
+66,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Wari',,,Everett and Kern 1997
+67,70A,No second-person imperatives,The Morphological Imperative,Wari',,,Everett and Kern 1997
+68,71A,Normal imperative + special negative,The Prohibitive,Wari',,,Everett and Kern 1997
+69,73A,Inflectional optative absent,The Optative,Wari',,,Everett and Kern 1997
+70,75A,Affixes on verbs,Epistemic Possibility,Wari',,,Everett and Kern 1997
+71,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Wari',,,Everett and Kern 1997
+72,78A,No grammatical evidentials,Coding of Evidentiality,Wari',,,Everett and Kern 1997
+73,79A,None,Suppletion According to Tense and Aspect,Wari',,,Everett and Kern 1997
+74,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Wari',,,
+75,80A,"Singular-plural pairs, suppletion",Verbal Number and Suppletion,Wari',,,Everett and Kern 1997
+76,81A,VOS,"Order of Subject, Object and Verb",Wari',,,Everett and Kern 1997
+77,82A,VS,Order of Subject and Verb,Wari',,,Everett and Kern 1997
+78,83A,VO,Order of Object and Verb,Wari',,,Everett and Kern 1997
+79,84A,VOX,"Order of Object, Oblique, and Verb",Wari',,,Everett and Kern 1997
+80,85A,Prepositions,Order of Adposition and Noun Phrase,Wari',,,Everett and Kern 1997
+81,86A,Noun-Genitive,Order of Genitive and Noun,Wari',,,Everett and Kern 1997
+82,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Wari',,,Everett and Kern 1997
+83,89A,Numeral only modifies verb,Order of Numeral and Noun,Wari',,,Everett and Kern 1997
+84,90A,Noun-Relative clause,Order of Relative Clause and Noun,Wari',,,Everett and Kern 1997
+85,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Wari',,,Everett and Kern 1997
+86,91A,No dominant order,Order of Degree Word and Adjective,Wari',,,Everett and Kern 1997
+87,92A,No question particle,Position of Polar Question Particles,Wari',,,Everett and Kern 1997
+88,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wari',,,Everett and Kern 1997
+89,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Wari',,,Everett and Kern 1997
+90,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wari',,,
+91,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wari',,,
+92,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Wari',,,Everett and Kern 1997
+93,99A,None,Alignment of Case Marking of Pronouns,Wari',,,Everett and Kern 1997
+94,100A,Accusative,Alignment of Verbal Person Marking,Wari',,,Everett and Kern 1997
+95,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Wari',,,Everett and Kern 1997
+96,102A,Both the A and P arguments,Verbal Person Marking,Wari',,,Everett and Kern 1997
+97,103A,No zero realization,Third Person Zero of Verbal Person Marking,Wari',,,Everett and Kern 1997
+98,104A,A precedes P,Order of Person Markers on the Verb,Wari',,,Everett and Kern 1997
+99,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Wari',,,Everett and Kern 1997
+100,106A,Identical to reflexive,Reciprocal Constructions,Wari',,,Everett and Kern 1997
+101,107A,Present,Passive Constructions,Wari',,,Everett and Kern 1997
+102,108A,No antipassive,Antipassive Constructions,Wari',,,Everett and Kern 1997
+103,108B,no antipassive,Productivity of the Antipassive Construction,Wari',,,Everett and Kern 1997
+104,109A,No applicative construction,Applicative Constructions,Wari',,,Everett and Kern 1997
+105,109B,No applicative construction,Other Roles of Applied Objects,Wari',,,
+106,110A,Purposive but no sequential,Periphrastic Causative Constructions,Wari',,,Everett and Kern 1997
+107,111A,Compound but no morphological,Nonperiphrastic Causative Constructions,Wari',,,Everett and Kern 1997
+108,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Wari',,,Everett and Kern 1997
+109,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Wari',,,Everett and Kern 1997
+110,114A,A/Fin,Subtypes of Asymmetric Standard Negation,Wari',,,Everett and Kern 1997
+111,116A,Interrogative intonation only,Polar Questions,Wari',,,Everett and Kern 1997
+112,121A,Conjoined,Comparative Constructions,Wari',,,Everett and Kern 1997
+113,122A,Gap,Relativization on Subjects,Wari',,,Everett and Kern 1997
+114,123A,Gap,Relativization on Obliques,Wari',,,Everett and Kern 1997
+115,125A,Balanced,Purpose Clauses,Wari',,,Everett and Kern 1997
+116,126A,Balanced/deranked,'When' Clauses,Wari',,,Everett and Kern 1997
+117,127A,Balanced/deranked,Reason Clauses,Wari',,,Everett and Kern 1997
+118,128A,Balanced,Utterance Complement Clauses,Wari',,,Everett and Kern 1997
+119,131A,Restricted,Numeral Bases,Wari',,,Everett and Kern 1997
+120,136A,No M-T pronouns,M-T Pronouns,Wari',,,Everett and Kern 1997
+121,136B,No m in first person singular,M in First Person Singular,Wari',,,Everett and Kern 1997
+122,137A,"N-M pronouns, paradigmatic",N-M Pronouns,Wari',,,Everett and Kern 1997
+123,137B,m in second person singular,M in Second Person Singular,Wari',,,Everett and Kern 1997
+124,143A,NegV,Order of Negative Morpheme and Verb,Wari',,,Everett and Kern 1997
+125,143E,NegV,Preverbal Negative Morphemes,Wari',,,Everett and Kern 1997
+126,143F,None,Postverbal Negative Morphemes,Wari',,,Everett and Kern 1997
+127,143G,None,Minor morphological means of signaling negation,Wari',,,Everett and Kern 1997
+128,144A,NegVOS,"Position of Negative Word With Respect to Subject, Object, and Verb",Wari',,,Everett and Kern 1997
+129,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wari',,,Everett and Kern 1997
+130,144T,NegVOS,The Position of Negative Morphemes in Verb-Initial Languages,Wari',,,Everett and Kern 1997
+131,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Wari',,,Everett and Kern 1997
+132,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Wari',,,Everett and Kern 1997
+133,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Wari',,,Everett and Kern 1997

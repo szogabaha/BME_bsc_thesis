@@ -1,0 +1,33 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Sikkimese,,,Sandberg 1888
+1,33A,Plural word,Coding of Nominal Plurality,Sikkimese,,,Sandberg 1888
+2,37A,Definite word distinct from demonstrative,Definite Articles,Sikkimese,,,Sandberg 1888
+3,38A,Indefinite word same as 'one',Indefinite Articles,Sikkimese,,,Sandberg 1888
+4,51A,Postpositional clitics,Position of Case Affixes,Sikkimese,,,Sandberg 1888
+5,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Sikkimese,,,Sandberg 1888
+6,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Sikkimese,,,Sandberg 1888
+7,82A,SV,Order of Subject and Verb,Sikkimese,,,Sandberg 1888
+8,83A,OV,Order of Object and Verb,Sikkimese,,,Sandberg 1888
+9,85A,Postpositions,Order of Adposition and Noun Phrase,Sikkimese,,,Sandberg 1888
+10,86A,Genitive-Noun,Order of Genitive and Noun,Sikkimese,,,Sandberg 1888
+11,87A,Noun-Adjective,Order of Adjective and Noun,Sikkimese,,,Sandberg 1888
+12,88A,Mixed,Order of Demonstrative and Noun,Sikkimese,,,Sandberg 1888
+13,89A,Noun-Numeral,Order of Numeral and Noun,Sikkimese,,,Sandberg 1888
+14,90A,Relative clause-Noun,Order of Relative Clause and Noun,Sikkimese,,,Sandberg 1888
+15,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Sikkimese,,,Sandberg 1888
+16,91A,Degree word-Adjective,Order of Degree Word and Adjective,Sikkimese,,,Sandberg 1888
+17,92A,Final,Position of Polar Question Particles,Sikkimese,,,Sandberg 1888
+18,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sikkimese,,,Sandberg 1888
+19,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Sikkimese,,,Sandberg 1888
+20,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sikkimese,,,
+21,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sikkimese,,,
+22,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sikkimese,,,
+23,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Sikkimese,,,Sandberg 1888
+24,116A,Question particle,Polar Questions,Sikkimese,,,Sandberg 1888
+25,143A,VNeg,Order of Negative Morpheme and Verb,Sikkimese,,,Sandberg 1888
+26,143E,None,Preverbal Negative Morphemes,Sikkimese,,,Sandberg 1888
+27,143F,VNeg,Postverbal Negative Morphemes,Sikkimese,,,Sandberg 1888
+28,143G,None,Minor morphological means of signaling negation,Sikkimese,,,Sandberg 1888
+29,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Sikkimese,,,Sandberg 1888
+30,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sikkimese,,,Sandberg 1888
+31,144L,SV&OV&VNeg,The Position of Negative Morphemes in SOV Languages,Sikkimese,,,Sandberg 1888

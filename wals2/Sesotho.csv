@@ -1,0 +1,41 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,27A,Productive full and partial reduplication,Reduplication,Sesotho,,,Demuth and Machobane 2001
+1,36A,Associative same as additive plural,The Associative Plural,Sesotho,,,
+2,53A,"First, two-th, three-th",Ordinal Numerals,Sesotho,,,Jacottet 1927
+3,55A,Absent,Numeral Classifiers,Sesotho,,,Guma 1971
+4,56A,"Formally similar, with interrogative",Conjunctions and Universal Quantifiers,Sesotho,,,Guma 1971
+5,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Sesotho,,,Guma 1971
+6,61A,Without marking,Adjectives without Nouns,Sesotho,,,Guma 1971
+7,65A,Grammatical marking,Perfective/Imperfective Aspect,Sesotho,,,Dahl 1985
+8,66A,"Present, 2-3 remoteness distinctions",The Past Tense,Sesotho,,,Dahl 1985
+9,67A,No inflectional future,The Future Tense,Sesotho,,,Dahl 1985
+10,68A,Other perfect,The Perfect,Sesotho,,,Dahl 1985
+11,79A,None,Suppletion According to Tense and Aspect,Sesotho,,,Jacottet 1927
+12,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Sesotho,,,
+13,80A,None,Verbal Number and Suppletion,Sesotho,,,Jacottet 1927
+14,81A,SVO,"Order of Subject, Object and Verb",Sesotho,,,Paroz 1946
+15,82A,SV,Order of Subject and Verb,Sesotho,,,Paroz 1946
+16,83A,VO,Order of Object and Verb,Sesotho,,,Paroz 1946
+17,84A,VOX,"Order of Object, Oblique, and Verb",Sesotho,,,Paroz 1946
+18,85A,Prepositions,Order of Adposition and Noun Phrase,Sesotho,,,Paroz 1946
+19,86A,Noun-Genitive,Order of Genitive and Noun,Sesotho,,,Paroz 1946
+20,87A,Noun-Adjective,Order of Adjective and Noun,Sesotho,,,Paroz 1946
+21,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sesotho,,,Paroz 1946
+22,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sesotho,,,Paroz 1946
+23,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sesotho,,,Paroz 1946
+24,92A,No question particle,Position of Polar Question Particles,Sesotho,,,Paroz 1946
+25,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sesotho,,,
+26,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sesotho,,,
+27,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sesotho,,,
+28,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Sesotho,,,Paroz 1946
+29,112A,Negative particle,Negative Morphemes,Sesotho,,,Paroz 1946
+30,116A,Interrogative intonation only,Polar Questions,Sesotho,,,Paroz 1946
+31,138A,Words derived from Min Nan Chinese te,Tea,Sesotho,,,Malherbe and Rosenberg 1996
+32,143A,NegV,Order of Negative Morpheme and Verb,Sesotho,,,Paroz 1946
+33,143E,NegV,Preverbal Negative Morphemes,Sesotho,,,Paroz 1946
+34,143F,None,Postverbal Negative Morphemes,Sesotho,,,Paroz 1946
+35,143G,None,Minor morphological means of signaling negation,Sesotho,,,Paroz 1946
+36,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Sesotho,,,Paroz 1946
+37,144D,Other NegV,The Position of Negative Morphemes in SVO Languages,Sesotho,,,Paroz 1946
+38,144J,No SVNegO,SVNegO Order,Sesotho,,,Paroz 1946
+39,144K,No SVONeg,SVONeg Order,Sesotho,,,Paroz 1946

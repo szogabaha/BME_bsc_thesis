@@ -1,0 +1,45 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Sirionó,,,Firestone 1965
+1,2A,Large (7-14),Vowel Quality Inventories,Sirionó,,,Firestone 1965
+2,3A,Moderately low,Consonant-Vowel Ratio,Sirionó,,,Firestone 1965
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Sirionó,,,Firestone 1965
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Sirionó,,,Firestone 1965
+5,6A,None,Uvular Consonants,Sirionó,,,Firestone 1965
+6,7A,No glottalized consonants,Glottalized Consonants,Sirionó,,,Firestone 1965
+7,8A,No laterals,Lateral Consonants,Sirionó,,,Firestone 1965
+8,11A,None,Front Rounded Vowels,Sirionó,,,Firestone 1965
+9,12A,Simple,Syllable Structure,Sirionó,,,Firestone 1965
+10,13A,No tones,Tone,Sirionó,,,Firestone 1965
+11,18A,All present,Absence of Common Consonants,Sirionó,,,Firestone 1965
+12,19A,None,Presence of Uncommon Consonants,Sirionó,,,Firestone 1965
+13,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Sirionó,,,Priest and Priest 1967
+14,27A,Productive full and partial reduplication,Reduplication,Sirionó,,,Key 1965
+15,30A,None,Number of Genders,Sirionó,,,Firestone 1965
+16,31A,No gender,Sex-based and Non-sex-based Gender Systems,Sirionó,,,Firestone 1965
+17,32A,No gender,Systems of Gender Assignment,Sirionó,,,Firestone 1965
+18,37A,No definite or indefinite article,Definite Articles,Sirionó,,,Schermair 1949
+19,38A,No definite or indefinite article,Indefinite Articles,Sirionó,,,Schermair 1949
+20,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Sirionó,,,Firestone 1965
+21,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Sirionó,,,Firestone 1965
+22,77A,Indirect only,Semantic Distinctions of Evidentiality,Sirionó,,,Priest et al. 1961
+23,78A,Verbal affix or clitic,Coding of Evidentiality,Sirionó,,,Priest et al. 1961
+24,81A,SOV,"Order of Subject, Object and Verb",Sirionó,,,Schermair 1949
+25,82A,SV,Order of Subject and Verb,Sirionó,,,Schermair 1949
+26,83A,OV,Order of Object and Verb,Sirionó,,,Firestone 1965
+27,84A,OVX,"Order of Object, Oblique, and Verb",Sirionó,,,Priest and Priest 1980
+28,85A,Postpositions,Order of Adposition and Noun Phrase,Sirionó,,,Firestone 1965
+29,86A,Genitive-Noun,Order of Genitive and Noun,Sirionó,,,Firestone 1965
+30,87A,Noun-Adjective,Order of Adjective and Noun,Sirionó,,,Firestone 1965
+31,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Sirionó,,,Schermair 1949
+32,91A,Adjective-Degree word,Order of Degree Word and Adjective,Sirionó,,,Firestone 1965
+33,92A,Final,Position of Polar Question Particles,Sirionó,,,Schermair 1949
+34,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sirionó,,,Firestone 1965
+35,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Sirionó,,,Priest and Priest 1967
+36,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sirionó,,,
+37,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sirionó,,,
+38,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Sirionó,,,Firestone 1965
+39,116A,Question particle,Polar Questions,Sirionó,,,Schermair 1949
+40,132A,5,Number of Non-Derived Basic Colour Categories,Sirionó,,,
+41,133A,4.5-5.5,Number of Basic Colour Categories,Sirionó,,,
+42,134A,Green/blue,Green and Blue,Sirionó,,,
+43,135A,Red vs. yellow,Red and Yellow,Sirionó,,,

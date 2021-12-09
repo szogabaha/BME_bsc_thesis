@@ -1,0 +1,160 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-eng,Average,Consonant Inventories,English,,,Gimson 1970
+2A-eng,Large (7-14),Vowel Quality Inventories,English,,,Gimson 1970
+3A-eng,Low,Consonant-Vowel Ratio,English,,,Gimson 1970
+4A-eng,In both plosives and fricatives,Voicing in Plosives and Fricatives,English,,,Gimson 1970
+5A-eng,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,English,,,Gimson 1970
+6A-eng,None,Uvular Consonants,English,,,Gimson 1970
+7A-eng,No glottalized consonants,Glottalized Consonants,English,,,Gimson 1970
+8A-eng,"/l/, no obstruent laterals",Lateral Consonants,English,,,Gimson 1970
+9A-eng,No initial velar nasal,The Velar Nasal,English,,,
+10A-eng,Contrast absent,Vowel Nasalization,English,,,Moulton 1962
+11A-eng,None,Front Rounded Vowels,English,,,Gimson 1970
+12A-eng,Complex,Syllable Structure,English,,,Gimson 1970
+13A-eng,No tones,Tone,English,,,Gimson 1970
+14A-eng,No fixed stress,Fixed Stress Locations,English,,,Trommelen and Zonneveld 1999b
+15A-eng,Right-oriented: One of the last three,Weight-Sensitive Stress,English,,,Trommelen and Zonneveld 1999b
+16A-eng,Long vowel or coda consonant,Weight Factors in Weight-Sensitive Stress Systems,English,,,Trommelen and Zonneveld 1999b
+17A-eng,Trochaic,Rhythm Types,English,,,Trommelen and Zonneveld 1999b
+18A-eng,All present,Absence of Common Consonants,English,,,Gimson 1970
+19A-eng,'Th' sounds,Presence of Uncommon Consonants,English,,,Gimson 1970
+20A-eng,Exclusively concatenative,Fusion of Selected Inflectional Formatives,English,,,
+21A-eng,No case,Exponence of Selected Inflectional Formatives,English,,,
+21B-eng,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,English,,,
+22A-eng,2-3 categories per word,Inflectional Synthesis of the Verb,English,,,
+23A-eng,Dependent marking,Locus of Marking in the Clause,English,,,
+24A-eng,Dependent marking,Locus of Marking in Possessive Noun Phrases,English,,,
+25A-eng,Dependent-marking,Locus of Marking: Whole-language Typology,English,,,
+25B-eng,Non-zero marking,Zero Marking of A and P Arguments,English,,,
+26A-eng,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,English,,,
+27A-eng,No productive reduplication,Reduplication,English,,,Erickson 2001
+28A-eng,Core cases only,Case Syncretism,English,,,
+29A-eng,Syncretic,Syncretism in Verbal Person/Number Marking,English,,,
+30A-eng,Three,Number of Genders,English,,,
+31A-eng,Sex-based,Sex-based and Non-sex-based Gender Systems,English,,,
+32A-eng,Semantic,Systems of Gender Assignment,English,,,
+33A-eng,Plural suffix,Coding of Nominal Plurality,English,,,
+34A-eng,"All nouns, always obligatory",Occurrence of Nominal Plurality,English,,,
+35A-eng,Person-number stem,Plurality in Independent Personal Pronouns,English,,,
+36A-eng,No associative plural,The Associative Plural,English,,,
+37A-eng,Definite word distinct from demonstrative,Definite Articles,English,,,
+38A-eng,Indefinite word distinct from 'one',Indefinite Articles,English,,,
+39A-eng,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,English,,,
+40A-eng,'We' the same as 'I',Inclusive/Exclusive Distinction in Verbal Inflection,English,,,
+41A-eng,Two-way contrast,Distance Contrasts in Demonstratives,English,,,
+42A-eng,Identical,Pronominal and Adnominal Demonstratives,English,,,
+43A-eng,Related for all demonstratives,Third Person Pronouns and Demonstratives,English,,,Quirk et al. 1985
+44A-eng,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,English,,,Quirk et al. 1972
+45A-eng,No politeness distinction,Politeness Distinctions in Pronouns,English,,,
+46A-eng,Generic-noun-based,Indefinite Pronouns,English,,,
+47A-eng,Identical,Intensifiers and Reflexive Pronouns,English,,,
+48A-eng,No person marking,Person Marking on Adpositions,English,,,Quirk et al. 1972
+49A-eng,2 cases,Number of Cases,English,,,Quirk et al. 1985
+50A-eng,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,English,,,Quirk et al. 1985
+51A-eng,No case affixes or adpositional clitics,Position of Case Affixes,English,,,
+52A-eng,Identity,Comitatives and Instrumentals,English,,,
+53A-eng,"First, second, three-th",Ordinal Numerals,English,,,
+54A-eng,No distributive numerals,Distributive Numerals,English,,,
+55A-eng,Absent,Numeral Classifiers,English,,,
+56A-eng,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,English,,,
+57A-eng,No possessive affixes,Position of Pronominal Possessive Affixes,English,,,
+58A-eng,Absent,Obligatory Possessive Inflection,English,,,
+58B-eng,None reported,Number of Possessive Nouns,English,,,
+59A-eng,No possessive classification,Possessive Classification,English,,,
+60A-eng,Highly differentiated,"Genitives, Adjectives and Relative Clauses",English,,,
+61A-eng,Marked by following word,Adjectives without Nouns,English,,,
+62A-eng,Mixed,Action Nominal Constructions,English,,,
+63A-eng,'And' different from 'with',Noun Phrase Conjunction,English,,,
+64A-eng,Identity,Nominal and Verbal Conjunction,English,,,
+65A-eng,No grammatical marking,Perfective/Imperfective Aspect,English,,,Dahl 1985
+66A-eng,"Present, no remoteness distinctions",The Past Tense,English,,,Dahl 1985
+67A-eng,No inflectional future,The Future Tense,English,,,Dahl 1985
+68A-eng,From possessive,The Perfect,English,,,Dahl 1985
+69A-eng,Tense-aspect suffixes,Position of Tense-Aspect Affixes,English,,,
+70A-eng,No second-person imperatives,The Morphological Imperative,English,,,
+71A-eng,Normal imperative + normal negative,The Prohibitive,English,,,
+72A-eng,Neither type of system,Imperative-Hortative Systems,English,,,
+73A-eng,Inflectional optative absent,The Optative,English,,,
+74A-eng,Verbal constructions,Situational Possibility,English,,,Leech and Svartvik 1994
+75A-eng,Verbal constructions,Epistemic Possibility,English,,,Leech and Svartvik 1994
+76A-eng,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,English,,,Leech and Svartvik 1994
+77A-eng,No grammatical evidentials,Semantic Distinctions of Evidentiality,English,,,
+78A-eng,No grammatical evidentials,Coding of Evidentiality,English,,,
+79A-eng,Tense,Suppletion According to Tense and Aspect,English,,,
+79B-eng,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,English,,,
+80A-eng,None,Verbal Number and Suppletion,English,,,
+81A-eng,SVO,"Order of Subject, Object and Verb",English,,,
+82A-eng,SV,Order of Subject and Verb,English,,,
+83A-eng,VO,Order of Object and Verb,English,,,
+84A-eng,VOX,"Order of Object, Oblique, and Verb",English,,,
+85A-eng,Prepositions,Order of Adposition and Noun Phrase,English,,,
+86A-eng,No dominant order,Order of Genitive and Noun,English,,,
+87A-eng,Adjective-Noun,Order of Adjective and Noun,English,,,
+88A-eng,Demonstrative-Noun,Order of Demonstrative and Noun,English,,,
+89A-eng,Numeral-Noun,Order of Numeral and Noun,English,,,
+90A-eng,Noun-Relative clause,Order of Relative Clause and Noun,English,,,
+90C-eng,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,English,,,
+91A-eng,Degree word-Adjective,Order of Degree Word and Adjective,English,,,
+92A-eng,No question particle,Position of Polar Question Particles,English,,,
+93A-eng,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,English,,,
+94A-eng,Initial subordinator word,Order of Adverbial Subordinator and Clause,English,,,
+95A-eng,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,English,,,
+96A-eng,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,English,,,
+97A-eng,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,English,,,
+98A-eng,Neutral,Alignment of Case Marking of Full Noun Phrases,English,,,
+99A-eng,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,English,,,
+100A-eng,Accusative,Alignment of Verbal Person Marking,English,,,Quirk et al. 1972
+101A-eng,Obligatory pronouns in subject position,Expression of Pronominal Subjects,English,,,
+102A-eng,Only the A argument,Verbal Person Marking,English,,,Quirk et al. 1972
+103A-eng,No zero realization,Third Person Zero of Verbal Person Marking,English,,,Quirk et al. 1972
+104A-eng,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,English,,,Quirk et al. 1972
+105A-eng,Mixed,Ditransitive Constructions: The Verb 'Give',English,,,
+106A-eng,Distinct from reflexive,Reciprocal Constructions,English,,,
+107A-eng,Present,Passive Constructions,English,,,Quirk et al. 1972
+108A-eng,No antipassive,Antipassive Constructions,English,,,
+108B-eng,no antipassive,Productivity of the Antipassive Construction,English,,,
+109A-eng,No applicative construction,Applicative Constructions,English,,,
+109B-eng,No applicative construction,Other Roles of Applied Objects,English,,,
+110A-eng,Sequential but no purposive,Periphrastic Causative Constructions,English,,,
+111A-eng,Morphological but no compound,Nonperiphrastic Causative Constructions,English,,,
+112A-eng,Negative particle,Negative Morphemes,English,,,
+113A-eng,Both,Symmetric and Asymmetric Standard Negation,English,,,
+114A-eng,A/Cat,Subtypes of Asymmetric Standard Negation,English,,,
+115A-eng,Mixed behaviour,Negative Indefinite Pronouns and Predicate Negation,English,,,
+116A-eng,Interrogative word order,Polar Questions,English,,,
+117A-eng,'Have',Predicative Possession,English,,,
+118A-eng,Nonverbal encoding,Predicative Adjectives,English,,,
+119A-eng,Identical,Nominal and Locational Predication,English,,,
+120A-eng,Impossible,Zero Copula for Predicate Nominals,English,,,
+121A-eng,Particle,Comparative Constructions,English,,,
+122A-eng,Relative pronoun,Relativization on Subjects,English,,,
+123A-eng,Relative pronoun,Relativization on Obliques,English,,,
+124A-eng,Subject is left implicit,'Want' Complement Subjects,English,,,
+125A-eng,Balanced/deranked,Purpose Clauses,English,,,
+126A-eng,Balanced/deranked,'When' Clauses,English,,,
+127A-eng,Balanced/deranked,Reason Clauses,English,,,
+128A-eng,Balanced,Utterance Complement Clauses,English,,,
+129A-eng,Different,Hand and Arm,English,,,
+130A-eng,Different,Finger and Hand,English,,,
+131A-eng,Decimal,Numeral Bases,English,,,
+132A-eng,6,Number of Non-Derived Basic Colour Categories,English,,,
+133A-eng,11,Number of Basic Colour Categories,English,,,
+134A-eng,Green vs. blue,Green and Blue,English,,,
+135A-eng,Red vs. yellow,Red and Yellow,English,,,
+136A-eng,No M-T pronouns,M-T Pronouns,English,,,
+136B-eng,m in first person singular,M in First Person Singular,English,,,
+137A-eng,No N-M pronouns,N-M Pronouns,English,,,
+137B-eng,No m in second person singular,M in Second Person Singular,English,,,
+138A-eng,Words derived from Min Nan Chinese te,Tea,English,,,
+142A-eng,Affective meanings,Para-Linguistic Usages of Clicks,English,,,
+143A-eng,NegV,Order of Negative Morpheme and Verb,English,,,
+143E-eng,NegV,Preverbal Negative Morphemes,English,,,
+143F-eng,None,Postverbal Negative Morphemes,English,,,
+143G-eng,None,Minor morphological means of signaling negation,English,,,
+144A-eng,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",English,,,
+144B-eng,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,English,,,
+144D-eng,SNegVO,The Position of Negative Morphemes in SVO Languages,English,,,
+144H-eng,No NegSVO,NegSVO Order,English,,,
+144I-eng,Word&NoDoubleNeg,SNegVO Order,English,,,
+144J-eng,No SVNegO,SVNegO Order,English,,,
+144K-eng,No SVONeg,SVONeg Order,English,,,

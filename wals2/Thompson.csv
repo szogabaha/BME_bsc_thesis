@@ -1,0 +1,40 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,27A,Productive full and partial reduplication,Reduplication,Thompson,,,Haeberlin 1918
+1,30A,None,Number of Genders,Thompson,,,Thompson et al. 1996
+2,31A,No gender,Sex-based and Non-sex-based Gender Systems,Thompson,,,Thompson et al. 1996
+3,32A,No gender,Systems of Gender Assignment,Thompson,,,Thompson et al. 1996
+4,55A,Optional,Numeral Classifiers,Thompson,,,Thompson and Thompson 1992
+5,64A,Identity,Nominal and Verbal Conjunction,Thompson,,,Thompson et al. 1996
+6,81A,No dominant order,"Order of Subject, Object and Verb",Thompson,,,Thompson and Thompson 1992
+7,81B,VSO or VOS,"Languages with two Dominant Orders of Subject, Object, and Verb",Thompson,,,Thompson and Thompson 1992
+8,82A,VS,Order of Subject and Verb,Thompson,,,Thompson and Thompson 1992
+9,83A,VO,Order of Object and Verb,Thompson,,,Thompson and Thompson 1992
+10,84A,VOX,"Order of Object, Oblique, and Verb",Thompson,,,Thompson and Thompson 1992
+11,85A,Prepositions,Order of Adposition and Noun Phrase,Thompson,,,Thompson and Thompson 1992
+12,86A,Genitive-Noun,Order of Genitive and Noun,Thompson,,,Thompson and Thompson 1992
+13,87A,Adjective-Noun,Order of Adjective and Noun,Thompson,,,Thompson and Thompson 1992
+14,89A,Numeral-Noun,Order of Numeral and Noun,Thompson,,,Thompson and Thompson 1992
+15,91A,Degree word-Adjective,Order of Degree Word and Adjective,Thompson,,,Thompson and Thompson 1992
+16,92A,In either of two positions,Position of Polar Question Particles,Thompson,,,Thompson and Thompson 1992
+17,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Thompson,,,Thompson and Thompson 1992
+18,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Thompson,,,
+19,97A,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Thompson,,,
+20,108A,Implicit patient,Antipassive Constructions,Thompson,,,Thompson and Thompson 1992
+21,108B,partially productive,Productivity of the Antipassive Construction,Thompson,,,Thompson and Thompson 1992
+22,109A,Benefactive and other; both bases,Applicative Constructions,Thompson,,,Thompson and Thompson 1992
+23,109B,Locative,Other Roles of Applied Objects,Thompson,,,
+24,112A,Negative particle,Negative Morphemes,Thompson,,,Thompson and Thompson 1992
+25,116A,Question particle,Polar Questions,Thompson,,,Thompson and Thompson 1992
+26,129A,Different,Hand and Arm,Thompson,,,Thompson and Thompson 1996
+27,130A,Identical,Finger and Hand,Thompson,,,Thompson and Thompson 1996
+28,130B,Hunter-gatherers,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',Thompson,,,
+29,143A,NegV,Order of Negative Morpheme and Verb,Thompson,,,Thompson and Thompson 1992
+30,143E,NegV,Preverbal Negative Morphemes,Thompson,,,Thompson and Thompson 1992
+31,143F,None,Postverbal Negative Morphemes,Thompson,,,Thompson and Thompson 1992
+32,143G,None,Minor morphological means of signaling negation,Thompson,,,Thompson and Thompson 1992
+33,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Thompson,,,Thompson and Thompson 1992
+34,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Thompson,,,Thompson and Thompson 1992
+35,144T,NegVSO/NegVOS,The Position of Negative Morphemes in Verb-Initial Languages,Thompson,,,Thompson and Thompson 1992
+36,144V,"Separate word, no double negation  Word&NoDoubleNeg",Verb-Initial with Preverbal Negative,Thompson,,,Thompson and Thompson 1992
+37,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Thompson,,,Thompson and Thompson 1992
+38,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Thompson,,,Thompson and Thompson 1992

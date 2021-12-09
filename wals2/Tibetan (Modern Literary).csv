@@ -1,0 +1,33 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tibetan (Modern Literary),,,Goldstein 1991
+1,33A,Plural word,Coding of Nominal Plurality,Tibetan (Modern Literary),,,Goldstein 1991
+2,37A,Demonstrative word used as definite article,Definite Articles,Tibetan (Modern Literary),,,Goldstein 1991
+3,38A,Indefinite word same as 'one',Indefinite Articles,Tibetan (Modern Literary),,,Goldstein 1991
+4,51A,Postpositional clitics,Position of Case Affixes,Tibetan (Modern Literary),,,Goldstein 1991
+5,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tibetan (Modern Literary),,,Goldstein 1991
+6,81A,SOV,"Order of Subject, Object and Verb",Tibetan (Modern Literary),,,Goldstein 1991
+7,82A,SV,Order of Subject and Verb,Tibetan (Modern Literary),,,Goldstein 1991
+8,83A,OV,Order of Object and Verb,Tibetan (Modern Literary),,,Goldstein 1991
+9,85A,Postpositions,Order of Adposition and Noun Phrase,Tibetan (Modern Literary),,,Goldstein 1991
+10,86A,Genitive-Noun,Order of Genitive and Noun,Tibetan (Modern Literary),,,Goldstein 1991
+11,87A,Noun-Adjective,Order of Adjective and Noun,Tibetan (Modern Literary),,,Goldstein 1991
+12,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tibetan (Modern Literary),,,Goldstein 1991
+13,89A,Noun-Numeral,Order of Numeral and Noun,Tibetan (Modern Literary),,,Goldstein 1991
+14,90A,Relative clause-Noun,Order of Relative Clause and Noun,Tibetan (Modern Literary),,,Goldstein 1991
+15,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Tibetan (Modern Literary),,,Goldstein 1991
+16,92A,No question particle,Position of Polar Question Particles,Tibetan (Modern Literary),,,Goldstein 1991
+17,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tibetan (Modern Literary),,,Goldstein 1991
+18,94A,Mixed,Order of Adverbial Subordinator and Clause,Tibetan (Modern Literary),,,Goldstein 1991
+19,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tibetan (Modern Literary),,,
+20,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tibetan (Modern Literary),,,
+21,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tibetan (Modern Literary),,,
+22,112A,Negative particle,Negative Morphemes,Tibetan (Modern Literary),,,Goldstein 1991
+23,116A,Interrogative verb morphology,Polar Questions,Tibetan (Modern Literary),,,Goldstein 1991
+24,143A,Type 1 / Type 2,Order of Negative Morpheme and Verb,Tibetan (Modern Literary),,,Goldstein 1991
+25,143E,NegV,Preverbal Negative Morphemes,Tibetan (Modern Literary),,,Goldstein 1991
+26,143F,VNeg,Postverbal Negative Morphemes,Tibetan (Modern Literary),,,Goldstein 1991
+27,143G,None,Minor morphological means of signaling negation,Tibetan (Modern Literary),,,Goldstein 1991
+28,144A,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Tibetan (Modern Literary),,,Goldstein 1991
+29,144L,More than one construction,The Position of Negative Morphemes in SOV Languages,Tibetan (Modern Literary),,,Goldstein 1991
+30,144M,SOV & NegV/VNeg (a),Multiple Negative Constructions in SOV Languages,Tibetan (Modern Literary),,,Goldstein 1991
+31,144S,Word&NoDoubleNeg,SOVNeg Order,Tibetan (Modern Literary),,,Goldstein 1991

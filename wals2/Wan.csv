@@ -1,0 +1,22 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,SOV,"Order of Subject, Object and Verb",Wan,,,Nikitina 2008
+1,82A,SV,Order of Subject and Verb,Wan,,,Nikitina 2008
+2,83A,OV,Order of Object and Verb,Wan,,,Nikitina 2008
+3,84A,OVX,"Order of Object, Oblique, and Verb",Wan,,,Nikitina 2008
+4,85A,Postpositions,Order of Adposition and Noun Phrase,Wan,,,Nikitina 2008
+5,86A,Genitive-Noun,Order of Genitive and Noun,Wan,,,Nikitina 2008
+6,87A,Noun-Adjective,Order of Adjective and Noun,Wan,,,Nikitina 2008
+7,89A,Noun-Numeral,Order of Numeral and Noun,Wan,,,Nikitina 2008
+8,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wan,,,
+9,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wan,,,
+10,143A,VNeg,Order of Negative Morpheme and Verb,Wan,,,Nikitina 2008
+11,143E,None,Preverbal Negative Morphemes,Wan,,,Nikitina 2008
+12,143F,VNeg,Postverbal Negative Morphemes,Wan,,,Nikitina 2008
+13,143G,None,Minor morphological means of signaling negation,Wan,,,Nikitina 2008
+14,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Wan,,,Nikitina 2008
+15,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wan,,,Nikitina 2008
+16,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Wan,,,Nikitina 2008
+17,144P,No NegSOV,NegSOV Order,Wan,,,Nikitina 2008
+18,144Q,No SNegOV,SNegOV Order,Wan,,,Nikitina 2008
+19,144R,No SONegV,SONegV Order,Wan,,,Nikitina 2008
+20,144S,Word&NoDoubleNeg,SOVNeg Order,Wan,,,Nikitina 2008

@@ -1,0 +1,58 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,23A,Double marking,Locus of Marking in the Clause,Waskia,,,Ross and Paol 1978
+1,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Waskia,,,Ross and Paol 1978
+2,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Waskia,,,Ross and Paol 1978
+3,25B,Non-zero marking,Zero Marking of A and P Arguments,Waskia,,,Ross and Paol 1978
+4,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Waskia,,,Ross and Paol 1978
+5,27A,Productive full and partial reduplication,Reduplication,Waskia,,,
+6,37A,Definite word distinct from demonstrative,Definite Articles,Waskia,,,Ross and Paol 1978
+7,38A,Indefinite word distinct from 'one',Indefinite Articles,Waskia,,,Ross and Paol 1978
+8,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Waskia,,,Ross and Paol 1978
+9,48A,Pronouns and nouns,Person Marking on Adpositions,Waskia,,,Ross and Paol 1978
+10,51A,No case affixes or adpositional clitics,Position of Case Affixes,Waskia,,,Ross and Paol 1978
+11,52A,Differentiation,Comitatives and Instrumentals,Waskia,,,Ross and Paol 1978
+12,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Waskia,,,Ross and Paol 1978
+13,58A,Absent,Obligatory Possessive Inflection,Waskia,,,Ross and Paol 1978
+14,58B,None reported,Number of Possessive Nouns,Waskia,,,Ross and Paol 1978
+15,59A,Two classes,Possessive Classification,Waskia,,,Ross and Paol 1978
+16,63A,'And' identical to 'with',Noun Phrase Conjunction,Waskia,,,Ross and Paol 1978
+17,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Waskia,,,Ross and Paol 1978
+18,81A,SOV,"Order of Subject, Object and Verb",Waskia,,,Ross and Paol 1978
+19,82A,SV,Order of Subject and Verb,Waskia,,,Ross and Paol 1978
+20,83A,OV,Order of Object and Verb,Waskia,,,Ross and Paol 1978
+21,85A,Postpositions,Order of Adposition and Noun Phrase,Waskia,,,Ross and Paol 1978
+22,86A,Genitive-Noun,Order of Genitive and Noun,Waskia,,,Ross and Paol 1978
+23,87A,Noun-Adjective,Order of Adjective and Noun,Waskia,,,Ross and Paol 1978
+24,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Waskia,,,Ross and Paol 1978
+25,89A,Noun-Numeral,Order of Numeral and Noun,Waskia,,,Ross and Paol 1978
+26,91A,Adjective-Degree word,Order of Degree Word and Adjective,Waskia,,,Ross and Paol 1978
+27,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Waskia,,,Ross and Paol 1978
+28,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Waskia,,,
+29,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Waskia,,,
+30,100A,Accusative,Alignment of Verbal Person Marking,Waskia,,,Ross and Paol 1978
+31,102A,Only the A argument,Verbal Person Marking,Waskia,,,Ross and Paol 1978
+32,103A,No zero realization,Third Person Zero of Verbal Person Marking,Waskia,,,Ross and Paol 1978
+33,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Waskia,,,Ross and Paol 1978
+34,107A,Absent,Passive Constructions,Waskia,,,Ross and Paol 1978
+35,112A,Negative particle,Negative Morphemes,Waskia,,,Ross and Paol 1978
+36,116A,Question particle,Polar Questions,Waskia,,,Ross and Paol 1978
+37,117A,Conjunctional,Predicative Possession,Waskia,,,Ross and Paol 1978
+38,118A,Nonverbal encoding,Predicative Adjectives,Waskia,,,Ross and Paol 1978
+39,119A,Different,Nominal and Locational Predication,Waskia,,,Ross and Paol 1978
+40,120A,Possible,Zero Copula for Predicate Nominals,Waskia,,,Ross and Paol 1978
+41,131A,Restricted,Numeral Bases,Waskia,,,Ross and Paol 1978
+42,136A,"M-T pronouns, non-paradigmatic",M-T Pronouns,Waskia,,,Ross and Paol 1978
+43,136B,m in first person singular,M in First Person Singular,Waskia,,,Ross and Paol 1978
+44,137A,No N-M pronouns,N-M Pronouns,Waskia,,,Ross and Paol 1978
+45,137B,m in second person singular,M in Second Person Singular,Waskia,,,Ross and Paol 1978
+46,143A,NegV,Order of Negative Morpheme and Verb,Waskia,,,Ross and Paol 1978
+47,143E,NegV,Preverbal Negative Morphemes,Waskia,,,Ross and Paol 1978
+48,143F,None,Postverbal Negative Morphemes,Waskia,,,Ross and Paol 1978
+49,143G,None,Minor morphological means of signaling negation,Waskia,,,Ross and Paol 1978
+50,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Waskia,,,Ross and Paol 1978
+51,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Waskia,,,Ross and Paol 1978
+52,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Waskia,,,Ross and Paol 1978
+53,144P,No NegSOV,NegSOV Order,Waskia,,,Ross and Paol 1978
+54,144Q,No SNegOV,SNegOV Order,Waskia,,,Ross and Paol 1978
+55,144R,Word&NoDoubleNeg,SONegV Order,Waskia,,,Ross and Paol 1978
+56,144S,NoSOVNeg,SOVNeg Order,Waskia,,,Ross and Paol 1978

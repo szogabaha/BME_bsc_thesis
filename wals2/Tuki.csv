@@ -1,0 +1,18 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tuki,,,Biloa 1997
+1,81A,SVO,"Order of Subject, Object and Verb",Tuki,,,Biloa 1997
+2,82A,SV,Order of Subject and Verb,Tuki,,,Biloa 1997
+3,83A,VO,Order of Object and Verb,Tuki,,,Biloa 1997
+4,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tuki,,,Biloa 1997
+5,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tuki,,,Biloa 1997
+6,112A,Negative affix,Negative Morphemes,Tuki,,,Biloa 1997
+7,143A,[Neg-V],Order of Negative Morpheme and Verb,Tuki,,,Biloa 1997
+8,143E,[Neg-V],Preverbal Negative Morphemes,Tuki,,,Biloa 1997
+9,143F,None,Postverbal Negative Morphemes,Tuki,,,Biloa 1997
+10,143G,None,Minor morphological means of signaling negation,Tuki,,,Biloa 1997
+11,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tuki,,,Biloa 1997
+12,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Tuki,,,Biloa 1997
+13,144H,No NegSVO,NegSVO Order,Tuki,,,Biloa 1997
+14,144I,Prefix&NoDoubleNeg,SNegVO Order,Tuki,,,Biloa 1997
+15,144J,No SVNegO,SVNegO Order,Tuki,,,Biloa 1997
+16,144K,No SVONeg,SVONeg Order,Tuki,,,Biloa 1997

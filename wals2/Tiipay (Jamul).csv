@@ -1,0 +1,61 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tiipay (Jamul),,,Miller 2001
+1,27A,Productive full and partial reduplication,Reduplication,Tiipay (Jamul),,,
+2,33A,Plural stem change,Coding of Nominal Plurality,Tiipay (Jamul),,,Miller 2001
+3,34A,"Only human nouns, obligatory",Occurrence of Nominal Plurality,Tiipay (Jamul),,,Miller 2001
+4,37A,Demonstrative word used as definite article,Definite Articles,Tiipay (Jamul),,,Miller 2001
+5,38A,"No indefinite, but definite article",Indefinite Articles,Tiipay (Jamul),,,Miller 2001
+6,43A,Related for all demonstratives,Third Person Pronouns and Demonstratives,Tiipay (Jamul),,,Miller 1990
+7,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tiipay (Jamul),,,Miller 2001
+8,46A,Interrogative-based,Indefinite Pronouns,Tiipay (Jamul),,,Miller 2001
+9,48A,No adpositions,Person Marking on Adpositions,Tiipay (Jamul),,,Miller 2001
+10,51A,Postpositional clitics,Position of Case Affixes,Tiipay (Jamul),,,Miller 2001
+11,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tiipay (Jamul),,,Miller 2001
+12,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tiipay (Jamul),,,Miller 2001
+13,72A,Neither type of system,Imperative-Hortative Systems,Tiipay (Jamul),,,Miller 2001
+14,74A,Verbal constructions,Situational Possibility,Tiipay (Jamul),,,Miller 2001
+15,75A,Affixes on verbs,Epistemic Possibility,Tiipay (Jamul),,,Miller 2001
+16,81A,SOV,"Order of Subject, Object and Verb",Tiipay (Jamul),,,Miller 2001
+17,82A,SV,Order of Subject and Verb,Tiipay (Jamul),,,Miller 2001
+18,83A,OV,Order of Object and Verb,Tiipay (Jamul),,,Miller 2001
+19,84A,OXV,"Order of Object, Oblique, and Verb",Tiipay (Jamul),,,Miller 2001
+20,85A,Postpositions,Order of Adposition and Noun Phrase,Tiipay (Jamul),,,Miller 2001
+21,86A,Genitive-Noun,Order of Genitive and Noun,Tiipay (Jamul),,,Miller 2001
+22,87A,Only internally-headed relative clauses,Order of Adjective and Noun,Tiipay (Jamul),,,Miller 2001
+23,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tiipay (Jamul),,,Miller 2001
+24,90A,Internally headed,Order of Relative Clause and Noun,Tiipay (Jamul),,,Miller 2001
+25,90D,Internally-headed relative clause dominant,Internally-headed relative clauses,Tiipay (Jamul),,,Miller 2001
+26,91A,Adjective-Degree word,Order of Degree Word and Adjective,Tiipay (Jamul),,,Miller 2001
+27,92A,Final,Position of Polar Question Particles,Tiipay (Jamul),,,Miller 2001
+28,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tiipay (Jamul),,,Miller 2001
+29,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Tiipay (Jamul),,,Miller 2001
+30,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tiipay (Jamul),,,
+31,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tiipay (Jamul),,,
+32,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tiipay (Jamul),,,
+33,100A,Accusative,Alignment of Verbal Person Marking,Tiipay (Jamul),,,Miller 2001
+34,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tiipay (Jamul),,,Miller 2001
+35,102A,Both the A and P arguments,Verbal Person Marking,Tiipay (Jamul),,,Miller 2001
+36,103A,Zero in some 3sg forms,Third Person Zero of Verbal Person Marking,Tiipay (Jamul),,,Miller 2001
+37,104A,A and P are fused,Order of Person Markers on the Verb,Tiipay (Jamul),,,Miller 2001
+38,105A,Double-object construction,Ditransitive Constructions: The Verb 'Give',Tiipay (Jamul),,,Miller 2001
+39,107A,Absent,Passive Constructions,Tiipay (Jamul),,,Miller 2001
+40,112A,Negative particle,Negative Morphemes,Tiipay (Jamul),,,Miller 2001
+41,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Tiipay (Jamul),,,Miller 2001
+42,116A,Question particle,Polar Questions,Tiipay (Jamul),,,Miller 2001
+43,124A,Subject is expressed overtly,'Want' Complement Subjects,Tiipay (Jamul),,,Miller 2001
+44,125A,Deranked,Purpose Clauses,Tiipay (Jamul),,,Miller 2001
+45,136B,No m in first person singular,M in First Person Singular,Tiipay (Jamul),,,Langdon 1970
+46,137B,m in second person singular,M in Second Person Singular,Tiipay (Jamul),,,Langdon 1970
+47,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Tiipay (Jamul),,,Miller 2001
+48,143C,(Neg)VNeg,Optional Double Negation,Tiipay (Jamul),,,Miller 2001
+49,143E,NegV,Preverbal Negative Morphemes,Tiipay (Jamul),,,Miller 2001
+50,143F,VNeg,Postverbal Negative Morphemes,Tiipay (Jamul),,,Miller 2001
+51,143G,None,Minor morphological means of signaling negation,Tiipay (Jamul),,,Miller 2001
+52,144A,OptDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tiipay (Jamul),,,Miller 2001
+53,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tiipay (Jamul),,,Miller 2001
+54,144L,OptDoubleNeg,The Position of Negative Morphemes in SOV Languages,Tiipay (Jamul),,,Miller 2001
+55,144O,(Neg)SOVNeg/S(Neg)OVNeg/SO(Neg)VNeg,Optional Double Negation in SOV languages,Tiipay (Jamul),,,Miller 2001
+56,144P,OnlyWithAnotherNeg,NegSOV Order,Tiipay (Jamul),,,Miller 2001
+57,144Q,OnlyWithAnotherNeg,SNegOV Order,Tiipay (Jamul),,,Miller 2001
+58,144R,Word&OnlyWithAnotherNeg,SONegV Order,Tiipay (Jamul),,,Miller 2001
+59,144S,Word&OptDoubleNeg,SOVNeg Order,Tiipay (Jamul),,,Miller 2001

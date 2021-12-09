@@ -1,0 +1,54 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Tlapanec,,,Suárez 1983a
+1,4A,In plosives alone,Voicing in Plosives and Fricatives,Tlapanec,,,Suárez 1983a
+2,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Tlapanec,,,Suárez 1983a
+3,6A,None,Uvular Consonants,Tlapanec,,,Suárez 1983a
+4,7A,No glottalized consonants,Glottalized Consonants,Tlapanec,,,Suárez 1983a
+5,8A,"/l/, no obstruent laterals",Lateral Consonants,Tlapanec,,,Suárez 1983a
+6,9A,No velar nasal,The Velar Nasal,Tlapanec,,,Suárez 1983a
+7,13A,Complex tone system,Tone,Tlapanec,,,Suárez 1983a
+8,18A,All present,Absence of Common Consonants,Tlapanec,,,Suárez 1983a
+9,19A,None,Presence of Uncommon Consonants,Tlapanec,,,Suárez 1983a
+10,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tlapanec,,,Suárez 1983a
+11,27A,Productive full and partial reduplication,Reduplication,Tlapanec,,,Suárez 1983a
+12,33A,No plural,Coding of Nominal Plurality,Tlapanec,,,Suárez 1983a
+13,51A,Case suffixes,Position of Case Affixes,Tlapanec,,,Suárez 1983a
+14,52A,Identity,Comitatives and Instrumentals,Tlapanec,,,Suárez 1988
+15,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tlapanec,,,Suárez 1983a
+16,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Tlapanec,,,Suárez 1983a
+17,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Tlapanec,,,Radin 1935
+18,78A,No grammatical evidentials,Coding of Evidentiality,Tlapanec,,,Radin 1935
+19,81A,VSO,"Order of Subject, Object and Verb",Tlapanec,,,Suárez 1983a
+20,82A,VS,Order of Subject and Verb,Tlapanec,,,Suárez 1983a
+21,83A,VO,Order of Object and Verb,Tlapanec,,,Suárez 1983a
+22,84A,VOX,"Order of Object, Oblique, and Verb",Tlapanec,,,Suárez 1983a
+23,85A,Prepositions,Order of Adposition and Noun Phrase,Tlapanec,,,Suárez 1983a
+24,86A,Noun-Genitive,Order of Genitive and Noun,Tlapanec,,,Suárez 1983a
+25,87A,Noun-Adjective,Order of Adjective and Noun,Tlapanec,,,Suárez 1983a
+26,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tlapanec,,,Suárez 1983a
+27,89A,Numeral-Noun,Order of Numeral and Noun,Tlapanec,,,Suárez 1983a
+28,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tlapanec,,,Suárez 1983a
+29,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tlapanec,,,Suárez 1983a
+30,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tlapanec,,,Suárez 1983a
+31,92A,Initial,Position of Polar Question Particles,Tlapanec,,,Suárez 1983a
+32,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tlapanec,,,Suárez 1983a
+33,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tlapanec,,,
+34,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tlapanec,,,
+35,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tlapanec,,,
+36,112A,Negative affix,Negative Morphemes,Tlapanec,,,Suárez 1983a
+37,116A,Question particle,Polar Questions,Tlapanec,,,Suárez 1983a
+38,129A,Identical,Hand and Arm,Tlapanec,,,Suárez 1983a
+39,130A,Different,Finger and Hand,Tlapanec,,,Suárez 1983a
+40,132A,5,Number of Non-Derived Basic Colour Categories,Tlapanec,,,
+41,133A,8-8.5,Number of Basic Colour Categories,Tlapanec,,,
+42,134A,Green/blue,Green and Blue,Tlapanec,,,
+43,135A,Red vs. yellow,Red and Yellow,Tlapanec,,,
+44,143A,[Neg-V],Order of Negative Morpheme and Verb,Tlapanec,,,Suárez 1983a
+45,143E,[Neg-V],Preverbal Negative Morphemes,Tlapanec,,,Suárez 1983a
+46,143F,None,Postverbal Negative Morphemes,Tlapanec,,,Suárez 1983a
+47,143G,None,Minor morphological means of signaling negation,Tlapanec,,,Suárez 1983a
+48,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tlapanec,,,Suárez 1983a
+49,144T,[Neg-V]SO,The Position of Negative Morphemes in Verb-Initial Languages,Tlapanec,,,Suárez 1983a
+50,144V,"Prefix, no double negation  Prefix&NoDoubleNeg",Verb-Initial with Preverbal Negative,Tlapanec,,,Suárez 1983a
+51,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Tlapanec,,,Suárez 1983a
+52,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Tlapanec,,,Suárez 1983a

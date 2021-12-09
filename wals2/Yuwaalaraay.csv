@@ -1,0 +1,46 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Yuwaalaraay,,,Williams 1980a
+1,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Yuwaalaraay,,,Williams 1980a
+2,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Yuwaalaraay,,,Williams 1980a
+3,17A,Dual: both trochaic and iambic,Rhythm Types,Yuwaalaraay,,,Williams 1980a
+4,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yuwaalaraay,,,Williams 1980a
+5,33A,Plural suffix,Coding of Nominal Plurality,Yuwaalaraay,,,Williams 1980a
+6,37A,Demonstrative word used as definite article,Definite Articles,Yuwaalaraay,,,Williams 1980a
+7,38A,"No indefinite, but definite article",Indefinite Articles,Yuwaalaraay,,,Williams 1980a
+8,39B,Inclusive and exclusive differentiated,Inclusive/Exclusive Forms in Pama-Nyungan,Yuwaalaraay,,,
+9,46A,Interrogative-based,Indefinite Pronouns,Yuwaalaraay,,,Mushin 1995
+10,51A,Case suffixes,Position of Case Affixes,Yuwaalaraay,,,Williams 1980a
+11,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Yuwaalaraay,,,Williams 1980a
+12,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Yuwaalaraay,,,Williams 1980a
+13,81A,SOV,"Order of Subject, Object and Verb",Yuwaalaraay,,,Williams 1980a
+14,82A,SV,Order of Subject and Verb,Yuwaalaraay,,,Williams 1980a
+15,83A,OV,Order of Object and Verb,Yuwaalaraay,,,Williams 1980a
+16,85A,No adpositions,Order of Adposition and Noun Phrase,Yuwaalaraay,,,Williams 1980a
+17,86A,No dominant order,Order of Genitive and Noun,Yuwaalaraay,,,Williams 1980a
+18,87A,Adjective-Noun,Order of Adjective and Noun,Yuwaalaraay,,,Williams 1980a
+19,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Yuwaalaraay,,,Williams 1980a
+20,90A,Internally headed,Order of Relative Clause and Noun,Yuwaalaraay,,,Williams 1980a
+21,90D,Internally-headed relative clause dominant,Internally-headed relative clauses,Yuwaalaraay,,,Williams 1980a
+22,92A,Initial,Position of Polar Question Particles,Yuwaalaraay,,,Williams 1980a
+23,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Yuwaalaraay,,,Williams 1980a
+24,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yuwaalaraay,,,
+25,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yuwaalaraay,,,
+26,101A,Optional pronouns in subject position,Expression of Pronominal Subjects,Yuwaalaraay,,,Williams 1980a
+27,110A,Purposive but no sequential,Periphrastic Causative Constructions,Yuwaalaraay,,,Williams 1980a
+28,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Yuwaalaraay,,,Williams 1980a
+29,112A,Negative particle,Negative Morphemes,Yuwaalaraay,,,Williams 1980a
+30,116A,Question particle,Polar Questions,Yuwaalaraay,,,Williams 1980a
+31,118A,Nonverbal encoding,Predicative Adjectives,Yuwaalaraay,,,Williams 1980a
+32,119A,Different,Nominal and Locational Predication,Yuwaalaraay,,,Williams 1980a
+33,120A,Possible,Zero Copula for Predicate Nominals,Yuwaalaraay,,,Williams 1980a
+34,143A,NegV,Order of Negative Morpheme and Verb,Yuwaalaraay,,,Williams 1980a
+35,143E,NegV,Preverbal Negative Morphemes,Yuwaalaraay,,,Williams 1980a
+36,143F,None,Postverbal Negative Morphemes,Yuwaalaraay,,,Williams 1980a
+37,143G,None,Minor morphological means of signaling negation,Yuwaalaraay,,,Williams 1980a
+38,144A,NegSOV,"Position of Negative Word With Respect to Subject, Object, and Verb",Yuwaalaraay,,,Williams 1980a
+39,144B,"Beginning, not immed preverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yuwaalaraay,,,Williams 1980a
+40,144L,NegSOV,The Position of Negative Morphemes in SOV Languages,Yuwaalaraay,,,Williams 1980a
+41,144P,NoDoubleNeg,NegSOV Order,Yuwaalaraay,,,Williams 1980a
+42,144Q,No SNegOV,SNegOV Order,Yuwaalaraay,,,Williams 1980a
+43,144R,No SONegV,SONegV Order,Yuwaalaraay,,,Williams 1980a
+44,144S,NoSOVNeg,SOVNeg Order,Yuwaalaraay,,,Williams 1980a

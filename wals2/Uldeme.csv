@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Uldeme,,,de Colombel 1997
+1,33A,Plural word,Coding of Nominal Plurality,Uldeme,,,de Colombel 1997
+2,37A,Definite word distinct from demonstrative,Definite Articles,Uldeme,,,de Colombel 1997
+3,51A,No case affixes or adpositional clitics,Position of Case Affixes,Uldeme,,,de Colombel 1997
+4,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Uldeme,,,de Colombel 1997
+5,70A,Second singular and second plural,The Morphological Imperative,Uldeme,,,Provoost and Koulifa 1987
+6,81A,SVO,"Order of Subject, Object and Verb",Uldeme,,,de Colombel 1997
+7,82A,SV,Order of Subject and Verb,Uldeme,,,de Colombel 1997
+8,83A,VO,Order of Object and Verb,Uldeme,,,de Colombel 1997
+9,84A,VOX,"Order of Object, Oblique, and Verb",Uldeme,,,de Colombel 1997
+10,85A,Prepositions,Order of Adposition and Noun Phrase,Uldeme,,,de Colombel 1997
+11,86A,Noun-Genitive,Order of Genitive and Noun,Uldeme,,,de Colombel 1997
+12,87A,Noun-Adjective,Order of Adjective and Noun,Uldeme,,,de Colombel 1997
+13,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Uldeme,,,de Colombel 1997
+14,89A,Noun-Numeral,Order of Numeral and Noun,Uldeme,,,de Colombel 1997
+15,90A,Noun-Relative clause,Order of Relative Clause and Noun,Uldeme,,,de Colombel 1997
+16,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Uldeme,,,de Colombel 1997
+17,92A,Final,Position of Polar Question Particles,Uldeme,,,de Colombel 1997
+18,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Uldeme,,,de Colombel 1997
+19,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Uldeme,,,
+20,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Uldeme,,,
+21,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Uldeme,,,
+22,101A,Subject affixes on verb,Expression of Pronominal Subjects,Uldeme,,,de Colombel 1997
+23,112A,Negative particle,Negative Morphemes,Uldeme,,,de Colombel 1997
+24,116A,Question particle,Polar Questions,Uldeme,,,de Colombel 1997
+25,143A,VNeg,Order of Negative Morpheme and Verb,Uldeme,,,de Colombel 1997
+26,143E,None,Preverbal Negative Morphemes,Uldeme,,,de Colombel 1997
+27,143F,VNeg,Postverbal Negative Morphemes,Uldeme,,,de Colombel 1997
+28,143G,None,Minor morphological means of signaling negation,Uldeme,,,de Colombel 1997
+29,144A,SVONeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Uldeme,,,de Colombel 1997
+30,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Uldeme,,,de Colombel 1997
+31,144D,SVONeg,The Position of Negative Morphemes in SVO Languages,Uldeme,,,de Colombel 1997
+32,144H,No NegSVO,NegSVO Order,Uldeme,,,de Colombel 1997
+33,144I,No SNegVO,SNegVO Order,Uldeme,,,de Colombel 1997
+34,144J,No SVNegO,SVNegO Order,Uldeme,,,de Colombel 1997
+35,144K,NoDoubleNeg,SVONeg Order,Uldeme,,,de Colombel 1997

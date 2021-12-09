@@ -1,0 +1,16 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Toro So,,,Bendor-Samuel et al. 1989
+1,2A,Large (7-14),Vowel Quality Inventories,Toro So,,,Bendor-Samuel et al. 1989
+2,3A,Moderately low,Consonant-Vowel Ratio,Toro So,,,Bendor-Samuel et al. 1989
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Toro So,,,Bendor-Samuel et al. 1989
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Toro So,,,Bendor-Samuel et al. 1989
+5,6A,None,Uvular Consonants,Toro So,,,Bendor-Samuel et al. 1989
+6,7A,No glottalized consonants,Glottalized Consonants,Toro So,,,Bendor-Samuel et al. 1989
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Toro So,,,Bendor-Samuel et al. 1989
+8,10A,Contrast present,Vowel Nasalization,Toro So,,,Calame-Griaule 1968
+9,10B,four-way nasal vs. oral vowel contrast (/ṽ/ vs. /ṽː/ vs. /V/ vs. /Vː/) without nasal spreading,Nasal Vowels in West Africa,Toro So,,,Calame-Griaule 1968
+10,11A,None,Front Rounded Vowels,Toro So,,,Bendor-Samuel et al. 1989
+11,12A,Simple,Syllable Structure,Toro So,,,Bendor-Samuel et al. 1989
+12,13A,Simple tone system,Tone,Toro So,,,Bendor-Samuel et al. 1989
+13,18A,All present,Absence of Common Consonants,Toro So,,,Bendor-Samuel et al. 1989
+14,19A,'Th' sounds,Presence of Uncommon Consonants,Toro So,,,Bendor-Samuel et al. 1989

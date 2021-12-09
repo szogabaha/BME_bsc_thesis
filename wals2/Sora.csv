@@ -1,0 +1,27 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Sora,,,Ramamurti 1986
+1,2A,Average (5-6),Vowel Quality Inventories,Sora,,,Ramamurti 1986
+2,3A,Average,Consonant-Vowel Ratio,Sora,,,Ramamurti 1986
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Sora,,,Ramamurti 1986
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Sora,,,Ramamurti 1986
+5,6A,None,Uvular Consonants,Sora,,,Ramamurti 1986
+6,7A,No glottalized consonants,Glottalized Consonants,Sora,,,Ramamurti 1986
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Sora,,,Ramamurti 1986
+8,11A,None,Front Rounded Vowels,Sora,,,Ramamurti 1986
+9,12A,Moderately complex,Syllable Structure,Sora,,,Ramamurti 1986
+10,13A,No tones,Tone,Sora,,,Ramamurti 1986
+11,18A,All present,Absence of Common Consonants,Sora,,,Ramamurti 1986
+12,19A,None,Presence of Uncommon Consonants,Sora,,,Ramamurti 1986
+13,33A,Plural suffix,Coding of Nominal Plurality,Sora,,,Ramamurti 1931
+14,51A,Case suffixes,Position of Case Affixes,Sora,,,Ramamurti 1931
+15,52A,Identity,Comitatives and Instrumentals,Sora,,,Stolz 1996
+16,85A,Postpositions,Order of Adposition and Noun Phrase,Sora,,,Ramamurti 1931
+17,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Sora,,,Starosta 1967
+18,112A,Negative affix,Negative Morphemes,Sora,,,Ramamurti 1931
+19,118A,Mixed,Predicative Adjectives,Sora,,,Ramamurti 1931
+20,119A,Different,Nominal and Locational Predication,Sora,,,Ramamurti 1931
+21,120A,Possible,Zero Copula for Predicate Nominals,Sora,,,Ramamurti 1931
+22,143A,[Neg-V],Order of Negative Morpheme and Verb,Sora,,,Ramamurti 1931
+23,143E,[Neg-V],Preverbal Negative Morphemes,Sora,,,Ramamurti 1931
+24,143F,None,Postverbal Negative Morphemes,Sora,,,Ramamurti 1931
+25,143G,None,Minor morphological means of signaling negation,Sora,,,Ramamurti 1931

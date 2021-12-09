@@ -1,0 +1,75 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Tibetan (Standard Spoken),,,Denwood 1999
+1,2A,Large (7-14),Vowel Quality Inventories,Tibetan (Standard Spoken),,,Denwood 1999
+2,3A,Average,Consonant-Vowel Ratio,Tibetan (Standard Spoken),,,Denwood 1999
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Tibetan (Standard Spoken),,,Denwood 1999
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Tibetan (Standard Spoken),,,Denwood 1999
+5,6A,None,Uvular Consonants,Tibetan (Standard Spoken),,,Denwood 1999
+6,7A,No glottalized consonants,Glottalized Consonants,Tibetan (Standard Spoken),,,Denwood 1999
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tibetan (Standard Spoken),,,Denwood 1999
+8,11A,High and mid,Front Rounded Vowels,Tibetan (Standard Spoken),,,Denwood 1999
+9,12A,Moderately complex,Syllable Structure,Tibetan (Standard Spoken),,,Denwood 1999
+10,13A,Simple tone system,Tone,Tibetan (Standard Spoken),,,Denwood 1999
+11,14A,No fixed stress,Fixed Stress Locations,Tibetan (Standard Spoken),,,Goldstein and Nornang 1978
+12,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Tibetan (Standard Spoken),,,Goldstein and Nornang 1978
+13,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Tibetan (Standard Spoken),,,Goldstein and Nornang 1978
+14,18A,All present,Absence of Common Consonants,Tibetan (Standard Spoken),,,Denwood 1999
+15,19A,None,Presence of Uncommon Consonants,Tibetan (Standard Spoken),,,Denwood 1999
+16,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Tibetan (Standard Spoken),,,Denwood 1999
+17,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Tibetan (Standard Spoken),,,Denwood 1999
+18,21B,TAM+agreement,Exponence of Tense-Aspect-Mood Inflection,Tibetan (Standard Spoken),,,Denwood 1999
+19,22A,4-5 categories per word,Inflectional Synthesis of the Verb,Tibetan (Standard Spoken),,,Denwood 1999
+20,23A,Dependent marking,Locus of Marking in the Clause,Tibetan (Standard Spoken),,,Denwood 1999
+21,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Tibetan (Standard Spoken),,,Denwood 1999
+22,25A,Dependent-marking,Locus of Marking: Whole-language Typology,Tibetan (Standard Spoken),,,Denwood 1999
+23,25B,Non-zero marking,Zero Marking of A and P Arguments,Tibetan (Standard Spoken),,,Denwood 1999
+24,30A,None,Number of Genders,Tibetan (Standard Spoken),,,Denwood 1999
+25,31A,No gender,Sex-based and Non-sex-based Gender Systems,Tibetan (Standard Spoken),,,Denwood 1999
+26,32A,No gender,Systems of Gender Assignment,Tibetan (Standard Spoken),,,Denwood 1999
+27,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Tibetan (Standard Spoken),,,Denwood 1999
+28,35A,Person stem + nominal plural affix,Plurality in Independent Personal Pronouns,Tibetan (Standard Spoken),,,Rerix 1961
+29,43A,Unrelated,Third Person Pronouns and Demonstratives,Tibetan (Standard Spoken),,,Denwood 1999
+30,45A,Binary politeness distinction,Politeness Distinctions in Pronouns,Tibetan (Standard Spoken),,,Denwood 1999
+31,54A,Marked by reduplication,Distributive Numerals,Tibetan (Standard Spoken),,,Hannah 1912
+32,58A,Absent,Obligatory Possessive Inflection,Tibetan (Standard Spoken),,,Denwood 1999
+33,58B,None reported,Number of Possessive Nouns,Tibetan (Standard Spoken),,,Denwood 1999
+34,59A,No possessive classification,Possessive Classification,Tibetan (Standard Spoken),,,Denwood 1999
+35,81A,SOV,"Order of Subject, Object and Verb",Tibetan (Standard Spoken),,,Denwood 1999
+36,82A,SV,Order of Subject and Verb,Tibetan (Standard Spoken),,,Denwood 1999
+37,83A,OV,Order of Object and Verb,Tibetan (Standard Spoken),,,Denwood 1999
+38,86A,Genitive-Noun,Order of Genitive and Noun,Tibetan (Standard Spoken),,,Denwood 1999
+39,87A,Noun-Adjective,Order of Adjective and Noun,Tibetan (Standard Spoken),,,DeLancey 2003
+40,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tibetan (Standard Spoken),,,DeLancey 2003
+41,89A,Noun-Numeral,Order of Numeral and Noun,Tibetan (Standard Spoken),,,DeLancey 2003
+42,90A,Relative clause-Noun,Order of Relative Clause and Noun,Tibetan (Standard Spoken),,,DeLancey 2003
+43,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Tibetan (Standard Spoken),,,DeLancey 2003
+44,91A,Adjective-Degree word,Order of Degree Word and Adjective,Tibetan (Standard Spoken),,,Denwood 1999
+45,92A,Final,Position of Polar Question Particles,Tibetan (Standard Spoken),,,DeLancey 2003
+46,94A,Final subordinator word,Order of Adverbial Subordinator and Clause,Tibetan (Standard Spoken),,,Denwood 1999
+47,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tibetan (Standard Spoken),,,
+48,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tibetan (Standard Spoken),,,
+49,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Tibetan (Standard Spoken),,,Denwood 1999
+50,110A,Purposive but no sequential,Periphrastic Causative Constructions,Tibetan (Standard Spoken),,,Denwood 1999
+51,111A,Neither,Nonperiphrastic Causative Constructions,Tibetan (Standard Spoken),,,Denwood 1999
+52,112A,Negative affix,Negative Morphemes,Tibetan (Standard Spoken),,,DeLancey 2003
+53,113A,Both,Symmetric and Asymmetric Standard Negation,Tibetan (Standard Spoken),,,Denwood 1999
+54,114A,A/Cat,Subtypes of Asymmetric Standard Negation,Tibetan (Standard Spoken),,,Denwood 1999
+55,116A,Question particle,Polar Questions,Tibetan (Standard Spoken),,,DeLancey 2003
+56,124A,Subject is left implicit,'Want' Complement Subjects,Tibetan (Standard Spoken),,,Denwood 1999
+57,129A,Identical,Hand and Arm,Tibetan (Standard Spoken),,,Bell 1965
+58,130A,Different,Finger and Hand,Tibetan (Standard Spoken),,,Bell 1965
+59,136A,No M-T pronouns,M-T Pronouns,Tibetan (Standard Spoken),,,Denwood 1999
+60,136B,No m in first person singular,M in First Person Singular,Tibetan (Standard Spoken),,,Denwood 1999
+61,137A,No N-M pronouns,N-M Pronouns,Tibetan (Standard Spoken),,,Denwood 1999
+62,137B,No m in second person singular,M in Second Person Singular,Tibetan (Standard Spoken),,,Denwood 1999
+63,138A,Words derived from Sinitic cha,Tea,Tibetan (Standard Spoken),,,Malherbe and Rosenberg 1996
+64,143A,[Neg-V],Order of Negative Morpheme and Verb,Tibetan (Standard Spoken),,,DeLancey 2003
+65,143E,[Neg-V],Preverbal Negative Morphemes,Tibetan (Standard Spoken),,,DeLancey 2003
+66,143F,None,Postverbal Negative Morphemes,Tibetan (Standard Spoken),,,DeLancey 2003
+67,143G,None,Minor morphological means of signaling negation,Tibetan (Standard Spoken),,,DeLancey 2003
+68,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tibetan (Standard Spoken),,,DeLancey 2003
+69,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Tibetan (Standard Spoken),,,DeLancey 2003
+70,144P,No NegSOV,NegSOV Order,Tibetan (Standard Spoken),,,DeLancey 2003
+71,144Q,No SNegOV,SNegOV Order,Tibetan (Standard Spoken),,,DeLancey 2003
+72,144R,Prefix&NoDoubleNeg,SONegV Order,Tibetan (Standard Spoken),,,DeLancey 2003
+73,144S,NoSOVNeg,SOVNeg Order,Tibetan (Standard Spoken),,,DeLancey 2003

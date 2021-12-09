@@ -1,0 +1,30 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Taiof,,,Ross 2002g
+1,38A,Indefinite word distinct from 'one',Indefinite Articles,Taiof,,,Ross 2002g
+2,64A,Identity,Nominal and Verbal Conjunction,Taiof,,,Ross 2002g
+3,81A,SVO,"Order of Subject, Object and Verb",Taiof,,,Ross 2002g
+4,82A,SV,Order of Subject and Verb,Taiof,,,Ross 2002g
+5,83A,VO,Order of Object and Verb,Taiof,,,Ross 2002g
+6,86A,Noun-Genitive,Order of Genitive and Noun,Taiof,,,Ross 2002g
+7,87A,Noun-Adjective,Order of Adjective and Noun,Taiof,,,Ross 2002g
+8,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Taiof,,,Ross 2002g
+9,89A,Numeral-Noun,Order of Numeral and Noun,Taiof,,,Ross 2002g
+10,90A,Noun-Relative clause,Order of Relative Clause and Noun,Taiof,,,Ross 2002g
+11,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Taiof,,,Ross 2002g
+12,92A,No question particle,Position of Polar Question Particles,Taiof,,,Ross 2002g
+13,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Taiof,,,
+14,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Taiof,,,
+15,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Taiof,,,Ross 2002g
+16,112A,Negative auxiliary verb,Negative Morphemes,Taiof,,,Ross 2002g
+17,116A,Interrogative intonation only,Polar Questions,Taiof,,,Ross 2002g
+18,143A,NegV,Order of Negative Morpheme and Verb,Taiof,,,Ross 2002g
+19,143E,NegV,Preverbal Negative Morphemes,Taiof,,,Ross 2002g
+20,143F,None,Postverbal Negative Morphemes,Taiof,,,Ross 2002g
+21,143G,None,Minor morphological means of signaling negation,Taiof,,,Ross 2002g
+22,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Taiof,,,Ross 2002g
+23,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Taiof,,,Ross 2002g
+24,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Taiof,,,Ross 2002g
+25,144H,No NegSVO,NegSVO Order,Taiof,,,Ross 2002g
+26,144I,Word&NoDoubleNeg,SNegVO Order,Taiof,,,Ross 2002g
+27,144J,No SVNegO,SVNegO Order,Taiof,,,Ross 2002g
+28,144K,No SVONeg,SVONeg Order,Taiof,,,Ross 2002g

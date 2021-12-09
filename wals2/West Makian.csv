@@ -1,0 +1,61 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,West Makian,,,Voorhoeve 1982
+1,2A,Average (5-6),Vowel Quality Inventories,West Makian,,,Voorhoeve 1982
+2,3A,Average,Consonant-Vowel Ratio,West Makian,,,Voorhoeve 1982
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,West Makian,,,Voorhoeve 1982
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,West Makian,,,Voorhoeve 1982
+5,6A,None,Uvular Consonants,West Makian,,,Voorhoeve 1982
+6,7A,No glottalized consonants,Glottalized Consonants,West Makian,,,Voorhoeve 1982
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,West Makian,,,Voorhoeve 1982
+8,11A,None,Front Rounded Vowels,West Makian,,,Voorhoeve 1982
+9,12A,Moderately complex,Syllable Structure,West Makian,,,Voorhoeve 1982
+10,13A,No tones,Tone,West Makian,,,Voorhoeve 1982
+11,18A,All present,Absence of Common Consonants,West Makian,,,Voorhoeve 1982
+12,19A,None,Presence of Uncommon Consonants,West Makian,,,Voorhoeve 1982
+13,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,West Makian,,,Voorhoeve 1982
+14,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,West Makian,,,Voorhoeve 1982
+15,48A,No person marking,Person Marking on Adpositions,West Makian,,,Voorhoeve 1982
+16,51A,No case affixes or adpositional clitics,Position of Case Affixes,West Makian,,,Voorhoeve 1982
+17,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,West Makian,,,Voorhoeve 1982
+18,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,West Makian,,,Voorhoeve 1982
+19,81A,SVO,"Order of Subject, Object and Verb",West Makian,,,Voorhoeve 1982
+20,82A,SV,Order of Subject and Verb,West Makian,,,Voorhoeve 1982
+21,83A,VO,Order of Object and Verb,West Makian,,,Voorhoeve 1982
+22,84A,VOX,"Order of Object, Oblique, and Verb",West Makian,,,Voorhoeve 1982
+23,85A,Prepositions,Order of Adposition and Noun Phrase,West Makian,,,Voorhoeve 1982
+24,86A,Genitive-Noun,Order of Genitive and Noun,West Makian,,,Voorhoeve 1982
+25,87A,Noun-Adjective,Order of Adjective and Noun,West Makian,,,Voorhoeve 1982
+26,88A,Noun-Demonstrative,Order of Demonstrative and Noun,West Makian,,,Voorhoeve 1982
+27,89A,Noun-Numeral,Order of Numeral and Noun,West Makian,,,Voorhoeve 1982
+28,90A,Noun-Relative clause,Order of Relative Clause and Noun,West Makian,,,Voorhoeve 1982
+29,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,West Makian,,,Voorhoeve 1982
+30,92A,No question particle,Position of Polar Question Particles,West Makian,,,Voorhoeve 1982
+31,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,West Makian,,,Voorhoeve 1982
+32,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,West Makian,,,Voorhoeve 1982
+33,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,West Makian,,,
+34,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,West Makian,,,
+35,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,West Makian,,,
+36,100A,Accusative,Alignment of Verbal Person Marking,West Makian,,,Voorhoeve 1982
+37,101A,Subject affixes on verb,Expression of Pronominal Subjects,West Makian,,,Voorhoeve 1982
+38,102A,Only the A argument,Verbal Person Marking,West Makian,,,Voorhoeve 1982
+39,103A,No zero realization,Third Person Zero of Verbal Person Marking,West Makian,,,Voorhoeve 1982
+40,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,West Makian,,,Voorhoeve 1982
+41,107A,Absent,Passive Constructions,West Makian,,,Voorhoeve 1982
+42,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,West Makian,,,Voorhoeve 1982
+43,112A,Negative particle,Negative Morphemes,West Makian,,,Voorhoeve 1982
+44,116A,Interrogative intonation only,Polar Questions,West Makian,,,Voorhoeve 1982
+45,125A,Balanced,Purpose Clauses,West Makian,,,Voorhoeve 1982
+46,126A,Balanced,'When' Clauses,West Makian,,,Voorhoeve 1982
+47,127A,Balanced,Reason Clauses,West Makian,,,Voorhoeve 1982
+48,128A,Balanced,Utterance Complement Clauses,West Makian,,,Voorhoeve 1982
+49,143A,VNeg,Order of Negative Morpheme and Verb,West Makian,,,Voorhoeve 1982
+50,143E,None,Preverbal Negative Morphemes,West Makian,,,Voorhoeve 1982
+51,143F,VNeg,Postverbal Negative Morphemes,West Makian,,,Voorhoeve 1982
+52,143G,None,Minor morphological means of signaling negation,West Makian,,,Voorhoeve 1982
+53,144A,SVONeg,"Position of Negative Word With Respect to Subject, Object, and Verb",West Makian,,,Voorhoeve 1982
+54,144B,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,West Makian,,,Voorhoeve 1982
+55,144D,SVONeg,The Position of Negative Morphemes in SVO Languages,West Makian,,,Voorhoeve 1982
+56,144H,No NegSVO,NegSVO Order,West Makian,,,Voorhoeve 1982
+57,144I,No SNegVO,SNegVO Order,West Makian,,,Voorhoeve 1982
+58,144J,No SVNegO,SVNegO Order,West Makian,,,Voorhoeve 1982
+59,144K,NoDoubleNeg,SVONeg Order,West Makian,,,Voorhoeve 1982

@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Tuscarora,,,Williams 1976
+1,33A,Plural prefix,Coding of Nominal Plurality,Tuscarora,,,Williams 1976
+2,41A,Two-way contrast,Distance Contrasts in Demonstratives,Tuscarora,,,Mithun 1987
+3,42A,Identical,Pronominal and Adnominal Demonstratives,Tuscarora,,,Mithun 1987
+4,51A,Case suffixes,Position of Case Affixes,Tuscarora,,,Williams 1976
+5,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tuscarora,,,Williams 1976
+6,63A,'And' different from 'with',Noun Phrase Conjunction,Tuscarora,,,Williams 1976
+7,69A,Mixed type,Position of Tense-Aspect Affixes,Tuscarora,,,Williams 1976
+8,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Tuscarora,,,Mithun 1986
+9,78A,No grammatical evidentials,Coding of Evidentiality,Tuscarora,,,Mithun 1986
+10,81A,No dominant order,"Order of Subject, Object and Verb",Tuscarora,,,Williams 1976
+11,82A,No dominant order,Order of Subject and Verb,Tuscarora,,,Williams 1976
+12,83A,No dominant order,Order of Object and Verb,Tuscarora,,,Williams 1976
+13,84A,No dominant order,"Order of Object, Oblique, and Verb",Tuscarora,,,Williams 1976
+14,92A,Second position,Position of Polar Question Particles,Tuscarora,,,Williams 1976
+15,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tuscarora,,,Williams 1976
+16,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tuscarora,,,
+17,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tuscarora,,,
+18,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tuscarora,,,
+19,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tuscarora,,,Williams 1976
+20,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tuscarora,,,Williams 1976
+21,112A,Negative particle,Negative Morphemes,Tuscarora,,,Williams 1976
+22,116A,Question particle,Polar Questions,Tuscarora,,,Williams 1976
+23,118A,Verbal encoding,Predicative Adjectives,Tuscarora,,,Williams 1976
+24,119A,Different,Nominal and Locational Predication,Tuscarora,,,Williams 1976
+25,120A,Impossible,Zero Copula for Predicate Nominals,Tuscarora,,,Williams 1976
+26,129A,Different,Hand and Arm,Tuscarora,,,Rudes 1987
+27,130A,Different,Finger and Hand,Tuscarora,,,Rudes 1987
+28,143A,NegV,Order of Negative Morpheme and Verb,Tuscarora,,,Williams 1976
+29,143E,NegV,Preverbal Negative Morphemes,Tuscarora,,,Williams 1976
+30,143F,None,Postverbal Negative Morphemes,Tuscarora,,,Williams 1976
+31,143G,None,Minor morphological means of signaling negation,Tuscarora,,,Williams 1976
+32,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Tuscarora,,,Williams 1976
+33,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tuscarora,,,Williams 1976

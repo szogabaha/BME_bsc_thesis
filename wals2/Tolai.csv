@@ -1,0 +1,54 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Second,Fixed Stress Locations,Tolai,,,Franklin et al. 1974
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Tolai,,,Franklin et al. 1974
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Tolai,,,Franklin et al. 1974
+3,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Tolai,,,Franklin et al. 1974
+4,33A,Plural word,Coding of Nominal Plurality,Tolai,,,Franklin et al. 1974
+5,37A,Definite word distinct from demonstrative,Definite Articles,Tolai,,,Mosel 1984
+6,38A,Indefinite word distinct from 'one',Indefinite Articles,Tolai,,,Mosel 1984
+7,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Tolai,,,Mosel 1984
+8,48A,No person marking,Person Marking on Adpositions,Tolai,,,Mosel 1984
+9,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tolai,,,Franklin et al. 1974
+10,54A,Marked by reduplication,Distributive Numerals,Tolai,,,
+11,55A,Absent,Numeral Classifiers,Tolai,,,
+12,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tolai,,,Franklin et al. 1974
+13,63A,'And' identical to 'with',Noun Phrase Conjunction,Tolai,,,Mosel 1984
+14,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Tolai,,,Franklin et al. 1974
+15,81A,SVO,"Order of Subject, Object and Verb",Tolai,,,Franklin et al. 1974
+16,82A,No dominant order,Order of Subject and Verb,Tolai,,,Mosel 1984
+17,83A,VO,Order of Object and Verb,Tolai,,,Franklin et al. 1974
+18,84A,VOX,"Order of Object, Oblique, and Verb",Tolai,,,Franklin et al. 1974
+19,85A,Prepositions,Order of Adposition and Noun Phrase,Tolai,,,Franklin et al. 1974
+20,86A,Noun-Genitive,Order of Genitive and Noun,Tolai,,,Franklin et al. 1974
+21,87A,No dominant order,Order of Adjective and Noun,Tolai,,,Franklin et al. 1974
+22,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tolai,,,Franklin et al. 1974
+23,89A,Numeral-Noun,Order of Numeral and Noun,Tolai,,,Franklin et al. 1974
+24,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tolai,,,Franklin et al. 1974
+25,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tolai,,,Franklin et al. 1974
+26,91A,No dominant order,Order of Degree Word and Adjective,Tolai,,,Franklin et al. 1974
+27,92A,Initial,Position of Polar Question Particles,Tolai,,,Franklin et al. 1974
+28,93A,Mixed,Position of Interrogative Phrases in Content Questions,Tolai,,,Franklin et al. 1974
+29,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tolai,,,Franklin et al. 1974
+30,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tolai,,,
+31,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tolai,,,
+32,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tolai,,,
+33,100A,Accusative,Alignment of Verbal Person Marking,Tolai,,,Mosel 1984
+34,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Tolai,,,Franklin et al. 1974
+35,102A,Only the A argument,Verbal Person Marking,Tolai,,,Mosel 1984
+36,103A,No zero realization,Third Person Zero of Verbal Person Marking,Tolai,,,Mosel 1984
+37,104A,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Tolai,,,Mosel 1984
+38,107A,Absent,Passive Constructions,Tolai,,,Mosel 1984
+39,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Tolai,,,Franklin et al. 1974
+40,116A,Question particle,Polar Questions,Tolai,,,Franklin et al. 1974
+41,117A,Topic,Predicative Possession,Tolai,,,Bley 1912
+42,118A,Verbal encoding,Predicative Adjectives,Tolai,,,Mosel 1984
+43,119A,Different,Nominal and Locational Predication,Tolai,,,Mosel 1984
+44,120A,Possible,Zero Copula for Predicate Nominals,Tolai,,,Mosel 1984
+45,143A,NegV,Order of Negative Morpheme and Verb,Tolai,,,Franklin et al. 1974
+46,143E,NegV,Preverbal Negative Morphemes,Tolai,,,Franklin et al. 1974
+47,143F,None,Postverbal Negative Morphemes,Tolai,,,Franklin et al. 1974
+48,143G,None,Minor morphological means of signaling negation,Tolai,,,Franklin et al. 1974
+49,144A,Other,"Position of Negative Word With Respect to Subject, Object, and Verb",Tolai,,,Franklin et al. 1974
+50,144D,Other NegV,The Position of Negative Morphemes in SVO Languages,Tolai,,,Franklin et al. 1974
+51,144J,No SVNegO,SVNegO Order,Tolai,,,Franklin et al. 1974
+52,144K,No SVONeg,SVONeg Order,Tolai,,,Franklin et al. 1974

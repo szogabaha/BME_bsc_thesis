@@ -1,0 +1,26 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural tone,Coding of Nominal Plurality,Seme,,,Prost 1964d
+1,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Seme,,,Prost 1964d
+2,81A,SOV,"Order of Subject, Object and Verb",Seme,,,Prost 1964d
+3,82A,SV,Order of Subject and Verb,Seme,,,Prost 1964d
+4,83A,OV,Order of Object and Verb,Seme,,,Prost 1964d
+5,84A,OVX,"Order of Object, Oblique, and Verb",Seme,,,Prost 1964d
+6,85A,Postpositions,Order of Adposition and Noun Phrase,Seme,,,Prost 1964d
+7,86A,Genitive-Noun,Order of Genitive and Noun,Seme,,,Prost 1964d
+8,87A,Noun-Adjective,Order of Adjective and Noun,Seme,,,Prost 1964d
+9,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Seme,,,Prost 1964d
+10,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Seme,,,Prost 1964d
+11,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Seme,,,
+12,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Seme,,,
+13,112A,Negative particle,Negative Morphemes,Seme,,,Prost 1964d
+14,143A,VNeg,Order of Negative Morpheme and Verb,Seme,,,Prost 1964d
+15,143E,None,Preverbal Negative Morphemes,Seme,,,Prost 1964d
+16,143F,VNeg,Postverbal Negative Morphemes,Seme,,,Prost 1964d
+17,143G,None,Minor morphological means of signaling negation,Seme,,,Prost 1964d
+18,144A,SOVNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Seme,,,Prost 1964d
+19,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Seme,,,Prost 1964d
+20,144L,SOVNeg,The Position of Negative Morphemes in SOV Languages,Seme,,,Prost 1964d
+21,144P,No NegSOV,NegSOV Order,Seme,,,Prost 1964d
+22,144Q,No SNegOV,SNegOV Order,Seme,,,Prost 1964d
+23,144R,No SONegV,SONegV Order,Seme,,,Prost 1964d
+24,144S,Word&NoDoubleNeg,SOVNeg Order,Seme,,,Prost 1964d

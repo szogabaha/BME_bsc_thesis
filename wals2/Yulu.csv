@@ -1,0 +1,46 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Large,Consonant Inventories,Yulu,,,Boyeldieu 1987
+1,2A,Large (7-14),Vowel Quality Inventories,Yulu,,,Boyeldieu 1987
+2,3A,Moderately high,Consonant-Vowel Ratio,Yulu,,,Boyeldieu 1987
+3,4A,In both plosives and fricatives,Voicing in Plosives and Fricatives,Yulu,,,Boyeldieu 1987
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Yulu,,,Boyeldieu 1987
+5,6A,None,Uvular Consonants,Yulu,,,Boyeldieu 1987
+6,7A,Implosives only,Glottalized Consonants,Yulu,,,Boyeldieu 1987
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Yulu,,,Boyeldieu 1987
+8,11A,None,Front Rounded Vowels,Yulu,,,Boyeldieu 1987
+9,12A,Moderately complex,Syllable Structure,Yulu,,,Boyeldieu 1987
+10,13A,Complex tone system,Tone,Yulu,,,Boyeldieu 1987
+11,18A,All present,Absence of Common Consonants,Yulu,,,Boyeldieu 1987
+12,19A,Labial-velars,Presence of Uncommon Consonants,Yulu,,,Boyeldieu 1987
+13,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Yulu,,,Boyeldieu 1987
+14,33A,Plural clitic,Coding of Nominal Plurality,Yulu,,,Boyeldieu 1987
+15,51A,No case affixes or adpositional clitics,Position of Case Affixes,Yulu,,,Santandrea 1970
+16,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Yulu,,,Santandrea 1970
+17,69A,Mixed type,Position of Tense-Aspect Affixes,Yulu,,,Santandrea 1970
+18,81A,SVO,"Order of Subject, Object and Verb",Yulu,,,Santandrea 1970
+19,82A,SV,Order of Subject and Verb,Yulu,,,Santandrea 1970
+20,83A,VO,Order of Object and Verb,Yulu,,,Santandrea 1970
+21,84A,VOX,"Order of Object, Oblique, and Verb",Yulu,,,Santandrea 1970
+22,85A,Prepositions,Order of Adposition and Noun Phrase,Yulu,,,Boyeldieu 1987
+23,86A,Noun-Genitive,Order of Genitive and Noun,Yulu,,,Santandrea 1970
+24,87A,Noun-Adjective,Order of Adjective and Noun,Yulu,,,Boyeldieu 1987
+25,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Yulu,,,Boyeldieu 1987
+26,89A,Noun-Numeral,Order of Numeral and Noun,Yulu,,,Boyeldieu 1987
+27,90A,Noun-Relative clause,Order of Relative Clause and Noun,Yulu,,,Boyeldieu 1987
+28,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Yulu,,,Boyeldieu 1987
+29,92A,Final,Position of Polar Question Particles,Yulu,,,Santandrea 1970
+30,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Yulu,,,
+31,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Yulu,,,
+32,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Yulu,,,
+33,116A,Question particle,Polar Questions,Yulu,,,Santandrea 1970
+34,143A,VNeg,Order of Negative Morpheme and Verb,Yulu,,,Santandrea 1970
+35,143E,None,Preverbal Negative Morphemes,Yulu,,,Santandrea 1970
+36,143F,VNeg,Postverbal Negative Morphemes,Yulu,,,Santandrea 1970
+37,143G,None,Minor morphological means of signaling negation,Yulu,,,Santandrea 1970
+38,144A,SVNegO,"Position of Negative Word With Respect to Subject, Object, and Verb",Yulu,,,Santandrea 1970
+39,144B,Immed postverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Yulu,,,Santandrea 1970
+40,144D,SVNegO,The Position of Negative Morphemes in SVO Languages,Yulu,,,Santandrea 1970
+41,144H,No NegSVO,NegSVO Order,Yulu,,,Santandrea 1970
+42,144I,No SNegVO,SNegVO Order,Yulu,,,Santandrea 1970
+43,144J,Word&NoDoubleNeg,SVNegO Order,Yulu,,,Santandrea 1970
+44,144K,No SVONeg,SVONeg Order,Yulu,,,Santandrea 1970

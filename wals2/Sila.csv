@@ -1,0 +1,21 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural suffix,Coding of Nominal Plurality,Sila,,,Tucker and Bryan 1966
+1,36A,Unique affixal associative plural,The Associative Plural,Sila,,,Tucker and Bryan 1966
+2,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sila,,,Tucker and Bryan 1966
+3,81A,SOV,"Order of Subject, Object and Verb",Sila,,,Tucker and Bryan 1966
+4,82A,SV,Order of Subject and Verb,Sila,,,Tucker and Bryan 1966
+5,83A,OV,Order of Object and Verb,Sila,,,Tucker and Bryan 1966
+6,86A,Noun-Genitive,Order of Genitive and Noun,Sila,,,Tucker and Bryan 1966
+7,87A,Noun-Adjective,Order of Adjective and Noun,Sila,,,Tucker and Bryan 1966
+8,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sila,,,
+9,143A,NegV,Order of Negative Morpheme and Verb,Sila,,,Jungraithmayr 1981
+10,143E,NegV,Preverbal Negative Morphemes,Sila,,,Jungraithmayr 1981
+11,143F,None,Postverbal Negative Morphemes,Sila,,,Jungraithmayr 1981
+12,143G,None,Minor morphological means of signaling negation,Sila,,,Jungraithmayr 1981
+13,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Sila,,,Jungraithmayr 1981
+14,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sila,,,Jungraithmayr 1981
+15,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Sila,,,Jungraithmayr 1981
+16,144P,No NegSOV,NegSOV Order,Sila,,,Jungraithmayr 1981
+17,144Q,No SNegOV,SNegOV Order,Sila,,,Jungraithmayr 1981
+18,144R,Word&NoDoubleNeg,SONegV Order,Sila,,,Jungraithmayr 1981
+19,144S,NoSOVNeg,SOVNeg Order,Sila,,,Jungraithmayr 1981

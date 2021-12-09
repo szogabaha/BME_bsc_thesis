@@ -1,0 +1,18 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,37A,Definite affix,Definite Articles,Tangale,,,Jungraithmayr 1991
+1,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tangale,,,Jungraithmayr 1991
+2,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tangale,,,Jungraithmayr 1991
+3,81A,SVO,"Order of Subject, Object and Verb",Tangale,,,Jungraithmayr 1991
+4,82A,SV,Order of Subject and Verb,Tangale,,,Jungraithmayr 1991
+5,83A,VO,Order of Object and Verb,Tangale,,,Jungraithmayr 1991
+6,112A,Negative affix,Negative Morphemes,Tangale,,,Jungraithmayr 1991
+7,143A,[V-Neg],Order of Negative Morpheme and Verb,Tangale,,,Jungraithmayr 1991
+8,143E,None,Preverbal Negative Morphemes,Tangale,,,Jungraithmayr 1991
+9,143F,[V-Neg],Postverbal Negative Morphemes,Tangale,,,Jungraithmayr 1991
+10,143G,None,Minor morphological means of signaling negation,Tangale,,,Jungraithmayr 1991
+11,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tangale,,,Jungraithmayr 1991
+12,144D,S[V-Neg]O,The Position of Negative Morphemes in SVO Languages,Tangale,,,Jungraithmayr 1991
+13,144H,No NegSVO,NegSVO Order,Tangale,,,Jungraithmayr 1991
+14,144I,No SNegVO,SNegVO Order,Tangale,,,Jungraithmayr 1991
+15,144J,Suffix&NoDoubleNeg,SVNegO Order,Tangale,,,Jungraithmayr 1991
+16,144K,No SVONeg,SVONeg Order,Tangale,,,Jungraithmayr 1991

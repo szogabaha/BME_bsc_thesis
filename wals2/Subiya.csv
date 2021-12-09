@@ -1,0 +1,9 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural prefix,Coding of Nominal Plurality,Subiya,,,Baumbach 1997
+1,69A,Tense-aspect prefixes,Position of Tense-Aspect Affixes,Subiya,,,Baumbach 1997
+2,112A,Double negation,Negative Morphemes,Subiya,,,Baumbach 1997
+3,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Subiya,,,Baumbach 1997
+4,143B,[Neg-V-Neg],Obligatory Double Negation,Subiya,,,Baumbach 1997
+5,143E,[Neg-V],Preverbal Negative Morphemes,Subiya,,,Baumbach 1997
+6,143F,[V-Neg],Postverbal Negative Morphemes,Subiya,,,Baumbach 1997
+7,143G,None,Minor morphological means of signaling negation,Subiya,,,Baumbach 1997

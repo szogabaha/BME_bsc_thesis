@@ -1,0 +1,28 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Seminole,,,Nathan 1977
+1,33A,Plural suffix,Coding of Nominal Plurality,Seminole,,,Nathan 1977
+2,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Seminole,,,Nathan 1977
+3,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Seminole,,,Nathan 1977
+4,81A,SOV,"Order of Subject, Object and Verb",Seminole,,,Nathan 1977
+5,82A,SV,Order of Subject and Verb,Seminole,,,Nathan 1977
+6,83A,OV,Order of Object and Verb,Seminole,,,Nathan 1977
+7,85A,Postpositions,Order of Adposition and Noun Phrase,Seminole,,,Nathan 1977
+8,86A,Genitive-Noun,Order of Genitive and Noun,Seminole,,,Nathan 1977
+9,87A,Noun-Adjective,Order of Adjective and Noun,Seminole,,,Nathan 1977
+10,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Seminole,,,Nathan 1977
+11,89A,Noun-Numeral,Order of Numeral and Noun,Seminole,,,Nathan 1977
+12,92A,No question particle,Position of Polar Question Particles,Seminole,,,Nathan 1977
+13,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Seminole,,,
+14,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Seminole,,,
+15,112A,Negative affix,Negative Morphemes,Seminole,,,Nathan 1977
+16,116A,Interrogative verb morphology,Polar Questions,Seminole,,,Nathan 1977
+17,143A,[V-Neg],Order of Negative Morpheme and Verb,Seminole,,,Nathan 1977
+18,143E,None,Preverbal Negative Morphemes,Seminole,,,Nathan 1977
+19,143F,[V-Neg],Postverbal Negative Morphemes,Seminole,,,Nathan 1977
+20,143G,None,Minor morphological means of signaling negation,Seminole,,,Nathan 1977
+21,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Seminole,,,Nathan 1977
+22,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Seminole,,,Nathan 1977
+23,144P,No NegSOV,NegSOV Order,Seminole,,,Nathan 1977
+24,144Q,No SNegOV,SNegOV Order,Seminole,,,Nathan 1977
+25,144R,No SONegV,SONegV Order,Seminole,,,Nathan 1977
+26,144S,Suffix&NoDoubleNeg,SOVNeg Order,Seminole,,,Nathan 1977

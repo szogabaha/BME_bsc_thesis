@@ -1,0 +1,156 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Spanish,,,Harris 1969a
+1,2A,Average (5-6),Vowel Quality Inventories,Spanish,,,Harris 1969a
+2,3A,Average,Consonant-Vowel Ratio,Spanish,,,Harris 1969a
+3,4A,In fricatives alone,Voicing in Plosives and Fricatives,Spanish,,,Harris 1969a
+4,5A,Other,Voicing and Gaps in Plosive Systems,Spanish,,,Harris 1969a
+5,6A,None,Uvular Consonants,Spanish,,,Harris 1969a
+6,7A,No glottalized consonants,Glottalized Consonants,Spanish,,,Harris 1969a
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Spanish,,,Harris 1969a
+8,9A,No velar nasal,The Velar Nasal,Spanish,,,
+9,10A,Contrast absent,Vowel Nasalization,Spanish,,,Green 1988
+10,11A,None,Front Rounded Vowels,Spanish,,,Harris 1969a
+11,12A,Moderately complex,Syllable Structure,Spanish,,,Harris 1969a
+12,13A,No tones,Tone,Spanish,,,Harris 1969a
+13,14A,No fixed stress,Fixed Stress Locations,Spanish,,,Harris 1969a
+14,15A,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Spanish,,,Harris 1969a
+15,16A,Combined,Weight Factors in Weight-Sensitive Stress Systems,Spanish,,,Harris 1969a
+16,17A,Trochaic,Rhythm Types,Spanish,,,Harris 1969a
+17,18A,All present,Absence of Common Consonants,Spanish,,,Harris 1969a
+18,19A,'Th' sounds,Presence of Uncommon Consonants,Spanish,,,Harris 1969a
+19,20A,Exclusively concatenative,Fusion of Selected Inflectional Formatives,Spanish,,,Butt and Benjamin 2000
+20,21A,Monoexponential case,Exponence of Selected Inflectional Formatives,Spanish,,,Butt and Benjamin 2000
+21,21B,TAM+agreement,Exponence of Tense-Aspect-Mood Inflection,Spanish,,,Butt and Benjamin 2000
+22,22A,4-5 categories per word,Inflectional Synthesis of the Verb,Spanish,,,Butt and Benjamin 2000
+23,23A,Double marking,Locus of Marking in the Clause,Spanish,,,
+24,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Spanish,,,
+25,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Spanish,,,
+26,25B,Non-zero marking,Zero Marking of A and P Arguments,Spanish,,,
+27,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Spanish,,,Green 1988
+28,27A,No productive reduplication,Reduplication,Spanish,,,Lopez 2001
+29,28A,Core and non-core,Case Syncretism,Spanish,,,Butt and Benjamin 2000
+30,29A,Syncretic,Syncretism in Verbal Person/Number Marking,Spanish,,,Butt and Benjamin 2000
+31,30A,Two,Number of Genders,Spanish,,,
+32,31A,Sex-based,Sex-based and Non-sex-based Gender Systems,Spanish,,,
+33,32A,Semantic and formal,Systems of Gender Assignment,Spanish,,,
+34,33A,Plural suffix,Coding of Nominal Plurality,Spanish,,,
+35,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Spanish,,,
+36,35A,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Spanish,,,
+37,36A,No associative plural,The Associative Plural,Spanish,,,
+38,37A,Definite word distinct from demonstrative,Definite Articles,Spanish,,,Green 1988
+39,38A,Indefinite word same as 'one',Indefinite Articles,Spanish,,,Green 1988
+40,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Spanish,,,
+41,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Spanish,,,
+42,41A,Three-way contrast,Distance Contrasts in Demonstratives,Spanish,,,
+43,42A,Identical,Pronominal and Adnominal Demonstratives,Spanish,,,
+44,43A,Unrelated,Third Person Pronouns and Demonstratives,Spanish,,,Green 1988
+45,44A,In 3rd person + 1st and/or 2nd person,Gender Distinctions in Independent Personal Pronouns,Spanish,,,Green 1988
+46,45A,Binary politeness distinction,Politeness Distinctions in Pronouns,Spanish,,,Berschin et.al. 1995
+47,46A,Special,Indefinite Pronouns,Spanish,,,
+48,47A,Differentiated,Intensifiers and Reflexive Pronouns,Spanish,,,Otero 1999
+49,48A,No person marking,Person Marking on Adpositions,Spanish,,,Green 1988
+50,49A,No morphological case-marking,Number of Cases,Spanish,,,Butt and Benjamin 2000
+51,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Spanish,,,Butt and Benjamin 2000
+52,51A,No case affixes or adpositional clitics,Position of Case Affixes,Spanish,,,
+53,53A,"First, second, three-th",Ordinal Numerals,Spanish,,,
+54,54A,No distributive numerals,Distributive Numerals,Spanish,,,
+55,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Spanish,,,
+56,58A,Absent,Obligatory Possessive Inflection,Spanish,,,
+57,58B,None reported,Number of Possessive Nouns,Spanish,,,
+58,59A,No possessive classification,Possessive Classification,Spanish,,,
+59,61A,Without marking,Adjectives without Nouns,Spanish,,,
+60,62A,Ergative-Possessive,Action Nominal Constructions,Spanish,,,
+61,63A,'And' different from 'with',Noun Phrase Conjunction,Spanish,,,Ashcom and Goodell 1955
+62,64A,Identity,Nominal and Verbal Conjunction,Spanish,,,
+63,65A,Grammatical marking,Perfective/Imperfective Aspect,Spanish,,,Dahl 1985
+64,66A,"Present, no remoteness distinctions",The Past Tense,Spanish,,,Dahl 1985
+65,67A,Inflectional future exists,The Future Tense,Spanish,,,Dahl 1985
+66,68A,From possessive,The Perfect,Spanish,,,Dahl 1985
+67,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Spanish,,,
+68,70A,Second singular and second plural,The Morphological Imperative,Spanish,,,
+69,71A,Special imperative + normal negative,The Prohibitive,Spanish,,,
+70,72A,Neither type of system,Imperative-Hortative Systems,Spanish,,,
+71,73A,Inflectional optative absent,The Optative,Spanish,,,Butt and Benjamin 1994
+72,74A,Verbal constructions,Situational Possibility,Spanish,,,Butt and Benjamin 1988
+73,75A,Verbal constructions,Epistemic Possibility,Spanish,,,Butt and Benjamin 1988
+74,76A,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Spanish,,,Butt and Benjamin 1988
+75,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Spanish,,,Butt and Benjamin 2000
+76,78A,No grammatical evidentials,Coding of Evidentiality,Spanish,,,Butt and Benjamin 2000
+77,79A,Tense and aspect,Suppletion According to Tense and Aspect,Spanish,,,
+78,79B,Imperative,Suppletion in Imperatives and Hortatives,Spanish,,,
+79,80A,None,Verbal Number and Suppletion,Spanish,,,
+80,81A,SVO,"Order of Subject, Object and Verb",Spanish,,,Green 1988
+81,82A,No dominant order,Order of Subject and Verb,Spanish,,,
+82,83A,VO,Order of Object and Verb,Spanish,,,Green 1988
+83,84A,VOX,"Order of Object, Oblique, and Verb",Spanish,,,
+84,85A,Prepositions,Order of Adposition and Noun Phrase,Spanish,,,Green 1988
+85,86A,Noun-Genitive,Order of Genitive and Noun,Spanish,,,Green 1988
+86,87A,Noun-Adjective,Order of Adjective and Noun,Spanish,,,Green 1988
+87,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Spanish,,,Green 1988
+88,89A,Numeral-Noun,Order of Numeral and Noun,Spanish,,,Green 1988
+89,90A,Noun-Relative clause,Order of Relative Clause and Noun,Spanish,,,Green 1988
+90,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Spanish,,,Green 1988
+91,91A,Degree word-Adjective,Order of Degree Word and Adjective,Spanish,,,
+92,92A,No question particle,Position of Polar Question Particles,Spanish,,,Butt and Benjamin 2000
+93,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Spanish,,,Green 1988
+94,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Spanish,,,
+95,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Spanish,,,
+96,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Spanish,,,
+97,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Spanish,,,
+98,98A,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,Spanish,,,
+99,99A,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,Spanish,,,
+100,100A,Accusative,Alignment of Verbal Person Marking,Spanish,,,Green 1988
+101,101A,Subject affixes on verb,Expression of Pronominal Subjects,Spanish,,,
+102,102A,Both the A and P arguments,Verbal Person Marking,Spanish,,,Green 1988
+103,103A,No zero realization,Third Person Zero of Verbal Person Marking,Spanish,,,Green 1988
+104,104A,P precedes A,Order of Person Markers on the Verb,Spanish,,,Green 1988
+105,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Spanish,,,
+106,106A,Mixed,Reciprocal Constructions,Spanish,,,Green 1988
+107,107A,Present,Passive Constructions,Spanish,,,Green 1988
+108,108A,No antipassive,Antipassive Constructions,Spanish,,,
+109,108B,no antipassive,Productivity of the Antipassive Construction,Spanish,,,
+110,109A,No applicative construction,Applicative Constructions,Spanish,,,
+111,109B,No applicative construction,Other Roles of Applied Objects,Spanish,,,
+112,110A,Both,Periphrastic Causative Constructions,Spanish,,,
+113,111A,Both,Nonperiphrastic Causative Constructions,Spanish,,,
+114,112A,Negative particle,Negative Morphemes,Spanish,,,
+115,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Spanish,,,
+116,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Spanish,,,
+117,115A,Mixed behaviour,Negative Indefinite Pronouns and Predicate Negation,Spanish,,,
+118,116A,Interrogative word order,Polar Questions,Spanish,,,Butt and Benjamin 2000
+119,117A,'Have',Predicative Possession,Spanish,,,Jarvis et al. 1981
+120,118A,Nonverbal encoding,Predicative Adjectives,Spanish,,,
+121,119A,Different,Nominal and Locational Predication,Spanish,,,
+122,120A,Impossible,Zero Copula for Predicate Nominals,Spanish,,,
+123,121A,Particle,Comparative Constructions,Spanish,,,
+124,122A,Gap,Relativization on Subjects,Spanish,,,
+125,123A,Relative pronoun,Relativization on Obliques,Spanish,,,
+126,124A,Subject is left implicit,'Want' Complement Subjects,Spanish,,,
+127,125A,Deranked,Purpose Clauses,Spanish,,,Butt and Benjamin 2000
+128,126A,Balanced/deranked,'When' Clauses,Spanish,,,Butt and Benjamin 2000
+129,127A,Balanced/deranked,Reason Clauses,Spanish,,,Butt and Benjamin 2000
+130,128A,Balanced/deranked,Utterance Complement Clauses,Spanish,,,Butt and Benjamin 2000
+131,129A,Different,Hand and Arm,Spanish,,,Cuyás 1972
+132,130A,Different,Finger and Hand,Spanish,,,Cuyás 1972
+133,131A,Decimal,Numeral Bases,Spanish,,,
+134,132A,6,Number of Non-Derived Basic Colour Categories,Spanish,,,
+135,133A,11,Number of Basic Colour Categories,Spanish,,,
+136,134A,Green vs. blue,Green and Blue,Spanish,,,
+137,135A,Red vs. yellow,Red and Yellow,Spanish,,,
+138,136A,"M-T pronouns, paradigmatic",M-T Pronouns,Spanish,,,
+139,136B,m in first person singular,M in First Person Singular,Spanish,,,
+140,137A,No N-M pronouns,N-M Pronouns,Spanish,,,
+141,137B,No m in second person singular,M in Second Person Singular,Spanish,,,
+142,138A,Words derived from Min Nan Chinese te,Tea,Spanish,,,
+143,142A,Affective meanings,Para-Linguistic Usages of Clicks,Spanish,,,
+144,143A,NegV,Order of Negative Morpheme and Verb,Spanish,,,Green 1988
+145,143E,NegV,Preverbal Negative Morphemes,Spanish,,,Green 1988
+146,143F,None,Postverbal Negative Morphemes,Spanish,,,Green 1988
+147,143G,None,Minor morphological means of signaling negation,Spanish,,,Green 1988
+148,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Spanish,,,
+149,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Spanish,,,
+150,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Spanish,,,
+151,144H,No NegSVO,NegSVO Order,Spanish,,,
+152,144I,Word&NoDoubleNeg,SNegVO Order,Spanish,,,
+153,144J,No SVNegO,SVNegO Order,Spanish,,,
+154,144K,No SVONeg,SVONeg Order,Spanish,,,

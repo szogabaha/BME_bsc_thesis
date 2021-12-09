@@ -1,0 +1,88 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Somali,,,Andrzejewsky 1955
+1,2A,Large (7-14),Vowel Quality Inventories,Somali,,,Andrzejewsky 1955
+2,3A,Moderately low,Consonant-Vowel Ratio,Somali,,,Andrzejewsky 1955
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Somali,,,Andrzejewsky 1955
+4,5A,Missing /p/,Voicing and Gaps in Plosive Systems,Somali,,,Andrzejewsky 1955
+5,6A,Uvular stops only,Uvular Consonants,Somali,,,Andrzejewsky 1955
+6,7A,No glottalized consonants,Glottalized Consonants,Somali,,,Andrzejewsky 1955
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Somali,,,Andrzejewsky 1955
+8,9A,No velar nasal,The Velar Nasal,Somali,,,Puglielli 1997
+9,11A,None,Front Rounded Vowels,Somali,,,Andrzejewsky 1955
+10,12A,Moderately complex,Syllable Structure,Somali,,,Andrzejewsky 1955
+11,13A,Simple tone system,Tone,Somali,,,Andrzejewsky 1955
+12,18A,All present,Absence of Common Consonants,Somali,,,Andrzejewsky 1955
+13,19A,Pharyngeals,Presence of Uncommon Consonants,Somali,,,Andrzejewsky 1955
+14,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Somali,,,Kirk 1903
+15,27A,Productive full and partial reduplication,Reduplication,Somali,,,
+16,33A,Plural suffix,Coding of Nominal Plurality,Somali,,,Kirk 1905
+17,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Somali,,,Berchem 1991
+18,37A,Definite affix,Definite Articles,Somali,,,Kirk 1903
+19,38A,"No indefinite, but definite article",Indefinite Articles,Somali,,,Kirk 1905
+20,41A,Four-way contrast,Distance Contrasts in Demonstratives,Somali,,,Saeed 1999
+21,42A,Different inflection,Pronominal and Adnominal Demonstratives,Somali,,,Saeed 1999
+22,45A,No politeness distinction,Politeness Distinctions in Pronouns,Somali,,,Saeed 1999
+23,46A,Generic-noun-based,Indefinite Pronouns,Somali,,,Berchem 1991
+24,47A,Differentiated,Intensifiers and Reflexive Pronouns,Somali,,,Saeed 1999
+25,49A,3 cases,Number of Cases,Somali,,,Saeed 1999
+26,50A,Symmetrical,Asymmetrical Case-Marking,Somali,,,Saeed 1999
+27,51A,No case affixes or adpositional clitics,Position of Case Affixes,Somali,,,Kirk 1903
+28,52A,Differentiation,Comitatives and Instrumentals,Somali,,,El-Solami-Mewis 1987
+29,53A,"One-th, two-th, three-th",Ordinal Numerals,Somali,,,El-Solami-Mewis 1987
+30,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Somali,,,Kirk 1903
+31,63A,'And' different from 'with',Noun Phrase Conjunction,Somali,,,Serzisko 1984
+32,64A,Differentiation,Nominal and Verbal Conjunction,Somali,,,Berchem 1991
+33,65A,No grammatical marking,Perfective/Imperfective Aspect,Somali,,,
+34,66A,"Present, no remoteness distinctions",The Past Tense,Somali,,,
+35,67A,Inflectional future exists,The Future Tense,Somali,,,
+36,68A,No perfect,The Perfect,Somali,,,
+37,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Somali,,,Kirk 1903
+38,73A,Inflectional optative absent,The Optative,Somali,,,Dubnova 1990
+39,74A,Verbal constructions,Situational Possibility,Somali,,,Saeed 1999
+40,75A,Affixes on verbs,Epistemic Possibility,Somali,,,Saeed 1999
+41,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Somali,,,Saeed 1999
+42,81A,SOV,"Order of Subject, Object and Verb",Somali,,,Kirk 1903
+43,82A,SV,Order of Subject and Verb,Somali,,,Kirk 1903
+44,83A,OV,Order of Object and Verb,Somali,,,Kirk 1903
+45,85A,No dominant order,Order of Adposition and Noun Phrase,Somali,,,Kirk 1905
+46,86A,No dominant order,Order of Genitive and Noun,Somali,,,Kirk 1905
+47,87A,Noun-Adjective,Order of Adjective and Noun,Somali,,,Kirk 1903
+48,88A,Demonstrative suffix,Order of Demonstrative and Noun,Somali,,,Kirk 1903
+49,89A,Numeral-Noun,Order of Numeral and Noun,Somali,,,Kirk 1903
+50,90A,Noun-Relative clause,Order of Relative Clause and Noun,Somali,,,Kirk 1905
+51,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Somali,,,Kirk 1905
+52,91A,Degree word-Adjective,Order of Degree Word and Adjective,Somali,,,Kirk 1905
+53,92A,Other position,Position of Polar Question Particles,Somali,,,Kirk 1905
+54,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Somali,,,Kirk 1905
+55,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Somali,,,Kirk 1905
+56,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Somali,,,
+57,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Somali,,,
+58,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Somali,,,
+59,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Somali,,,Kirk 1905
+60,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Somali,,,Berchem 1991
+61,112A,Negative particle,Negative Morphemes,Somali,,,Kirk 1905
+62,113A,Asymmetric,Symmetric and Asymmetric Standard Negation,Somali,,,Saeed 1987
+63,114A,A/Fin and A/Cat,Subtypes of Asymmetric Standard Negation,Somali,,,Saeed 1987
+64,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Somali,,,Berchem 1991
+65,116A,Question particle,Polar Questions,Somali,,,Kirk 1905
+66,117A,Conjunctional,Predicative Possession,Somali,,,Serzisko 1984
+67,118A,Mixed,Predicative Adjectives,Somali,,,Bell 1953
+68,119A,Different,Nominal and Locational Predication,Somali,,,Bell 1953
+69,120A,Possible,Zero Copula for Predicate Nominals,Somali,,,Bell 1953
+70,124A,Subject is expressed overtly,'Want' Complement Subjects,Somali,,,Berchem 1991
+71,125A,Balanced,Purpose Clauses,Somali,,,Saeed 1999
+72,126A,Balanced,'When' Clauses,Somali,,,Saeed 1999
+73,127A,Balanced,Reason Clauses,Somali,,,Saeed 1999
+74,138A,Words derived from Sinitic cha,Tea,Somali,,,Malherbe and Rosenberg 1996
+75,142A,Logical meanings,Para-Linguistic Usages of Clicks,Somali,,,
+76,143A,NegV,Order of Negative Morpheme and Verb,Somali,,,Kirk 1905
+77,143E,NegV,Preverbal Negative Morphemes,Somali,,,Kirk 1905
+78,143F,None,Postverbal Negative Morphemes,Somali,,,Kirk 1905
+79,143G,None,Minor morphological means of signaling negation,Somali,,,Kirk 1905
+80,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Somali,,,Kirk 1905
+81,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Somali,,,Kirk 1905
+82,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Somali,,,Kirk 1905
+83,144P,No NegSOV,NegSOV Order,Somali,,,Kirk 1905
+84,144Q,No SNegOV,SNegOV Order,Somali,,,Kirk 1905
+85,144R,Word&NoDoubleNeg,SONegV Order,Somali,,,Kirk 1905
+86,144S,NoSOVNeg,SOVNeg Order,Somali,,,Kirk 1905

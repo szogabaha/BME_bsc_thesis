@@ -1,0 +1,42 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,No fixed stress,Fixed Stress Locations,Ulithian,,,Sohn and Bender 1973
+1,15A,Not predictable,Weight-Sensitive Stress,Ulithian,,,Sohn and Bender 1973
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Ulithian,,,Sohn and Bender 1973
+3,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Ulithian,,,Lynch 2002b
+4,34A,"All nouns, always optional",Occurrence of Nominal Plurality,Ulithian,,,Lynch 2002b
+5,37A,No definite or indefinite article,Definite Articles,Ulithian,,,Lynch 2002b
+6,38A,No definite or indefinite article,Indefinite Articles,Ulithian,,,Lynch 2002b
+7,51A,No case affixes or adpositional clitics,Position of Case Affixes,Ulithian,,,Lynch 2002b
+8,55A,Obligatory,Numeral Classifiers,Ulithian,,,Lynch 1998
+9,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Ulithian,,,Lynch 2002b
+10,64A,Identity,Nominal and Verbal Conjunction,Ulithian,,,Lynch 2002b
+11,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Ulithian,,,Lynch 2002b
+12,81A,SVO,"Order of Subject, Object and Verb",Ulithian,,,Lynch 2002b
+13,82A,SV,Order of Subject and Verb,Ulithian,,,Lynch 2002b
+14,83A,VO,Order of Object and Verb,Ulithian,,,Lynch 2002b
+15,84A,VOX,"Order of Object, Oblique, and Verb",Ulithian,,,Lynch 2002b
+16,85A,Prepositions,Order of Adposition and Noun Phrase,Ulithian,,,Lynch 2002b
+17,86A,Genitive-Noun,Order of Genitive and Noun,Ulithian,,,Lynch 2002b
+18,87A,Noun-Adjective,Order of Adjective and Noun,Ulithian,,,Lynch 2002b
+19,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Ulithian,,,Lynch 2002b
+20,89A,Numeral-Noun,Order of Numeral and Noun,Ulithian,,,Lynch 2002b
+21,90A,Noun-Relative clause,Order of Relative Clause and Noun,Ulithian,,,Lynch 2002b
+22,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Ulithian,,,Lynch 2002b
+23,92A,No question particle,Position of Polar Question Particles,Ulithian,,,Lynch 2002b
+24,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Ulithian,,,
+25,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Ulithian,,,
+26,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Ulithian,,,
+27,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Ulithian,,,Sohn and Bender 1973
+28,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Ulithian,,,Lynch 2002b
+29,116A,Interrogative intonation only,Polar Questions,Ulithian,,,Lynch 2002b
+30,143A,NegV,Order of Negative Morpheme and Verb,Ulithian,,,Lynch 2002b
+31,143E,NegV,Preverbal Negative Morphemes,Ulithian,,,Lynch 2002b
+32,143F,None,Postverbal Negative Morphemes,Ulithian,,,Lynch 2002b
+33,143G,None,Minor morphological means of signaling negation,Ulithian,,,Lynch 2002b
+34,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Ulithian,,,Lynch 2002b
+35,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Ulithian,,,Lynch 2002b
+36,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Ulithian,,,Lynch 2002b
+37,144H,No NegSVO,NegSVO Order,Ulithian,,,Lynch 2002b
+38,144I,Word&NoDoubleNeg,SNegVO Order,Ulithian,,,Lynch 2002b
+39,144J,No SVNegO,SVNegO Order,Ulithian,,,Lynch 2002b
+40,144K,No SVONeg,SVONeg Order,Ulithian,,,Lynch 2002b

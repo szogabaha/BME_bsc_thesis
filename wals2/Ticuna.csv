@@ -1,0 +1,34 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Ticuna,,,Anderson 1959
+1,2A,Average (5-6),Vowel Quality Inventories,Ticuna,,,Anderson 1959
+2,3A,Average,Consonant-Vowel Ratio,Ticuna,,,Anderson 1959
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Ticuna,,,Anderson 1959
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Ticuna,,,Anderson 1959
+5,6A,None,Uvular Consonants,Ticuna,,,Anderson 1959
+6,7A,No glottalized consonants,Glottalized Consonants,Ticuna,,,Anderson 1959
+7,8A,No laterals,Lateral Consonants,Ticuna,,,Anderson 1959
+8,11A,None,Front Rounded Vowels,Ticuna,,,Anderson 1959
+9,13A,Complex tone system,Tone,Ticuna,,,Anderson 1959
+10,18A,All present,Absence of Common Consonants,Ticuna,,,Anderson 1959
+11,19A,None,Presence of Uncommon Consonants,Ticuna,,,Anderson 1959
+12,26A,Equal prefixing and suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Ticuna,,,Montes Rodriguez 2004
+13,33A,Plural suffix,Coding of Nominal Plurality,Ticuna,,,Montes Rodriguez 2004
+14,51A,Case suffixes,Position of Case Affixes,Ticuna,,,Anderson 1962
+15,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Ticuna,,,Anderson 1962
+16,69A,Mixed type,Position of Tense-Aspect Affixes,Ticuna,,,Anderson 1962
+17,81A,No dominant order,"Order of Subject, Object and Verb",Ticuna,,,Anderson 1962
+18,83A,No dominant order,Order of Object and Verb,Ticuna,,,Anderson 1962
+19,84A,No dominant order,"Order of Object, Oblique, and Verb",Ticuna,,,Anderson 1962
+20,86A,No dominant order,Order of Genitive and Noun,Ticuna,,,Montes Rodriguez 2004
+21,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Ticuna,,,Montes Rodriguez 2004
+22,89A,Numeral-Noun,Order of Numeral and Noun,Ticuna,,,Montes Rodriguez 2004
+23,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Ticuna,,,Anderson 1962
+24,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Ticuna,,,
+25,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Ticuna,,,
+26,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Ticuna,,,
+27,129A,Different,Hand and Arm,Ticuna,,,de Alviano 1944
+28,130A,Different,Finger and Hand,Ticuna,,,de Alviano 1944
+29,132A,5,Number of Non-Derived Basic Colour Categories,Ticuna,,,
+30,133A,6-6.5,Number of Basic Colour Categories,Ticuna,,,
+31,134A,Green/blue,Green and Blue,Ticuna,,,
+32,135A,Red vs. yellow,Red and Yellow,Ticuna,,,

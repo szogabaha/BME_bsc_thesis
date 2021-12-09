@@ -1,0 +1,56 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Wiyot,,,Teeter 1964
+1,2A,Average (5-6),Vowel Quality Inventories,Wiyot,,,Teeter 1964
+2,3A,Moderately high,Consonant-Vowel Ratio,Wiyot,,,Teeter 1964
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Wiyot,,,Teeter 1964
+4,5A,Other,Voicing and Gaps in Plosive Systems,Wiyot,,,Teeter 1964
+5,6A,None,Uvular Consonants,Wiyot,,,Teeter 1964
+6,7A,No glottalized consonants,Glottalized Consonants,Wiyot,,,Teeter 1964
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Wiyot,,,Teeter 1964
+8,11A,None,Front Rounded Vowels,Wiyot,,,Teeter 1964
+9,13A,No tones,Tone,Wiyot,,,Teeter 1964
+10,14A,No fixed stress,Fixed Stress Locations,Wiyot,,,Proulx 1984
+11,15A,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Wiyot,,,Proulx 1984
+12,16A,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Wiyot,,,Proulx 1984
+13,17A,No rhythmic stress,Rhythm Types,Wiyot,,,Proulx 1984
+14,18A,All present,Absence of Common Consonants,Wiyot,,,Teeter 1964
+15,19A,None,Presence of Uncommon Consonants,Wiyot,,,Teeter 1964
+16,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Wiyot,,,Teeter 1964
+17,33A,No plural,Coding of Nominal Plurality,Wiyot,,,Teeter 1964
+18,37A,Demonstrative word used as definite article,Definite Articles,Wiyot,,,Teeter 1964
+19,51A,Case suffixes,Position of Case Affixes,Wiyot,,,Teeter 1964
+20,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Wiyot,,,Teeter 1964
+21,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Wiyot,,,Teeter 1964
+22,70A,Second person number-neutral,The Morphological Imperative,Wiyot,,,Teeter 1964
+23,71A,Special imperative + special negative,The Prohibitive,Wiyot,,,Teeter 1964
+24,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Wiyot,,,Teeter 1964
+25,78A,No grammatical evidentials,Coding of Evidentiality,Wiyot,,,Teeter 1964
+26,81A,No dominant order,"Order of Subject, Object and Verb",Wiyot,,,Teeter 1964
+27,82A,SV,Order of Subject and Verb,Wiyot,,,Teeter 1964
+28,83A,No dominant order,Order of Object and Verb,Wiyot,,,Reichard 1925
+29,84A,No dominant order,"Order of Object, Oblique, and Verb",Wiyot,,,Reichard 1925
+30,85A,No dominant order,Order of Adposition and Noun Phrase,Wiyot,,,Teeter 1964
+31,86A,Genitive-Noun,Order of Genitive and Noun,Wiyot,,,Teeter 1964
+32,87A,Noun-Adjective,Order of Adjective and Noun,Wiyot,,,Teeter 1964
+33,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Wiyot,,,Teeter 1964
+34,92A,Second position,Position of Polar Question Particles,Wiyot,,,Teeter 1964
+35,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Wiyot,,,Teeter 1964
+36,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Wiyot,,,
+37,96A,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Wiyot,,,
+38,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Wiyot,,,
+39,101A,Subject affixes on verb,Expression of Pronominal Subjects,Wiyot,,,Teeter 1964
+40,112A,Negative particle,Negative Morphemes,Wiyot,,,Teeter 1964
+41,113A,Both,Symmetric and Asymmetric Standard Negation,Wiyot,,,Teeter 1964
+42,114A,A/Fin and A/Cat,Subtypes of Asymmetric Standard Negation,Wiyot,,,Teeter 1964
+43,116A,Question particle,Polar Questions,Wiyot,,,Teeter 1964
+44,129A,Different,Hand and Arm,Wiyot,,,Teeter and Nichols 1993
+45,130A,Different,Finger and Hand,Wiyot,,,Teeter and Nichols 1993
+46,136A,No M-T pronouns,M-T Pronouns,Wiyot,,,Teeter 1964
+47,136B,No m in first person singular,M in First Person Singular,Wiyot,,,Teeter 1964
+48,137A,No N-M pronouns,N-M Pronouns,Wiyot,,,Teeter 1964
+49,137B,m in second person singular,M in Second Person Singular,Wiyot,,,Teeter 1964
+50,143A,OptDoubleNeg,Order of Negative Morpheme and Verb,Wiyot,,,Teeter 1964
+51,143C,Neg[V(-Neg)],Optional Double Negation,Wiyot,,,Teeter 1964
+52,143E,NegV,Preverbal Negative Morphemes,Wiyot,,,Teeter 1964
+53,143F,[V-Neg],Postverbal Negative Morphemes,Wiyot,,,Teeter 1964
+54,143G,None,Minor morphological means of signaling negation,Wiyot,,,Teeter 1964

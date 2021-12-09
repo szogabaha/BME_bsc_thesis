@@ -1,0 +1,24 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No velar nasal,The Velar Nasal,Soddo,,,Leslau 1968b
+1,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Soddo,,,Cohen 1931
+2,69A,Mixed type,Position of Tense-Aspect Affixes,Soddo,,,Cohen 1931
+3,81A,SOV,"Order of Subject, Object and Verb",Soddo,,,Cohen 1931
+4,82A,SV,Order of Subject and Verb,Soddo,,,Cohen 1931
+5,83A,OV,Order of Object and Verb,Soddo,,,Cohen 1931
+6,85A,No dominant order,Order of Adposition and Noun Phrase,Soddo,,,Cohen 1931
+7,86A,Genitive-Noun,Order of Genitive and Noun,Soddo,,,Cohen 1931
+8,87A,Adjective-Noun,Order of Adjective and Noun,Soddo,,,Cohen 1931
+9,94A,Mixed,Order of Adverbial Subordinator and Clause,Soddo,,,Cohen 1931
+10,95A,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Soddo,,,
+11,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Soddo,,,
+12,112A,Negative affix,Negative Morphemes,Soddo,,,Cohen 1931
+13,143A,[Neg-V],Order of Negative Morpheme and Verb,Soddo,,,Cohen 1931
+14,143E,[Neg-V],Preverbal Negative Morphemes,Soddo,,,Cohen 1931
+15,143F,None,Postverbal Negative Morphemes,Soddo,,,Cohen 1931
+16,143G,None,Minor morphological means of signaling negation,Soddo,,,Cohen 1931
+17,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Soddo,,,Cohen 1931
+18,144L,SO[Neg-V],The Position of Negative Morphemes in SOV Languages,Soddo,,,Cohen 1931
+19,144P,No NegSOV,NegSOV Order,Soddo,,,Cohen 1931
+20,144Q,No SNegOV,SNegOV Order,Soddo,,,Cohen 1931
+21,144R,Prefix&NoDoubleNeg,SONegV Order,Soddo,,,Cohen 1931
+22,144S,NoSOVNeg,SOVNeg Order,Soddo,,,Cohen 1931

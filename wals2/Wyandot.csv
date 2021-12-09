@@ -1,0 +1,19 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Wyandot,,,Kopris 2001
+1,69A,Mixed type,Position of Tense-Aspect Affixes,Wyandot,,,Kopris 2001
+2,81A,No dominant order,"Order of Subject, Object and Verb",Wyandot,,,Kopris 2001
+3,82A,VS,Order of Subject and Verb,Wyandot,,,Kopris 2001
+4,83A,VO,Order of Object and Verb,Wyandot,,,Kopris 2001
+5,84A,No dominant order,"Order of Object, Oblique, and Verb",Wyandot,,,Kopris 2001
+6,101A,Subject affixes on verb,Expression of Pronominal Subjects,Wyandot,,,Kopris 2001
+7,112A,Negative particle,Negative Morphemes,Wyandot,,,Kopris 2001
+8,143A,OptSingleNeg,Order of Negative Morpheme and Verb,Wyandot,,,Kopris 2001
+9,143E,NegV,Preverbal Negative Morphemes,Wyandot,,,Kopris 2001
+10,143F,None,Postverbal Negative Morphemes,Wyandot,,,Kopris 2001
+11,143G,None,Minor morphological means of signaling negation,Wyandot,,,Kopris 2001
+12,144A,OptSingleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Wyandot,,,Kopris 2001
+13,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Wyandot,,,Kopris 2001
+14,144T,OptSingleNeg,The Position of Negative Morphemes in Verb-Initial Languages,Wyandot,,,Kopris 2001
+15,144V,Word&Opt,Verb-Initial with Preverbal Negative,Wyandot,,,Kopris 2001
+16,144W,None,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,Wyandot,,,Kopris 2001
+17,144X,No clause-final neg,Verb-Initial with Clause-Final Negative,Wyandot,,,Kopris 2001

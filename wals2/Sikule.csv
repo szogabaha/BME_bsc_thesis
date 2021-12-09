@@ -1,0 +1,4 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,14A,Ultimate,Fixed Stress Locations,Sikule,,,Köhler 1955
+1,15A,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Sikule,,,Köhler 1955
+2,16A,No weight,Weight Factors in Weight-Sensitive Stress Systems,Sikule,,,Köhler 1955

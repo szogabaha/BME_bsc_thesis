@@ -1,0 +1,29 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tairora,,,Vincent 1973a
+1,33A,Plural suffix,Coding of Nominal Plurality,Tairora,,,Vincent 1973a
+2,51A,Case suffixes,Position of Case Affixes,Tairora,,,Vincent 1973a
+3,52A,Differentiation,Comitatives and Instrumentals,Tairora,,,Vincent 1973a
+4,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Tairora,,,Vincent 1973a
+5,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tairora,,,Vincent 1973a
+6,81A,SOV,"Order of Subject, Object and Verb",Tairora,,,Vincent 1973a
+7,82A,SV,Order of Subject and Verb,Tairora,,,Vincent 1973a
+8,83A,OV,Order of Object and Verb,Tairora,,,Vincent 1973a
+9,86A,Genitive-Noun,Order of Genitive and Noun,Tairora,,,Vincent 1973a
+10,87A,No dominant order,Order of Adjective and Noun,Tairora,,,Vincent 1973a
+11,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tairora,,,Vincent 1973a
+12,89A,Noun-Numeral,Order of Numeral and Noun,Tairora,,,Vincent 1973a
+13,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Tairora,,,Vincent and Vincent 1962
+14,97A,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tairora,,,
+15,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tairora,,,Vincent 1973a
+16,112A,Negative particle,Negative Morphemes,Tairora,,,Vincent 1973b
+17,143A,NegV,Order of Negative Morpheme and Verb,Tairora,,,Vincent 1973b
+18,143E,NegV,Preverbal Negative Morphemes,Tairora,,,Vincent 1973b
+19,143F,None,Postverbal Negative Morphemes,Tairora,,,Vincent 1973b
+20,143G,None,Minor morphological means of signaling negation,Tairora,,,Vincent 1973b
+21,144A,NegSOV,"Position of Negative Word With Respect to Subject, Object, and Verb",Tairora,,,Vincent 1973b
+22,144B,"Beginning, not immed preverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tairora,,,Vincent 1973b
+23,144L,NegSOV,The Position of Negative Morphemes in SOV Languages,Tairora,,,Vincent 1973b
+24,144P,NoDoubleNeg,NegSOV Order,Tairora,,,Vincent 1973b
+25,144Q,No SNegOV,SNegOV Order,Tairora,,,Vincent 1973b
+26,144R,No SONegV,SONegV Order,Tairora,,,Vincent 1973b
+27,144S,NoSOVNeg,SOVNeg Order,Tairora,,,Vincent 1973b

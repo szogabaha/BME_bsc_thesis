@@ -1,0 +1,54 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Warekena,,,Aikhenvald 1998
+1,27A,Productive full and partial reduplication,Reduplication,Warekena,,,
+2,33A,Plural suffix,Coding of Nominal Plurality,Warekena,,,Aikhenvald 1998
+3,36A,No associative plural,The Associative Plural,Warekena,,,
+4,41A,Two-way contrast,Distance Contrasts in Demonstratives,Warekena,,,Aikhenvald 1998
+5,42A,Identical,Pronominal and Adnominal Demonstratives,Warekena,,,Aikhenvald 1998
+6,44A,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Warekena,,,Aikhenvald 1998
+7,48A,Pronouns only,Person Marking on Adpositions,Warekena,,,Aikhenvald 1998
+8,51A,Case suffixes,Position of Case Affixes,Warekena,,,Aikhenvald 1998
+9,55A,Obligatory,Numeral Classifiers,Warekena,,,Aikhenvald 1998
+10,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Warekena,,,Aikhenvald 1998
+11,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Warekena,,,Aikhenvald 1998
+12,70A,Second singular and second plural,The Morphological Imperative,Warekena,,,Aikhenvald 1998
+13,71A,Normal imperative + special negative,The Prohibitive,Warekena,,,Aikhenvald 1998
+14,72A,Neither type of system,Imperative-Hortative Systems,Warekena,,,Aikhenvald 1998
+15,73A,Inflectional optative absent,The Optative,Warekena,,,Aikhenvald 1998
+16,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Warekena,,,Aikhenvald 1998
+17,78A,No grammatical evidentials,Coding of Evidentiality,Warekena,,,Aikhenvald 1998
+18,81A,SVO,"Order of Subject, Object and Verb",Warekena,,,Aikhenvald 1998
+19,82A,SV,Order of Subject and Verb,Warekena,,,Aikhenvald 1998
+20,83A,VO,Order of Object and Verb,Warekena,,,Aikhenvald 1998
+21,85A,Prepositions,Order of Adposition and Noun Phrase,Warekena,,,Aikhenvald 1998
+22,86A,Noun-Genitive,Order of Genitive and Noun,Warekena,,,Aikhenvald 1998
+23,87A,Noun-Adjective,Order of Adjective and Noun,Warekena,,,Aikhenvald 1998
+24,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Warekena,,,Aikhenvald 1998
+25,89A,Numeral-Noun,Order of Numeral and Noun,Warekena,,,Aikhenvald 1998
+26,92A,No question particle,Position of Polar Question Particles,Warekena,,,Aikhenvald 1998
+27,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Warekena,,,Aikhenvald 1998
+28,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Warekena,,,
+29,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Warekena,,,
+30,100A,Active,Alignment of Verbal Person Marking,Warekena,,,Aikhenvald 1998
+31,101A,Subject affixes on verb,Expression of Pronominal Subjects,Warekena,,,Aikhenvald 1998
+32,102A,Both the A and P arguments,Verbal Person Marking,Warekena,,,Aikhenvald 1998
+33,103A,Zero in all 3sg forms,Third Person Zero of Verbal Person Marking,Warekena,,,Aikhenvald 1998
+34,104A,A precedes P,Order of Person Markers on the Verb,Warekena,,,Aikhenvald 1998
+35,106A,Identical to reflexive,Reciprocal Constructions,Warekena,,,Aikhenvald 2007b
+36,107A,Absent,Passive Constructions,Warekena,,,Aikhenvald 1998
+37,112A,Double negation,Negative Morphemes,Warekena,,,Aikhenvald 1998
+38,116A,Interrogative word order,Polar Questions,Warekena,,,Aikhenvald 1998
+39,121A,Conjoined,Comparative Constructions,Warekena,,,Aikhenvald 1998
+40,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Warekena,,,Aikhenvald 1998
+41,143B,Neg[V-Neg],Obligatory Double Negation,Warekena,,,Aikhenvald 1998
+42,143E,NegV,Preverbal Negative Morphemes,Warekena,,,Aikhenvald 1998
+43,143F,[V-Neg],Postverbal Negative Morphemes,Warekena,,,Aikhenvald 1998
+44,143G,None,Minor morphological means of signaling negation,Warekena,,,Aikhenvald 1998
+45,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Warekena,,,Aikhenvald 1998
+46,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Warekena,,,Aikhenvald 1998
+47,144D,ObligNeg,The Position of Negative Morphemes in SVO Languages,Warekena,,,Aikhenvald 1998
+48,144F,SNeg[V-Neg]O,Obligatory Double Negation in SVO languages,Warekena,,,Aikhenvald 1998
+49,144H,No NegSVO,NegSVO Order,Warekena,,,Aikhenvald 1998
+50,144I,Word&OnlyWithAnotherNeg,SNegVO Order,Warekena,,,Aikhenvald 1998
+51,144J,Suffix&OnlyWithAnotherNeg,SVNegO Order,Warekena,,,Aikhenvald 1998
+52,144K,No SVONeg,SVONeg Order,Warekena,,,Aikhenvald 1998

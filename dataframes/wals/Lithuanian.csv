@@ -1,0 +1,81 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-lit,Large,Consonant Inventories,Lithuanian,,,Senn 1966;Augustitis 1964;Ambrazas et al. 1966
+2A-lit,Average (5-6),Vowel Quality Inventories,Lithuanian,,,Senn 1966;Augustitis 1964;Ambrazas et al. 1966
+3A-lit,Moderately high,Consonant-Vowel Ratio,Lithuanian,,,Ambrazas et al. 1966;Senn 1966;Augustitis 1964
+4A-lit,In both plosives and fricatives,Voicing in Plosives and Fricatives,Lithuanian,,,Senn 1966;Augustitis 1964;Ambrazas et al. 1966
+5A-lit,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Lithuanian,,,Ambrazas et al. 1966;Augustitis 1964;Senn 1966
+6A-lit,None,Uvular Consonants,Lithuanian,,,Ambrazas et al. 1966;Senn 1966;Augustitis 1964
+7A-lit,No glottalized consonants,Glottalized Consonants,Lithuanian,,,Ambrazas et al. 1966;Augustitis 1964;Senn 1966
+8A-lit,"Laterals, but no /l/, no obstruent laterals",Lateral Consonants,Lithuanian,,,Ambrazas et al. 1966;Augustitis 1964;Senn 1966
+11A-lit,None,Front Rounded Vowels,Lithuanian,,,Senn 1966;Ambrazas et al. 1966;Augustitis 1964
+12A-lit,Complex,Syllable Structure,Lithuanian,,,Augustitis 1964;Ambrazas et al. 1966;Senn 1966
+14A-lit,No fixed stress,Fixed Stress Locations,Lithuanian,,,Young 1991;Mathiassen 1996;Leskien 1919;Girdenis 1985;Ambrazas 1997;Otrebski 1958-1965
+15A-lit,Unbounded: Stress can be anywhere,Weight-Sensitive Stress,Lithuanian,,,Leskien 1919;Ambrazas 1997;Girdenis 1985;Mathiassen 1996;Otrebski 1958-1965;Young 1991
+16A-lit,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Lithuanian,,,Ambrazas 1997;Young 1991;Otrebski 1958-1965;Mathiassen 1996;Leskien 1919;Girdenis 1985
+17A-lit,Undetermined,Rhythm Types,Lithuanian,,,Young 1991;Ambrazas 1997;Girdenis 1985;Leskien 1919;Mathiassen 1996;Otrebski 1958-1965
+18A-lit,All present,Absence of Common Consonants,Lithuanian,,,Senn 1966;Ambrazas et al. 1966;Augustitis 1964
+19A-lit,None,Presence of Uncommon Consonants,Lithuanian,,,Senn 1966;Ambrazas et al. 1966;Augustitis 1964
+26A-lit,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Lithuanian,,,Ambrazas 1997;Dambriunas et al. 1966
+33A-lit,Plural suffix,Coding of Nominal Plurality,Lithuanian,,,Dambriunas et al. 1966
+34A-lit,"All nouns, always obligatory",Occurrence of Nominal Plurality,Lithuanian,,,Ambrazas 1997
+37A-lit,No definite or indefinite article,Definite Articles,Lithuanian,,,Dambriunas et al. 1966
+38A-lit,No definite or indefinite article,Indefinite Articles,Lithuanian,,,Dambriunas et al. 1966
+41A-lit,Two-way contrast,Distance Contrasts in Demonstratives,Lithuanian,,,Ambrazas 1997
+42A-lit,Identical,Pronominal and Adnominal Demonstratives,Lithuanian,,,Ambrazas 1997
+45A-lit,Multiple politeness distinctions,Politeness Distinctions in Pronouns,Lithuanian,,,Ambrazas 1997
+46A-lit,Interrogative-based,Indefinite Pronouns,Lithuanian,,,Haspelmath 1997
+47A-lit,Differentiated,Intensifiers and Reflexive Pronouns,Lithuanian,,,Senn 1966
+49A-lit,6-7 cases,Number of Cases,Lithuanian,,,Mathiassen 1996
+50A-lit,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Lithuanian,,,Mathiassen 1996
+51A-lit,Case suffixes,Position of Case Affixes,Lithuanian,,,Dambriunas et al. 1966
+52A-lit,Mixed,Comitatives and Instrumentals,Lithuanian,,,Eckert et al. 1998
+53A-lit,"First, second, three-th",Ordinal Numerals,Lithuanian,,,Eckert et al. 1994
+54A-lit,Marked by preceding word,Distributive Numerals,Lithuanian,,,Ambrazas 1997
+63A-lit,'And' different from 'with',Noun Phrase Conjunction,Lithuanian,,,Senn 1966
+69A-lit,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Lithuanian,,,Dambriunas et al. 1966
+70A-lit,Second singular and second plural,The Morphological Imperative,Lithuanian,,,Ambrazas 1997
+71A-lit,Normal imperative + normal negative,The Prohibitive,Lithuanian,,,
+72A-lit,Neither type of system,Imperative-Hortative Systems,Lithuanian,,,Dambriunas et al. 1966
+74A-lit,Verbal constructions,Situational Possibility,Lithuanian,,,Ambrazas 1997
+75A-lit,Verbal constructions,Epistemic Possibility,Lithuanian,,,Ambrazas 1997
+76A-lit,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Lithuanian,,,Ambrazas 1997
+77A-lit,Indirect only,Semantic Distinctions of Evidentiality,Lithuanian,,,Mathiassen 1996
+78A-lit,Verbal affix or clitic,Coding of Evidentiality,Lithuanian,,,Mathiassen 1996
+81A-lit,SVO,"Order of Subject, Object and Verb",Lithuanian,,,Dambriunas et al. 1966
+82A-lit,SV,Order of Subject and Verb,Lithuanian,,,Dambriunas et al. 1966
+83A-lit,VO,Order of Object and Verb,Lithuanian,,,Dambriunas et al. 1966
+85A-lit,Prepositions,Order of Adposition and Noun Phrase,Lithuanian,,,Dambriunas et al. 1966
+86A-lit,Genitive-Noun,Order of Genitive and Noun,Lithuanian,,,Dambriunas et al. 1966
+87A-lit,Adjective-Noun,Order of Adjective and Noun,Lithuanian,,,Dambriunas et al. 1966
+88A-lit,Demonstrative-Noun,Order of Demonstrative and Noun,Lithuanian,,,Dambriunas et al. 1966
+89A-lit,Numeral-Noun,Order of Numeral and Noun,Lithuanian,,,Dambriunas et al. 1966
+90A-lit,Noun-Relative clause,Order of Relative Clause and Noun,Lithuanian,,,Dambriunas et al. 1966
+90C-lit,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Lithuanian,,,Dambriunas et al. 1966
+91A-lit,Degree word-Adjective,Order of Degree Word and Adjective,Lithuanian,,,Dambriunas et al. 1966
+92A-lit,Initial,Position of Polar Question Particles,Lithuanian,,,Dambriunas et al. 1966
+93A-lit,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Lithuanian,,,Dambriunas et al. 1966
+94A-lit,Initial subordinator word,Order of Adverbial Subordinator and Clause,Lithuanian,,,Dambriunas et al. 1966
+95A-lit,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Lithuanian,,,
+96A-lit,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Lithuanian,,,
+97A-lit,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Lithuanian,,,
+101A-lit,Subject affixes on verb,Expression of Pronominal Subjects,Lithuanian,,,Ambrazas 1997
+106A-lit,Mixed,Reciprocal Constructions,Lithuanian,,,Geniusiene 2007
+112A-lit,Negative affix,Negative Morphemes,Lithuanian,,,Dambriunas et al. 1966
+115A-lit,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Lithuanian,,,Haspelmath 1997
+116A-lit,Question particle,Polar Questions,Lithuanian,,,Dambriunas et al. 1966
+118A-lit,Nonverbal encoding,Predicative Adjectives,Lithuanian,,,Senn 1966
+119A-lit,Identical,Nominal and Locational Predication,Lithuanian,,,Senn 1966
+120A-lit,Possible,Zero Copula for Predicate Nominals,Lithuanian,,,Senn 1966
+129A-lit,Identical,Hand and Arm,Lithuanian,,,Baravykas 1967
+130A-lit,Different,Finger and Hand,Lithuanian,,,Baravykas 1967
+138A-lit,Others,Tea,Lithuanian,,,Malherbe and Rosenberg 1996
+143A-lit,[Neg-V],Order of Negative Morpheme and Verb,Lithuanian,,,Dambriunas et al. 1966
+143E-lit,[Neg-V],Preverbal Negative Morphemes,Lithuanian,,,Dambriunas et al. 1966
+143F-lit,None,Postverbal Negative Morphemes,Lithuanian,,,Dambriunas et al. 1966
+143G-lit,None,Minor morphological means of signaling negation,Lithuanian,,,Dambriunas et al. 1966
+144A-lit,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Lithuanian,,,Dambriunas et al. 1966
+144D-lit,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Lithuanian,,,Dambriunas et al. 1966
+144H-lit,No NegSVO,NegSVO Order,Lithuanian,,,Dambriunas et al. 1966
+144I-lit,Prefix&NoDoubleNeg,SNegVO Order,Lithuanian,,,Dambriunas et al. 1966
+144J-lit,No SVNegO,SVNegO Order,Lithuanian,,,Dambriunas et al. 1966
+144K-lit,No SVONeg,SVONeg Order,Lithuanian,,,Dambriunas et al. 1966

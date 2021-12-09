@@ -1,0 +1,35 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,Initial velar nasal,The Velar Nasal,Stieng,,,Azémar 1887
+1,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Stieng,,,Miller 1976
+2,33A,Plural word,Coding of Nominal Plurality,Stieng,,,Miller 1976
+3,37A,No definite or indefinite article,Definite Articles,Stieng,,,Miller 1976
+4,38A,No definite or indefinite article,Indefinite Articles,Stieng,,,Miller 1976
+5,51A,No case affixes or adpositional clitics,Position of Case Affixes,Stieng,,,Miller 1976
+6,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Stieng,,,Miller 1976
+7,81A,SVO,"Order of Subject, Object and Verb",Stieng,,,Miller 1976
+8,82A,SV,Order of Subject and Verb,Stieng,,,Miller 1976
+9,83A,VO,Order of Object and Verb,Stieng,,,Miller 1976
+10,84A,VOX,"Order of Object, Oblique, and Verb",Stieng,,,Miller 1976
+11,85A,Prepositions,Order of Adposition and Noun Phrase,Stieng,,,Miller 1976
+12,86A,Noun-Genitive,Order of Genitive and Noun,Stieng,,,Miller 1976
+13,87A,Noun-Adjective,Order of Adjective and Noun,Stieng,,,Miller 1976
+14,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Stieng,,,Miller 1976
+15,89A,No dominant order,Order of Numeral and Noun,Stieng,,,Miller 1976
+16,92A,Final,Position of Polar Question Particles,Stieng,,,Miller 1976
+17,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Stieng,,,Miller 1976
+18,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Stieng,,,Miller 1976
+19,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Stieng,,,
+20,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Stieng,,,
+21,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Stieng,,,Miller 1976
+22,116A,Question particle,Polar Questions,Stieng,,,Miller 1976
+23,143A,NegV,Order of Negative Morpheme and Verb,Stieng,,,Miller 1976
+24,143E,NegV,Preverbal Negative Morphemes,Stieng,,,Miller 1976
+25,143F,None,Postverbal Negative Morphemes,Stieng,,,Miller 1976
+26,143G,None,Minor morphological means of signaling negation,Stieng,,,Miller 1976
+27,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Stieng,,,Miller 1976
+28,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Stieng,,,Miller 1976
+29,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Stieng,,,Miller 1976
+30,144H,No NegSVO,NegSVO Order,Stieng,,,Miller 1976
+31,144I,Word&NoDoubleNeg,SNegVO Order,Stieng,,,Miller 1976
+32,144J,No SVNegO,SVNegO Order,Stieng,,,Miller 1976
+33,144K,No SVONeg,SVONeg Order,Stieng,,,Miller 1976

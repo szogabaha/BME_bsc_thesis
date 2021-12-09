@@ -1,0 +1,105 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Small,Consonant Inventories,Usan,,,Reesink 1987
+1,2A,Average (5-6),Vowel Quality Inventories,Usan,,,Reesink 1987
+2,3A,Moderately low,Consonant-Vowel Ratio,Usan,,,Reesink 1987
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Usan,,,Reesink 1987
+4,5A,Other,Voicing and Gaps in Plosive Systems,Usan,,,Reesink 1987
+5,6A,None,Uvular Consonants,Usan,,,Reesink 1987
+6,7A,No glottalized consonants,Glottalized Consonants,Usan,,,Reesink 1987
+7,8A,No laterals,Lateral Consonants,Usan,,,Reesink 1987
+8,9A,No velar nasal,The Velar Nasal,Usan,,,Reesink 1987
+9,10A,Contrast absent,Vowel Nasalization,Usan,,,Reesink 1987
+10,11A,None,Front Rounded Vowels,Usan,,,Reesink 1987
+11,12A,Moderately complex,Syllable Structure,Usan,,,Reesink 1987
+12,13A,No tones,Tone,Usan,,,Reesink 1987
+13,14A,No fixed stress,Fixed Stress Locations,Usan,,,Reesink 1987
+14,15A,Not predictable,Weight-Sensitive Stress,Usan,,,Reesink 1987
+15,16A,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Usan,,,Reesink 1987
+16,18A,All present,Absence of Common Consonants,Usan,,,Reesink 1987
+17,19A,None,Presence of Uncommon Consonants,Usan,,,Reesink 1987
+18,23A,Head marking,Locus of Marking in the Clause,Usan,,,Reesink 1987
+19,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Usan,,,Reesink 1987
+20,25A,Head-marking,Locus of Marking: Whole-language Typology,Usan,,,Reesink 1987
+21,25B,Non-zero marking,Zero Marking of A and P Arguments,Usan,,,Reesink 1987
+22,28A,No case marking,Case Syncretism,Usan,,,Reesink 1987
+23,29A,Syncretic,Syncretism in Verbal Person/Number Marking,Usan,,,Reesink 1987
+24,30A,None,Number of Genders,Usan,,,Reesink 1987
+25,31A,No gender,Sex-based and Non-sex-based Gender Systems,Usan,,,Reesink 1987
+26,32A,No gender,Systems of Gender Assignment,Usan,,,Reesink 1987
+27,34A,No nominal plural,Occurrence of Nominal Plurality,Usan,,,Reesink 1987
+28,35A,Person-number stem,Plurality in Independent Personal Pronouns,Usan,,,Reesink 1987
+29,37A,Demonstrative word used as definite article,Definite Articles,Usan,,,Reesink 1987
+30,39A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Usan,,,Reesink 1987
+31,40A,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Usan,,,Reesink 1987
+32,43A,Unrelated,Third Person Pronouns and Demonstratives,Usan,,,Reesink 1987
+33,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Usan,,,Reesink 1987
+34,46A,Generic-noun-based,Indefinite Pronouns,Usan,,,Reesink 1987
+35,47A,Differentiated,Intensifiers and Reflexive Pronouns,Usan,,,Reesink 1987
+36,48A,Pronouns only,Person Marking on Adpositions,Usan,,,Reesink 1987
+37,49A,Exclusively borderline case-marking,Number of Cases,Usan,,,Reesink 1987
+38,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Usan,,,Reesink 1987
+39,53A,Various,Ordinal Numerals,Usan,,,
+40,63A,'And' different from 'with',Noun Phrase Conjunction,Usan,,,Reesink 1984
+41,64A,Identity,Nominal and Verbal Conjunction,Usan,,,Reesink 1987
+42,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Usan,,,Reesink 1987
+43,73A,Inflectional optative absent,The Optative,Usan,,,Reesink 1987
+44,74A,Affixes on verbs,Situational Possibility,Usan,,,Reesink 1987
+45,75A,Affixes on verbs,Epistemic Possibility,Usan,,,Reesink 1987
+46,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Usan,,,Reesink 1987
+47,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Usan,,,Reesink 1987
+48,78A,No grammatical evidentials,Coding of Evidentiality,Usan,,,Reesink 1987
+49,79A,Tense,Suppletion According to Tense and Aspect,Usan,,,
+50,79B,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Usan,,,
+51,80A,"Singular-plural pairs, suppletion",Verbal Number and Suppletion,Usan,,,
+52,81A,SOV,"Order of Subject, Object and Verb",Usan,,,Reesink 1987
+53,82A,SV,Order of Subject and Verb,Usan,,,Reesink 1987
+54,83A,OV,Order of Object and Verb,Usan,,,Reesink 1987
+55,85A,Postpositions,Order of Adposition and Noun Phrase,Usan,,,Reesink 1987
+56,86A,Genitive-Noun,Order of Genitive and Noun,Usan,,,Reesink 1987
+57,87A,Noun-Adjective,Order of Adjective and Noun,Usan,,,Reesink 1987
+58,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Usan,,,Reesink 1987
+59,89A,Noun-Numeral,Order of Numeral and Noun,Usan,,,Reesink 1987
+60,91A,Degree word-Adjective,Order of Degree Word and Adjective,Usan,,,Reesink 1987
+61,92A,No question particle,Position of Polar Question Particles,Usan,,,Reesink 1987
+62,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Usan,,,Reesink 1987
+63,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Usan,,,
+64,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Usan,,,
+65,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Usan,,,Reesink 1987
+66,99A,Neutral,Alignment of Case Marking of Pronouns,Usan,,,Reesink 1987
+67,100A,Accusative,Alignment of Verbal Person Marking,Usan,,,Reesink 1987
+68,101A,Subject affixes on verb,Expression of Pronominal Subjects,Usan,,,Reesink 1987
+69,102A,Both the A and P arguments,Verbal Person Marking,Usan,,,Reesink 1987
+70,103A,No zero realization,Third Person Zero of Verbal Person Marking,Usan,,,Reesink 1987
+71,104A,P precedes A,Order of Person Markers on the Verb,Usan,,,Reesink 1987
+72,105A,Secondary-object construction,Ditransitive Constructions: The Verb 'Give',Usan,,,Reesink 1987
+73,107A,Absent,Passive Constructions,Usan,,,Reesink 1987
+74,108A,No antipassive,Antipassive Constructions,Usan,,,Reesink 1987
+75,108B,no antipassive,Productivity of the Antipassive Construction,Usan,,,Reesink 1987
+76,109A,Benefactive object; both bases,Applicative Constructions,Usan,,,Reesink 1987
+77,109B,No other roles (= Only benefactive),Other Roles of Applied Objects,Usan,,,
+78,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Usan,,,Reesink 1987
+79,112A,Negative particle,Negative Morphemes,Usan,,,Reesink 1987
+80,113A,Both,Symmetric and Asymmetric Standard Negation,Usan,,,Reesink 1987
+81,114A,A/Fin and A/NonReal,Subtypes of Asymmetric Standard Negation,Usan,,,Reesink 1987
+82,116A,Interrogative intonation only,Polar Questions,Usan,,,Reesink 1987
+83,117A,Topic,Predicative Possession,Usan,,,Reesink 1984
+84,118A,Nonverbal encoding,Predicative Adjectives,Usan,,,Reesink 1984
+85,119A,Identical,Nominal and Locational Predication,Usan,,,Reesink 1984
+86,120A,Possible,Zero Copula for Predicate Nominals,Usan,,,Reesink 1984
+87,122A,Non-reduction,Relativization on Subjects,Usan,,,Reesink 1987
+88,123A,Non-reduction,Relativization on Obliques,Usan,,,Reesink 1987
+89,136A,"M-T pronouns, paradigmatic",M-T Pronouns,Usan,,,Reesink 1987
+90,136B,m in first person singular,M in First Person Singular,Usan,,,Reesink 1987
+91,137A,No N-M pronouns,N-M Pronouns,Usan,,,Reesink 1987
+92,137B,No m in second person singular,M in Second Person Singular,Usan,,,Reesink 1987
+93,143A,NegV,Order of Negative Morpheme and Verb,Usan,,,Reesink 1987
+94,143E,NegV,Preverbal Negative Morphemes,Usan,,,Reesink 1987
+95,143F,None,Postverbal Negative Morphemes,Usan,,,Reesink 1987
+96,143G,None,Minor morphological means of signaling negation,Usan,,,Reesink 1987
+97,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Usan,,,Reesink 1987
+98,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Usan,,,Reesink 1987
+99,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Usan,,,Reesink 1987
+100,144P,No NegSOV,NegSOV Order,Usan,,,Reesink 1987
+101,144Q,No SNegOV,SNegOV Order,Usan,,,Reesink 1987
+102,144R,Word&NoDoubleNeg,SONegV Order,Usan,,,Reesink 1987
+103,144S,NoSOVNeg,SOVNeg Order,Usan,,,Reesink 1987

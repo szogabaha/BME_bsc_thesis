@@ -1,0 +1,59 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+14A-dsh,No fixed stress,Fixed Stress Locations,Danish,,,Rischel 1970;Rischel 1972;Rischel 1982
+15A-dsh,Combined: Right-edge and unbounded,Weight-Sensitive Stress,Danish,,,Rischel 1970;Rischel 1972;Rischel 1982
+16A-dsh,Long vowel or coda consonant,Weight Factors in Weight-Sensitive Stress Systems,Danish,,,Rischel 1970;Rischel 1972;Rischel 1982
+26A-dsh,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Danish,,,Bredsdorff 1958;Allan et al. 1995;Koefoed 1958
+33A-dsh,Plural suffix,Coding of Nominal Plurality,Danish,,,Bredsdorff 1958;Allan et al. 1995
+37A-dsh,Definite affix,Definite Articles,Danish,,,Koefoed 1958;Bredsdorff 1958
+38A-dsh,Indefinite word distinct from 'one',Indefinite Articles,Danish,,,Bredsdorff 1958
+45A-dsh,Binary politeness distinction,Politeness Distinctions in Pronouns,Danish,,,Diderichsen 1979
+47A-dsh,Identical,Intensifiers and Reflexive Pronouns,Danish,,,Glyn and Gade 1981
+51A-dsh,Case suffixes,Position of Case Affixes,Danish,,,Bredsdorff 1958
+52A-dsh,Identity,Comitatives and Instrumentals,Danish,,,Nielsen 1975
+53A-dsh,"First, second, three-th",Ordinal Numerals,Danish,,,Nielsen 1975
+57A-dsh,No possessive affixes,Position of Pronominal Possessive Affixes,Danish,,,Bredsdorff 1958
+69A-dsh,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Danish,,,Bredsdorff 1958;Allan et al. 1995
+70A-dsh,Second person number-neutral,The Morphological Imperative,Danish,,,Allan et al. 1995;Haberland 1994
+71A-dsh,Normal imperative + normal negative,The Prohibitive,Danish,,,
+72A-dsh,Neither type of system,Imperative-Hortative Systems,Danish,,,
+73A-dsh,Inflectional optative absent,The Optative,Danish,,,Allan et al. 1995
+74A-dsh,Verbal constructions,Situational Possibility,Danish,,,Allan et al. 1995
+75A-dsh,Verbal constructions,Epistemic Possibility,Danish,,,Allan et al. 1995
+76A-dsh,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Danish,,,Allan et al. 1995
+81A-dsh,SVO,"Order of Subject, Object and Verb",Danish,,,Bredsdorff 1958;Allan et al. 1995
+82A-dsh,SV,Order of Subject and Verb,Danish,,,Allan et al. 1995;Bredsdorff 1958
+83A-dsh,VO,Order of Object and Verb,Danish,,,Bredsdorff 1958;Allan et al. 1995
+84A-dsh,VOX,"Order of Object, Oblique, and Verb",Danish,,,Allan et al. 1995
+85A-dsh,Prepositions,Order of Adposition and Noun Phrase,Danish,,,Allan et al. 1995;Koefoed 1958;Bredsdorff 1958
+86A-dsh,Genitive-Noun,Order of Genitive and Noun,Danish,,,Bredsdorff 1958;Koefoed 1958
+87A-dsh,Adjective-Noun,Order of Adjective and Noun,Danish,,,Allan et al. 1995;Bredsdorff 1958;Koefoed 1958
+88A-dsh,Demonstrative-Noun,Order of Demonstrative and Noun,Danish,,,Koefoed 1958;Bredsdorff 1958
+89A-dsh,Numeral-Noun,Order of Numeral and Noun,Danish,,,Koefoed 1958;Bredsdorff 1958
+90A-dsh,Noun-Relative clause,Order of Relative Clause and Noun,Danish,,,Allan et al. 1995;Bredsdorff 1958
+90C-dsh,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Danish,,,Allan et al. 1995;Bredsdorff 1958
+91A-dsh,Degree word-Adjective,Order of Degree Word and Adjective,Danish,,,Allan et al. 1995;Bredsdorff 1958
+92A-dsh,No question particle,Position of Polar Question Particles,Danish,,,Allan et al. 1995;Koefoed 1958
+93A-dsh,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Danish,,,Allan et al. 1995;Bredsdorff 1958
+94A-dsh,Initial subordinator word,Order of Adverbial Subordinator and Clause,Danish,,,Bredsdorff 1958;Allan et al. 1995
+95A-dsh,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Danish,,,
+96A-dsh,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Danish,,,
+97A-dsh,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Danish,,,
+101A-dsh,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Danish,,,Allan et al. 1995;Bredsdorff 1958
+112A-dsh,Negative particle,Negative Morphemes,Danish,,,Allan et al. 1995;Bredsdorff 1958
+116A-dsh,Interrogative word order,Polar Questions,Danish,,,Koefoed 1958;Allan et al. 1995
+129A-dsh,Different,Hand and Arm,Danish,,,Staff of Editions Berlitz 1974
+130A-dsh,Different,Finger and Hand,Danish,,,Staff of Editions Berlitz 1974
+131A-dsh,Hybrid vigesimal-decimal,Numeral Bases,Danish,,,Allan et al. 1995
+138A-dsh,Words derived from Min Nan Chinese te,Tea,Danish,,,
+142A-dsh,Affective meanings,Para-Linguistic Usages of Clicks,Danish,,,
+143A-dsh,Type 1 / Type 2,Order of Negative Morpheme and Verb,Danish,,,Allan et al. 1995;Bredsdorff 1958
+143E-dsh,NegV,Preverbal Negative Morphemes,Danish,,,Allan et al. 1995;Bredsdorff 1958
+143F-dsh,VNeg,Postverbal Negative Morphemes,Danish,,,Bredsdorff 1958;Allan et al. 1995
+143G-dsh,None,Minor morphological means of signaling negation,Danish,,,Bredsdorff 1958;Allan et al. 1995
+144A-dsh,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",Danish,,,Bredsdorff 1958;Allan et al. 1995
+144D-dsh,More than one construction,The Position of Negative Morphemes in SVO Languages,Danish,,,Bredsdorff 1958;Allan et al. 1995
+144E-dsh,SNegVO/SVNegO,Multiple Negative Constructions in SVO Languages,Danish,,,Allan et al. 1995;Bredsdorff 1958
+144H-dsh,No NegSVO,NegSVO Order,Danish,,,Bredsdorff 1958;Allan et al. 1995
+144I-dsh,Word&NoDoubleNeg,SNegVO Order,Danish,,,Bredsdorff 1958;Allan et al. 1995
+144J-dsh,Word&NoDoubleNeg,SVNegO Order,Danish,,,Allan et al. 1995;Bredsdorff 1958
+144K-dsh,No SVONeg,SVONeg Order,Danish,,,Bredsdorff 1958;Allan et al. 1995

@@ -1,0 +1,56 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Average,Consonant Inventories,Tamang (Eastern),,,Mazaudon 1973
+1,2A,Average (5-6),Vowel Quality Inventories,Tamang (Eastern),,,Mazaudon 1973
+2,3A,Average,Consonant-Vowel Ratio,Tamang (Eastern),,,Mazaudon 1973
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Tamang (Eastern),,,Mazaudon 1973
+4,5A,Other,Voicing and Gaps in Plosive Systems,Tamang (Eastern),,,Mazaudon 1973
+5,6A,None,Uvular Consonants,Tamang (Eastern),,,Mazaudon 1973
+6,7A,No glottalized consonants,Glottalized Consonants,Tamang (Eastern),,,Mazaudon 1973
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Tamang (Eastern),,,Mazaudon 1973
+8,11A,None,Front Rounded Vowels,Tamang (Eastern),,,Mazaudon 1973
+9,12A,Moderately complex,Syllable Structure,Tamang (Eastern),,,Mazaudon 1973
+10,13A,Simple tone system,Tone,Tamang (Eastern),,,Mazaudon 1973
+11,18A,All present,Absence of Common Consonants,Tamang (Eastern),,,Mazaudon 1973
+12,19A,None,Presence of Uncommon Consonants,Tamang (Eastern),,,Mazaudon 1973
+13,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tamang (Eastern),,,Mazaudon 1976
+14,33A,Plural word,Coding of Nominal Plurality,Tamang (Eastern),,,Mazaudon 1976
+15,36A,Unique affixal associative plural,The Associative Plural,Tamang (Eastern),,,
+16,37A,Demonstrative word used as definite article,Definite Articles,Tamang (Eastern),,,Mazaudon 2003
+17,38A,Indefinite word same as 'one',Indefinite Articles,Tamang (Eastern),,,Mazaudon 2003
+18,51A,Postpositional clitics,Position of Case Affixes,Tamang (Eastern),,,Mazaudon 2003
+19,56A,"Formally similar, with interrogative",Conjunctions and Universal Quantifiers,Tamang (Eastern),,,Mazaudon 1976
+20,60A,Highly differentiated,"Genitives, Adjectives and Relative Clauses",Tamang (Eastern),,,Mazaudon 1976
+21,61A,Without marking,Adjectives without Nouns,Tamang (Eastern),,,Mazaudon 1976
+22,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tamang (Eastern),,,Mazaudon 2003
+23,81A,SOV,"Order of Subject, Object and Verb",Tamang (Eastern),,,Mazaudon 1976
+24,82A,SV,Order of Subject and Verb,Tamang (Eastern),,,Mazaudon 1976
+25,83A,OV,Order of Object and Verb,Tamang (Eastern),,,Mazaudon 1976
+26,85A,Postpositions,Order of Adposition and Noun Phrase,Tamang (Eastern),,,Mazaudon 2003
+27,86A,Genitive-Noun,Order of Genitive and Noun,Tamang (Eastern),,,Mazaudon 1976
+28,87A,Adjective-Noun,Order of Adjective and Noun,Tamang (Eastern),,,Mazaudon 1976
+29,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tamang (Eastern),,,Mazaudon 1976
+30,89A,Noun-Numeral,Order of Numeral and Noun,Tamang (Eastern),,,Mazaudon 1976
+31,90A,Relative clause-Noun,Order of Relative Clause and Noun,Tamang (Eastern),,,Mazaudon 1976
+32,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Tamang (Eastern),,,Mazaudon 1976
+33,92A,Final,Position of Polar Question Particles,Tamang (Eastern),,,Mazaudon 1976
+34,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tamang (Eastern),,,Mazaudon 1976
+35,94A,Subordinating suffix,Order of Adverbial Subordinator and Clause,Tamang (Eastern),,,Mazaudon 1976
+36,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tamang (Eastern),,,
+37,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tamang (Eastern),,,
+38,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tamang (Eastern),,,
+39,105A,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Tamang (Eastern),,,Mazaudon 2003
+40,112A,Negative particle,Negative Morphemes,Tamang (Eastern),,,Mazaudon 2003
+41,115A,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Tamang (Eastern),,,Mazaudon 2003
+42,116A,Question particle,Polar Questions,Tamang (Eastern),,,Mazaudon 1976
+43,131A,Pure vigesimal,Numeral Bases,Tamang (Eastern),,,Matisoff 1997
+44,143A,NegV,Order of Negative Morpheme and Verb,Tamang (Eastern),,,Mazaudon 1976
+45,143E,NegV,Preverbal Negative Morphemes,Tamang (Eastern),,,Mazaudon 1976
+46,143F,None,Postverbal Negative Morphemes,Tamang (Eastern),,,Mazaudon 1976
+47,143G,None,Minor morphological means of signaling negation,Tamang (Eastern),,,Mazaudon 1976
+48,144A,SONegV,"Position of Negative Word With Respect to Subject, Object, and Verb",Tamang (Eastern),,,Mazaudon 1976
+49,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tamang (Eastern),,,Mazaudon 1976
+50,144L,SONegV,The Position of Negative Morphemes in SOV Languages,Tamang (Eastern),,,Mazaudon 1976
+51,144P,No NegSOV,NegSOV Order,Tamang (Eastern),,,Mazaudon 1976
+52,144Q,No SNegOV,SNegOV Order,Tamang (Eastern),,,Mazaudon 1976
+53,144R,Word&NoDoubleNeg,SONegV Order,Tamang (Eastern),,,Mazaudon 1976
+54,144S,NoSOVNeg,SOVNeg Order,Tamang (Eastern),,,Mazaudon 1976

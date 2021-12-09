@@ -1,0 +1,31 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tirmaga,,,Bryant 1999
+1,33A,Plural suffix,Coding of Nominal Plurality,Tirmaga,,,Bryant 1999
+2,51A,Case suffixes,Position of Case Affixes,Tirmaga,,,Bryant 1999
+3,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tirmaga,,,Bryant 1999
+4,81A,SVO,"Order of Subject, Object and Verb",Tirmaga,,,Bryant 1999
+5,82A,SV,Order of Subject and Verb,Tirmaga,,,Bryant 1999
+6,83A,VO,Order of Object and Verb,Tirmaga,,,Bryant 1999
+7,85A,Postpositions,Order of Adposition and Noun Phrase,Tirmaga,,,Bryant 1999
+8,88A,Demonstrative before and after Noun,Order of Demonstrative and Noun,Tirmaga,,,Bryant 1999
+9,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tirmaga,,,Bryant 1999
+10,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tirmaga,,,Bryant 1999
+11,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tirmaga,,,Bryant 1999
+12,94A,Mixed,Order of Adverbial Subordinator and Clause,Tirmaga,,,Bryant 1999
+13,95A,VO and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tirmaga,,,
+14,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tirmaga,,,
+15,112A,Double negation,Negative Morphemes,Tirmaga,,,Bryant 1999
+16,143A,ObligDoubleNeg,Order of Negative Morpheme and Verb,Tirmaga,,,Bryant 1999
+17,143B,Type 2 / Type 4,Obligatory Double Negation,Tirmaga,,,Bryant 1999
+18,143E,NegV&[Neg-V],Preverbal Negative Morphemes,Tirmaga,,,Bryant 1999
+19,143F,[V-Neg],Postverbal Negative Morphemes,Tirmaga,,,Bryant 1999
+20,143G,None,Minor morphological means of signaling negation,Tirmaga,,,Bryant 1999
+21,144A,ObligDoubleNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tirmaga,,,Bryant 1999
+22,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tirmaga,,,Bryant 1999
+23,144C,"SVO, but SONeg[V-Neg]/SO[Neg-V-Neg]",Languages with different word order in negative clauses,Tirmaga,,,Bryant 1999
+24,144L,ObligDoubleNeg,The Position of Negative Morphemes in SOV Languages,Tirmaga,,,Bryant 1999
+25,144N,SVO but SONeg[V-Neg]/SO[Neg-V-Neg],Obligatory Double Negation in SOV languages,Tirmaga,,,Bryant 1999
+26,144P,No NegSOV,NegSOV Order,Tirmaga,,,Bryant 1999
+27,144Q,No SNegOV,SNegOV Order,Tirmaga,,,Bryant 1999
+28,144R,Word&OnlyWithAnotherNeg,SONegV Order,Tirmaga,,,Bryant 1999
+29,144S,Suffix&OnlyWithAnotherNeg,SOVNeg Order,Tirmaga,,,Bryant 1999

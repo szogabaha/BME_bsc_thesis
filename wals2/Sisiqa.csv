@@ -1,0 +1,36 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Sisiqa,,,Ross 2002l
+1,33A,Plural word,Coding of Nominal Plurality,Sisiqa,,,Ross 2002l
+2,37A,Definite word distinct from demonstrative,Definite Articles,Sisiqa,,,Ross 2002l
+3,38A,Indefinite word distinct from 'one',Indefinite Articles,Sisiqa,,,Ross 2002l
+4,51A,No case affixes or adpositional clitics,Position of Case Affixes,Sisiqa,,,Ross 2002l
+5,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Sisiqa,,,Ross 2002l
+6,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Sisiqa,,,Ross 2002l
+7,81A,SVO,"Order of Subject, Object and Verb",Sisiqa,,,Ross 2002l
+8,82A,SV,Order of Subject and Verb,Sisiqa,,,Ross 2002l
+9,83A,VO,Order of Object and Verb,Sisiqa,,,Ross 2002l
+10,85A,Prepositions,Order of Adposition and Noun Phrase,Sisiqa,,,Ross 2002l
+11,86A,Noun-Genitive,Order of Genitive and Noun,Sisiqa,,,Ross 2002l
+12,87A,Noun-Adjective,Order of Adjective and Noun,Sisiqa,,,Ross 2002l
+13,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sisiqa,,,Ross 2002l
+14,89A,Numeral-Noun,Order of Numeral and Noun,Sisiqa,,,Ross 2002l
+15,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sisiqa,,,Ross 2002l
+16,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sisiqa,,,Ross 2002l
+17,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sisiqa,,,Ross 2002l
+18,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sisiqa,,,
+19,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sisiqa,,,
+20,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sisiqa,,,
+21,101A,Obligatory pronouns in subject position,Expression of Pronominal Subjects,Sisiqa,,,Ross 2002l
+22,112A,"Negative word, unclear if verb or particle",Negative Morphemes,Sisiqa,,,Ross 2002l
+23,116A,Question particle,Polar Questions,Sisiqa,,,Ross 2002l
+24,143A,NegV,Order of Negative Morpheme and Verb,Sisiqa,,,Ross 2002l
+25,143E,NegV,Preverbal Negative Morphemes,Sisiqa,,,Ross 2002l
+26,143F,None,Postverbal Negative Morphemes,Sisiqa,,,Ross 2002l
+27,143G,None,Minor morphological means of signaling negation,Sisiqa,,,Ross 2002l
+28,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Sisiqa,,,Ross 2002l
+29,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sisiqa,,,Ross 2002l
+30,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Sisiqa,,,Ross 2002l
+31,144H,No NegSVO,NegSVO Order,Sisiqa,,,Ross 2002l
+32,144I,Word&NoDoubleNeg,SNegVO Order,Sisiqa,,,Ross 2002l
+33,144J,No SVNegO,SVNegO Order,Sisiqa,,,Ross 2002l
+34,144K,No SVONeg,SVONeg Order,Sisiqa,,,Ross 2002l

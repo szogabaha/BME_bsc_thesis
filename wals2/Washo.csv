@@ -1,0 +1,56 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,Initial velar nasal,The Velar Nasal,Washo,,,Kroeber 1906
+1,23A,Head marking,Locus of Marking in the Clause,Washo,,,Jacobsen 1964
+2,24A,Head marking,Locus of Marking in Possessive Noun Phrases,Washo,,,Jacobsen 1964
+3,25A,Head-marking,Locus of Marking: Whole-language Typology,Washo,,,Jacobsen 1964
+4,25B,Non-zero marking,Zero Marking of A and P Arguments,Washo,,,Jacobsen 1964
+5,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Washo,,,Kroeber 1906
+6,27A,Productive full and partial reduplication,Reduplication,Washo,,,Moravcsik 1978
+7,44A,No gender distinctions,Gender Distinctions in Independent Personal Pronouns,Washo,,,Jacobsen 1964
+8,48A,Pronouns only,Person Marking on Adpositions,Washo,,,Jacobsen 1964
+9,49A,Exclusively borderline case-marking,Number of Cases,Washo,,,Jacobsen 1964
+10,50A,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Washo,,,Jacobsen 1964
+11,51A,Case suffixes,Position of Case Affixes,Washo,,,Kroeber 1906
+12,54A,Marked by reduplication,Distributive Numerals,Washo,,,Kroeber 1906
+13,55A,Absent,Numeral Classifiers,Washo,,,Kroeber 1906
+14,56A,Formally different,Conjunctions and Universal Quantifiers,Washo,,,Kroeber 1906
+15,57A,Possessive prefixes,Position of Pronominal Possessive Affixes,Washo,,,Kroeber 1906
+16,58A,Absent,Obligatory Possessive Inflection,Washo,,,Jacobsen 1964
+17,58B,One,Number of Possessive Nouns,Washo,,,Jacobsen 1964
+18,59A,Two classes,Possessive Classification,Washo,,,Jacobsen 1964
+19,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Washo,,,Kroeber 1906
+20,81A,SOV,"Order of Subject, Object and Verb",Washo,,,Kroeber 1906
+21,82A,SV,Order of Subject and Verb,Washo,,,Jacobsen 1964
+22,83A,OV,Order of Object and Verb,Washo,,,Jacobsen 1964
+23,85A,Postpositions,Order of Adposition and Noun Phrase,Washo,,,Kroeber 1906
+24,86A,Genitive-Noun,Order of Genitive and Noun,Washo,,,Kroeber 1906
+25,87A,Adjective-Noun,Order of Adjective and Noun,Washo,,,Kroeber 1906
+26,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Washo,,,Lowie 1963
+27,89A,Numeral-Noun,Order of Numeral and Noun,Washo,,,Lowie 1963
+28,92A,Final,Position of Polar Question Particles,Washo,,,Kroeber 1906
+29,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Washo,,,
+30,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Washo,,,
+31,100A,Split,Alignment of Verbal Person Marking,Washo,,,Jacobsen 1964
+32,101A,Subject affixes on verb,Expression of Pronominal Subjects,Washo,,,Kroeber 1906
+33,102A,Both the A and P arguments,Verbal Person Marking,Washo,,,Jacobsen 1964
+34,103A,No zero realization,Third Person Zero of Verbal Person Marking,Washo,,,Jacobsen 1964
+35,104A,P precedes A,Order of Person Markers on the Verb,Washo,,,Jacobsen 1964
+36,107A,Absent,Passive Constructions,Washo,,,Jacobsen 1964
+37,112A,Negative affix,Negative Morphemes,Washo,,,Kroeber 1906
+38,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Washo,,,Jacobsen 1964
+39,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Washo,,,Jacobsen 1964
+40,116A,Question particle,Polar Questions,Washo,,,Kroeber 1906
+41,136A,No M-T pronouns,M-T Pronouns,Washo,,,Jacobsen 1964
+42,136B,No m in first person singular,M in First Person Singular,Washo,,,Jacobsen 1964
+43,137A,No N-M pronouns,N-M Pronouns,Washo,,,Jacobsen 1964
+44,137B,m in second person singular,M in Second Person Singular,Washo,,,Jacobsen 1964
+45,143A,[V-Neg],Order of Negative Morpheme and Verb,Washo,,,Kroeber 1906
+46,143E,None,Preverbal Negative Morphemes,Washo,,,Kroeber 1906
+47,143F,[V-Neg],Postverbal Negative Morphemes,Washo,,,Kroeber 1906
+48,143G,None,Minor morphological means of signaling negation,Washo,,,Kroeber 1906
+49,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Washo,,,Kroeber 1906
+50,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Washo,,,Kroeber 1906
+51,144P,No NegSOV,NegSOV Order,Washo,,,Kroeber 1906
+52,144Q,No SNegOV,SNegOV Order,Washo,,,Kroeber 1906
+53,144R,No SONegV,SONegV Order,Washo,,,Kroeber 1906
+54,144S,Suffix&NoDoubleNeg,SOVNeg Order,Washo,,,Kroeber 1906

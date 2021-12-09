@@ -1,0 +1,25 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Totonac (Papantla),,,Aschmann 1946
+1,2A,Small (2-4),Vowel Quality Inventories,Totonac (Papantla),,,Aschmann 1946
+2,3A,Moderately high,Consonant-Vowel Ratio,Totonac (Papantla),,,Aschmann 1946
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Totonac (Papantla),,,Aschmann 1946
+4,5A,Other,Voicing and Gaps in Plosive Systems,Totonac (Papantla),,,Aschmann 1946
+5,6A,Uvular stops only,Uvular Consonants,Totonac (Papantla),,,Aschmann 1946
+6,7A,No glottalized consonants,Glottalized Consonants,Totonac (Papantla),,,Aschmann 1946
+7,8A,/l/ and lateral obstruent,Lateral Consonants,Totonac (Papantla),,,Aschmann 1946
+8,13A,No tones,Tone,Totonac (Papantla),,,Aschmann 1946
+9,18A,All present,Absence of Common Consonants,Totonac (Papantla),,,Aschmann 1946
+10,19A,None,Presence of Uncommon Consonants,Totonac (Papantla),,,Aschmann 1946
+11,55A,Obligatory,Numeral Classifiers,Totonac (Papantla),,,Suárez 1983b
+12,113A,Symmetric,Symmetric and Asymmetric Standard Negation,Totonac (Papantla),,,Levy Podolsky 1990
+13,114A,Non-assignable,Subtypes of Asymmetric Standard Negation,Totonac (Papantla),,,Levy Podolsky 1990
+14,129A,Different,Hand and Arm,Totonac (Papantla),,,Aschmann 1973a
+15,130A,Different,Finger and Hand,Totonac (Papantla),,,Aschmann 1973a
+16,136A,No M-T pronouns,M-T Pronouns,Totonac (Papantla),,,Levy Podolsky 1990
+17,136B,No m in first person singular,M in First Person Singular,Totonac (Papantla),,,Levy Podolsky 1990
+18,137A,No N-M pronouns,N-M Pronouns,Totonac (Papantla),,,Levy Podolsky 1990
+19,137B,m in second person singular,M in Second Person Singular,Totonac (Papantla),,,Levy Podolsky 1990
+20,143A,NegV,Order of Negative Morpheme and Verb,Totonac (Papantla),,,
+21,143E,NegV,Preverbal Negative Morphemes,Totonac (Papantla),,,
+22,143F,None,Postverbal Negative Morphemes,Totonac (Papantla),,,
+23,143G,None,Minor morphological means of signaling negation,Totonac (Papantla),,,

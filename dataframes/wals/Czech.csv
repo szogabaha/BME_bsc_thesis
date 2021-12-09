@@ -1,0 +1,59 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+14A-cze,Initial,Fixed Stress Locations,Czech,,,Harkins 1953;Jakobson 1926
+15A-cze,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Czech,,,Harkins 1953;Jakobson 1926
+16A-cze,No weight,Weight Factors in Weight-Sensitive Stress Systems,Czech,,,Harkins 1953;Jakobson 1926
+17A-cze,Trochaic,Rhythm Types,Czech,,,Harkins 1953;Jakobson 1926
+26A-cze,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Czech,,,Harkins 1953;Short 1993b;Short 1993a
+33A-cze,Plural suffix,Coding of Nominal Plurality,Czech,,,Harkins 1953
+37A-cze,No definite or indefinite article,Definite Articles,Czech,,,Harkins 1953
+38A-cze,No definite or indefinite article,Indefinite Articles,Czech,,,Harkins 1953
+41A-cze,Two-way contrast,Distance Contrasts in Demonstratives,Czech,,,Harkins 1953
+42A-cze,Identical,Pronominal and Adnominal Demonstratives,Czech,,,Harkins 1953
+51A-cze,Case suffixes,Position of Case Affixes,Czech,,,Harkins 1953
+53A-cze,"First, second, three-th",Ordinal Numerals,Czech,,,Kabesch 1975
+54A-cze,Marked by preceding word,Distributive Numerals,Czech,,,
+57A-cze,No possessive affixes,Position of Pronominal Possessive Affixes,Czech,,,Harkins 1953
+69A-cze,Mixed type,Position of Tense-Aspect Affixes,Czech,,,Harkins 1953
+70A-cze,Second singular and second plural,The Morphological Imperative,Czech,,,Short 1993a
+71A-cze,Normal imperative + normal negative,The Prohibitive,Czech,,,Short 1993a
+72A-cze,Neither type of system,Imperative-Hortative Systems,Czech,,,Short 1993a
+79A-cze,Tense and aspect,Suppletion According to Tense and Aspect,Czech,,,Sova 1962
+79B-cze,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Czech,,,
+80A-cze,None,Verbal Number and Suppletion,Czech,,,Sova 1962
+81A-cze,SVO,"Order of Subject, Object and Verb",Czech,,,Harkins 1953
+82A-cze,SV,Order of Subject and Verb,Czech,,,Harkins 1953
+83A-cze,VO,Order of Object and Verb,Czech,,,Harkins 1953
+85A-cze,Prepositions,Order of Adposition and Noun Phrase,Czech,,,Harkins 1953
+86A-cze,No dominant order,Order of Genitive and Noun,Czech,,,Harkins 1953
+87A-cze,Adjective-Noun,Order of Adjective and Noun,Czech,,,Harkins 1953
+88A-cze,Demonstrative-Noun,Order of Demonstrative and Noun,Czech,,,Harkins 1953
+89A-cze,Numeral-Noun,Order of Numeral and Noun,Czech,,,Harkins 1953
+90A-cze,Noun-Relative clause,Order of Relative Clause and Noun,Czech,,,Harkins 1953
+90C-cze,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Czech,,,Harkins 1953
+92A-cze,No question particle,Position of Polar Question Particles,Czech,,,Harkins 1953;Short 1993a
+93A-cze,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Czech,,,Harkins 1953
+94A-cze,Initial subordinator word,Order of Adverbial Subordinator and Clause,Czech,,,Harkins 1953
+95A-cze,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Czech,,,
+96A-cze,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Czech,,,
+97A-cze,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Czech,,,
+101A-cze,Subject affixes on verb,Expression of Pronominal Subjects,Czech,,,Short 1993b
+112A-cze,Negative affix,Negative Morphemes,Czech,,,Harkins 1953
+116A-cze,Interrogative word order,Polar Questions,Czech,,,Harkins 1953;Short 1993a
+117A-cze,'Have',Predicative Possession,Czech,,,Lee and Lee 1986
+118A-cze,Nonverbal encoding,Predicative Adjectives,Czech,,,Lee and Lee 1986
+119A-cze,Identical,Nominal and Locational Predication,Czech,,,Lee and Lee 1986
+120A-cze,Possible,Zero Copula for Predicate Nominals,Czech,,,Lee and Lee 1986
+129A-cze,Identical,Hand and Arm,Czech,,,Poldauf 1971
+130A-cze,Different,Finger and Hand,Czech,,,Poldauf 1971
+138A-cze,Words derived from Sinitic cha,Tea,Czech,,,Malherbe and Rosenberg 1996
+142A-cze,Affective meanings,Para-Linguistic Usages of Clicks,Czech,,,
+143A-cze,[Neg-V],Order of Negative Morpheme and Verb,Czech,,,Harkins 1953
+143E-cze,[Neg-V],Preverbal Negative Morphemes,Czech,,,Harkins 1953
+143F-cze,None,Postverbal Negative Morphemes,Czech,,,Harkins 1953
+143G-cze,None,Minor morphological means of signaling negation,Czech,,,Harkins 1953
+144A-cze,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Czech,,,Harkins 1953
+144D-cze,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Czech,,,Harkins 1953
+144H-cze,No NegSVO,NegSVO Order,Czech,,,Harkins 1953
+144I-cze,Prefix&NoDoubleNeg,SNegVO Order,Czech,,,Harkins 1953
+144J-cze,No SVNegO,SVNegO Order,Czech,,,Harkins 1953
+144K-cze,No SVONeg,SVONeg Order,Czech,,,Harkins 1953

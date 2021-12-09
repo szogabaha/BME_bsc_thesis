@@ -1,0 +1,28 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Weakly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tarao,,,Singh 2002
+1,33A,Plural suffix,Coding of Nominal Plurality,Tarao,,,Singh 2002
+2,51A,Case suffixes,Position of Case Affixes,Tarao,,,Singh 2002
+3,64A,Differentiation,Nominal and Verbal Conjunction,Tarao,,,Singh 2002
+4,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tarao,,,Singh 2002
+5,81A,SOV,"Order of Subject, Object and Verb",Tarao,,,Singh 2002
+6,82A,SV,Order of Subject and Verb,Tarao,,,Singh 2002
+7,83A,OV,Order of Object and Verb,Tarao,,,Singh 2002
+8,87A,Noun-Adjective,Order of Adjective and Noun,Tarao,,,Singh 2002
+9,88A,Demonstrative suffix,Order of Demonstrative and Noun,Tarao,,,Singh 2002
+10,89A,Noun-Numeral,Order of Numeral and Noun,Tarao,,,Singh 2002
+11,92A,Final,Position of Polar Question Particles,Tarao,,,Singh 2002
+12,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Tarao,,,Singh 2002
+13,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tarao,,,Singh 2002
+14,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tarao,,,
+15,112A,Negative affix,Negative Morphemes,Tarao,,,Singh 2002
+16,116A,Question particle,Polar Questions,Tarao,,,Singh 2002
+17,143A,[V-Neg],Order of Negative Morpheme and Verb,Tarao,,,Singh 2002
+18,143E,None,Preverbal Negative Morphemes,Tarao,,,Singh 2002
+19,143F,[V-Neg],Postverbal Negative Morphemes,Tarao,,,Singh 2002
+20,143G,None,Minor morphological means of signaling negation,Tarao,,,Singh 2002
+21,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Tarao,,,Singh 2002
+22,144L,SO[V-Neg],The Position of Negative Morphemes in SOV Languages,Tarao,,,Singh 2002
+23,144P,No NegSOV,NegSOV Order,Tarao,,,Singh 2002
+24,144Q,No SNegOV,SNegOV Order,Tarao,,,Singh 2002
+25,144R,No SONegV,SONegV Order,Tarao,,,Singh 2002
+26,144S,Suffix&NoDoubleNeg,SOVNeg Order,Tarao,,,Singh 2002

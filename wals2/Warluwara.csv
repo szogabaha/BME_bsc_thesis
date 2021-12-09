@@ -1,0 +1,16 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,81A,SOV,"Order of Subject, Object and Verb",Warluwara,,,Breen 1970
+1,82A,SV,Order of Subject and Verb,Warluwara,,,Breen 1970
+2,83A,OV,Order of Object and Verb,Warluwara,,,Breen 1970
+3,93A,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Warluwara,,,Breen 1970
+4,143A,NegV,Order of Negative Morpheme and Verb,Warluwara,,,Breen 1970
+5,143E,NegV,Preverbal Negative Morphemes,Warluwara,,,Breen 1970
+6,143F,None,Postverbal Negative Morphemes,Warluwara,,,Breen 1970
+7,143G,None,Minor morphological means of signaling negation,Warluwara,,,Breen 1970
+8,144A,NegSOV,"Position of Negative Word With Respect to Subject, Object, and Verb",Warluwara,,,Breen 1970
+9,144B,"Beginning, not immed preverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Warluwara,,,Breen 1970
+10,144L,NegSOV,The Position of Negative Morphemes in SOV Languages,Warluwara,,,Breen 1970
+11,144P,NoDoubleNeg,NegSOV Order,Warluwara,,,Breen 1970
+12,144Q,No SNegOV,SNegOV Order,Warluwara,,,Breen 1970
+13,144R,No SONegV,SONegV Order,Warluwara,,,Breen 1970
+14,144S,NoSOVNeg,SOVNeg Order,Warluwara,,,Breen 1970

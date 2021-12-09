@@ -1,0 +1,13 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,33A,Plural suffix,Coding of Nominal Plurality,Sungor,,,Tucker and Bryan 1966
+1,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Sungor,,,Lukas 1938
+2,70A,Second singular and second plural,The Morphological Imperative,Sungor,,,Lukas 1938
+3,71A,Special imperative + special negative,The Prohibitive,Sungor,,,Lukas 1938
+4,72A,Neither type of system,Imperative-Hortative Systems,Sungor,,,Lukas 1938
+5,86A,Genitive-Noun,Order of Genitive and Noun,Sungor,,,Tucker and Bryan 1966
+6,87A,Noun-Adjective,Order of Adjective and Noun,Sungor,,,Lukas 1938
+7,112A,Negative affix,Negative Morphemes,Sungor,,,Lukas 1938
+8,143A,[V-Neg],Order of Negative Morpheme and Verb,Sungor,,,Lukas 1938
+9,143E,None,Preverbal Negative Morphemes,Sungor,,,Lukas 1938
+10,143F,[V-Neg],Postverbal Negative Morphemes,Sungor,,,Lukas 1938
+11,143G,None,Minor morphological means of signaling negation,Sungor,,,Lukas 1938

@@ -1,0 +1,50 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately large,Consonant Inventories,Sre,,,Manley 1972
+1,2A,Large (7-14),Vowel Quality Inventories,Sre,,,Manley 1972
+2,3A,Average,Consonant-Vowel Ratio,Sre,,,Manley 1972
+3,4A,In plosives alone,Voicing in Plosives and Fricatives,Sre,,,Manley 1972
+4,5A,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Sre,,,Manley 1972
+5,6A,None,Uvular Consonants,Sre,,,Manley 1972
+6,7A,Implosives only,Glottalized Consonants,Sre,,,Manley 1972
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Sre,,,Manley 1972
+8,9A,Initial velar nasal,The Velar Nasal,Sre,,,Dournes 1950
+9,11A,None,Front Rounded Vowels,Sre,,,Manley 1972
+10,12A,Complex,Syllable Structure,Sre,,,Manley 1972
+11,13A,Simple tone system,Tone,Sre,,,Manley 1972
+12,18A,All present,Absence of Common Consonants,Sre,,,Manley 1972
+13,19A,None,Presence of Uncommon Consonants,Sre,,,Manley 1972
+14,33A,Plural prefix,Coding of Nominal Plurality,Sre,,,Manley 1972
+15,52A,Mixed,Comitatives and Instrumentals,Sre,,,Stolz 1996
+16,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Sre,,,Manley 1972
+17,78A,No grammatical evidentials,Coding of Evidentiality,Sre,,,Manley 1972
+18,81A,SVO,"Order of Subject, Object and Verb",Sre,,,Manley 1972
+19,82A,SV,Order of Subject and Verb,Sre,,,Manley 1972
+20,83A,VO,Order of Object and Verb,Sre,,,Manley 1972
+21,85A,Prepositions,Order of Adposition and Noun Phrase,Sre,,,Manley 1972
+22,86A,Noun-Genitive,Order of Genitive and Noun,Sre,,,Manley 1972
+23,87A,Noun-Adjective,Order of Adjective and Noun,Sre,,,Manley 1972
+24,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Sre,,,Manley 1972
+25,89A,Numeral-Noun,Order of Numeral and Noun,Sre,,,Manley 1972
+26,90A,Noun-Relative clause,Order of Relative Clause and Noun,Sre,,,Manley 1972
+27,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Sre,,,Manley 1972
+28,91A,Adjective-Degree word,Order of Degree Word and Adjective,Sre,,,Manley 1972
+29,92A,Final,Position of Polar Question Particles,Sre,,,Manley 1972
+30,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Sre,,,Manley 1972
+31,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Sre,,,
+32,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Sre,,,
+33,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Sre,,,
+34,116A,Question particle,Polar Questions,Sre,,,Manley 1972
+35,118A,Verbal encoding,Predicative Adjectives,Sre,,,Manley 1972
+36,119A,Different,Nominal and Locational Predication,Sre,,,Manley 1972
+37,120A,Possible,Zero Copula for Predicate Nominals,Sre,,,Manley 1972
+38,143A,NegV,Order of Negative Morpheme and Verb,Sre,,,Manley 1972
+39,143E,NegV,Preverbal Negative Morphemes,Sre,,,Manley 1972
+40,143F,None,Postverbal Negative Morphemes,Sre,,,Manley 1972
+41,143G,None,Minor morphological means of signaling negation,Sre,,,Manley 1972
+42,144A,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Sre,,,Manley 1972
+43,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Sre,,,Manley 1972
+44,144D,SNegVO,The Position of Negative Morphemes in SVO Languages,Sre,,,Manley 1972
+45,144H,No NegSVO,NegSVO Order,Sre,,,Manley 1972
+46,144I,Word&NoDoubleNeg,SNegVO Order,Sre,,,Manley 1972
+47,144J,No SVNegO,SVNegO Order,Sre,,,Manley 1972
+48,144K,No SVONeg,SVONeg Order,Sre,,,Manley 1972

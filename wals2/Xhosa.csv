@@ -1,0 +1,37 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,26A,Strong prefixing,Prefixing vs. Suffixing in Inflectional Morphology,Xhosa,,,McLaren 1939
+1,27A,Productive full and partial reduplication,Reduplication,Xhosa,,,Downing 2001
+2,33A,Plural prefix,Coding of Nominal Plurality,Xhosa,,,McLaren 1939
+3,37A,Demonstrative word used as definite article,Definite Articles,Xhosa,,,McLaren 1939
+4,38A,"No indefinite, but definite article",Indefinite Articles,Xhosa,,,McLaren 1939
+5,51A,Case prefixes,Position of Case Affixes,Xhosa,,,McLaren 1939
+6,57A,No possessive affixes,Position of Pronominal Possessive Affixes,Xhosa,,,McLaren 1939
+7,69A,Mixed type,Position of Tense-Aspect Affixes,Xhosa,,,McLaren 1939
+8,81A,SVO,"Order of Subject, Object and Verb",Xhosa,,,McLaren 1939
+9,82A,SV,Order of Subject and Verb,Xhosa,,,McLaren 1939
+10,83A,VO,Order of Object and Verb,Xhosa,,,McLaren 1939
+11,85A,Prepositions,Order of Adposition and Noun Phrase,Xhosa,,,McLaren 1939
+12,86A,Noun-Genitive,Order of Genitive and Noun,Xhosa,,,McLaren 1939
+13,87A,Noun-Adjective,Order of Adjective and Noun,Xhosa,,,McLaren 1939
+14,88A,Mixed,Order of Demonstrative and Noun,Xhosa,,,McLaren 1939
+15,89A,Noun-Numeral,Order of Numeral and Noun,Xhosa,,,McLaren 1939
+16,90A,Noun-Relative clause,Order of Relative Clause and Noun,Xhosa,,,McLaren 1939
+17,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Xhosa,,,McLaren 1939
+18,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Xhosa,,,McLaren 1939
+19,95A,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Xhosa,,,
+20,96A,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Xhosa,,,
+21,97A,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Xhosa,,,
+22,101A,Subject pronouns in different position,Expression of Pronominal Subjects,Xhosa,,,McLaren 1939
+23,112A,Negative affix,Negative Morphemes,Xhosa,,,McLaren 1939
+24,116A,Question particle,Polar Questions,Xhosa,,,McLaren 1939
+25,138A,Words derived from Min Nan Chinese te,Tea,Xhosa,,,
+26,143A,[Neg-V],Order of Negative Morpheme and Verb,Xhosa,,,McLaren 1939
+27,143E,[Neg-V],Preverbal Negative Morphemes,Xhosa,,,McLaren 1939
+28,143F,None,Postverbal Negative Morphemes,Xhosa,,,McLaren 1939
+29,143G,None,Minor morphological means of signaling negation,Xhosa,,,McLaren 1939
+30,144A,MorphNeg,"Position of Negative Word With Respect to Subject, Object, and Verb",Xhosa,,,McLaren 1939
+31,144D,S[Neg-V]O,The Position of Negative Morphemes in SVO Languages,Xhosa,,,McLaren 1939
+32,144H,No NegSVO,NegSVO Order,Xhosa,,,McLaren 1939
+33,144I,Prefix&NoDoubleNeg,SNegVO Order,Xhosa,,,McLaren 1939
+34,144J,No SVNegO,SVNegO Order,Xhosa,,,McLaren 1939
+35,144K,No SVONeg,SVONeg Order,Xhosa,,,McLaren 1939

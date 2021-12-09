@@ -1,0 +1,45 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,9A,No initial velar nasal,The Velar Nasal,Tatar,,,Comrie 1997a
+1,26A,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Tatar,,,Poppe 1968
+2,33A,Plural suffix,Coding of Nominal Plurality,Tatar,,,Poppe 1968
+3,36A,Unique affixal associative plural,The Associative Plural,Tatar,,,
+4,37A,No definite or indefinite article,Definite Articles,Tatar,,,Poppe 1968
+5,38A,No definite or indefinite article,Indefinite Articles,Tatar,,,Poppe 1968
+6,46A,Interrogative-based,Indefinite Pronouns,Tatar,,,Zakiev 1966
+7,51A,Case suffixes,Position of Case Affixes,Tatar,,,Poppe 1968
+8,53A,"One-th, two-th, three-th",Ordinal Numerals,Tatar,,,Berta 1998
+9,54A,Marked by suffix,Distributive Numerals,Tatar,,,Poppe 1968
+10,55A,Optional,Numeral Classifiers,Tatar,,,
+11,56A,"Formally similar, without interrogative",Conjunctions and Universal Quantifiers,Tatar,,,Poppe 1968
+12,57A,Possessive suffixes,Position of Pronominal Possessive Affixes,Tatar,,,Poppe 1968
+13,60A,Adjectives and relative clauses collapsed,"Genitives, Adjectives and Relative Clauses",Tatar,,,
+14,61A,Without marking,Adjectives without Nouns,Tatar,,,
+15,69A,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Tatar,,,Poppe 1968
+16,70A,Second singular and second plural,The Morphological Imperative,Tatar,,,Poppe 1968
+17,71A,Normal imperative + normal negative,The Prohibitive,Tatar,,,Poppe 1968
+18,72A,Maximal system,Imperative-Hortative Systems,Tatar,,,Poppe 1968
+19,74A,Verbal constructions,Situational Possibility,Tatar,,,Berta 1998
+20,75A,Other,Epistemic Possibility,Tatar,,,Poppe 1968
+21,81A,SOV,"Order of Subject, Object and Verb",Tatar,,,Poppe 1968
+22,82A,SV,Order of Subject and Verb,Tatar,,,Poppe 1968
+23,83A,OV,Order of Object and Verb,Tatar,,,Poppe 1968
+24,85A,Postpositions,Order of Adposition and Noun Phrase,Tatar,,,Poppe 1968
+25,86A,Genitive-Noun,Order of Genitive and Noun,Tatar,,,Poppe 1968
+26,87A,Adjective-Noun,Order of Adjective and Noun,Tatar,,,Poppe 1968
+27,88A,Demonstrative-Noun,Order of Demonstrative and Noun,Tatar,,,Poppe 1968
+28,89A,Numeral-Noun,Order of Numeral and Noun,Tatar,,,Poppe 1968
+29,90A,Relative clause-Noun,Order of Relative Clause and Noun,Tatar,,,Poppe 1968
+30,90B,Relative clause-Noun (RelN) dominant,Prenominal relative clauses,Tatar,,,Poppe 1968
+31,91A,Degree word-Adjective,Order of Degree Word and Adjective,Tatar,,,Poppe 1968
+32,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Tatar,,,Poppe 1968
+33,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tatar,,,
+34,96A,OV and RelN,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tatar,,,
+35,97A,OV and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tatar,,,
+36,101A,Subject affixes on verb,Expression of Pronominal Subjects,Tatar,,,Poppe 1968
+37,116A,Question particle,Polar Questions,Tatar,,,Poppe 1968
+38,118A,Nonverbal encoding,Predicative Adjectives,Tatar,,,Poppe 1963
+39,119A,Identical,Nominal and Locational Predication,Tatar,,,Poppe 1963
+40,120A,Impossible,Zero Copula for Predicate Nominals,Tatar,,,Poppe 1963
+41,129A,Identical,Hand and Arm,Tatar,,,Shakhmayev 1994
+42,130A,Different,Finger and Hand,Tatar,,,Shakhmayev 1994
+43,138A,Words derived from Sinitic cha,Tea,Tatar,,,Dmitriev 1955

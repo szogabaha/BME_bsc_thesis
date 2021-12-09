@@ -1,0 +1,82 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+14A-ita,No fixed stress,Fixed Stress Locations,Italian,,,Lepschy 1978;Malagoli 1946;Muljacic 1972;Roca 1999;Saltarelli 1970;Vincent 1988;Bertinetto 1981;Vogel and Scalise 1982
+15A-ita,Right-edge: Ultimate or penultimate,Weight-Sensitive Stress,Italian,,,Bertinetto 1981;Lepschy 1978;Malagoli 1946;Muljacic 1972;Roca 1999;Saltarelli 1970;Vincent 1988;Vogel and Scalise 1982
+16A-ita,Lexical stress,Weight Factors in Weight-Sensitive Stress Systems,Italian,,,Bertinetto 1981;Lepschy 1978;Malagoli 1946;Muljacic 1972;Roca 1999;Saltarelli 1970;Vincent 1988;Vogel and Scalise 1982
+17A-ita,Undetermined,Rhythm Types,Italian,,,Vincent 1988;Bertinetto 1981;Lepschy 1978;Malagoli 1946;Muljacic 1972;Roca 1999;Saltarelli 1970;Vogel and Scalise 1982
+26A-ita,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Italian,,,Sauer 1891;Maiden and Robustelli 2000;Vincent 1988
+27A-ita,No productive reduplication,Reduplication,Italian,,,Repetti 2001
+33A-ita,Plural suffix,Coding of Nominal Plurality,Italian,,,Sauer 1891
+34A-ita,"All nouns, always obligatory",Occurrence of Nominal Plurality,Italian,,,
+36A-ita,No associative plural,The Associative Plural,Italian,,,
+37A-ita,Definite word distinct from demonstrative,Definite Articles,Italian,,,Sauer 1891
+38A-ita,Indefinite word same as 'one',Indefinite Articles,Italian,,,Sauer 1891
+41A-ita,Two-way contrast,Distance Contrasts in Demonstratives,Italian,,,Maiden and Robustelli 2000
+42A-ita,Identical,Pronominal and Adnominal Demonstratives,Italian,,,Maiden and Robustelli 2000
+44A-ita,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Italian,,,Lepschy and Lepschy 1988
+45A-ita,Binary politeness distinction,Politeness Distinctions in Pronouns,Italian,,,Schwarze 1988
+46A-ita,Generic-noun-based,Indefinite Pronouns,Italian,,,
+47A-ita,Differentiated,Intensifiers and Reflexive Pronouns,Italian,,,Renzi 1988
+48A-ita,No person marking,Person Marking on Adpositions,Italian,,,Lepschy and Lepschy 1988
+49A-ita,No morphological case-marking,Number of Cases,Italian,,,Maiden and Robustelli 2000
+50A-ita,Additive-quantitatively asymmetrical,Asymmetrical Case-Marking,Italian,,,Maiden and Robustelli 2000
+51A-ita,No case affixes or adpositional clitics,Position of Case Affixes,Italian,,,Vincent 1988
+52A-ita,Identity,Comitatives and Instrumentals,Italian,,,Lausberg 1972
+53A-ita,"First, second, three-th",Ordinal Numerals,Italian,,,Lausberg 1972
+57A-ita,No possessive affixes,Position of Pronominal Possessive Affixes,Italian,,,Vincent 1988
+64A-ita,Identity,Nominal and Verbal Conjunction,Italian,,,
+69A-ita,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Italian,,,Maiden and Robustelli 2000
+70A-ita,Second singular,The Morphological Imperative,Italian,,,Maiden and Robustelli 2000
+71A-ita,Special imperative + normal negative,The Prohibitive,Italian,,,Maiden and Robustelli 2000
+72A-ita,Neither type of system,Imperative-Hortative Systems,Italian,,,
+74A-ita,Verbal constructions,Situational Possibility,Italian,,,Maiden and Robustelli 2000
+75A-ita,Verbal constructions,Epistemic Possibility,Italian,,,Maiden and Robustelli 2000
+76A-ita,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Italian,,,Maiden and Robustelli 2000
+81A-ita,SVO,"Order of Subject, Object and Verb",Italian,,,Vincent 1988;Sauer 1891;Maiden and Robustelli 2000
+82A-ita,No dominant order,Order of Subject and Verb,Italian,,,Maiden and Robustelli 2000
+83A-ita,VO,Order of Object and Verb,Italian,,,Maiden and Robustelli 2000;Sauer 1891;Vincent 1988
+85A-ita,Prepositions,Order of Adposition and Noun Phrase,Italian,,,Sauer 1891
+86A-ita,Noun-Genitive,Order of Genitive and Noun,Italian,,,Sauer 1891
+87A-ita,Noun-Adjective,Order of Adjective and Noun,Italian,,,Sauer 1891;Vincent 1988;Maiden and Robustelli 2000
+88A-ita,Demonstrative-Noun,Order of Demonstrative and Noun,Italian,,,Sauer 1891;Maiden and Robustelli 2000
+89A-ita,Numeral-Noun,Order of Numeral and Noun,Italian,,,Maiden and Robustelli 2000
+90A-ita,Noun-Relative clause,Order of Relative Clause and Noun,Italian,,,Maiden and Robustelli 2000
+90C-ita,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Italian,,,Maiden and Robustelli 2000
+91A-ita,Degree word-Adjective,Order of Degree Word and Adjective,Italian,,,Sauer 1891
+92A-ita,No question particle,Position of Polar Question Particles,Italian,,,Maiden and Robustelli 2000
+94A-ita,Initial subordinator word,Order of Adverbial Subordinator and Clause,Italian,,,Maiden and Robustelli 2000
+95A-ita,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Italian,,,
+96A-ita,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Italian,,,
+97A-ita,VO and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Italian,,,
+100A-ita,Accusative,Alignment of Verbal Person Marking,Italian,,,Lepschy and Lepschy 1988
+101A-ita,Subject affixes on verb,Expression of Pronominal Subjects,Italian,,,Maiden and Robustelli 2000
+102A-ita,Only the A argument,Verbal Person Marking,Italian,,,Lepschy and Lepschy 1988
+103A-ita,No zero realization,Third Person Zero of Verbal Person Marking,Italian,,,Lepschy and Lepschy 1988
+104A-ita,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Italian,,,Lepschy and Lepschy 1988
+105A-ita,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',Italian,,,
+107A-ita,Present,Passive Constructions,Italian,,,Lepschy and Lepschy 1988
+112A-ita,Negative particle,Negative Morphemes,Italian,,,Vincent 1988;Maiden and Robustelli 2000;Sauer 1891
+113A-ita,Symmetric,Symmetric and Asymmetric Standard Negation,Italian,,,
+114A-ita,Non-assignable,Subtypes of Asymmetric Standard Negation,Italian,,,
+115A-ita,Mixed behaviour,Negative Indefinite Pronouns and Predicate Negation,Italian,,,Haspelmath 1997
+116A-ita,Interrogative intonation only,Polar Questions,Italian,,,Maiden and Robustelli 2000
+122A-ita,Relative pronoun,Relativization on Subjects,Italian,,,
+123A-ita,Relative pronoun,Relativization on Obliques,Italian,,,
+125A-ita,Deranked,Purpose Clauses,Italian,,,
+126A-ita,Balanced/deranked,'When' Clauses,Italian,,,
+127A-ita,Balanced/deranked,Reason Clauses,Italian,,,
+128A-ita,Balanced/deranked,Utterance Complement Clauses,Italian,,,
+129A-ita,Different,Hand and Arm,Italian,,,Wessely n.d.
+130A-ita,Different,Finger and Hand,Italian,,,Wessely n.d.
+138A-ita,Words derived from Min Nan Chinese te,Tea,Italian,,,Malherbe and Rosenberg 1996
+142A-ita,Logical meanings,Para-Linguistic Usages of Clicks,Italian,,,
+143A-ita,NegV,Order of Negative Morpheme and Verb,Italian,,,Sauer 1891;Maiden and Robustelli 2000
+143E-ita,NegV,Preverbal Negative Morphemes,Italian,,,Maiden and Robustelli 2000;Sauer 1891
+143F-ita,None,Postverbal Negative Morphemes,Italian,,,Maiden and Robustelli 2000;Sauer 1891
+143G-ita,None,Minor morphological means of signaling negation,Italian,,,Sauer 1891;Maiden and Robustelli 2000
+144A-ita,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Italian,,,Maiden and Robustelli 2000;Sauer 1891
+144B-ita,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Italian,,,Maiden and Robustelli 2000;Sauer 1891
+144D-ita,SNegVO,The Position of Negative Morphemes in SVO Languages,Italian,,,Sauer 1891;Maiden and Robustelli 2000
+144H-ita,No NegSVO,NegSVO Order,Italian,,,Sauer 1891;Maiden and Robustelli 2000
+144I-ita,Word&NoDoubleNeg,SNegVO Order,Italian,,,Maiden and Robustelli 2000;Sauer 1891
+144J-ita,No SVNegO,SVNegO Order,Italian,,,Maiden and Robustelli 2000;Sauer 1891
+144K-ita,No SVONeg,SVONeg Order,Italian,,,Sauer 1891;Maiden and Robustelli 2000

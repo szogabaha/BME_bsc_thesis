@@ -1,0 +1,61 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,30A,None,Number of Genders,Tuvaluan,,,Besnier 2000
+1,31A,No gender,Sex-based and Non-sex-based Gender Systems,Tuvaluan,,,Besnier 2000
+2,32A,No gender,Systems of Gender Assignment,Tuvaluan,,,Besnier 2000
+3,33A,Plural word,Coding of Nominal Plurality,Tuvaluan,,,Besnier 2000
+4,34A,"All nouns, always obligatory",Occurrence of Nominal Plurality,Tuvaluan,,,Besnier 2000
+5,35A,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Tuvaluan,,,Besnier 2000
+6,36A,Unique periphrastic associative plural,The Associative Plural,Tuvaluan,,,Besnier 2000
+7,37A,Definite word distinct from demonstrative,Definite Articles,Tuvaluan,,,Besnier 2000
+8,38A,Indefinite word distinct from 'one',Indefinite Articles,Tuvaluan,,,Besnier 2000
+9,41A,Three-way contrast,Distance Contrasts in Demonstratives,Tuvaluan,,,Besnier 2000
+10,42A,Identical,Pronominal and Adnominal Demonstratives,Tuvaluan,,,Besnier 2000
+11,43A,Related to remote demonstratives,Third Person Pronouns and Demonstratives,Tuvaluan,,,Besnier 2000
+12,46A,Generic-noun-based,Indefinite Pronouns,Tuvaluan,,,Besnier 2000
+13,49A,No morphological case-marking,Number of Cases,Tuvaluan,,,Besnier 2000
+14,50A,No case-marking,Asymmetrical Case-Marking,Tuvaluan,,,Besnier 2000
+15,51A,No case affixes or adpositional clitics,Position of Case Affixes,Tuvaluan,,,Besnier 2000
+16,54A,Marked by preceding word,Distributive Numerals,Tuvaluan,,,Besnier 2000
+17,55A,Optional,Numeral Classifiers,Tuvaluan,,,Besnier 2000
+18,62A,Mixed,Action Nominal Constructions,Tuvaluan,,,Besnier 2000
+19,64A,Differentiation,Nominal and Verbal Conjunction,Tuvaluan,,,Besnier 2000
+20,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Tuvaluan,,,Besnier 2000
+21,70A,Second singular,The Morphological Imperative,Tuvaluan,,,Besnier 2000
+22,74A,Verbal constructions,Situational Possibility,Tuvaluan,,,Besnier 2000
+23,75A,Other,Epistemic Possibility,Tuvaluan,,,Besnier 2000
+24,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Tuvaluan,,,Besnier 2000
+25,81A,OVS,"Order of Subject, Object and Verb",Tuvaluan,,,Besnier 2000
+26,82A,VS,Order of Subject and Verb,Tuvaluan,,,Besnier 2000
+27,83A,OV,Order of Object and Verb,Tuvaluan,,,Besnier 2000
+28,85A,Prepositions,Order of Adposition and Noun Phrase,Tuvaluan,,,Besnier 2000
+29,86A,Noun-Genitive,Order of Genitive and Noun,Tuvaluan,,,Besnier 2000
+30,87A,Noun-Adjective,Order of Adjective and Noun,Tuvaluan,,,Besnier 2000
+31,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Tuvaluan,,,Besnier 2000
+32,89A,Numeral-Noun,Order of Numeral and Noun,Tuvaluan,,,Besnier 2000
+33,90A,Noun-Relative clause,Order of Relative Clause and Noun,Tuvaluan,,,Besnier 2000
+34,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Tuvaluan,,,Besnier 2000
+35,92A,No question particle,Position of Polar Question Particles,Tuvaluan,,,Besnier 2000
+36,93A,Mixed,Position of Interrogative Phrases in Content Questions,Tuvaluan,,,Besnier 2000
+37,95A,OV and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Tuvaluan,,,
+38,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Tuvaluan,,,
+39,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Tuvaluan,,,
+40,108A,No antipassive,Antipassive Constructions,Tuvaluan,,,Besnier 2000
+41,108B,no antipassive,Productivity of the Antipassive Construction,Tuvaluan,,,Besnier 2000
+42,109A,No applicative construction,Applicative Constructions,Tuvaluan,,,Besnier 2000
+43,109B,No applicative construction,Other Roles of Applied Objects,Tuvaluan,,,
+44,110A,Both,Periphrastic Causative Constructions,Tuvaluan,,,Besnier 2000
+45,111A,Morphological but no compound,Nonperiphrastic Causative Constructions,Tuvaluan,,,Besnier 2000
+46,115A,Negative existential construction,Negative Indefinite Pronouns and Predicate Negation,Tuvaluan,,,Besnier 2000
+47,116A,Interrogative intonation only,Polar Questions,Tuvaluan,,,Besnier 2000
+48,121A,Locational,Comparative Constructions,Tuvaluan,,,Besnier 2000
+49,125A,Deranked,Purpose Clauses,Tuvaluan,,,Besnier 2000
+50,126A,Balanced/deranked,'When' Clauses,Tuvaluan,,,Besnier 2000
+51,127A,Balanced/deranked,Reason Clauses,Tuvaluan,,,Besnier 2000
+52,128A,Balanced,Utterance Complement Clauses,Tuvaluan,,,Besnier 2000
+53,143A,NegV,Order of Negative Morpheme and Verb,Tuvaluan,,,Besnier 2000
+54,143E,NegV,Preverbal Negative Morphemes,Tuvaluan,,,Besnier 2000
+55,143F,None,Postverbal Negative Morphemes,Tuvaluan,,,Besnier 2000
+56,143G,None,Minor morphological means of signaling negation,Tuvaluan,,,Besnier 2000
+57,144A,ONegVS,"Position of Negative Word With Respect to Subject, Object, and Verb",Tuvaluan,,,Besnier 2000
+58,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Tuvaluan,,,Besnier 2000
+59,144Y,ONegVS,The Position of Negative Morphemes in Object-Initial Languages,Tuvaluan,,,Besnier 2000

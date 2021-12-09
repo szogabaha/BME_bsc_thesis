@@ -1,0 +1,101 @@
+,ID,Name,Parameter,Language,Frequency,Confidence,References
+0,1A,Moderately small,Consonant Inventories,Ungarinjin,,,Coate and Elkin 1974
+1,2A,Average (5-6),Vowel Quality Inventories,Ungarinjin,,,Coate and Elkin 1974
+2,3A,Average,Consonant-Vowel Ratio,Ungarinjin,,,Coate and Elkin 1974
+3,4A,No voicing contrast,Voicing in Plosives and Fricatives,Ungarinjin,,,Coate and Elkin 1974
+4,5A,Other,Voicing and Gaps in Plosive Systems,Ungarinjin,,,Coate and Elkin 1974
+5,6A,None,Uvular Consonants,Ungarinjin,,,Coate and Elkin 1974
+6,7A,No glottalized consonants,Glottalized Consonants,Ungarinjin,,,Coate and Elkin 1974
+7,8A,"/l/, no obstruent laterals",Lateral Consonants,Ungarinjin,,,Coate and Elkin 1974
+8,9A,Initial velar nasal,The Velar Nasal,Ungarinjin,,,Rumsey 1982
+9,10A,Contrast absent,Vowel Nasalization,Ungarinjin,,,Rumsey 1982
+10,11A,None,Front Rounded Vowels,Ungarinjin,,,Coate and Elkin 1974
+11,12A,Moderately complex,Syllable Structure,Ungarinjin,,,Coate and Elkin 1974
+12,13A,No tones,Tone,Ungarinjin,,,Coate and Elkin 1974
+13,14A,No fixed stress,Fixed Stress Locations,Ungarinjin,,,Capell 1970
+14,15A,Left-edge: First or second,Weight-Sensitive Stress,Ungarinjin,,,Capell 1970
+15,16A,Long vowel,Weight Factors in Weight-Sensitive Stress Systems,Ungarinjin,,,Capell 1970
+16,17A,Undetermined,Rhythm Types,Ungarinjin,,,Capell 1970
+17,18A,No fricatives,Absence of Common Consonants,Ungarinjin,,,Coate and Elkin 1974
+18,19A,None,Presence of Uncommon Consonants,Ungarinjin,,,Coate and Elkin 1974
+19,23A,Head marking,Locus of Marking in the Clause,Ungarinjin,,,Rumsey 1982
+20,24A,Dependent marking,Locus of Marking in Possessive Noun Phrases,Ungarinjin,,,Rumsey 1982
+21,25A,Inconsistent or other,Locus of Marking: Whole-language Typology,Ungarinjin,,,Rumsey 1982
+22,25B,Non-zero marking,Zero Marking of A and P Arguments,Ungarinjin,,,Rumsey 1982
+23,26A,Little affixation,Prefixing vs. Suffixing in Inflectional Morphology,Ungarinjin,,,Coate and Oates 1970
+24,27A,Productive full and partial reduplication,Reduplication,Ungarinjin,,,Fabricius 1998
+25,28A,No case marking,Case Syncretism,Ungarinjin,,,Coate and Oates 1970
+26,29A,Not syncretic,Syncretism in Verbal Person/Number Marking,Ungarinjin,,,Coate and Oates 1970
+27,33A,Plural complete reduplication,Coding of Nominal Plurality,Ungarinjin,,,Rumsey 1982
+28,35A,Person-number stem + pronominal plural affix,Plurality in Independent Personal Pronouns,Ungarinjin,,,Coate and Oates 1970
+29,37A,Definite word distinct from demonstrative,Definite Articles,Ungarinjin,,,Rumsey 1982
+30,38A,"No indefinite, but definite article",Indefinite Articles,Ungarinjin,,,Rumsey 1982
+31,39A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,Ungarinjin,,,Rumsey 1982
+32,40A,Inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,Ungarinjin,,,Rumsey 1982
+33,44A,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,Ungarinjin,,,Rumsey 1982
+34,47A,Identical,Intensifiers and Reflexive Pronouns,Ungarinjin,,,Coate and Oates 1970
+35,48A,No adpositions,Person Marking on Adpositions,Ungarinjin,,,Rumsey 1982
+36,49A,8-9 cases,Number of Cases,Ungarinjin,,,Rumsey 1982
+37,50A,Subtractive-quantitatively asymmetrical,Asymmetrical Case-Marking,Ungarinjin,,,Rumsey 1982
+38,51A,Postpositional clitics,Position of Case Affixes,Ungarinjin,,,Coate and Oates 1970
+39,55A,Absent,Numeral Classifiers,Ungarinjin,,,Nichols 1992
+40,57A,Prefixes and suffixes,Position of Pronominal Possessive Affixes,Ungarinjin,,,Coate and Oates 1970
+41,58A,Absent,Obligatory Possessive Inflection,Ungarinjin,,,Rumsey 1982
+42,58B,None reported,Number of Possessive Nouns,Ungarinjin,,,Rumsey 1982
+43,59A,Three to five classes,Possessive Classification,Ungarinjin,,,Rumsey 1982
+44,69A,No tense-aspect inflection,Position of Tense-Aspect Affixes,Ungarinjin,,,Rumsey 1982
+45,74A,Other kinds of markers,Situational Possibility,Ungarinjin,,,Coate and Oates 1970
+46,75A,Other,Epistemic Possibility,Ungarinjin,,,Coate and Oates 1970
+47,76A,No overlap,Overlap between Situational and Epistemic Modal Marking,Ungarinjin,,,Coate and Oates 1970
+48,77A,No grammatical evidentials,Semantic Distinctions of Evidentiality,Ungarinjin,,,Rumsey 1982
+49,78A,No grammatical evidentials,Coding of Evidentiality,Ungarinjin,,,Rumsey 1982
+50,81A,OVS,"Order of Subject, Object and Verb",Ungarinjin,,,Rumsey 1982
+51,82A,SV,Order of Subject and Verb,Ungarinjin,,,Coate and Oates 1970
+52,83A,OV,Order of Object and Verb,Ungarinjin,,,Coate and Oates 1970
+53,84A,OVX,"Order of Object, Oblique, and Verb",Ungarinjin,,,Coate and Oates 1970
+54,85A,Postpositions,Order of Adposition and Noun Phrase,Ungarinjin,,,Coate and Oates 1970
+55,86A,No dominant order,Order of Genitive and Noun,Ungarinjin,,,Rumsey 1982
+56,87A,Noun-Adjective,Order of Adjective and Noun,Ungarinjin,,,Rumsey 1982
+57,88A,Noun-Demonstrative,Order of Demonstrative and Noun,Ungarinjin,,,Coate and Oates 1970
+58,89A,Noun-Numeral,Order of Numeral and Noun,Ungarinjin,,,Rumsey 1982
+59,90A,Noun-Relative clause,Order of Relative Clause and Noun,Ungarinjin,,,Rumsey 1982
+60,90C,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Ungarinjin,,,Rumsey 1982
+61,91A,Adjective-Degree word,Order of Degree Word and Adjective,Ungarinjin,,,Coate and Oates 1970
+62,93A,Not initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Ungarinjin,,,Coate and Oates 1970
+63,94A,Initial subordinator word,Order of Adverbial Subordinator and Clause,Ungarinjin,,,Coate and Oates 1970
+64,95A,OV and Postpositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Ungarinjin,,,
+65,96A,OV and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Ungarinjin,,,
+66,97A,OV and NAdj,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Ungarinjin,,,
+67,98A,Neutral,Alignment of Case Marking of Full Noun Phrases,Ungarinjin,,,Rumsey 1982
+68,99A,Neutral,Alignment of Case Marking of Pronouns,Ungarinjin,,,Rumsey 1982
+69,100A,Split,Alignment of Verbal Person Marking,Ungarinjin,,,Rumsey 1982
+70,101A,Subject affixes on verb,Expression of Pronominal Subjects,Ungarinjin,,,Rumsey 1982
+71,102A,Both the A and P arguments,Verbal Person Marking,Ungarinjin,,,Rumsey 1982
+72,103A,No zero realization,Third Person Zero of Verbal Person Marking,Ungarinjin,,,Rumsey 1982
+73,104A,P precedes A,Order of Person Markers on the Verb,Ungarinjin,,,Rumsey 1982
+74,107A,Absent,Passive Constructions,Ungarinjin,,,Rumsey 1982
+75,110A,Purposive but no sequential,Periphrastic Causative Constructions,Ungarinjin,,,Rumsey 1982
+76,111A,Neither,Nonperiphrastic Causative Constructions,Ungarinjin,,,Rumsey 1982
+77,112A,Negative particle,Negative Morphemes,Ungarinjin,,,Rumsey 1982
+78,113A,Both,Symmetric and Asymmetric Standard Negation,Ungarinjin,,,Coate and Oates 1970
+79,114A,A/NonReal,Subtypes of Asymmetric Standard Negation,Ungarinjin,,,Coate and Oates 1970
+80,118A,Mixed,Predicative Adjectives,Ungarinjin,,,Coate and Oates 1970
+81,119A,Identical,Nominal and Locational Predication,Ungarinjin,,,Coate and Oates 1970
+82,120A,Possible,Zero Copula for Predicate Nominals,Ungarinjin,,,Coate and Oates 1970
+83,122A,Gap,Relativization on Subjects,Ungarinjin,,,Rumsey 1982
+84,123A,Gap,Relativization on Obliques,Ungarinjin,,,Rumsey 1982
+85,125A,Deranked,Purpose Clauses,Ungarinjin,,,Rumsey 1982
+86,126A,Balanced,'When' Clauses,Ungarinjin,,,Coate and Oates 1970
+87,127A,Balanced,Reason Clauses,Ungarinjin,,,Coate and Oates 1970
+88,128A,Balanced,Utterance Complement Clauses,Ungarinjin,,,Rumsey 1982
+89,136A,No M-T pronouns,M-T Pronouns,Ungarinjin,,,Rumsey 1982
+90,136B,No m in first person singular,M in First Person Singular,Ungarinjin,,,Rumsey 1982
+91,137A,No N-M pronouns,N-M Pronouns,Ungarinjin,,,Rumsey 1982
+92,137B,No m in second person singular,M in Second Person Singular,Ungarinjin,,,Rumsey 1982
+93,143A,NegV,Order of Negative Morpheme and Verb,Ungarinjin,,,Rumsey 1982
+94,143E,NegV,Preverbal Negative Morphemes,Ungarinjin,,,Rumsey 1982
+95,143F,None,Postverbal Negative Morphemes,Ungarinjin,,,Rumsey 1982
+96,143G,None,Minor morphological means of signaling negation,Ungarinjin,,,Rumsey 1982
+97,144A,ONegVS,"Position of Negative Word With Respect to Subject, Object, and Verb",Ungarinjin,,,Rumsey 1982
+98,144B,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Ungarinjin,,,Rumsey 1982
+99,144Y,ONegVS,The Position of Negative Morphemes in Object-Initial Languages,Ungarinjin,,,Rumsey 1982

@@ -1,0 +1,158 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-ger,Average,Consonant Inventories,German,,,Moulton 1962;Kohler 1999;Wangler 1972
+2A-ger,Large (7-14),Vowel Quality Inventories,German,,,Wangler 1972;Moulton 1962;Kohler 1999
+3A-ger,Low,Consonant-Vowel Ratio,German,,,Moulton 1962;Wangler 1972;Kohler 1999
+4A-ger,In both plosives and fricatives,Voicing in Plosives and Fricatives,German,,,Moulton 1962;Kohler 1999;Wangler 1972
+5A-ger,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,German,,,Moulton 1962;Wangler 1972;Kohler 1999
+6A-ger,Uvular continuants only,Uvular Consonants,German,,,Moulton 1962;Kohler 1999;Wangler 1972
+7A-ger,No glottalized consonants,Glottalized Consonants,German,,,Moulton 1962;Wangler 1972;Kohler 1999
+8A-ger,"/l/, no obstruent laterals",Lateral Consonants,German,,,Wangler 1972;Kohler 1999;Moulton 1962
+9A-ger,No initial velar nasal,The Velar Nasal,German,,,
+10A-ger,Contrast absent,Vowel Nasalization,German,,,Moulton 1962;Kohler 1999
+11A-ger,High and mid,Front Rounded Vowels,German,,,Kohler 1999;Wangler 1972;Moulton 1962
+12A-ger,Complex,Syllable Structure,German,,,Kohler 1999;Wangler 1972;Moulton 1962
+13A-ger,No tones,Tone,German,,,Wangler 1972;Moulton 1962;Kohler 1999
+14A-ger,No fixed stress,Fixed Stress Locations,German,,,Jessen 1999
+15A-ger,Right-oriented: One of the last three,Weight-Sensitive Stress,German,,,Jessen 1999
+16A-ger,Coda consonant,Weight Factors in Weight-Sensitive Stress Systems,German,,,Jessen 1999
+17A-ger,Trochaic,Rhythm Types,German,,,Jessen 1999
+18A-ger,All present,Absence of Common Consonants,German,,,Moulton 1962;Kohler 1999;Wangler 1972
+19A-ger,None,Presence of Uncommon Consonants,German,,,Moulton 1962;Kohler 1999;Wangler 1972
+20A-ger,Exclusively concatenative,Fusion of Selected Inflectional Formatives,German,,,
+21A-ger,Case + number,Exponence of Selected Inflectional Formatives,German,,,
+21B-ger,monoexponential TAM,Exponence of Tense-Aspect-Mood Inflection,German,,,
+22A-ger,2-3 categories per word,Inflectional Synthesis of the Verb,German,,,
+23A-ger,Dependent marking,Locus of Marking in the Clause,German,,,
+24A-ger,Dependent marking,Locus of Marking in Possessive Noun Phrases,German,,,
+25A-ger,Dependent-marking,Locus of Marking: Whole-language Typology,German,,,
+25B-ger,Non-zero marking,Zero Marking of A and P Arguments,German,,,
+26A-ger,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,German,,,Lederer 1969
+27A-ger,No productive reduplication,Reduplication,German,,,Borgert and Nyhan 1975
+28A-ger,Core and non-core,Case Syncretism,German,,,
+29A-ger,Syncretic,Syncretism in Verbal Person/Number Marking,German,,,
+30A-ger,Three,Number of Genders,German,,,
+31A-ger,Sex-based,Sex-based and Non-sex-based Gender Systems,German,,,
+32A-ger,Semantic and formal,Systems of Gender Assignment,German,,,
+33A-ger,Plural suffix,Coding of Nominal Plurality,German,,,Lederer 1969
+34A-ger,"All nouns, always obligatory",Occurrence of Nominal Plurality,German,,,
+35A-ger,Person-number stem,Plurality in Independent Personal Pronouns,German,,,
+36A-ger,Unique periphrastic associative plural,The Associative Plural,German,,,
+37A-ger,Definite word distinct from demonstrative,Definite Articles,German,,,Lederer 1969
+38A-ger,Indefinite word same as 'one',Indefinite Articles,German,,,Lederer 1969
+39A-ger,No inclusive/exclusive,Inclusive/Exclusive Distinction in Independent Pronouns,German,,,
+40A-ger,No inclusive/exclusive,Inclusive/Exclusive Distinction in Verbal Inflection,German,,,
+41A-ger,No distance contrast,Distance Contrasts in Demonstratives,German,,,
+42A-ger,Identical,Pronominal and Adnominal Demonstratives,German,,,
+43A-ger,Related by gender markers,Third Person Pronouns and Demonstratives,German,,,Curme 1922
+44A-ger,3rd person singular only,Gender Distinctions in Independent Personal Pronouns,German,,,Borgert and Nyhan 1975
+45A-ger,Binary politeness distinction,Politeness Distinctions in Pronouns,German,,,
+46A-ger,Mixed,Indefinite Pronouns,German,,,
+47A-ger,Differentiated,Intensifiers and Reflexive Pronouns,German,,,
+48A-ger,No person marking,Person Marking on Adpositions,German,,,Borgert and Nyhan 1975
+49A-ger,4 cases,Number of Cases,German,,,Duden 1998
+50A-ger,Syncretism in relevant NP-types,Asymmetrical Case-Marking,German,,,Duden 1998
+51A-ger,Case suffixes,Position of Case Affixes,German,,,Lederer 1969
+52A-ger,Identity,Comitatives and Instrumentals,German,,,
+53A-ger,"First, two-th, three-th",Ordinal Numerals,German,,,
+54A-ger,Marked by preceding word,Distributive Numerals,German,,,
+55A-ger,Absent,Numeral Classifiers,German,,,
+57A-ger,No possessive affixes,Position of Pronominal Possessive Affixes,German,,,Lederer 1969
+58A-ger,Absent,Obligatory Possessive Inflection,German,,,
+58B-ger,None reported,Number of Possessive Nouns,German,,,
+59A-ger,No possessive classification,Possessive Classification,German,,,
+62A-ger,Ergative-Possessive,Action Nominal Constructions,German,,,Esau 1973
+64A-ger,Identity,Nominal and Verbal Conjunction,German,,,
+65A-ger,No grammatical marking,Perfective/Imperfective Aspect,German,,,Dahl 1985
+66A-ger,"Present, no remoteness distinctions",The Past Tense,German,,,Dahl 1985
+67A-ger,No inflectional future,The Future Tense,German,,,Dahl 1985
+68A-ger,From possessive,The Perfect,German,,,Dahl 1985
+69A-ger,Tense-aspect suffixes,Position of Tense-Aspect Affixes,German,,,Lederer 1969
+70A-ger,Second singular,The Morphological Imperative,German,,,
+71A-ger,Normal imperative + normal negative,The Prohibitive,German,,,
+72A-ger,Neither type of system,Imperative-Hortative Systems,German,,,
+73A-ger,Inflectional optative absent,The Optative,German,,,
+74A-ger,Verbal constructions,Situational Possibility,German,,,Zifonun et al. 1997
+75A-ger,Verbal constructions,Epistemic Possibility,German,,,Zifonun et al. 1997
+76A-ger,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,German,,,Zifonun et al. 1997
+77A-ger,Indirect only,Semantic Distinctions of Evidentiality,German,,,Palmer 1986
+78A-ger,Modal morpheme,Coding of Evidentiality,German,,,Palmer 1986
+79A-ger,Tense,Suppletion According to Tense and Aspect,German,,,Lide and Magnusson 1970
+79B-ger,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,German,,,
+80A-ger,None,Verbal Number and Suppletion,German,,,Lide and Magnusson 1970
+81A-ger,No dominant order,"Order of Subject, Object and Verb",German,,,Lederer 1969
+81B-ger,SOV or SVO,"Languages with two Dominant Orders of Subject, Object, and Verb",German,,,Lederer 1969
+82A-ger,SV,Order of Subject and Verb,German,,,Lederer 1969
+83A-ger,No dominant order,Order of Object and Verb,German,,,Lederer 1969
+84A-ger,No dominant order,"Order of Object, Oblique, and Verb",German,,,Lederer 1969
+85A-ger,Prepositions,Order of Adposition and Noun Phrase,German,,,Lederer 1969
+86A-ger,Noun-Genitive,Order of Genitive and Noun,German,,,Lederer 1969
+87A-ger,Adjective-Noun,Order of Adjective and Noun,German,,,Lederer 1969
+88A-ger,Demonstrative-Noun,Order of Demonstrative and Noun,German,,,Lederer 1969
+89A-ger,Numeral-Noun,Order of Numeral and Noun,German,,,Lederer 1969
+90A-ger,Noun-Relative clause,Order of Relative Clause and Noun,German,,,Lederer 1969
+90C-ger,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,German,,,Lederer 1969
+91A-ger,Degree word-Adjective,Order of Degree Word and Adjective,German,,,Lederer 1969
+92A-ger,No question particle,Position of Polar Question Particles,German,,,Lederer 1969
+93A-ger,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,German,,,Lederer 1969
+94A-ger,Initial subordinator word,Order of Adverbial Subordinator and Clause,German,,,Lederer 1969
+95A-ger,Other,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,German,,,
+96A-ger,Other,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,German,,,
+97A-ger,Other,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,German,,,
+98A-ger,Nominative - accusative (standard),Alignment of Case Marking of Full Noun Phrases,German,,,
+99A-ger,Nominative - accusative (standard),Alignment of Case Marking of Pronouns,German,,,
+100A-ger,Accusative,Alignment of Verbal Person Marking,German,,,Borgert and Nyhan 1975
+101A-ger,Obligatory pronouns in subject position,Expression of Pronominal Subjects,German,,,Lederer 1969
+102A-ger,Only the A argument,Verbal Person Marking,German,,,Borgert and Nyhan 1975
+103A-ger,No zero realization,Third Person Zero of Verbal Person Marking,German,,,Borgert and Nyhan 1975
+104A-ger,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,German,,,Borgert and Nyhan 1975
+105A-ger,Indirect-object construction,Ditransitive Constructions: The Verb 'Give',German,,,
+106A-ger,Mixed,Reciprocal Constructions,German,,,Wiemer and Nedjalkov 2007
+107A-ger,Present,Passive Constructions,German,,,Borgert and Nyhan 1975
+108A-ger,No antipassive,Antipassive Constructions,German,,,
+108B-ger,no antipassive,Productivity of the Antipassive Construction,German,,,
+109A-ger,No applicative construction,Applicative Constructions,German,,,
+109B-ger,No applicative construction,Other Roles of Applied Objects,German,,,
+110A-ger,Sequential but no purposive,Periphrastic Causative Constructions,German,,,Harbert 1977;Durrell 1992
+111A-ger,Morphological but no compound,Nonperiphrastic Causative Constructions,German,,,Durrell 1992;Harbert 1977
+112A-ger,Negative particle,Negative Morphemes,German,,,Lederer 1969
+113A-ger,Symmetric,Symmetric and Asymmetric Standard Negation,German,,,
+114A-ger,Non-assignable,Subtypes of Asymmetric Standard Negation,German,,,
+115A-ger,No predicate negation,Negative Indefinite Pronouns and Predicate Negation,German,,,
+116A-ger,Interrogative word order,Polar Questions,German,,,Lederer 1969
+122A-ger,Relative pronoun,Relativization on Subjects,German,,,
+123A-ger,Relative pronoun,Relativization on Obliques,German,,,
+124A-ger,Subject is left implicit,'Want' Complement Subjects,German,,,
+125A-ger,Balanced/deranked,Purpose Clauses,German,,,
+126A-ger,Balanced/deranked,'When' Clauses,German,,,
+127A-ger,Balanced,Reason Clauses,German,,,
+129A-ger,Different,Hand and Arm,German,,,Breul 1906
+130A-ger,Different,Finger and Hand,German,,,Breul 1906
+131A-ger,Decimal,Numeral Bases,German,,,
+132A-ger,6,Number of Non-Derived Basic Colour Categories,German,,,
+133A-ger,11,Number of Basic Colour Categories,German,,,
+134A-ger,Green vs. blue,Green and Blue,German,,,
+135A-ger,Red vs. yellow,Red and Yellow,German,,,
+136A-ger,"M-T pronouns, paradigmatic",M-T Pronouns,German,,,
+136B-ger,m in first person singular,M in First Person Singular,German,,,
+137A-ger,No N-M pronouns,N-M Pronouns,German,,,
+137B-ger,No m in second person singular,M in Second Person Singular,German,,,
+138A-ger,Words derived from Min Nan Chinese te,Tea,German,,,
+142A-ger,Affective meanings,Para-Linguistic Usages of Clicks,German,,,
+143A-ger,Type 1 / Type 2,Order of Negative Morpheme and Verb,German,,,Lederer 1969
+143E-ger,NegV,Preverbal Negative Morphemes,German,,,Lederer 1969
+143F-ger,VNeg,Postverbal Negative Morphemes,German,,,Lederer 1969
+143G-ger,None,Minor morphological means of signaling negation,German,,,Lederer 1969
+144A-ger,More than one position,"Position of Negative Word With Respect to Subject, Object, and Verb",German,,,Lederer 1969
+144B-ger,"End, not immed postverbal",Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,German,,,Lederer 1969
+144D-ger,More than one construction,The Position of Negative Morphemes in SVO Languages,German,,,Lederer 1969
+144E-ger,SVONeg/SONegV,Multiple Negative Constructions in SVO Languages,German,,,Lederer 1969
+144H-ger,No NegSVO,NegSVO Order,German,,,Lederer 1969
+144I-ger,No SNegVO,SNegVO Order,German,,,Lederer 1969
+144J-ger,No SVNegO,SVNegO Order,German,,,Lederer 1969
+144K-ger,NoDoubleNeg,SVONeg Order,German,,,Lederer 1969
+144L-ger,More than one construction,The Position of Negative Morphemes in SOV Languages,German,,,Lederer 1969
+144M-ger,SONegV/SVONeg,Multiple Negative Constructions in SOV Languages,German,,,Lederer 1969
+144P-ger,No NegSOV,NegSOV Order,German,,,Lederer 1969
+144Q-ger,No SNegOV,SNegOV Order,German,,,Lederer 1969
+144R-ger,Word&NoDoubleNeg,SONegV Order,German,,,Lederer 1969
+144S-ger,NoSOVNeg,SOVNeg Order,German,,,Lederer 1969

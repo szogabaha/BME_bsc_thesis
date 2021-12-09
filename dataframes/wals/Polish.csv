@@ -1,0 +1,90 @@
+ID,Name,Parameter,Language,Frequency,Confidence,References
+1A-pol,Large,Consonant Inventories,Polish,,,
+2A-pol,Average (5-6),Vowel Quality Inventories,Polish,,,
+3A-pol,Moderately high,Consonant-Vowel Ratio,Polish,,,
+4A-pol,In both plosives and fricatives,Voicing in Plosives and Fricatives,Polish,,,
+5A-pol,None missing in /p t k b d g/,Voicing and Gaps in Plosive Systems,Polish,,,
+6A-pol,None,Uvular Consonants,Polish,,,
+7A-pol,No glottalized consonants,Glottalized Consonants,Polish,,,
+8A-pol,"/l/, no obstruent laterals",Lateral Consonants,Polish,,,
+11A-pol,None,Front Rounded Vowels,Polish,,,
+12A-pol,Complex,Syllable Structure,Polish,,,
+13A-pol,No tones,Tone,Polish,,,
+14A-pol,Penultimate,Fixed Stress Locations,Polish,,,Franks 1985
+15A-pol,Fixed stress (no weight-sensitivity),Weight-Sensitive Stress,Polish,,,Franks 1985
+16A-pol,No weight,Weight Factors in Weight-Sensitive Stress Systems,Polish,,,Franks 1985
+17A-pol,Trochaic,Rhythm Types,Polish,,,Franks 1985
+18A-pol,All present,Absence of Common Consonants,Polish,,,
+19A-pol,None,Presence of Uncommon Consonants,Polish,,,
+26A-pol,Strongly suffixing,Prefixing vs. Suffixing in Inflectional Morphology,Polish,,,Siewierska 1993;Bielec 1998;Brooks 1975;Stone 1980
+33A-pol,Plural suffix,Coding of Nominal Plurality,Polish,,,Stone 1980;Bielec 1998
+36A-pol,Associative same as additive plural,The Associative Plural,Polish,,,Mikhalik 1984
+37A-pol,No definite or indefinite article,Definite Articles,Polish,,,Bielec 1998
+38A-pol,No definite or indefinite article,Indefinite Articles,Polish,,,Bielec 1998
+44A-pol,"3rd person only, but also non-singular",Gender Distinctions in Independent Personal Pronouns,Polish,,,Szober 1957
+45A-pol,Binary politeness distinction,Politeness Distinctions in Pronouns,Polish,,,Mühlhäusler and Harré 1990
+46A-pol,Interrogative-based,Indefinite Pronouns,Polish,,,Haspelmath 1997
+47A-pol,Differentiated,Intensifiers and Reflexive Pronouns,Polish,,,Rothstein 1993
+48A-pol,No person marking,Person Marking on Adpositions,Polish,,,Szober 1957
+49A-pol,6-7 cases,Number of Cases,Polish,,,Bielec 1998
+50A-pol,Syncretism in relevant NP-types,Asymmetrical Case-Marking,Polish,,,Bielec 1998
+51A-pol,Case suffixes,Position of Case Affixes,Polish,,,Stone 1980;Bielec 1998
+52A-pol,Differentiation,Comitatives and Instrumentals,Polish,,,Laskowski 1972
+53A-pol,"First, second, three-th",Ordinal Numerals,Polish,,,Wójtowcz 1972
+54A-pol,Marked by preceding word,Distributive Numerals,Polish,,,Bielec 1998
+63A-pol,'And' different from 'with',Noun Phrase Conjunction,Polish,,,Brooks 1975
+69A-pol,Tense-aspect suffixes,Position of Tense-Aspect Affixes,Polish,,,Bielec 1998
+70A-pol,Second singular and second plural,The Morphological Imperative,Polish,,,Rothstein 1993
+71A-pol,Normal imperative + normal negative,The Prohibitive,Polish,,,Rothstein 1993
+72A-pol,Neither type of system,Imperative-Hortative Systems,Polish,,,
+74A-pol,Verbal constructions,Situational Possibility,Polish,,,Brooks 1975
+75A-pol,Verbal constructions,Epistemic Possibility,Polish,,,Mazur 1983
+76A-pol,Overlap for both possibility and necessity,Overlap between Situational and Epistemic Modal Marking,Polish,,,Mazur 1983
+79A-pol,Tense and aspect,Suppletion According to Tense and Aspect,Polish,,,Mazur 1983
+79B-pol,None (= no suppletive imperatives reported in the reference material),Suppletion in Imperatives and Hortatives,Polish,,,
+80A-pol,None,Verbal Number and Suppletion,Polish,,,Mazur 1983
+81A-pol,SVO,"Order of Subject, Object and Verb",Polish,,,Brooks 1975;Siewierska 1993
+82A-pol,No dominant order,Order of Subject and Verb,Polish,,,Siewierska 1993
+83A-pol,VO,Order of Object and Verb,Polish,,,Brooks 1975;Siewierska 1993
+85A-pol,Prepositions,Order of Adposition and Noun Phrase,Polish,,,Stone 1980;Bielec 1998;Brooks 1975
+86A-pol,Noun-Genitive,Order of Genitive and Noun,Polish,,,Bielec 1998
+87A-pol,Adjective-Noun,Order of Adjective and Noun,Polish,,,Bielec 1998;Brooks 1975
+88A-pol,Demonstrative-Noun,Order of Demonstrative and Noun,Polish,,,
+89A-pol,Numeral-Noun,Order of Numeral and Noun,Polish,,,Brooks 1975
+90A-pol,Noun-Relative clause,Order of Relative Clause and Noun,Polish,,,
+90C-pol,Noun-Relative clause (NRel) dominant,Postnominal relative clauses,Polish,,,
+91A-pol,Degree word-Adjective,Order of Degree Word and Adjective,Polish,,,Bielec 1998
+92A-pol,Initial,Position of Polar Question Particles,Polish,,,Stone 1980;Bielec 1998
+93A-pol,Initial interrogative phrase,Position of Interrogative Phrases in Content Questions,Polish,,,
+94A-pol,Initial subordinator word,Order of Adverbial Subordinator and Clause,Polish,,,Bielec 1998
+95A-pol,VO and Prepositions,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,Polish,,,
+96A-pol,VO and NRel,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,Polish,,,
+97A-pol,VO and AdjN,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,Polish,,,
+100A-pol,Accusative,Alignment of Verbal Person Marking,Polish,,,Szober 1957
+101A-pol,Subject clitics on variable host,Expression of Pronominal Subjects,Polish,,,Stone 1980
+102A-pol,Only the A argument,Verbal Person Marking,Polish,,,Szober 1957
+103A-pol,No zero realization,Third Person Zero of Verbal Person Marking,Polish,,,Szober 1957
+104A-pol,A and P do not or do not both occur on the verb,Order of Person Markers on the Verb,Polish,,,Szober 1957
+106A-pol,Mixed,Reciprocal Constructions,Polish,,,Wiemer 2007
+107A-pol,Present,Passive Constructions,Polish,,,Szober 1957
+112A-pol,Negative particle,Negative Morphemes,Polish,,,Bielec 1998;Stone 1980
+115A-pol,Predicate negation also present,Negative Indefinite Pronouns and Predicate Negation,Polish,,,Haspelmath 1997
+116A-pol,Question particle,Polar Questions,Polish,,,Bielec 1998;Stone 1980
+117A-pol,'Have',Predicative Possession,Polish,,,
+118A-pol,Nonverbal encoding,Predicative Adjectives,Polish,,,Brooks 1975
+119A-pol,Identical,Nominal and Locational Predication,Polish,,,Brooks 1975
+120A-pol,Possible,Zero Copula for Predicate Nominals,Polish,,,Brooks 1975
+129A-pol,Different,Hand and Arm,Polish,,,Bulas and Whitfield 1983
+130A-pol,Different,Finger and Hand,Polish,,,Bulas and Whitfield 1983
+138A-pol,Others,Tea,Polish,,,
+143A-pol,NegV,Order of Negative Morpheme and Verb,Polish,,,Bielec 1998
+143E-pol,NegV,Preverbal Negative Morphemes,Polish,,,Bielec 1998
+143F-pol,None,Postverbal Negative Morphemes,Polish,,,Bielec 1998
+143G-pol,None,Minor morphological means of signaling negation,Polish,,,Bielec 1998
+144A-pol,SNegVO,"Position of Negative Word With Respect to Subject, Object, and Verb",Polish,,,Bielec 1998
+144B-pol,Immed preverbal,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,Polish,,,Bielec 1998
+144D-pol,SNegVO,The Position of Negative Morphemes in SVO Languages,Polish,,,Bielec 1998
+144H-pol,No NegSVO,NegSVO Order,Polish,,,Bielec 1998
+144I-pol,Word&NoDoubleNeg,SNegVO Order,Polish,,,Bielec 1998
+144J-pol,No SVNegO,SVNegO Order,Polish,,,Bielec 1998
+144K-pol,No SVONeg,SVONeg Order,Polish,,,Bielec 1998
