@@ -1,7 +1,7 @@
 # BME_bsc_thesis
 Notebooks and dataset of the BSc thesis
 
-##Description
+## Description
 
 Large pretrained language models have revolutionized the field of natural language processing.
 Google’s BERT is the most prominent language model with a wide range of applications and a
@@ -21,7 +21,7 @@ the World Atlas of Language Structures (WALS) categorize languages according to 
 of linguistic features. The task of the student is to find compare these typological databases with
 mBERT and other multilingual model’s representations.
 
-###Tasks to be performed by the student will include:
+### Tasks to be performed by the student will include:
  Explore linguistic typology databases such as WALS.
  Train morphological probing classifiers on mBERT.
  Apply classification methods for recovering WALS’s categories.
