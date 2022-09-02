@@ -22,8 +22,8 @@ of linguistic features. The task of the student is to find compare these typolog
 mBERT and other multilingual model’s representations.
 
 ### Tasks to be performed by the student will include:
- Explore linguistic typology databases such as WALS.
- Train morphological probing classifiers on mBERT.
- Apply classification methods for recovering WALS’s categories.
- Apply clustering methods.
- Analyze the results.
+- Explore linguistic typology databases such as WALS.
+- Train morphological probing classifiers on mBERT.
+-  Apply classification methods for recovering WALS’s categories.
+- Apply clustering methods.
+- Analyze the results.
