@@ -18,12 +18,12 @@ classify according to some label. If the classifier is accurate, the model conta
 mBERT shares its representation space for 100 languages which gives rise to the question, do
 related languages have similar representations in mBERT? Linguistic typology databases such as
 the World Atlas of Language Structures (WALS) categorize languages according to a large number
-of linguistic features. The task of the student is to find compare these typological databases with
+of linguistic features. My task is to find compare these typological databases with
 mBERT and other multilingual model’s representations.
 
-### Tasks to be performed by the student will include:
+### Performed tasks include:
 - Explore linguistic typology databases such as WALS.
 - Train morphological probing classifiers on mBERT.
--  Apply classification methods for recovering WALS’s categories.
+- Apply classification methods for recovering WALS’s categories.
 - Apply clustering methods.
 - Analyze the results.
